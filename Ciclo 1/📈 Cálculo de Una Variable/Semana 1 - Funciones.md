@@ -19,7 +19,7 @@ Una **función** es un tipo de **relación** donde a cada elemento de entrada se
 
 Es el conjunto de elementos de entrada que la función puede tomar.
 
-Depende de las restricciones impuestas en la expresión algebraica de la función, además del **contexto real** de la función. 
+Depende de las restricciones impuestas en la expresión algebraica de la función, además del **contexto real** de la función.
 
 ### Ejemplos
 $$
