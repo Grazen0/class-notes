@@ -36,11 +36,11 @@ Es el conjunto de elementos de salida que la función puede producir.
 
 ### Ejemplos
 $$
-\begin{alignat*}{2}
+\begin{align*}
 f(x) &= 2x + 1       && \implies \text{Ran }f = (-\infty, +\infty) \\
 g(x) &= \sqrt{x - 3} && \implies \text{Ran }g = [0, +\infty) \\
 h(x) &= e^x          && \implies \text{Ran }h = (0, +\infty) \\
-\end{alignat*}
+\end{align*}
 $$
 
 ## Transformaciones geométricas
