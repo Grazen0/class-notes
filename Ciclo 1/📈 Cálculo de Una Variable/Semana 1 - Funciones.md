@@ -16,7 +16,7 @@ y = x + 3
 Una **función** es un tipo de **relación** donde a cada elemento de entrada se le asigna *uno y solo un* elemento de salida.
 
 ## Dominio
----
+
 Es el conjunto de elementos de entrada que la función puede tomar.
 
 Depende de las restricciones impuestas en la expresión algebraica de la función, además del **contexto real** de la función. 
@@ -31,7 +31,7 @@ h(x) &= \ln(x + 2)   && \implies    \text{Dom }h = (-2, +\infty) \\
 $$
 
 ## Rango
----
+
 Es el conjunto de elementos de salida que la función puede producir.
 
 ### Ejemplos
@@ -44,7 +44,7 @@ h(x) &= e^x          && \implies \text{Ran }h = (0, +\infty) \\
 $$
 
 ## Transformaciones geométricas
----
+
 Una función se puede trasladar y escalar mediante ciertas transformaciones.
 
 - Desplazamiento horizontal: $f(x - h)$
@@ -69,7 +69,7 @@ $$
 La función tiene como eje de simetría al **eje X**.
 
 ## Operaciones con funciones
----
+
 Las funciones se pueden operar y componer, y esto produce efectos en sus dominios y rangos.
 
 $$
@@ -81,7 +81,7 @@ $$
 \end{alignat*}
 $$
 ## Modelado de situaciones reales
----
+
 - El **contexto real** afecta al dominio de la función.
 	- E.j: Si $r$ e s el radio de un disco, entonces $r \gt 0$.
 - Se tiene que ser **específico** al describir lo que representan las variables.

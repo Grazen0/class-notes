@@ -1,12 +1,10 @@
 ## ¿Qué es computación?
----
 
 La Ciencia de la Computación es la ciencia que resuelve problemas a través del uso de la computadora, tomando información y produciendo un resultado.
 
 En el nivel más bajo, las computadoras solo entienden 0s y 1s.
 
 ## Representación de números
----
 
 Los números usualmente se representan en el **sistema decimal** o **base 10**, donde cada dígito representa una potencia de 10. Sin embargo, las computadoras trabajan en **sistema binario**, o **base 2**.
 
@@ -27,7 +25,6 @@ Los números usualmente se representan en el **sistema decimal** o **base 10**, 
 |       4       |       0       |       1       |  5  |
 
 ## Representación de caracteres
----
 
 Los caracteres de texto son codificados como números utilizando la [tabla ASCII](https://theasciicode.com.ar/extended-ascii-code/).
 
