@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f017dafffa2ef67f",
+        "id": "6e9577e41a73bbf7",
         "type": "tabs",
         "children": [
           {
-            "id": "45540dbb98592d33",
+            "id": "f3ab08f6fdec4454",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciclo 1/🍎 Matemáticas Discretas I/Semana 1.md",
+                "file": "Notas/Ciclo 1/🍎 Matemáticas Discretas I/Semana 1 - Conjuntos numéricos.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -85,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciclo 1/🍎 Matemáticas Discretas I/Semana 1.md",
+                "file": "Notas/Ciclo 1/🍎 Matemáticas Discretas I/Semana 1 - Conjuntos numéricos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciclo 1/🍎 Matemáticas Discretas I/Semana 1.md",
+                "file": "Notas/Ciclo 1/🍎 Matemáticas Discretas I/Semana 1 - Conjuntos numéricos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo 1/🍎 Matemáticas Discretas I/Semana 1.md"
+                "file": "Notas/Ciclo 1/🍎 Matemáticas Discretas I/Semana 1 - Conjuntos numéricos.md"
               }
             }
           },
@@ -138,11 +140,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 216.5
+    "width": 216.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,38 +154,43 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "45540dbb98592d33",
+  "active": "f3ab08f6fdec4454",
   "lastOpenFiles": [
-    "Ciclo 1/🍎 Matemáticas Discretas I/Semana 1.md",
-    "Ciclo 1/📈 Cálculo de Una Variable/Semana 1 - Funciones.md",
-    "Notas diarias/Wed, April 4th 2024.md",
-    "img/ods.jpg",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Semana 1 - Introducción.md",
-    "Notas diarias",
+    "horario.pdf",
+    "Notas/Ciclo 1/🍎 Matemáticas Discretas I/Semana 1 - Conjuntos numéricos.md",
+    "Notas",
+    "Excalidraw/calculo",
+    "Excalidraw/discretas",
+    "Excalidraw/discretas/recta_numerica.md",
+    "Notas/Ciclo 1/📈 Cálculo de Una Variable/Semana 1 - Funciones.md",
+    "Excalidraw/discretas/conjuntos_numericos.md",
+    "Excalidraw/Drawing 2024-04-03 11.09.58.excalidraw.png",
+    "Excalidraw/Drawing 2024-04-03 11.13.23.excalidraw.md",
+    "Excalidraw",
+    "Notas/Apuntes diarios/Wed, April 4th 2024.md",
+    "Recursos/ods.jpg",
+    "Notas/Ciclo 1/🎯 Proyectos Interdisciplinarios I/Semana 1 - Introducción.md",
+    "Notas/Apuntes diarios",
     "Notas diarias/Tue, April 4th 2024.md",
-    "Notas diarias",
+    "Notas/Apuntes diarios",
     "Notas diarias/Tuesday, April 4th 2024.md",
     "Notas diarias/02/04/2024.md",
     "Notas diarias/02/04",
     "Notas diarias/02",
-    "Notas diarias",
+    "Notas/Apuntes diarios",
     "Tuesday, April 4th 2024.md",
-    "Ciclo 1/💻 Programación I/Semana 1 - Introducción.md",
-    "Ciclo 1/✍ Laboratorio de Comunicación I/Semana 1 - La Comunicación.md",
-    "horario.pdf",
-    "img/ascii_table.png",
+    "Notas/Ciclo 1/💻 Programación I/Semana 1 - Introducción.md",
+    "Notas/Ciclo 1/✍ Laboratorio de Comunicación I/Semana 1 - La Comunicación.md",
+    "Recursos/ascii_table.png",
     "Pasted image 20240402194435.png",
     "Untitled.canvas",
     "Ciclo 1/Proyectos Interdisciplinarios I/Semana 1.md",
     "Ciclo 1/Cálculo de Una Variable/Untitled.canvas",
     "UTEC.md",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I",
-    "Ciclo 1/✍ Laboratorio de Comunicación I",
-    "Ciclo 1/🍎 Matemáticas Discretas I",
-    "Ciclo 1/📈 Cálculo de Una Variable",
     "Untitled.md"
   ]
 }

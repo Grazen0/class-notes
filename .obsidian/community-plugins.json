@@ -2,5 +2,7 @@
   "obsidian-git",
   "code-emitter",
   "obsidian-functionplot",
-  "obsidian-charts"
+  "obsidian-charts",
+  "obsidian-excalidraw-plugin",
+  "obsidian-style-settings"
 ]
