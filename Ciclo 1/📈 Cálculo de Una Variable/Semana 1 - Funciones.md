@@ -34,6 +34,7 @@ $$
 
 Es el conjunto de elementos de salida que la función puede producir.
 
+
 ### Ejemplos
 $$
 \begin{align*}
