@@ -10,7 +10,7 @@ En el nivel más bajo, las computadoras solo entienden 0s y 1s.
 
 Los números usualmente se representan en el **sistema decimal** o **base 10**, donde cada dígito representa una potencia de 10. Sin embargo, las computadoras trabajan en **sistema binario**, o **base 2**.
 
-#### Ejemplo: "123" en base 10
+### Ejemplo: "123" en base 10
 
 |    $10^2$     |     $10^1$     |     $10^0$     |     |
 | :-----------: | :------------: | :------------: | :-: |
@@ -18,7 +18,7 @@ Los números usualmente se representan en el **sistema decimal** o **base 10**, 
 | $10^2\cdot 1$ | $10^1 \cdot 2$ | $10^0 \cdot 3$ |     |
 |      100      |       20       |       3        | 123 |
 
-#### Ejemplo: "5" en base 2
+### Ejemplo: "5" en base 2
 
 |     $2^2$     |     $2^1$     |     $2^0$     |     |
 | :-----------: | :-----------: | :-----------: | :-: |
@@ -33,4 +33,4 @@ Los caracteres de texto son codificados como números utilizando la [tabla ASCII
 
 Por ejemplo, "hola" se representa como "104 111 108 97"
 
-![[Pasted image 20240402194435.png]]
+![[ascii_table.png]]
