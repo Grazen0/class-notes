@@ -8,20 +8,41 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f6bfa1b0d340a7b8",
+            "id": "8c16d7195c62ff39",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Kanban.md"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "34dcd90303ee7bbb",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Ciclo 1/🎯 Proyectos Interdisciplinarios I/Semana 1 - Introducción.md",
+                "file": "Notas/Ciclo 1/🎯 Proyectos Interdisciplinarios I/Semana 1 (Lab) - Introducción.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true
             }
+          },
+          {
+            "id": "b16fbd05087084dc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Ciclo 1/🎯 Proyectos Interdisciplinarios I/Semana 1 - Introducción.md",
+                "file": "Notas/Ciclo 1/🎯 Proyectos Interdisciplinarios I/Semana 1 (Lab) - Introducción.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Ciclo 1/🎯 Proyectos Interdisciplinarios I/Semana 1 - Introducción.md",
+                "file": "Notas/Ciclo 1/🎯 Proyectos Interdisciplinarios I/Semana 1 (Lab) - Introducción.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Ciclo 1/🎯 Proyectos Interdisciplinarios I/Semana 1 - Introducción.md"
+                "file": "Notas/Ciclo 1/🎯 Proyectos Interdisciplinarios I/Semana 1 (Lab) - Introducción.md"
               }
             }
           },
@@ -140,7 +161,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -158,19 +179,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f6bfa1b0d340a7b8",
+  "active": "34dcd90303ee7bbb",
   "lastOpenFiles": [
-    "Notas/Ciclo 1/🍎 Matemáticas Discretas I/Semana 1 - Conjuntos numéricos.md",
-    "Notas/Ciclo 1/🎯 Proyectos Interdisciplinarios I/Semana 1 - Introducción.md",
+    "Notas/Apuntes diarios/Wed, April 4th 2024.md",
+    "Notas/Ciclo 1/🎯 Proyectos Interdisciplinarios I/Semana 1 (Lab) - Introducción.md",
+    "Kanban.md",
+    "Notas/Kanban/Sapiens - Cap 2.md",
     "Notas/Ciclo 1/🍎 Matemáticas Discretas I/Recursos/Conjuntos numéricos.excalidraw.md",
-    "Notas/Ciclo 1/🍎 Matemáticas Discretas I/Recursos/Recta numérica.excalidraw.md",
+    "Notas/Ciclo 1/🍎 Matemáticas Discretas I/Semana 1 - Conjuntos numéricos.md",
+    "Horario.pdf",
+    "Plantilla.excalidraw.md",
+    "Notas/Kanban",
+    "Untitled.canvas",
+    "Untitled drawing.excalidraw.md",
     "Notas/Ciclo 1/🎯 Proyectos Interdisciplinarios I/Recursos/ods.jpg",
+    "Notas/Ciclo 1/✍ Laboratorio de Comunicación I/Semana 1 - La Comunicación.md",
+    "Notas/Ciclo 1/💻 Programación I/Semana 1 - Introducción.md",
+    "Notas/Ciclo 1/🍎 Matemáticas Discretas I/Recursos/Recta numérica.excalidraw.md",
     "Notas/Ciclo 1/🍎 Matemáticas Discretas I/Recursos/Conjuntos Numéricos.excalidraw.md",
     "Notas/Ciclo 1/🍎 Matemáticas Discretas I/Recursos/Recta Numérica.excalidraw.md",
     "Notas/Ciclo 1/📈 Cálculo de Una Variable/Semana 1 - Funciones.md",
-    "Notas/Ciclo 1/✍ Laboratorio de Comunicación I/Semana 1 - La Comunicación.md",
-    "Horario.pdf",
-    "Plantilla.excalidraw.md",
     "Pasted Image 20240403153216_198.jpg",
     "math.md",
     "Semana 1 - Conjuntos numéricos.excalidraw.md",
@@ -186,21 +214,14 @@
     "Notas/Ciclo 1/🍎 Matemáticas Discretas I/Recursos",
     "Notas/Ciclo 1/✍ Laboratorio de Comunicación I/Recursos",
     "Notas/Ciclo 1/Recursos/programacion",
-    "Notas/Ciclo 1/Recursos/pi",
     "preamble.sty.md",
     "Excalidraw/Drawing 2024-04-03 11.09.58.excalidraw.png",
     "Excalidraw/Drawing 2024-04-03 11.13.23.excalidraw.md",
-    "Notas/Apuntes diarios/Wed, April 4th 2024.md",
     "Notas diarias/Tue, April 4th 2024.md",
     "Notas diarias/Tuesday, April 4th 2024.md",
     "Notas diarias/02/04/2024.md",
-    "Tuesday, April 4th 2024.md",
-    "Notas/Ciclo 1/💻 Programación I/Semana 1 - Introducción.md",
     "Notas/Ciclo 1/💻 Programación I/Recursos/ascii_table.png",
     "Pasted image 20240402194435.png",
-    "Untitled.canvas",
-    "Ciclo 1/Proyectos Interdisciplinarios I/Semana 1.md",
-    "Ciclo 1/Cálculo de Una Variable/Untitled.canvas",
-    "UTEC.md"
+    "Ciclo 1/Cálculo de Una Variable/Untitled.canvas"
   ]
 }

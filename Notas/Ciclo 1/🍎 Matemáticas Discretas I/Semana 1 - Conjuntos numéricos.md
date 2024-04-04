@@ -32,7 +32,7 @@ $$
 
 ```ad-info
 
-En la UTEC se considera que $0 \notin \N$. Es decir, $\N = \Zp$
+En la UTEC se considera que $0 \notin \N$. Es decir, $\N = \Zp$. (😢)
 
 ```
 
