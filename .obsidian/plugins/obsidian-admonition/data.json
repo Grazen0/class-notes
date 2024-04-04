@@ -1,0 +1,77 @@
+{
+  "userAdmonitions": {
+    "theorem": {
+      "type": "theorem",
+      "color": "138, 92, 245",
+      "icon": {
+        "name": "book",
+        "type": "font-awesome"
+      },
+      "command": true,
+      "title": "Teorema.",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "definition": {
+      "type": "definition",
+      "color": "245, 204, 92",
+      "icon": {
+        "name": "pencil-alt",
+        "type": "font-awesome"
+      },
+      "command": true,
+      "title": "Definición.",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "proof": {
+      "type": "proof",
+      "color": "168, 254, 255",
+      "icon": {
+        "name": "lightbulb",
+        "type": "font-awesome"
+      },
+      "command": true,
+      "title": "Demostración",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "proposition": {
+      "type": "proposition",
+      "color": "92, 245, 95",
+      "icon": {
+        "name": "file-invoice",
+        "type": "font-awesome"
+      },
+      "command": true,
+      "title": "Proposición.",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    }
+  },
+  "syntaxHighlight": false,
+  "copyButton": false,
+  "version": "10.2.0",
+  "autoCollapse": false,
+  "defaultCollapseType": "open",
+  "injectColor": true,
+  "parseTitles": true,
+  "dropShadow": true,
+  "hideEmpty": false,
+  "open": {
+    "admonitions": true,
+    "icons": true,
+    "other": true,
+    "advanced": false
+  },
+  "icons": [],
+  "useFontAwesome": true,
+  "rpgDownloadedOnce": false,
+  "msDocConverted": false,
+  "useSnippet": false,
+  "snippetPath": "custom-admonitions.67b821"
+}

@@ -11,3 +11,9 @@ h2 {
 mjx-math {
   font-size: 130% !important;
 }
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

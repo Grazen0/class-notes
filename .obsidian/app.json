@@ -6,5 +6,6 @@
   "strictLineBreaks": false,
   "rightToLeft": false,
   "vimMode": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": ""
 }

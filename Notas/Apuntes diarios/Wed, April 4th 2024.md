@@ -7,6 +7,7 @@ Prof. Andrés De Leo
 - Examen de control de lectura para SEMANA 6.
 
 ![[ods.jpg]]
+
 ### Proyecto final
 
 **Diagnóstico** de un problema relacionado a las ODS. Identificar causas y consecuencias.
@@ -36,6 +37,7 @@ Aunque no hay ODS que trate enteramente sobre el patrimonio cultural, existen OD
 ##### ODS 11: Ciudades y comunidades sostenibles
 
 Esta ODS apoya a lugares históricos como ciudadelas y huacas:
+
 - Promoviendo el acceso de sus habitantes a servicios y recursos necesarios
 - Proporcionando transporte
 - Promoviendo la urbanización inclusiva

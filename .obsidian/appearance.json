@@ -1,9 +1,11 @@
 {
   "accentColor": "",
   "baseFontSizeAction": true,
-  "baseFontSize": 16,
+  "baseFontSize": 17,
   "enabledCssSnippets": [
     "style"
   ],
-  "nativeMenus": false
+  "nativeMenus": false,
+  "textFontFamily": "",
+  "cssTheme": ""
 }

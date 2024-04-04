@@ -22,11 +22,12 @@ Es el conjunto de elementos de entrada que la función puede tomar.
 Depende de las restricciones impuestas en la expresión algebraica de la función, además del **contexto real** de la función.
 
 ### Ejemplos
+
 $$
 \begin{aligned}
-f(x) &= 2x + 1       && \implies    \text{Dom }f = (-\infty, +\infty) \\
-g(x) &= \sqrt{x - 3} && \implies    \text{Dom }g = [3, +\infty) \\
-h(x) &= \ln(x + 2)   && \implies    \text{Dom }h = (-2, +\infty) \\
+f(x) &= 2x + 1       && \implies    \dom f = (-\infty, +\infty) \\
+g(x) &= \sqrt{x - 3} && \implies    \dom g = [3, +\infty) \\
+h(x) &= \ln(x + 2)   && \implies    \dom h = (-2, +\infty)
 \end{aligned}
 $$
 
@@ -34,13 +35,13 @@ $$
 
 Es el conjunto de elementos de salida que la función puede producir.
 
-
 ### Ejemplos
+
 $$
 \begin{align*}
-f(x) &= 2x + 1       && \implies \text{Ran }f = (-\infty, +\infty) \\
-g(x) &= \sqrt{x - 3} && \implies \text{Ran }g = [0, +\infty) \\
-h(x) &= e^x          && \implies \text{Ran }h = (0, +\infty) \\
+f(x) &= 2x + 1       && \implies \ranf = (-\infty, +\infty) \\
+g(x) &= \sqrt{x - 3} && \implies \ran g = [0, +\infty) \\
+h(x) &= e^x          && \implies \ran h = (0, +\infty) \\
 \end{align*}
 $$
 
@@ -75,15 +76,15 @@ Las funciones se pueden operar y componer, y esto produce efectos en sus dominio
 
 $$
 \begin{alignat*}{2}
-&\text{Dom }(f \pm g)   &&= \text{Dom }f \cap \text{Dom }g \\
-&\text{Dom }(f \cdot g) &&= \text{Dom }f \cap \text{Dom }g \\
-&\text{Dom }\left(\frac{f}{g}\right) &&= \left\{x \in \text{Dom }f \cap \text{Dom }g : g(x) \neq 0 \right\} \\
-&\text{Dom }(f \circ g) &&= \left\{ x \in \text{Dom }g : g(x) \in \text{Dom }f \right\} \\
+&\dom\left(f \pm g\right)   &&= \dom f \cap \dom g \\
+&\dom\left(f \cdot g\right) &&= \dom f \cap \dom g \\
+&\dom\left(\frac{f}{g}\right) &&= \left\{x \in \dom f \cap \dom g : g(x) \neq 0 \right\} \\
+&\dom\left(f \circ g\right) &&= \left\{ x \in \dom g : g(x) \in \dom f \right\} \\
 \end{alignat*}
 $$
+
 ## Modelado de situaciones reales
 
 - El **contexto real** afecta al dominio de la función.
 	- E.j: Si $r$ e s el radio de un disco, entonces $r \gt 0$.
 - Se tiene que ser **específico** al describir lo que representan las variables.
-

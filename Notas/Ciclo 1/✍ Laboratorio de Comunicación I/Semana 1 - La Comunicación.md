@@ -1,4 +1,3 @@
-
 La comunicación es una relación que ocurre entre un **emisor** y un **receptor**, por medio de un **código** y mediante un **canal** que lo transporta.
 
 - "Retórica", el objetivo es **persuadir**. *(Aristóteles)*
