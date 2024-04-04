@@ -9,6 +9,7 @@
 - Grupos de 4-5 integrantes.
 - Elegir una zona de escala pequeña: urbanización, colegio, hospital, etc.
 - **Sólo diagnosticar** though
+
 ## La ONU y las ODS
 
 La Organización de las Naciones Unidas (ONU) presenta como parte de la "Agenda 2030" a los **Objetivos para el Desarrollo Sostenible (ODS)**: 17 objetivos a grandes rasgos que abordan temáticas como la contaminación, la energía y más.
@@ -21,7 +22,7 @@ Efectuar las ODS requiere de inmensa colaboración entre todos los países invol
 
 Aunque no hay ODS que trate enteramente sobre el patrimonio cultural, existen ODS que sí lo involucran parcialmente.
 
-##### ODS 16: Paz, justicia e instituciones sólidas
+#### ODS 16: Paz, justicia e instituciones sólidas
 
 - Combate el tráfico ilícito de objetos culturales
 - Fomenta diálogo intercultural, paz y no-violencia
@@ -30,7 +31,7 @@ Aunque no hay ODS que trate enteramente sobre el patrimonio cultural, existen OD
 - Promueve la protección del patrimonio
 - Fortaleza los sistemas de gobernanza para la cultura
 
-##### ODS 11: Ciudades y comunidades sostenibles
+#### ODS 11: Ciudades y comunidades sostenibles
 
 Esta ODS apoya a lugares históricos como ciudadelas y huacas:
 

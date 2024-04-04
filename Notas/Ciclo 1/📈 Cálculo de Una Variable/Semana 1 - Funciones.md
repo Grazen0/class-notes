@@ -39,7 +39,7 @@ Es el conjunto de elementos de salida que la función puede producir.
 
 $$
 \begin{align*}
-f(x) &= 2x + 1       && \implies \ranf = (-\infty, +\infty) \\
+f(x) &= 2x + 1       && \implies \ran f = (-\infty, +\infty) \\
 g(x) &= \sqrt{x - 3} && \implies \ran g = [0, +\infty) \\
 h(x) &= e^x          && \implies \ran h = (0, +\infty) \\
 \end{align*}

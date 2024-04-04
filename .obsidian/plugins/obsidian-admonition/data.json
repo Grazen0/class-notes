@@ -51,6 +51,18 @@
       "injectColor": true,
       "noTitle": false,
       "copy": false
+    },
+    "exercise": {
+      "type": "exercise",
+      "color": "245, 166, 92",
+      "icon": {
+        "name": "pen-alt",
+        "type": "font-awesome"
+      },
+      "command": true,
+      "title": "Ejercicio.",
+      "injectColor": true,
+      "noTitle": false
     }
   },
   "syntaxHighlight": false,

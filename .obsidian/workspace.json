@@ -20,13 +20,13 @@
             }
           },
           {
-            "id": "34dcd90303ee7bbb",
+            "id": "7164b30049b151a6",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Ciclo 1/🎯 Proyectos Interdisciplinarios I/Semana 1 (Lab) - Introducción.md",
+                "file": "Notas/Ciclo 1/💻 Programación I/Semana 1 (Lab) - Algoritmos.md",
                 "mode": "source",
                 "source": false
               },
@@ -34,11 +34,17 @@
             }
           },
           {
-            "id": "b16fbd05087084dc",
+            "id": "48e90414c3f010ac",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notas/Apuntes diarios/Thu, April 4th 2024.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
             }
           }
         ],
@@ -108,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Ciclo 1/🎯 Proyectos Interdisciplinarios I/Semana 1 (Lab) - Introducción.md",
+                "file": "Notas/Ciclo 1/💻 Programación I/Semana 1 (Lab) - Algoritmos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Ciclo 1/🎯 Proyectos Interdisciplinarios I/Semana 1 (Lab) - Introducción.md",
+                "file": "Notas/Ciclo 1/💻 Programación I/Semana 1 (Lab) - Algoritmos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Ciclo 1/🎯 Proyectos Interdisciplinarios I/Semana 1 (Lab) - Introducción.md"
+                "file": "Notas/Ciclo 1/💻 Programación I/Semana 1 (Lab) - Algoritmos.md"
               }
             }
           },
@@ -179,47 +185,50 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "34dcd90303ee7bbb",
+  "active": "7164b30049b151a6",
   "lastOpenFiles": [
-    "Notas/Apuntes diarios/Wed, April 4th 2024.md",
-    "Notas/Ciclo 1/🎯 Proyectos Interdisciplinarios I/Semana 1 (Lab) - Introducción.md",
+    "Notas/Apuntes diarios/Thu, April 4th 2024.md",
+    "Notas/Ciclo 1/💻 Programación I/Semana 1 (Lab) - Algoritmos.md",
     "Kanban.md",
+    "Notas/Ciclo 1/💻 Programación I/Recursos/Esquema Algoritmo.excalidraw.md",
+    "Ejemplo Diagrama de Flujo.excalidraw.md",
+    "Notas/Ciclo 1/💻 Programación I/Semana 1 (Teo) - Introducción.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Notas/Ciclo 1/💻 Programación I/Recursos/lightbulb.png",
+    "Pasted Image 20240404133043_961.png",
+    "Notas/Kanban/De animales a dioses - Cáp. 2.md",
+    "Horario.pdf",
+    "Notas diarias",
+    "Notas/Ciclo 1/💾 Introducción a Ciencias de la Computación/Semana 1 - Introducción.md",
+    "Notas/Ciclo 1/🍎 Matemáticas Discretas I/Semana 1 - Conjuntos numéricos.md",
+    "Notas/Ciclo 1/📈 Cálculo de Una Variable/Semana 1 - Funciones.md",
+    "README.md",
+    "Notas/Ciclo 1/🎯 Proyectos Interdisciplinarios I/Semana 1 (Lab) - Introducción.md",
+    "Notas/Apuntes diarios/Wed, April 4th 2024.md",
     "Notas/Kanban/Sapiens - Cap 2.md",
     "Notas/Ciclo 1/🍎 Matemáticas Discretas I/Recursos/Conjuntos numéricos.excalidraw.md",
-    "Notas/Ciclo 1/🍎 Matemáticas Discretas I/Semana 1 - Conjuntos numéricos.md",
-    "Horario.pdf",
     "Plantilla.excalidraw.md",
     "Notas/Kanban",
-    "Untitled.canvas",
     "Untitled drawing.excalidraw.md",
     "Notas/Ciclo 1/🎯 Proyectos Interdisciplinarios I/Recursos/ods.jpg",
     "Notas/Ciclo 1/✍ Laboratorio de Comunicación I/Semana 1 - La Comunicación.md",
-    "Notas/Ciclo 1/💻 Programación I/Semana 1 - Introducción.md",
     "Notas/Ciclo 1/🍎 Matemáticas Discretas I/Recursos/Recta numérica.excalidraw.md",
     "Notas/Ciclo 1/🍎 Matemáticas Discretas I/Recursos/Conjuntos Numéricos.excalidraw.md",
     "Notas/Ciclo 1/🍎 Matemáticas Discretas I/Recursos/Recta Numérica.excalidraw.md",
-    "Notas/Ciclo 1/📈 Cálculo de Una Variable/Semana 1 - Funciones.md",
     "Pasted Image 20240403153216_198.jpg",
     "math.md",
     "Semana 1 - Conjuntos numéricos.excalidraw.md",
     "Excalidraw/Drawing 2024-04-03 15.02.16.excalidraw.md",
     "Excalidraw/Drawing 2024-04-03 15.02.13.excalidraw.md",
     "Excalidraw",
-    "Untitled.md",
-    "Excalidraw/Drawing 2024-04-03 14.45.29.excalidraw.md",
     "Notas/Ciclo 1/📈 Cálculo de Una Variable/Recursos",
     "Notas/Ciclo 1/💾 Introducción a Ciencias de la Computación/Recursos",
     "Notas/Ciclo 1/💻 Programación I/Recursos",
     "Notas/Ciclo 1/🎯 Proyectos Interdisciplinarios I/Recursos",
     "Notas/Ciclo 1/🍎 Matemáticas Discretas I/Recursos",
     "Notas/Ciclo 1/✍ Laboratorio de Comunicación I/Recursos",
-    "Notas/Ciclo 1/Recursos/programacion",
-    "preamble.sty.md",
     "Excalidraw/Drawing 2024-04-03 11.09.58.excalidraw.png",
-    "Excalidraw/Drawing 2024-04-03 11.13.23.excalidraw.md",
-    "Notas diarias/Tue, April 4th 2024.md",
-    "Notas diarias/Tuesday, April 4th 2024.md",
-    "Notas diarias/02/04/2024.md",
     "Notas/Ciclo 1/💻 Programación I/Recursos/ascii_table.png",
     "Pasted image 20240402194435.png",
     "Ciclo 1/Cálculo de Una Variable/Untitled.canvas"

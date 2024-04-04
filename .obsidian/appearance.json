@@ -3,9 +3,13 @@
   "baseFontSizeAction": true,
   "baseFontSize": 17,
   "enabledCssSnippets": [
-    "style"
+    "style",
+    "mathjax",
+    "images",
+    "headings"
   ],
   "nativeMenus": false,
   "textFontFamily": "",
-  "cssTheme": ""
+  "cssTheme": "Typewriter",
+  "theme": "system"
 }
