@@ -20,15 +20,17 @@
             }
           },
           {
-            "id": "d7a87521b17d1b15",
+            "id": "47c85f98d4b392b1",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Ciclo 1/🍎 Matemáticas Discretas I/Semana 1 - Conjuntos numéricos.md",
+                "file": "Notas/Kanban/S2. Vasen. 2016.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -98,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Ciclo 1/🍎 Matemáticas Discretas I/Semana 1 - Conjuntos numéricos.md",
+                "file": "Notas/Kanban/S2. Vasen. 2016.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Ciclo 1/🍎 Matemáticas Discretas I/Semana 1 - Conjuntos numéricos.md",
+                "file": "Notas/Kanban/S2. Vasen. 2016.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Ciclo 1/🍎 Matemáticas Discretas I/Semana 1 - Conjuntos numéricos.md"
+                "file": "Notas/Kanban/S2. Vasen. 2016.md"
               }
             }
           },
@@ -149,13 +151,21 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "6e1e0fe470f30757",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 216.5,
+    "width": 272.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -169,24 +179,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d7a87521b17d1b15",
+  "active": "47c85f98d4b392b1",
   "lastOpenFiles": [
-    "Notas/Kanban/S2. Vasen. 2016.md",
     "Kanban.md",
+    "Notas/Kanban/S2. Vasen. 2016.md",
+    "Notas/Apuntes diarios/Thu, April 4th 2024.md",
+    "Notas/Ciclo 1/🍎 Matemáticas Discretas I/Semana 1 - Conjuntos numéricos.md",
     "Ejemplo Diagrama de Flujo.md",
     "Notas/Ciclo 1/💻 Programación I/Semana 1 (Teo) - Introducción.md",
     "Notas/Ciclo 1/💻 Programación I/Recursos/lightbulb.png",
     "Notas/Ciclo 1/📈 Cálculo de Una Variable/Semana 1 - Funciones.md",
     "Notas/Ciclo 1/💾 Introducción a Ciencias de la Computación/Semana 1 - Introducción.md",
     "Notas/Ciclo 1/💻 Programación I/Semana 1 (Lab) - Algoritmos.md",
-    "Notas/Ciclo 1/🍎 Matemáticas Discretas I/Semana 1 - Conjuntos numéricos.md",
     "Notas/Kanban/De animales a dioses - Cáp. 2.md",
     "README.md",
     "Horario Ciclo 1.pdf - Shortcut.lnk",
     "Notas/Ciclo 1/💻 Programación I/Recursos/Esquema Algoritmo.excalidraw.md",
     "Notas/Ciclo 1/💻 Programación I/Recursos/ascii_table.png",
     "Notas/Ciclo 1/💻 Programación I/Recursos/Simbolos Diagrama de Flujo.excalidraw.md",
-    "Notas/Apuntes diarios/Thu, April 4th 2024.md",
     "Plantilla.excalidraw.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
