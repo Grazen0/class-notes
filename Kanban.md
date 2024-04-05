@@ -16,12 +16,12 @@ kanban-plugin: basic
 
 ## Revisión requerida
 
-- [ ] [[De animales a dioses - Cáp. 2|De animales a dioses: Breve historia de la humanidad]]<br><br>Yuval Noah Harari<br><br>*Sólo el cáp. 2*<br><br>#comu #teo
 
 
 ## Completado
 
 **Complete**
+- [x] [[De animales a dioses - Cáp. 2|De animales a dioses: Breve historia de la humanidad]]<br><br>Yuval Noah Harari<br><br>*Sólo el cáp. 2*<br><br>#comu #teo
 
 
 ***

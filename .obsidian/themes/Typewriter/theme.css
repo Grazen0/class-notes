@@ -197,11 +197,15 @@ body {
   --background-primary: hsl(var(--base-h), var(--base-s), var(--base-d));
   --background-primary-alt: #202020;
   --background-secondary: hsl(
-    calc(var(--base-h) + 30),
-    calc(var(--base-s) + 11.5%),
-    calc(var(--base-l) - 75.6%)
+    var(--base-h),
+    var(--base-s),
+    calc(var(--base-d) - 4%)
   );
-  --background-secondary-alt: #000000;
+  --background-secondary-alt: hsl(
+    var(--base-h),
+    var(--base-s),
+    calc(var(--base-d) - 2%)
+  );
   --background-modifier-border: #333;
   --background-modifier-border-hover: rgb(94, 94, 94);
   --background-modifier-border-focus: hsl(
@@ -418,12 +422,14 @@ body .modal-bg {
 }
 
 /* make workspace frameless */
+/*
 .workspace-tab-header-container,
 .workspace-ribbon.mod-left:before,
 .mod-macos.is-hidden-frameless:not(.is-popout-window)
   .sidebar-toggle-button.mod-right {
   background-color: var(--background-primary);
 }
+*/
 
 /* remove note-to-note link underline */
 :root body {

@@ -8,7 +8,7 @@ Es una tecnología de **machine learning** que permite a las computadoras entend
 
 ## Proyecto final
 
-**Parte 1 (P1):** Procesamiento de lenguaje natural
+**Parte 1 (P1):** Procesamiento de lenguaje natural  
 **Parte 2 (P2)**: Computer vision
 
 ## Variables con python

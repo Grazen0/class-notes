@@ -14,11 +14,12 @@ Un algoritmo es un **conjunto de instrucciones.** Trabaja en un conjunto de dato
 
 ![[Esquema Algoritmo.excalidraw]]
 
-**Video relevante:** [Tu cerebro puede hacer algoritmos - David J. Malan](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ted.com/talks/david_j_malan_what_s_an_algorithm%3Flanguage%3Des&ved=2ahUKEwje1YDD-6iFAxV6K7kGHZaICuoQwqsBegQIDxAE&usg=AOvVaw1RWSLwYTR5W3N0e0-gmvpw)
+**Video relevante:** [Tu cerebro puede hacer algoritmos - David J. Malan](https://www.youtube.com/watch?v=6hfOvs8pY1k)
 
 ## Algoritmos en la sociedad
 
 Los algoritmos resuelven problemas como:
+
 - Qué resultados mostrar en el buscador.
 - Cuál es la ruta más rápida entre dos ciudades.
 - Qué post de Twitter sale en la cima.
@@ -69,10 +70,11 @@ Fin
 
 Los algoritmos se pueden representar visualmente mediante gráficos llamados **diagramas de flujo**.
 
-![[Ejemplo Diagrama de Flujo.excalidraw]]
+![[Ejemplo Diagrama de Flujo|max-height:200px]]
+
 Los símbolos que usaremos en este curso para los diagramas de flujo son los siguientes:
 
-[INSERTAR]
+![[Simbolos Diagrama de Flujo.excalidraw]]
 
 ## Programa
 

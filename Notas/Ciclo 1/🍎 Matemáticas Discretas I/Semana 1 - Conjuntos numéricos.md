@@ -10,7 +10,7 @@ Ahora ubicamos un número $x$ en la recta. El valor de este número $x$ es la di
 
 ```ad-definition
 
-El conjunto de enteros positivos, denotado como $\Z$, se define informalmente de la siguiente forma:
+El conjunto de enteros positivos, denotado por $\Z$, se define informalmente de la siguiente forma:
 
 $$
 \Z= \left\{\dots, -3, -2, -1, 0, 1, 2, 3, \dots\right\}
@@ -22,7 +22,7 @@ $$
 
 ```ad-definition
 
-El conjunto de los enteros positivos, denotado como $\Zp$, se define informalmente de la siguiente forma:
+El conjunto de los enteros positivos, denotado por $\Zp$, se define informalmente de la siguiente forma:
 
 $$
 \Zp = \left\{1,2,3,4,5,\dots\right\}
@@ -40,7 +40,7 @@ En la UTEC se considera que $0 \notin \N$. Es decir, $\N = \Zp$. (😢)
 
 ```ad-definition
 
-Definimos los números racionales, denotado como $\Q$, como el conjunto de todos los números de la forma $\frac{a}{b}$ donde $a$ y $b$ son números enteros, con $b \neq 0$.
+Definimos el conjunto de los números racionales, denotado por $\Q$, como el conjunto de todos los números de la forma $\frac{a}{b}$ donde $a$ y $b$ son números enteros, con $b \neq 0$.
 
 $$
 \Q = \left\{ \frac{a}{b} : a,b \in \mathbb{Z}\ y\ b \neq 0 \right\}
@@ -97,6 +97,7 @@ $$\qed$$
 
 ```
 ````
+
 ## Regreso a los números reales
 
 Hay números reales que no son racionales. Estos se denominan **números irracionales**. Estos incluyen $\sqrt{3}$, $\sqrt[3]{2}$, $\log_2(3)$, etc.
