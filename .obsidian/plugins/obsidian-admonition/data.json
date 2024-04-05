@@ -65,7 +65,7 @@
       "noTitle": false
     }
   },
-  "syntaxHighlight": false,
+  "syntaxHighlight": true,
   "copyButton": false,
   "version": "10.2.0",
   "autoCollapse": false,
@@ -78,7 +78,7 @@
     "admonitions": true,
     "icons": true,
     "other": true,
-    "advanced": false
+    "advanced": true
   },
   "icons": [],
   "useFontAwesome": true,

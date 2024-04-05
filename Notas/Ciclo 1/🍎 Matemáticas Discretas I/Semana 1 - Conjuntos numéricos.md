@@ -30,11 +30,7 @@ $$
 
 ```
 
-```ad-info
-
-En la UTEC se considera que $0 \notin \N$. Es decir, $\N = \Zp$. (😢)
-
-```
+> [!info] En la UTEC se considera que $0 \notin \N$. Es decir, $\N = \Zp$. (😢)
 
 ## Números racionales
 
@@ -192,7 +188,7 @@ $$
 [a,+\infty) &= \left\{x \in \mathbb{R} : x \geq a \right\} \\
 (-\infty, b) &= \left\{x \in \mathbb{R} : x \lt b \right\} \\
 (-\infty, b] &= \left\{x \in \mathbb{R} : x \leq b \right\} \\
-(-\infty, +\infty) &= \mathbb{R}
+(-\infty, +\infty) &= \R
 \end{align*}
 $$
 

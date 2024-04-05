@@ -10,7 +10,7 @@ kanban-plugin: basic
 
 ## Lecturas
 
-- [ ] **¿Estamos ante un "giro postcompetitivo" en la política de ciencia, tecnología e innovación?**<br><br>Frederico Vasen<br><br>#pi #teo
+- [ ] [[S2. Vasen. 2016|¿Estamos ante un  giro postcompetitivo  en la política de ciencia, tecnología e innovación?]]<br><br>Frederico Vasen<br><br>#pi #teo
 - [ ] **Acciones para el potenciamiento de la ciencia, la tecnología y la innovación en el Perú**<br><br>CCCTI<br><br>#pi #teo
 
 

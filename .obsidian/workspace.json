@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "8f0cd212eb87eb16",
+            "id": "d7a87521b17d1b15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Ciclo 1/💻 Programación I/Semana 1 (Teo) - Introducción.md",
+                "file": "Notas/Ciclo 1/🍎 Matemáticas Discretas I/Semana 1 - Conjuntos numéricos.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Ciclo 1/💻 Programación I/Semana 1 (Teo) - Introducción.md",
+                "file": "Notas/Ciclo 1/🍎 Matemáticas Discretas I/Semana 1 - Conjuntos numéricos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Ciclo 1/💻 Programación I/Semana 1 (Teo) - Introducción.md",
+                "file": "Notas/Ciclo 1/🍎 Matemáticas Discretas I/Semana 1 - Conjuntos numéricos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Ciclo 1/💻 Programación I/Semana 1 (Teo) - Introducción.md"
+                "file": "Notas/Ciclo 1/🍎 Matemáticas Discretas I/Semana 1 - Conjuntos numéricos.md"
               }
             }
           },
@@ -169,14 +169,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8f0cd212eb87eb16",
+  "active": "d7a87521b17d1b15",
   "lastOpenFiles": [
+    "Notas/Kanban/S2. Vasen. 2016.md",
     "Kanban.md",
+    "Ejemplo Diagrama de Flujo.md",
+    "Notas/Ciclo 1/💻 Programación I/Semana 1 (Teo) - Introducción.md",
     "Notas/Ciclo 1/💻 Programación I/Recursos/lightbulb.png",
     "Notas/Ciclo 1/📈 Cálculo de Una Variable/Semana 1 - Funciones.md",
     "Notas/Ciclo 1/💾 Introducción a Ciencias de la Computación/Semana 1 - Introducción.md",
     "Notas/Ciclo 1/💻 Programación I/Semana 1 (Lab) - Algoritmos.md",
-    "Notas/Ciclo 1/💻 Programación I/Semana 1 (Teo) - Introducción.md",
     "Notas/Ciclo 1/🍎 Matemáticas Discretas I/Semana 1 - Conjuntos numéricos.md",
     "Notas/Kanban/De animales a dioses - Cáp. 2.md",
     "README.md",
@@ -184,7 +186,6 @@
     "Notas/Ciclo 1/💻 Programación I/Recursos/Esquema Algoritmo.excalidraw.md",
     "Notas/Ciclo 1/💻 Programación I/Recursos/ascii_table.png",
     "Notas/Ciclo 1/💻 Programación I/Recursos/Simbolos Diagrama de Flujo.excalidraw.md",
-    "Ejemplo Diagrama de Flujo.md",
     "Notas/Apuntes diarios/Thu, April 4th 2024.md",
     "Plantilla.excalidraw.md",
     "Untitled.canvas",
