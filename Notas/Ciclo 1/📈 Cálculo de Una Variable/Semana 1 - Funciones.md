@@ -78,7 +78,7 @@ $$
 \begin{alignat*}{2}
 &\dom\left(f \pm g\right)   &&= \dom f \cap \dom g \\
 &\dom\left(f \cdot g\right) &&= \dom f \cap \dom g \\
-&\dom\left(\frac{f}{g}\right) &&= \left\{x \in \dom f \cap \dom g : g(x) \neq 0 \right\} \\
+&\dom\!\left(\frac{f}{g}\right) &&= \left\{x \in \dom f \cap \dom g : g(x) \neq 0 \right\} \\
 &\dom\left(f \circ g\right) &&= \left\{ x \in \dom g : g(x) \in \dom f \right\} \\
 \end{alignat*}
 $$

@@ -261,7 +261,7 @@
   "lintOnSave": true,
   "recordLintOnSaveLogs": false,
   "displayChanged": true,
-  "lintOnFileChange": false,
+  "lintOnFileChange": true,
   "displayLintOnFileChangeNotice": false,
   "settingsConvertedToConfigKeyValues": true,
   "foldersToIgnore": [
@@ -270,7 +270,8 @@
     "Notas/Ciclo 1/💻 Programación I/Recursos",
     "Notas/Ciclo 1/🎯 Proyectos Interdisciplinarios I/Recursos",
     "Notas/Ciclo 1/🍎 Matemáticas Discretas I/Recursos",
-    "Notas/Ciclo 1/✍ Laboratorio de Comunicación I/Recursos"
+    "Notas/Ciclo 1/✍ Laboratorio de Comunicación I/Recursos",
+    ""
   ],
   "linterLocale": "system-default",
   "logLevel": "ERROR",

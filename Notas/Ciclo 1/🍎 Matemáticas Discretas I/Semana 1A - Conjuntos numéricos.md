@@ -13,7 +13,7 @@ Ahora ubicamos un número $x$ en la recta. El valor de este número $x$ es la di
 El conjunto de enteros positivos, denotado por $\Z$, se define informalmente de la siguiente forma:
 
 $$
-\Z= \left\{\dots, -3, -2, -1, 0, 1, 2, 3, \dots\right\}
+\Z := \left\{\dots, -3, -2, -1, 0, 1, 2, 3, \dots\right\}
 $$
 
 ```
@@ -25,7 +25,7 @@ $$
 El conjunto de los enteros positivos, denotado por $\Zp$, se define informalmente de la siguiente forma:
 
 $$
-\Zp = \left\{1,2,3,4,5,\dots\right\}
+\Zp := \left\{1,2,3,4,5,\dots\right\}
 $$
 
 ```
@@ -39,7 +39,7 @@ $$
 Definimos el conjunto de los números racionales, denotado por $\Q$, como el conjunto de todos los números de la forma $\frac{a}{b}$ donde $a$ y $b$ son números enteros, con $b \neq 0$.
 
 $$
-\Q = \left\{ \frac{a}{b} : a,b \in \mathbb{Z}\ y\ b \neq 0 \right\}
+\Q := \left\{ \frac{a}{b} : a,b \in \mathbb{Z}\ y\ b \neq 0 \right\}
 $$
 
 ```
@@ -48,7 +48,7 @@ $$
 
 Todo número entero es racional. En otras palabras,
 $$
-\forall n \in \Z, n \in \Q
+\forall n \in \Z\ (n \in \Q)
 $$
 o alternativamente,
 $$
@@ -69,7 +69,7 @@ $$\qed$$
 
 La suma de dos números racionales es racional. En otras palabras,
 $$
-\forall x,y \in \Q,\ x+y \in \Q
+\forall x,y \in \Q\ (x+y \in \Q)
 $$
 
 ```ad-proof
@@ -92,6 +92,7 @@ Ahora, tanto $ad + bc$ y $bd$ son enteros, ya que son productos y/o sumas de nú
 $$\qed$$
 
 ```
+
 ````
 
 ## Regreso a los números reales
@@ -106,7 +107,9 @@ Hay números reales que no son racionales. Estos se denominan **números irracio
 
 Los números reales están **ordenados**. Los números a la derecha del $0$ se denominan **positivos**, y los que están a su izquierda se llaman **negativos**.
 
-Las desigualdades se definen de la siguiente forma:
+```ad-definition
+
+Las **desigualdades** se definen de la siguiente forma:
 
 $$
 \begin{align*}
@@ -118,8 +121,10 @@ a \geq b &\iff a \gt b \quad \text{o} \quad a = b \\
 \end{align*}
 $$
 
-````ad-proposition
-title: Proposición (Ejemplo de desigualdad).
+```
+
+````ad-exercise
+title: Ejercicio: Ejemplo de desigualdad
 collapse: open
 
 $$
@@ -156,6 +161,43 @@ Para todo par de números $a,b \in \R$, se cumple exactamente una de las siguien
 
 ```
 
+### Propiedades
+
+$$
+\begin{align}
+          a < b &\iff a + c < b + c \\
+a < b \text{ y } c < d &\implies a + c < b + d \\
+a < b \text{ y } b < c &\implies a < c
+\end{align}
+$$
+
+Estas propiedades se extienden a $>$, $\leq$ y $\geq$.
+
+#### Producto de cantidades
+
+$$
+\begin{align}
+a > 0 \text{ y } b > 0 &\iff ab > 0 \\
+a > 0 \text{ y } b < 0 &\implies ab < 0 \\
+a < 0 \text{ y } b < 0 &\iff ab > 0
+\end{align}
+$$
+
+Estas propiedades se extienden a $\leq$ y $\geq$.
+
+#### Multiplicación o recíproco a ambos lados
+
+$$
+\begin{align}
+a < b \text{ y } c > 0 &\implies \begin{cases}
+ac < bc & \text{si } c > 0 \\
+ac > bc & \text{si } c < 0
+\end{cases} \\
+a < b \text{ y } a,b > 0 &\implies \frac{1}{a} > \frac{1}{b} \\
+ \\
+\end{align}
+$$
+
 ## Recordemos: Intervalos
 
 ### Intervalo abierto
@@ -165,7 +207,7 @@ Para todo par de números $a,b \in \R$, se cumple exactamente una de las siguien
 Dados números reales $a$ y $b$, el intervalo $(a,b)$ es el conjunto de todos los números reales $x$ que satisfacen la condición $a < x < b$, lo cual significa que cumple $a < x$ y $x < b$.
 
 $$
-(a,b) = \left\{ x \in \mathbb{R} : a < x < b \right\}
+(a,b) := \left\{ x \in \mathbb{R} : a < x < b \right\}
 $$
 
 Este intervalo se llama **abierto en ambos extremos**.
@@ -180,15 +222,15 @@ Todos los tipos de intervalos se definen de la siguiente manera:
 
 $$
 \begin{align*}
-(a,b) &= \left\{x \in \mathbb{R} : a \lt x \lt b \right\} \\
-[a,b] &= \left\{x \in \mathbb{R} : a \leq x \leq b \right\} \\
-(a,b] &= \left\{x \in \mathbb{R} : a \lt x \leq b \right\} \\
-[a,b) &= \left\{x \in \mathbb{R} : a \leq x \lt b \right\} \\
-(a,+\infty) &= \left\{x \in \mathbb{R} : x \gt a \right\} \\
-[a,+\infty) &= \left\{x \in \mathbb{R} : x \geq a \right\} \\
-(-\infty, b) &= \left\{x \in \mathbb{R} : x \lt b \right\} \\
-(-\infty, b] &= \left\{x \in \mathbb{R} : x \leq b \right\} \\
-(-\infty, +\infty) &= \R
+(a,b)    &:= \left\{x \in \mathbb{R} : a \lt x \lt b \right\} \\
+[a,b]    &:= \left\{x \in \mathbb{R} : a \leq x \leq b \right\} \\
+(a,b]    &:= \left\{x \in \mathbb{R} : a \lt x \leq b \right\} \\
+[a,b)    &:= \left\{x \in \mathbb{R} : a \leq x \lt b \right\} \\
+(a,+\infty)   &:= \left\{x \in \mathbb{R} : x \gt a \right\} \\
+[a,+\infty)   &:= \left\{x \in \mathbb{R} : x \geq a \right\} \\
+(-\infty, b)  &:= \left\{x \in \mathbb{R} : x \lt b \right\} \\
+(-\infty, b]  &:= \left\{x \in \mathbb{R} : x \leq b \right\} \\
+(-\infty, +\infty) &:= \R
 \end{align*}
 $$
 

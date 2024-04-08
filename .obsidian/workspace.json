@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "76764313363813db",
+        "id": "ba5f4a66f3d267ae",
         "type": "tabs",
         "children": [
           {
-            "id": "8c16d7195c62ff39",
+            "id": "0d6fefc73a89441a",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -20,17 +20,15 @@
             }
           },
           {
-            "id": "47c85f98d4b392b1",
+            "id": "23a4c713d58d5c3a",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Kanban/S2. Vasen. 2016.md",
+                "file": "Notas/Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S2 Comisión Consultativa Primer Informe.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ],
@@ -53,7 +51,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -95,77 +93,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c4ced905bc661893",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Notas/Kanban/S2. Vasen. 2016.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "81d33e2471c2eb35",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Notas/Kanban/S2. Vasen. 2016.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "cdf682f96ea6c4c1",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "43b80c680d1f4657",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Notas/Kanban/S2. Vasen. 2016.md"
-              }
-            }
-          },
-          {
-            "id": "61fde815181fb702",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "6e1e0fe470f30757",
+            "id": "10f8629d014f3fa7",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "80e3864338c43d73",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notas/Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S2 Comisión Consultativa Primer Informe.md"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 272.5,
+    "width": 270.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -179,53 +129,56 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "47c85f98d4b392b1",
+  "active": "23a4c713d58d5c3a",
   "lastOpenFiles": [
     "Kanban.md",
-    "Notas/Kanban/S2. Vasen. 2016.md",
-    "Notas/Apuntes diarios/Thu, April 4th 2024.md",
-    "Notas/Ciclo 1/🍎 Matemáticas Discretas I/Semana 1 - Conjuntos numéricos.md",
-    "Ejemplo Diagrama de Flujo.md",
-    "Notas/Ciclo 1/💻 Programación I/Semana 1 (Teo) - Introducción.md",
-    "Notas/Ciclo 1/💻 Programación I/Recursos/lightbulb.png",
-    "Notas/Ciclo 1/📈 Cálculo de Una Variable/Semana 1 - Funciones.md",
-    "Notas/Ciclo 1/💾 Introducción a Ciencias de la Computación/Semana 1 - Introducción.md",
-    "Notas/Ciclo 1/💻 Programación I/Semana 1 (Lab) - Algoritmos.md",
-    "Notas/Kanban/De animales a dioses - Cáp. 2.md",
+    "Notas/Ciclo 1/🍎 Matemáticas Discretas I/Semana 1B - Divisibilidad.md",
+    "Notas/Ciclo 1/🍎 Matemáticas Discretas I/Semana 1A - Conjuntos numéricos.md",
     "README.md",
-    "Horario Ciclo 1.pdf - Shortcut.lnk",
-    "Notas/Ciclo 1/💻 Programación I/Recursos/Esquema Algoritmo.excalidraw.md",
-    "Notas/Ciclo 1/💻 Programación I/Recursos/ascii_table.png",
-    "Notas/Ciclo 1/💻 Programación I/Recursos/Simbolos Diagrama de Flujo.excalidraw.md",
     "Plantilla.excalidraw.md",
+    "Notas/Ciclo 1/✍ Laboratorio de Comunicación I/Semana 1A (Lab) - Innatismo vs Culturalismo.md",
+    "Notas/Ciclo 1/✍ Laboratorio de Comunicación I/Semana 1B (Lab) - Oraciones y sus tipos.md",
+    "Notas/Ciclo 1/✍ Laboratorio de Comunicación I/Semana 1 (Teo) - La Comunicación.md",
+    "Notas/Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S2 Comisión Consultativa Primer Informe.md",
+    "Notas/Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S2. Vasen. 2016.md",
+    "Notas/Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/Untitled.md",
+    "Notas/Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/De animales a dioses - Cáp. 2.md",
+    "Notas/Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas",
+    "Notas/Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas",
+    "Notas/Ciclo 1/💻 Programación I/Semana 1 (Teo) - Introducción.md",
+    "Notas/Ciclo 1/💻 Programación I/Recursos/Ejemplo Diagrama de Flujo.excalidraw.md",
+    "Notas/Ciclo 1/💻 Programación I/Recursos/Simbolos Diagrama de Flujo.excalidraw.md",
+    "Notas/Ciclo 1/💻 Programación I/Semana 1A (Lab) - Algoritmos.md",
+    "Notas/Ciclo 1/💻 Programación I/Semana 1B (Lab) - Introducción a Python.md",
+    "Notas/Ciclo 1/💻 Programación I/Recursos/pycharm.webp",
+    "Notas/Ciclo 1/💻 Programación I/Recursos/Esquema Algoritmo.excalidraw.md",
+    "Notas/Apuntes diarios/Fri, April 5th 2024.md",
+    "Notas/Apuntes diarios/Thu, April 4th 2024.md",
+    "Notas/Apuntes diarios/Wed, April 3rd 2024.md",
+    "Notas/Apuntes diarios/Sat, April 6th 2024.md",
+    "Notas/Ciclo 1/📈 Cálculo de Una Variable/Semana 1 - Funciones.md",
+    "Notas/Ciclo 1/🎯 Proyectos Interdisciplinarios I/Semana 1 (Lab) - Introducción.md",
+    "Pasted Image 20240405185907_541.jpg",
+    "Pasted Image 20240405185907_561.jpg",
+    "Notas/Ciclo 1/✍ Laboratorio de Comunicación I/Recursos/Skinner vs Chomsky.excalidraw.md",
+    "Notas/Ciclo 1/✍ Laboratorio de Comunicación I/Recursos/noam_chomsky.jpg",
+    "Notas/Ciclo 1/✍ Laboratorio de Comunicación I/Recursos/Clasificación sintáctica de las oraciones.excalidraw.md",
+    "Notas/Ciclo 1/✍ Laboratorio de Comunicación I/Recursos/bf_skinner.jpg",
+    "Notas/Ciclo 1/💻 Programación I/Recursos/lightbulb.png",
+    "Horario Ciclo 1.pdf - Shortcut.lnk",
+    "Notas/Ciclo 1/💻 Programación I/Recursos/ascii_table.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Pasted Image 20240404133043_961.png",
     "Horario.pdf",
     "Notas diarias",
-    "Notas/Ciclo 1/🎯 Proyectos Interdisciplinarios I/Semana 1 (Lab) - Introducción.md",
-    "Notas/Apuntes diarios/Wed, April 4th 2024.md",
-    "Notas/Kanban/Sapiens - Cap 2.md",
-    "Notas/Ciclo 1/🍎 Matemáticas Discretas I/Recursos/Conjuntos numéricos.excalidraw.md",
     "Notas/Kanban",
-    "Untitled drawing.excalidraw.md",
     "Notas/Ciclo 1/🎯 Proyectos Interdisciplinarios I/Recursos/ods.jpg",
-    "Notas/Ciclo 1/✍ Laboratorio de Comunicación I/Semana 1 - La Comunicación.md",
-    "Notas/Ciclo 1/🍎 Matemáticas Discretas I/Recursos/Recta numérica.excalidraw.md",
-    "Notas/Ciclo 1/🍎 Matemáticas Discretas I/Recursos/Conjuntos Numéricos.excalidraw.md",
-    "Notas/Ciclo 1/🍎 Matemáticas Discretas I/Recursos/Recta Numérica.excalidraw.md",
     "Pasted Image 20240403153216_198.jpg",
-    "math.md",
-    "Semana 1 - Conjuntos numéricos.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-03 15.02.16.excalidraw.md",
     "Excalidraw",
     "Notas/Ciclo 1/📈 Cálculo de Una Variable/Recursos",
     "Notas/Ciclo 1/💾 Introducción a Ciencias de la Computación/Recursos",
     "Notas/Ciclo 1/💻 Programación I/Recursos",
-    "Notas/Ciclo 1/🎯 Proyectos Interdisciplinarios I/Recursos",
-    "Notas/Ciclo 1/🍎 Matemáticas Discretas I/Recursos",
-    "Excalidraw/Drawing 2024-04-03 11.09.58.excalidraw.png",
-    "Pasted image 20240402194435.png",
     "Ciclo 1/Cálculo de Una Variable/Untitled.canvas"
   ]
 }

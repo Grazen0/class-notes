@@ -6,17 +6,13 @@ kanban-plugin: basic
 
 ## Trabajos
 
-
+- [ ] **Investigación sobre innatismo vs. culturalismo**<br><br>#comu #grupal<br><br>Característica: *(por definir)*<br><br>- [ ] Definir característica
+- [ ] **Investigación sobre problema en nuestra localidad**<br><br>Mal estado de las veredas (huecos, baches, etc)<br><br>- [x] Definir problema<br>- [ ] Definir localidad<br>- [ ] Investigar y resumir<br>- [ ] Relación con ODS (la 11)<br>- [ ] Definir actores<br>- [ ] Analizar actores<br>- [ ] Identificar niveles de poder<br><br>#pi #grupal
 
 ## Lecturas
 
+- [ ] [[S2 Comisión Consultativa Primer Informe|Acciones para el potenciamiento de la ciencia, la tecnología y la innovación en el Perú]]<br><br>CCCTI<br><br>#pi #teo
 - [ ] [[S2. Vasen. 2016|¿Estamos ante un  giro postcompetitivo  en la política de ciencia, tecnología e innovación?]]<br><br>Frederico Vasen<br><br>#pi #teo
-- [ ] **Acciones para el potenciamiento de la ciencia, la tecnología y la innovación en el Perú**<br><br>CCCTI<br><br>#pi #teo
-
-
-## Revisión requerida
-
-
 
 ## Completado
 
@@ -31,7 +27,9 @@ kanban-plugin: basic
 - [ ] Lectura PI
 
 %% kanban:settings
+
 ```
-{"kanban-plugin":"basic","tag-colors":[{"tagKey":"#comu","color":"rgba(250, 218, 137, 1)","backgroundColor":"rgba(245, 189, 93, 0.1)"},{"tagKey":"#pi","color":"rgba(137, 250, 142, 1)","backgroundColor":"rgba(123, 245, 93, 0.1)"},{"tagKey":"#progra","color":"rgba(137, 182, 250, 1)","backgroundColor":"rgba(93, 108, 245, 0.1)"},{"tagKey":"#calculo","color":"rgba(250, 137, 137, 1)","backgroundColor":"rgba(245, 93, 93, 0.1)"},{"tagKey":"#discretas","color":"rgba(255, 117, 117, 1)","backgroundColor":"rgba(255, 46, 46, 0.1)"},{"tagKey":"#intro-cs","color":"rgba(250, 239, 137, 1)","backgroundColor":"rgba(245, 230, 93, 0.1)"},{"tagKey":"#lab","color":"rgba(137, 250, 223, 1)","backgroundColor":"rgba(93, 245, 208, 0.1)"},{"tagKey":"#teo","color":"rgba(244, 137, 250, 1)","backgroundColor":"rgba(228, 93, 245, 0.1)"}]}
+{"kanban-plugin":"basic","tag-colors":[{"tagKey":"#comu","color":"rgba(250, 218, 137, 1)","backgroundColor":"rgba(245, 189, 93, 0.1)"},{"tagKey":"#pi","color":"rgba(137, 250, 142, 1)","backgroundColor":"rgba(123, 245, 93, 0.1)"},{"tagKey":"#progra","color":"rgba(137, 182, 250, 1)","backgroundColor":"rgba(93, 108, 245, 0.1)"},{"tagKey":"#calculo","color":"rgba(250, 137, 137, 1)","backgroundColor":"rgba(245, 93, 93, 0.1)"},{"tagKey":"#discretas","color":"rgba(255, 117, 117, 1)","backgroundColor":"rgba(255, 46, 46, 0.1)"},{"tagKey":"#intro-cs","color":"rgba(250, 239, 137, 1)","backgroundColor":"rgba(245, 230, 93, 0.1)"},{"tagKey":"#lab","color":"rgba(137, 250, 223, 1)","backgroundColor":"rgba(93, 245, 208, 0.1)"},{"tagKey":"#teo","color":"rgba(244, 137, 250, 1)","backgroundColor":"rgba(228, 93, 245, 0.1)"},{"tagKey":"#grupal","color":"rgba(200, 250, 137, 1)","backgroundColor":"rgba(183, 245, 93, 0.1)"}]}
 ```
+
 %%

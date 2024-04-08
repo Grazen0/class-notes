@@ -1,14 +1,12 @@
 [
   "obsidian-git",
-  "code-emitter",
   "obsidian-functionplot",
-  "obsidian-charts",
   "obsidian-excalidraw-plugin",
-  "obsidian-style-settings",
   "obsidian-latex",
   "obsidian-latex-suite",
   "obsidian-admonition",
   "obsidian-linter",
   "obsidian-kanban",
-  "calendar"
+  "calendar",
+  "execute-code"
 ]

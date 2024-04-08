@@ -12,7 +12,7 @@ Tiene tres características:
 
 Un algoritmo es un **conjunto de instrucciones.** Trabaja en un conjunto de datos de **entrada**, los procesa mediante **instrucciones** y produce un resultado o **salida**.
 
-![[Esquema Algoritmo.excalidraw]]
+![[Esquema Algoritmo.excalidraw|width:80%]]
 
 **Video relevante:** [Tu cerebro puede hacer algoritmos - David J. Malan](https://www.youtube.com/watch?v=6hfOvs8pY1k)
 
@@ -42,7 +42,7 @@ Fin
 title: Ejercicio: Algoritmo para suscribirse a Disney+
 collapse: closed
 
-```
+~~~
 Inicio
 	Abrir navegador
 	Entrar a la página de Disney+
@@ -62,7 +62,7 @@ Inicio
 
 	Verificar el correo de confirmación
 Fin
-```
+~~~
 
 ````
 
@@ -70,7 +70,7 @@ Fin
 
 Los algoritmos se pueden representar visualmente mediante gráficos llamados **diagramas de flujo**.
 
-![[Ejemplo Diagrama de Flujo|max-height:200px]]
+![[Ejemplo Diagrama de Flujo.excalidraw|max-height:200px]]
 
 Los símbolos que usaremos en este curso para los diagramas de flujo son los siguientes:
 
