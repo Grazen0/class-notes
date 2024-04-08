@@ -39,3 +39,48 @@ Este informe presenta 3 recomendaciones:
 1. Acciones para **apoyar la formación** de investigadores y la ciencia.
 2. Creación de un **Fondo Soberano** para financiar a la ciencia.
 3. Acciones para enfrentar pandemias como la COVID-19.
+
+**Temas que la comisión analizará en el futuro:**
+1. Innovación en Perú
+2. Medidas necesarias para gestionar la promoción de la CTI
+3. La actividad científica en instituciones y centros. (Sus aportes, potencial, etc)
+
+## I. Introducción
+
+> "[...], el factor limitante del quehacer científico en el Perú es la **escasez de capital humano** altamente calificado dedicado a la investigación."
+
+Se necesita de dos enfoques igualmente importantes: **investigación** y **aplicación**.
+
+**La investigación y la aplicación se llevan de la mano.** Un ingeniero que desarrolla soluciones para los problemas de su área **no *hace* ciencia como tal**, sino que aplica conocimientos ya existentes. Un científico investiga usualmente por motivación intrínseca y **sin referirse a situaciones prácticas**, pero crea la base intelectual usada por el ingeniero.
+
+La formación de comunidades de científicos también es importante por otras 3 razones:
+
+- Puede motivar a la creación de o integración a empresas de tecnología.
+- **Mejoras en el sector productivo**, resultado del conocimiento científico.
+- **Formación** de nuevos profesionales liderados por los científicos.
+
+> "Así pues, argumentar que en el Perú no debemos hacer ciencia fundamental sino únicamente aplicar tecnología equivale a afirmar que en el Perú no debe haber escritores, sino solo traductores de libros escritos en lenguas extranjeras."
+
+**La investigación científica y su aplicación tecnológica no son excluyentes, sino complementarios.** La producción de conocimiento científico puede traer transformaciones beneficiosas para la economía.
+
+**El Perú requiere de dos acciones para el desarrollo científico:**
+
+1. Atraer talentos.
+2. Crear y fortalecer programas de doctorado en universidades.
+
+## II. Políticas de Estado transversales necesarias para fortalecer la ciencia, tecnología e innovación a largo plazo
+
+1. **Nivel de calidad de los postgrados**
+	- Profesores con participación activa en la investigación.
+	- Idea: crear un sistema de *ranking* para incentivar a las instituciones más competentes. 
+3. **Programa de becas postgrado en el país y el extranjero**
+4. **Potenciación de programas postgrado**
+	- Universidades $\to$ instituciones de investigación de calibre internacional.
+5. **Fortalecer los Institutos Públicos de Investigación (IPIs)**
+	- Las autoridades de las IPIs deben ser investigadores calificados.
+	- Los científicos deben tener conocimiento y autonomía.
+	- Deben facilitarse las alianzas de IPIs con universidades para asesorías de tesis postgrado.
+6. **Promover la evaluación *peer-reviewed***
+
+## III. Formación de las capacidades para la investigación
+

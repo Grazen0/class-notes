@@ -13,7 +13,7 @@ Ahora ubicamos un número $x$ en la recta. El valor de este número $x$ es la di
 El conjunto de enteros positivos, denotado por $\Z$, se define informalmente de la siguiente forma:
 
 $$
-\Z := \left\{\dots, -3, -2, -1, 0, 1, 2, 3, \dots\right\}
+\Z := \left\{ \dots, -3, -2, -1, 0, 1, 2, 3, \dots \right\}
 $$
 
 ```
