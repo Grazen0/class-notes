@@ -73,7 +73,7 @@
   "experimentalLivePreview": true,
   "fadeOutExcalidrawMarkup": false,
   "experimentalEnableFourthFont": true,
-  "experimantalFourthFont": "Virgil",
+  "experimantalFourthFont": "cmunrm.ttf",
   "fieldSuggester": true,
   "compatibilityMode": false,
   "drawingOpenCount": 0,

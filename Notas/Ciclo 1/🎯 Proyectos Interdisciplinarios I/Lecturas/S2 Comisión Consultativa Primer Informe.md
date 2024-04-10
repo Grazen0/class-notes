@@ -84,3 +84,9 @@ La formación de comunidades de científicos también es importante por otras 3 
 
 ## III. Formación de las capacidades para la investigación
 
+```ad-important
+title: Punto clave
+
+**Objetivo central:** Atraer jóvenes peruanos del exterior y consolidar programas de postgrado de alto nivel en el país.
+
+```

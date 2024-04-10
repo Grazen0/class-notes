@@ -11,8 +11,8 @@ tags: [excalidraw]
 VS. ^PrRN4nbf
 
 # Embedded files
-f7e53d22577c75318546ca5e7a3997645f8d62a5: [[Pasted Image 20240405185907_541.jpg]]
-7c54ff81ee61b468cd40abf2c089eccff11f1eac: [[Pasted Image 20240405185907_561.jpg]]
+f7e53d22577c75318546ca5e7a3997645f8d62a5: [[BF Skinner.jpg]]
+7c54ff81ee61b468cd40abf2c089eccff11f1eac: [[Noam Chomsky.jpg]]
 
 %%
 # Drawing

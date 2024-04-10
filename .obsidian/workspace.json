@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ba5f4a66f3d267ae",
+        "id": "3af8ce2db6d15b82",
         "type": "tabs",
         "children": [
           {
-            "id": "0d6fefc73a89441a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Kanban.md"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "23a4c713d58d5c3a",
+            "id": "dd4d6a40f62854e6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas/Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S2 Comisión Consultativa Primer Informe.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,6 +76,14 @@
         "type": "tabs",
         "children": [
           {
+            "id": "80e3864338c43d73",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
             "id": "10f8629d014f3fa7",
             "type": "leaf",
             "state": {
@@ -101,17 +92,14 @@
             }
           },
           {
-            "id": "80e3864338c43d73",
+            "id": "882014e44f79451f",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "Notas/Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S2 Comisión Consultativa Primer Informe.md"
-              }
+              "type": "git-view",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -129,56 +117,56 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "23a4c713d58d5c3a",
+  "active": "dd4d6a40f62854e6",
   "lastOpenFiles": [
-    "Kanban.md",
-    "Notas/Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S2 Comisión Consultativa Primer Informe.md",
-    "Notas/Ciclo 1/🍎 Matemáticas Discretas I/Semana 1A - Conjuntos numéricos.md",
-    "Notas/Ciclo 1/🍎 Matemáticas Discretas I/Semana 1B - Divisibilidad.md",
     "README.md",
-    "Plantilla.excalidraw.md",
-    "Notas/Ciclo 1/✍ Laboratorio de Comunicación I/Semana 1A (Lab) - Innatismo vs Culturalismo.md",
-    "Notas/Ciclo 1/✍ Laboratorio de Comunicación I/Semana 1B (Lab) - Oraciones y sus tipos.md",
-    "Notas/Ciclo 1/✍ Laboratorio de Comunicación I/Semana 1 (Teo) - La Comunicación.md",
-    "Notas/Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S2. Vasen. 2016.md",
-    "Notas/Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/Untitled.md",
+    "Notas/Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S3 - Guía para la preparación de las hojas de ruta de la CTI para los ODS.md",
+    "Notas/Ciclo 1/💻 Programación I/S2 (Teo) - Elementos de un programa.md",
+    "Kanban.md",
+    "Notas/Ciclo 1/✍ Laboratorio de Comunicación I/S1 (Teo) - La Comunicación.md",
+    "Notas/Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S3 - El esquema clásico de la comunicación y sus limitaciones.md",
+    "Notas/Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S3 - La comunicación como práctica discursiva.md",
+    "Notas/Apuntes diarios/Tue, April 9th 2024.md",
+    "Notas/Ciclo 1/🍎 Matemáticas Discretas I/S1-A - Conjuntos numéricos.md",
+    "Notas/Ciclo 1/✍ Laboratorio de Comunicación I/S2 (Teo) - El árbol del saber.md",
     "Notas/Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/De animales a dioses - Cáp. 2.md",
+    "Notas/Ciclo 1/📈 Cálculo de Una Variable/S2 - Tipos de funciones.md",
+    "Notas/Ciclo 1/📈 Cálculo de Una Variable/S1 - Funciones.md",
+    "Notas/Ciclo 1/💾 Introducción a Ciencias de la Computación/S2 - Más introducción.md",
+    "Notas/Ciclo 1/💾 Introducción a Ciencias de la Computación/S1 - Introducción.md",
+    "Notas/Ciclo 1/💻 Programación I/S1-B (Lab) - Introducción a Python.md",
+    "Notas/Ciclo 1/💻 Programación I/S1-A (Lab) - Algoritmos.md",
+    "Notas/Ciclo 1/💻 Programación I/S1 (Teo) - Introducción.md",
+    "Notas/Ciclo 1/🎯 Proyectos Interdisciplinarios I/S2 (Teo) - El giro postcompetitivo.md",
+    "Notas/Ciclo 1/🎯 Proyectos Interdisciplinarios I/S1 (Lab) - Introducción.md",
+    "Notas/Ciclo 1/🍎 Matemáticas Discretas I/S2-B - Números primos y descomposición canónica.md",
+    "Notas/Ciclo 1/🍎 Matemáticas Discretas I/S2-A - Divisibilidad (2).md",
+    "Notas/Ciclo 1/🍎 Matemáticas Discretas I/S1-B - Divisibilidad (1).md",
+    "Notas/Ciclo 1/✍ Laboratorio de Comunicación I/S1-B (Lab) - Oraciones y sus tipos.md",
+    "Notas/Ciclo 1/✍ Laboratorio de Comunicación I/S1-A (Lab) - Innatismo vs Culturalismo.md",
+    "Untitled.canvas",
+    "Notas/Ciclo 1/✍ Laboratorio de Comunicación I/Recursos/Información no es comunicación.excalidraw.md",
+    "Notas/Ciclo 1/✍ Laboratorio de Comunicación I/Recursos/hombre random.jpg",
+    "Notas/Ciclo 1/📈 Cálculo de Una Variable/Recursos/Grafico Liebre.png",
+    "cmunui.ttf",
+    "cmunrm.ttf",
+    "cmunbx.ttf",
+    "computer_modern.ttf",
+    "Notas/Ciclo 1/💾 Introducción a Ciencias de la Computación/Recursos/Persona random.png",
+    "Notas/Ciclo 1/✍ Laboratorio de Comunicación I/Recursos/Noam Chomsky.jpg",
+    "Notas/Ciclo 1/✍ Laboratorio de Comunicación I/Recursos/BF Skinner.jpg",
+    "Notas/Ciclo 1/💾 Introducción a Ciencias de la Computación/Recursos/Monitor de computadora.png",
+    "Notas/Ciclo 1/✍ Laboratorio de Comunicación I/Recursos/noam_chomsky.jpg",
+    "Notas/Ciclo 1/✍ Laboratorio de Comunicación I/Recursos/bf_skinner.jpg",
     "Notas/Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas",
     "Notas/Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas",
-    "Notas/Ciclo 1/💻 Programación I/Semana 1 (Teo) - Introducción.md",
-    "Notas/Ciclo 1/💻 Programación I/Recursos/Ejemplo Diagrama de Flujo.excalidraw.md",
-    "Notas/Ciclo 1/💻 Programación I/Recursos/Simbolos Diagrama de Flujo.excalidraw.md",
-    "Notas/Ciclo 1/💻 Programación I/Semana 1A (Lab) - Algoritmos.md",
-    "Notas/Ciclo 1/💻 Programación I/Semana 1B (Lab) - Introducción a Python.md",
     "Notas/Ciclo 1/💻 Programación I/Recursos/pycharm.webp",
-    "Notas/Ciclo 1/💻 Programación I/Recursos/Esquema Algoritmo.excalidraw.md",
-    "Notas/Apuntes diarios/Fri, April 5th 2024.md",
-    "Notas/Apuntes diarios/Thu, April 4th 2024.md",
-    "Notas/Apuntes diarios/Wed, April 3rd 2024.md",
-    "Notas/Apuntes diarios/Sat, April 6th 2024.md",
-    "Notas/Ciclo 1/📈 Cálculo de Una Variable/Semana 1 - Funciones.md",
-    "Notas/Ciclo 1/🎯 Proyectos Interdisciplinarios I/Semana 1 (Lab) - Introducción.md",
-    "Pasted Image 20240405185907_541.jpg",
-    "Pasted Image 20240405185907_561.jpg",
-    "Notas/Ciclo 1/✍ Laboratorio de Comunicación I/Recursos/Skinner vs Chomsky.excalidraw.md",
-    "Notas/Ciclo 1/✍ Laboratorio de Comunicación I/Recursos/noam_chomsky.jpg",
-    "Notas/Ciclo 1/✍ Laboratorio de Comunicación I/Recursos/Clasificación sintáctica de las oraciones.excalidraw.md",
-    "Notas/Ciclo 1/✍ Laboratorio de Comunicación I/Recursos/bf_skinner.jpg",
     "Notas/Ciclo 1/💻 Programación I/Recursos/lightbulb.png",
     "Horario Ciclo 1.pdf - Shortcut.lnk",
-    "Notas/Ciclo 1/💻 Programación I/Recursos/ascii_table.png",
-    "Untitled.canvas",
     "Untitled 1.canvas",
-    "Pasted Image 20240404133043_961.png",
     "Horario.pdf",
     "Notas diarias",
     "Notas/Kanban",
-    "Notas/Ciclo 1/🎯 Proyectos Interdisciplinarios I/Recursos/ods.jpg",
-    "Pasted Image 20240403153216_198.jpg",
-    "Excalidraw",
-    "Notas/Ciclo 1/📈 Cálculo de Una Variable/Recursos",
-    "Notas/Ciclo 1/💾 Introducción a Ciencias de la Computación/Recursos",
-    "Notas/Ciclo 1/💻 Programación I/Recursos",
     "Ciclo 1/Cálculo de Una Variable/Untitled.canvas"
   ]
 }
