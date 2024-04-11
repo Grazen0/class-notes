@@ -7,5 +7,6 @@
   "rightToLeft": false,
   "vimMode": false,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": ""
+  "attachmentFolderPath": "",
+  "showUnsupportedFiles": false
 }
