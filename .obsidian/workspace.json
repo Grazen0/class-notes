@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a459f4039d4a29be",
+        "id": "ca55d8099f81ec38",
         "type": "tabs",
         "children": [
           {
-            "id": "8380187696d17fb5",
+            "id": "ce81778b692a0f28",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanban.md"
+                "file": "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S3 - La comunicación como práctica discursiva.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -100,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban.md"
+                "file": "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S3 - La comunicación como práctica discursiva.md"
               }
             }
           },
@@ -155,29 +158,30 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "8380187696d17fb5",
+  "active": "ce81778b692a0f28",
   "lastOpenFiles": [
-    "Ciclo 1/Notas diarias/Thu, April 11th 2024.md",
-    "Ciclo 1/💻 Programación I/Información del curso.md",
-    "Ciclo 1/💾 Introducción a Ciencias de la Computación/Información del curso.md",
-    "Ciclo 1/📈 Cálculo de Una Variable/Información del curso.md",
-    "Ciclo 1/💻 Programación I/Notas/S1 (Teo) - Introducción.md",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Información del curso.md",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Recursos/Sistema de evaluación.excalidraw.md",
-    "Ciclo 1/✍ Laboratorio de Comunicación I/Información del curso.md",
-    "Ciclo 1/🍎 Matemáticas Discretas I/Información del curso.md",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Anexo.pdf",
-    "Ciclo 1/💻 Programación I/Anexo (Teo).pdf",
-    "Ciclo 1/💻 Programación I/Anexo (Lab).pdf",
-    "Ciclo 1/💾 Introducción a Ciencias de la Computación/Anexo.pdf",
-    "Ciclo 1/📈 Cálculo de Una Variable/Anexo.pdf",
-    "Ciclo 1/📈 Cálculo de Una Variable/Sistema de evaluación.pdf",
-    "Ciclo 1/📈 Cálculo de Una Variable/Sistema de evaluaci´n.pdf",
-    "Ciclo 1/📈 Cálculo de Una Variable/Sílabo - Cálculo de una Variable.pdf",
-    "Ciclo 1/📈 Cálculo de Una Variable/Sílabo.pdf",
-    "Ciclo 1/💾 Introducción a Ciencias de la Computación/Sílabo.pdf",
-    "Ciclo 1/💾 Introducción a Ciencias de la Computación/Notas/S2 - Más introducción.md",
     "Kanban.md",
+    "Ciclo 1/📈 Cálculo de Una Variable/Información del curso.md",
+    "Ciclo 1/📈 Cálculo de Una Variable/Anexo.pdf",
+    "Ciclo 1/💾 Introducción a Ciencias de la Computación/Anexo (Lab).pdf",
+    "Ciclo 1/💾 Introducción a Ciencias de la Computación/Anexo (Teo).pdf",
+    "Ciclo 1/💾 Introducción a Ciencias de la Computación/Información del curso.md",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Anexo.pdf",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Información del curso.md",
+    "Ciclo 1/💻 Programación I/Anexo (Teo).pdf",
+    "Ciclo 1/💻 Programación I/Información del curso.md",
+    "Ciclo 1/💻 Programación I/Anexo (Lab).pdf",
+    "Ciclo 1/💻 Programación I/Sílabo.pdf",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Sílabo.pdf",
+    "Ciclo 1/✍ Laboratorio de Comunicación I/Información del curso.md",
+    "Ciclo 1/✍ Laboratorio de Comunicación I/Cronograma.pdf",
+    "Ciclo 1/✍ Laboratorio de Comunicación I/Anexo.pdf",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S3 - Guía para la preparación de las hojas de ruta de la CTI para los ODS.md",
+    "Ciclo 1/Notas diarias/Thu, April 11th 2024.md",
+    "Ciclo 1/💻 Programación I/Notas/S1 (Teo) - Introducción.md",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Recursos/Sistema de evaluación.excalidraw.md",
+    "Ciclo 1/🍎 Matemáticas Discretas I/Información del curso.md",
+    "Ciclo 1/💾 Introducción a Ciencias de la Computación/Notas/S2 - Más introducción.md",
     "Ciclo 1/📈 Cálculo de Una Variable/Notas/S2 - Tipos de funciones.md",
     "Ciclo 1/📈 Cálculo de Una Variable/Notas/Recursos/Clasificación de funciones.excalidraw.md",
     "Ciclo 1/📈 Cálculo de Una Variable/Notas/S1 - Funciones.md",
@@ -190,10 +194,8 @@
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/S1 (Lab) - Los ODS y el patrimonio cultural.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/S1A (Lab) - Innatismo vs Culturalismo.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/S1B (Lab) - Oraciones y sus tipos.md",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S3 - Guía para la preparación de las hojas de ruta de la CTI para los ODS.md",
     "Ciclo 1/📈 Cálculo de Una Variable/Notas/Recursos/Sistema de evaluación.excalidraw.md",
     "Ciclo 1/📈 Cálculo de Una Variable/Notas/Recursos/Grafico Liebre.png",
-    "Notas/Ciclo 1/💾 Introducción a Ciencias de la Computación/Introducción a Ciencias de la Computación 1.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Recursos/ods.jpg",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/Noam Chomsky.jpg",
     "Untitled.canvas",

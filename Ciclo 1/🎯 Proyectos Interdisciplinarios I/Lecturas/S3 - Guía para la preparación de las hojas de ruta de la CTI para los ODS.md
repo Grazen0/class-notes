@@ -6,7 +6,7 @@
 
 - Se publicó la **Agenda 2030**
 - Se inició el **Mecanismo de Facilitación de la Tecnología de las Naciones Unidas** (TFM)
-	- El TFM se discute en el **Foro multilateral anual de sobre la CTI para los ODS** (Foro CTI)
+- El TFM se discute en el **Foro multilateral anual de sobre la CTI para los ODS** (Foro CTI)
 
 #### Datos sobre la CTI
 

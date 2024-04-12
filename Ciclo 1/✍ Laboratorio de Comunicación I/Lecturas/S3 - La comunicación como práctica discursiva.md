@@ -28,7 +28,7 @@ Antes se tenía como noción principal de "comunicación" que era meramente un *
 
 Esta definición limita el análisis de la comunicación a decodificar el significado del mensaje (tanto explícito como implícito) para comprender las intenciones del emisor.
 
-Sin embargo, **esta definición es insuficiente**. La comunicación **no es un proceso entendido de manera lineal**.
+Sin embargo, esta definición es **insuficiente**. La comunicación **no es un proceso entendido de manera lineal**.
 
 ### La comunicación real
 
