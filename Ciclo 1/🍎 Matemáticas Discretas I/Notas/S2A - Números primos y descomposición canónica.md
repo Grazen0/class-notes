@@ -59,7 +59,7 @@ donde $p_{1},p_{2},\ldots,p_{k}$ son números primos distintos y $a_{1},a_{2},\d
 
 ```
 
-A esta representación de un número se le llama **descomposición canónica**.
+A esta representación de un número se le llama **descomposición canónica**. (D.C.)
 
 ### Divisores de un número
 
@@ -106,7 +106,7 @@ su cantidad de divisores positivos es $(a_{1} + 1)(a_{2} + 1)\ldots(a_{k} + 1)$.
 **Ejemplos:**
 
 - $2^{11} \cdot 7^{10}$ tiene $(11 + 1)(10 + 1) = 132$ divisores positivos.
-- $6^{100} = 2^{100} \cdot 3^{100}$ tiene $(100 + 1)(100 + 1) = 10201$ divisores positivos.
+- $6^{100} = \underbrace{2^{100} \cdot 3^{100}}_{\text{D.C.}}$ tiene $(100 + 1)(100 + 1) = 10201$ divisores positivos.
 
 ```ad-exercise
 title:  Ejercicio (cantidad de divisores pares)

@@ -45,7 +45,7 @@ title: Cita
 
 La comunicación es una acción **dinámica y productiva**. Los participantes ponen en juego sus conocimientos y experiencias previas, su realidad y percepción del mundo.
 
-## 2. ¿Qué es eso del sentido?
+## 2. Sobre el "sentido"
 
 El sentido no es sólo el significado del mensaje. Es un **efecto global**, un **resultado** de todo el contexto que envuelve a la comunicación.
 

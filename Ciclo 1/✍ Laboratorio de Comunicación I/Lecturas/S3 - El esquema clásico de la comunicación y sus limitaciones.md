@@ -1,7 +1,0 @@
-```ad-summary
-title: Resumen
-
-
-
-```
-

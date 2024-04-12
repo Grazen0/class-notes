@@ -13,7 +13,7 @@ kanban-plugin: basic
 ## Lecturas
 
 - [ ] **[[S3 - Guía para la preparación de las hojas de ruta de la CTI para los ODS]]**<br><br>ONU<br><br>#pi #teo
-- [ ] **[[S3 - El esquema clásico de la comunicación y sus limitaciones]]**<br><br>Escandell<br><br>#comu #teo
+- [ ] **[[S3 - El esquema clásico de la comunicación y sus limitaciones (cáp. 1)]]**<br><br>Escandell<br><br>#comu #teo
 
 
 ## Completado

@@ -134,4 +134,8 @@ Las principales características de una hoja de ruta son:
 ### 2.3. Los insumos básicos
 
 1. **Consultar a las partes interesadas** en los planes, para obtener opiniones, aportaciones y fomentar armonía entre todos los participantes del plan.
-2. Tener **conocimientos técnicos y de gestión**
+2. Tener **conocimientos especializados** del campo científico, técnico, de gestión y político. *La experiencia también ayuda, sobre todo en la política.*
+3. Tener **datos y conocimientos sobre el contexto nacional**: el desarrollo actual, proyecciones a futuro, etc.
+
+---
+

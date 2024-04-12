@@ -39,7 +39,7 @@ $$
 Definimos el conjunto de los números racionales, denotado por $\Q$, como el conjunto de todos los números de la forma $\frac{a}{b}$ donde $a$ y $b$ son números enteros, con $b \neq 0$.
 
 $$
-\Q := \left\{ \frac{a}{b} : a,b \in \mathbb{Z}\ y\ b \neq 0 \right\}
+\Q := \left\{ \frac{a}{b} \mid a,b \in \mathbb{Z}\ y\ b \neq 0 \right\}
 $$
 
 ```
@@ -207,7 +207,7 @@ $$
 Dados números reales $a$ y $b$, el intervalo $(a,b)$ es el conjunto de todos los números reales $x$ que satisfacen la condición $a < x < b$, lo cual significa que cumple $a < x$ y $x < b$.
 
 $$
-(a,b) := \left\{ x \in \mathbb{R} : a < x < b \right\}
+(a,b) := \left\{ x \in \mathbb{R} \mid a < x < b \right\}
 $$
 
 Este intervalo se llama **abierto en ambos extremos**.
@@ -222,14 +222,14 @@ Todos los tipos de intervalos se definen de la siguiente manera:
 
 $$
 \begin{align*}
-(a,b)    &:= \left\{x \in \mathbb{R} : a \lt x \lt b \right\} \\
-[a,b]    &:= \left\{x \in \mathbb{R} : a \leq x \leq b \right\} \\
-(a,b]    &:= \left\{x \in \mathbb{R} : a \lt x \leq b \right\} \\
-[a,b)    &:= \left\{x \in \mathbb{R} : a \leq x \lt b \right\} \\
-(a,+\infty)   &:= \left\{x \in \mathbb{R} : x \gt a \right\} \\
-[a,+\infty)   &:= \left\{x \in \mathbb{R} : x \geq a \right\} \\
-(-\infty, b)  &:= \left\{x \in \mathbb{R} : x \lt b \right\} \\
-(-\infty, b]  &:= \left\{x \in \mathbb{R} : x \leq b \right\} \\
+(a,b)    &:= \left\{x \in \mathbb{R} \mid a \lt x \lt b \right\} \\
+[a,b]    &:= \left\{x \in \mathbb{R} \mid a \leq x \leq b \right\} \\
+(a,b]    &:= \left\{x \in \mathbb{R} \mid a \lt x \leq b \right\} \\
+[a,b)    &:= \left\{x \in \mathbb{R} \mid a \leq x \lt b \right\} \\
+(a,+\infty)   &:= \left\{x \in \mathbb{R} \mid x \gt a \right\} \\
+[a,+\infty)   &:= \left\{x \in \mathbb{R} \mid x \geq a \right\} \\
+(-\infty, b)  &:= \left\{x \in \mathbb{R} \mid x \lt b \right\} \\
+(-\infty, b]  &:= \left\{x \in \mathbb{R} \mid x \leq b \right\} \\
 (-\infty, +\infty) &:= \R
 \end{align*}
 $$
