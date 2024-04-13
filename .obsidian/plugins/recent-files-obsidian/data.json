@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "S3-4 - Guía para la preparación de las hojas de ruta de la CTI para los ODS",
       "path": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S3-4 - Guía para la preparación de las hojas de ruta de la CTI para los ODS.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "Kanban",
       "path": "Kanban.md"
-    },
-    {
-      "basename": "S2D - Lógica proposicional",
-      "path": "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S2D - Lógica proposicional.md"
     }
   ],
   "omittedPaths": [
