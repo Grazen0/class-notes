@@ -39,7 +39,7 @@ $$
 Definimos el conjunto de los números racionales, denotado por $\Q$, como el conjunto de todos los números de la forma $\frac{a}{b}$ donde $a$ y $b$ son números enteros, con $b \neq 0$.
 
 $$
-\Q := \left\{ \frac{a}{b} \mid a,b \in \mathbb{Z}\ y\ b \neq 0 \right\}
+\Q := \left\{ \frac{a}{b} \lmid a,b \in \mathbb{Z}\ y\ b \neq 0 \right\}
 $$
 
 ```

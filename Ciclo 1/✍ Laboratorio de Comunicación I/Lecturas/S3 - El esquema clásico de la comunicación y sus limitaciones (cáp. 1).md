@@ -1,7 +1,21 @@
+[[S3 - El esquema clásico de la comunicación y sus limitaciones.pdf]]
+
 ```ad-summary
 title: Resumen
 
-Este texto estudia los esquemas con los que se analiza a la comunicación.
+Este primer capítulo **cuestiona** el esquema clásico de la comunicación y **plantea** las necesidades de un sistema más amplio.
+
+1. El acto comunicativo se define mucho por los participantes y el contexto, pero **necesitamos encontrar regularidades** para estudiarlo.
+2. El esquema clásico contiene los elementos más conocidos: **emisor, receptor, mensaje, etc**.
+3. El esquema clásico es **rígido, mecánico** e insuficiente.
+4. Interpretar la lengua requiere más que conocimientos solo sobre el código, **requiere contexto**.
+5. El emisor y el receptor no sólo codifican/decodifican, sino que intervienen otros factores como su **relación social** y el **entorno**.
+6. Un requisito para la comunicación es la **intencionalidad**.
+7. Al comunicarnos, hacemos referencia a la **representación interna** de las cosas reales, no a *las* cosas como tal.
+8. El objetivo de comunicarnos **define la actitud** del emisor.
+9. El habla y la escritura difieren no solo por el medio físico, sino también por las **convenciones y particularidades** que conllevan.
+10. El **contexto** de un acto comunicativo cambia a través del tiempo, pero es **estático** en cada instante.
+
 
 ```
 
@@ -105,3 +119,75 @@ En casos como este ejemplo, la comunicación se da **sin un código establecido*
 
 ## 5. ¿Con quién nos comunicamos?
 
+El emisor y receptor **no son meramente codificadores y decodificadores**.
+
+Los participantes de la comunicación no se definen precisamente por esta capacidad. Más bien, intervienen varios otros factores:
+
+- Identidad social (amigo/desconocido, experto/novato, etc)
+- Conocimiento del entorno
+
+Es por esta amplia caracterización que se permite la comunicación sin un código establecido.
+
+## 6. ¿Cuándo hay comunicación?
+
+En el sentido de **recepción**, decimos que la comunicación se ha producido con éxito cuando **el receptor ha recibido e interpretado el mensaje correctamente**.
+
+Sin embargo, desde el sentido de **emisión**, la respuesta es un poco más amplia.
+
+```ad-important
+title: Importante
+
+La emisión de la comunicación requiere obligatoriamente de **intencionalidad** a la hora de transmitir el mensaje.
+
+```
+
+No se puede hablar de "comunicación" si la emisión del "mensaje" no fue voluntaria. Así es como nos diferenciamos de la comunicación con los **animales**: actuamos no por reflejo, sino por voluntad.
+
+## 7. ¿Qué comunicamos?
+
+### 7.1. Más allá de la información
+
+La transmisión de información **no es el único fin de la comunicación**. Existen muchas frases y situaciones donde no comunicamos nada nuevo ni relevante.
+
+### 7.2 Realidad y "representación interna"
+
+```ad-note
+title: Nota
+
+El referente **no** es necesario para la comunicación.
+
+```
+
+Debemos introducir un nuevo concepto que llamamos **representación interna**.
+
+La representación interna no es más que la **imagen mental** con la que percibimos cualquier cosa: el mundo, los estados de ánimo, los pensamientos, etc.
+
+Es decir, cuando hablamos de un "referente", debemos pensar en que no se trata de las *cosas* como tal, **las representaciones que tenemos de ellas**.
+
+## 8. ¿Para qué nos comunicamos?
+
+El análisis de la comunicación debe incluir un **objetivo**, un propósito.
+
+Según lo descrito anteriormente, decimos que el objetivo del emisor es, de forma general, **crear en la mente del receptor un conjunto de representaciones**.
+
+La misma expresión lingüística se puede usar con diferentes **finalidades**, y ello depende del contexto y forma de comunicar. Así, la finalidad es clave porque **dicta la conducta del emisor**, y es decisiva a la hora tanto de producir como interpretar la señal.
+
+## 9. ¿Por qué medio nos comunicamos?
+
+La escritura y el habla **no solo difieren por el medio**.
+
+Sí sigue siendo cierto que cada medio tiene sus propias **propiedades intrínsecas** que lo caracterizan, pero también tienen **convenciones externas** que definen la forma específica en la que se comunica un mensaje.
+
+Estas convenciones dependen sobre todo de 2 cosas: el grado de **formalidad** y el grado de **planificación**.
+
+## 10. ¿En qué situación nos comunicamos?
+
+El contexto o **situación** es, como se sabe comúnmente, todo el conjunto de los aspectos del momento temporal, el entorno sociocultural y todo lo que rodea al acto comunicativo.
+
+Aunque la situación cambia a través del tiempo, es **estática** en cada instante.
+
+Cabe destacar que **la misma conversación puede modificar la circunstancia**.
+
+## 11. Conclusión
+
+Las preguntas planteadas en este texto muestran la **complejidad de la comunicación**, y a la vez descubren las diversas **carencias del modelo clásico**, un modelo rígido y mecánico que no abarca la inmensa complejidad del fenómeno comunicativo.

@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "af281a9e6b63e8dd",
+        "id": "53b9422d7a574059",
         "type": "tabs",
         "children": [
           {
-            "id": "0fa2d3139267be09",
+            "id": "de4ff1fae0bde388",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S1A - Conjuntos numéricos.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -97,15 +102,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "882014e44f79451f",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
+              "state": {
+                "file": "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S1A - Conjuntos numéricos.md"
+              }
             }
           },
           {
@@ -135,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5,
-    "collapsed": true
+    "width": 274.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,44 +149,78 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "0fa2d3139267be09",
+  "floating": {
+    "id": "8098b556fea8b6c6",
+    "type": "floating",
+    "children": [
+      {
+        "id": "d71baafe4f3ec771",
+        "type": "window",
+        "children": [
+          {
+            "id": "fcc02f19753df5be",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c48779e50c685213",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/S3 - El esquema clásico de la comunicación y sus limitaciones.pdf"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 113,
+        "y": 0,
+        "width": 1140,
+        "height": 728,
+        "maximize": true,
+        "zoom": -0.5
+      }
+    ]
+  },
+  "active": "de4ff1fae0bde388",
   "lastOpenFiles": [
-    "Ciclo 1/Notas diarias/10-04-2024.md",
-    "Ciclo 1/Notas diarias/03-04-2024.md",
-    "Ciclo 1/Notas diarias/11-04-2024.md",
-    "Ciclo 1/Notas diarias/09-04-2024.md",
-    "Ciclo 1/Notas diarias/04-04-2024.md",
-    "Ciclo 1/Notas diarias/05-04-2024.md",
-    "Ciclo 1/Notas diarias/08-04-2024.md",
-    "Ciclo 1/Notas diarias/12-04-2024.md",
-    "Kanban.md",
-    "Ciclo 1/✍ Laboratorio de Comunicación I/Información del curso.md",
-    "Ciclo 1/🍎 Matemáticas Discretas I/Información del curso.md",
-    "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S1A - Conjuntos numéricos.md",
-    "Ciclo 1/📈 Cálculo de Una Variable/Notas/S1 - Funciones.md",
-    "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S2A - Números primos y descomposición canónica.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S3 - El esquema clásico de la comunicación y sus limitaciones (cáp. 1).md",
-    "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/S1 (Teo) - La Comunicación.md",
+    "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/S3 - El esquema clásico de la comunicación y sus limitaciones.pdf",
+    "Kanban.md",
+    "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S2B - MCD y MCM.md",
+    "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S2D - Lógica proposicional.md",
+    "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S2C - Sistemas de numeración.md",
+    "Ciclo 1/🍎 Matemáticas Discretas I/Notas/Recursos/93 a binario.excalidraw.md",
+    "e.md",
+    "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S2 - De animales a dioses (cáp. 2).md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S3 - La comunicación como práctica discursiva.md",
+    "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/S2 - De animales a dioses.pdf",
+    "().md",
+    "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF",
+    "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/S3 - La comunicación como práctica discursiva.pdf",
+    "Ciclo 1/✍ Laboratorio de Comunicación I/Anexo.pdf",
+    "Ciclo 1/Notas diarias/11-04-2024.md",
+    "Ciclo 1/Notas diarias/10-04-2024.md",
+    "Ciclo 1/Notas diarias/12-04-2024.md",
+    "Ciclo 1/💻 Programación I/Notas/S2 (Teo) - Elementos de un programa.md",
+    "Ciclo 1/🍎 Matemáticas Discretas I/Notas/Recursos/Clasificacion semantica.excalidraw.md",
+    "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S2A - Números primos y descomposición canónica.md",
+    "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/S2 (Lab) - Puntuación.md",
+    "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/S1B (Lab) - Oraciones y su clasificación.md",
+    "Ciclo 1/📈 Cálculo de Una Variable/Notas/Recursos/Sistema de evaluación.excalidraw.md",
     "Ciclo 1/📈 Cálculo de Una Variable/Información del curso.md",
+    "Ciclo 1/🍎 Matemáticas Discretas I/Notas/Recursos/Clasificación pragmática.excalidraw.md",
+    "Ciclo 1/✍ Laboratorio de Comunicación I/Sílabo.pdf",
+    "Ciclo 1/✍ Laboratorio de Comunicación I/Cronograma.pdf",
+    "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/Clasificación sintáctica.excalidraw.md",
+    "Ciclo 1/Notas diarias/12/04--2024.md",
+    "Ciclo 1/Notas diarias/12",
+    "Ciclo 1/Notas diarias/03-04-2024.md",
+    "Ciclo 1/Notas diarias/09-04-2024.md",
     "Ciclo 1/📈 Cálculo de Una Variable/Anexo.pdf",
     "Ciclo 1/💾 Introducción a Ciencias de la Computación/Anexo (Lab).pdf",
-    "Ciclo 1/💾 Introducción a Ciencias de la Computación/Anexo (Teo).pdf",
-    "Ciclo 1/💾 Introducción a Ciencias de la Computación/Información del curso.md",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Anexo.pdf",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Información del curso.md",
-    "Ciclo 1/💻 Programación I/Anexo (Teo).pdf",
-    "Ciclo 1/💻 Programación I/Información del curso.md",
-    "Ciclo 1/💻 Programación I/Anexo (Lab).pdf",
-    "Ciclo 1/💻 Programación I/Sílabo.pdf",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Sílabo.pdf",
-    "Ciclo 1/✍ Laboratorio de Comunicación I/Cronograma.pdf",
-    "Ciclo 1/✍ Laboratorio de Comunicación I/Anexo.pdf",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S3 - Guía para la preparación de las hojas de ruta de la CTI para los ODS.md",
-    "Ciclo 1/💻 Programación I/Notas/S1 (Teo) - Introducción.md",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Recursos/Sistema de evaluación.excalidraw.md",
-    "Ciclo 1/💾 Introducción a Ciencias de la Computación/Notas/S2 - Más introducción.md",
-    "Ciclo 1/📈 Cálculo de Una Variable/Notas/S2 - Tipos de funciones.md",
     "Ciclo 1/📈 Cálculo de Una Variable/Notas/Recursos/Grafico Liebre.png",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Recursos/ods.jpg",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/Noam Chomsky.jpg",

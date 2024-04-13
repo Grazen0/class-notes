@@ -12,7 +12,7 @@ kanban-plugin: basic
 
 ## Lecturas
 
-- [ ] **[[S3 - Guía para la preparación de las hojas de ruta de la CTI para los ODS]]**<br><br>ONU<br><br>#pi #teo
+- [ ] **[[S3-4 - Guía para la preparación de las hojas de ruta de la CTI para los ODS]]**<br><br>ONU<br><br>#pi #teo
 - [ ] **[[S3 - El esquema clásico de la comunicación y sus limitaciones (cáp. 1)]]**<br><br>Escandell<br><br>#comu #teo
 
 
@@ -27,9 +27,9 @@ kanban-plugin: basic
 ## Archive
 
 - [ ] Lectura PI
-- [x] [[De animales a dioses - Cáp. 2|De animales a dioses: Breve historia de la humanidad]]<br><br>Yuval Noah Harari<br><br>*Sólo el cáp. 2*<br><br>#comu #teo
-- [x] [[S2. Vasen. 2016|¿Estamos ante un  giro postcompetitivo  en la política de ciencia, tecnología e innovación?]]<br><br>Frederico Vasen<br><br>#pi #teo
-- [x] [[S2 Comisión Consultativa Primer Informe|Acciones para el potenciamiento de la ciencia, la tecnología y la innovación en el Perú]]<br><br>CCCTI<br><br>#pi #teo
+- [x] [[S2 - De animales a dioses (cáp. 2)|De animales a dioses: Breve historia de la humanidad]]<br><br>Yuval Noah Harari<br><br>*Sólo el cáp. 2*<br><br>#comu #teo
+- [x] [[S2 - Giro postcompetitivo en la política de CTI|¿Estamos ante un  giro postcompetitivo  en la política de ciencia, tecnología e innovación?]]<br><br>Frederico Vasen<br><br>#pi #teo
+- [x] [[S2 - Acciones para el potenciamiento de la CTI en Perú|Acciones para el potenciamiento de la ciencia, la tecnología y la innovación en el Perú]]<br><br>CCCTI<br><br>#pi #teo
 
 %% kanban:settings
 ```

@@ -39,7 +39,7 @@ print("Hours:", hours)
 - Exponenciación: `**`
 - División entera: `//`
 
-### Precedencia de los operadores
+### Precedencia
 
 Para operadores del mismo nivel, se procede de **izquierda a derecha**.
 
@@ -91,8 +91,15 @@ Es una **variable binaria** que tiene dos posibles valores: **verdadero** o **fa
 - Igual a: `==`
 - Distinto de: `!=`
 
-### Operadores booleanos
+### Operadores lógicos
 
 - Conjunción: `and`
 - Disyunción: `or`
 - Negación: `not`
+
+### Precedencia
+
+Para operadores del mismo nivel, se procede de **izquierda a derecha**
+
+1. Operadores de relación (`<`, `<=`, `>`, `>=`, `==`, `!=`)
+2. Operadores lógicos (`and`, `or`, `not`)
