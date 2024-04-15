@@ -84,6 +84,147 @@
     "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.1.1",
     "libraryItems": [
       {
+        "status": "unpublished",
+        "elements": [
+          {
+            "type": "line",
+            "version": 250,
+            "versionNonce": 650273043,
+            "isDeleted": false,
+            "id": "K_K_llZV3QCzd7I_bZ0SH",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "angle": 0,
+            "x": -223.55420898836036,
+            "y": -96.76626977271985,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "width": 53.223365728738656,
+            "height": 69.44313086753414,
+            "seed": 1075188509,
+            "groupIds": [],
+            "frameId": null,
+            "roundness": null,
+            "boundElements": [],
+            "updated": 1713209699278,
+            "link": null,
+            "locked": false,
+            "startBinding": null,
+            "endBinding": null,
+            "lastCommittedPoint": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "points": [
+              [
+                0,
+                0
+              ],
+              [
+                0,
+                69.44313086753414
+              ],
+              [
+                53.223365728738656,
+                34.45941449150651
+              ],
+              [
+                0,
+                0
+              ]
+            ]
+          },
+          {
+            "type": "ellipse",
+            "version": 186,
+            "versionNonce": 1709059485,
+            "isDeleted": false,
+            "id": "uG8DVPLMRAql31i50Ra7v",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "angle": 0,
+            "x": -170.33084327992486,
+            "y": -67.60007822390679,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "width": 10.370033945613285,
+            "height": 11.110749182062609,
+            "seed": 1434429309,
+            "groupIds": [],
+            "frameId": null,
+            "roundness": null,
+            "boundElements": [],
+            "updated": 1713209699278,
+            "link": null,
+            "locked": false
+          }
+        ],
+        "id": "8FZLHKKKQom2vxVPmLYPT",
+        "created": 1713209706461
+      },
+      {
+        "status": "unpublished",
+        "elements": [
+          {
+            "type": "line",
+            "version": 249,
+            "versionNonce": 1825391677,
+            "isDeleted": false,
+            "id": "K_K_llZV3QCzd7I_bZ0SH",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "angle": 0,
+            "x": -223.55420898836036,
+            "y": -96.76626977271985,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "width": 53.223365728738656,
+            "height": 69.44313086753414,
+            "seed": 1075188509,
+            "groupIds": [],
+            "frameId": null,
+            "roundness": null,
+            "boundElements": [],
+            "updated": 1713209675431,
+            "link": null,
+            "locked": false,
+            "startBinding": null,
+            "endBinding": null,
+            "lastCommittedPoint": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "points": [
+              [
+                0,
+                0
+              ],
+              [
+                0,
+                69.44313086753414
+              ],
+              [
+                53.223365728738656,
+                34.45941449150651
+              ],
+              [
+                0,
+                0
+              ]
+            ]
+          }
+        ],
+        "id": "y5t8d8knQKw7PbkrU1B1f",
+        "created": 1713209697336
+      },
+      {
         "status": "published",
         "elements": [
           {

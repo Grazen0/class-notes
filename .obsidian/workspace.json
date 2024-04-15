@@ -23,12 +23,15 @@
             }
           },
           {
-            "id": "3b98a364a3fa1f7b",
+            "id": "0bad2bb0ce26392a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.excalidraw.md"
+                "file": "Ciclo 1/Notas diarias/15-04-2024.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -115,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.excalidraw.md"
+                "file": "Ciclo 1/Notas diarias/15-04-2024.md"
               }
             }
           },
@@ -162,10 +165,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3b98a364a3fa1f7b",
+  "active": "0bad2bb0ce26392a",
   "lastOpenFiles": [
-    "Ciclo 1/Notas diarias/15-04-2024.md",
     "Untitled.excalidraw.md",
+    "Ciclo 1/Notas diarias/15-04-2024.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S2D - Lógica proposicional.md",
     "Kanban.md",
     "Ciclo 1/Notas diarias/12-04-2024.md",
