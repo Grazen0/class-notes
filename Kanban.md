@@ -13,13 +13,13 @@ kanban-plugin: basic
 ## Lecturas
 
 - [ ] **[[S3-4 - Guía para la preparación de las hojas de ruta de la CTI para los ODS]]**<br><br>ONU<br><br>#pi #teo
-- [ ] **[[S3 - El esquema clásico de la comunicación y sus limitaciones (cáp. 1)]]**<br><br>Escandell<br><br>#comu #teo
 
 
 ## Completado
 
 **Complete**
 - [x] **[[S3 - La comunicación como práctica discursiva]]**<br><br>María Cristina Mata / Silvia Scarafino<br><br>#comu #teo
+- [x] **[[S3 - El esquema clásico de la comunicación y sus limitaciones (cáp. 1)]]**<br><br>Escandell<br><br>#comu #teo
 
 
 ***

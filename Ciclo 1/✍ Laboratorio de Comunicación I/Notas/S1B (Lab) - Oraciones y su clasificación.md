@@ -13,8 +13,8 @@ La **oración** es la unidad mínima del discurso.
 
 Las oraciones se clasifican por 3 criterios:
 
-1. **Sintáctica**: Por el número de núcleos de predicado
-2. **Semántica**: Por los tipos de verbos
+1. **Sintáctica**: Rol gramatical
+2. **Semántica**: 
 3. **Pragmática**: Por su función discursiva
 
 ```ad-note
@@ -31,26 +31,26 @@ Consideremos cuántos complementos necesitan los siguientes verbos para ser util
 
 ## Clasificación sintáctica
 
-![[Clasificación sintáctica.excalidraw|width:80%]]
+![[Clasificación sintáctica.excalidraw|width:100%]]
 
 ### Ejemplos
 
 #### Simple
 
-- Juan **corre** en las mañanas.
-- María **estudia**.
+- Juan *corre* en las mañanas.
+- María *estudia*.
 
 #### Compleja
 
 ##### Coordinada
 
-- **Copulativa:** Juan duerme **y** María estudia.
-- **Adversativa:** Vive solo, **pero** trabaja con muchas personas.
-- **Disyuntiva:** Duerme en Lima **o** viaja temprano.
+- **Copulativa:** Juan *duerme* **y** María *estudia*.
+- **Adversativa:** *Vive* solo, **pero** *trabaja* con muchas personas.
+- **Disyuntiva:** *Duerme* en Lima **o** *viaja* temprano.
 
 ##### Yuxtapuesta
 
-María estudia, Pedro trabaja.
+María *estudia*, Pedro *trabaja*.
 
 ##### Subordinada
 
@@ -82,7 +82,7 @@ title: Advertencia
 - **Transitiva:** Juan *golpea* la pared. (Juan **la** golpea) (golpea $\to$ pared)
 - **Intransitiva**
 	- **Pura:** Juan *sonríe*.
-	- **Ergativa:** La primavera *llegó* / La planta *floreció*.
+	- **Ergativa:** La primavera *llegó*. / La planta *floreció*.
 - **Reflexiva:** Él *se lava*. / *Me compré* una bicicleta. 
 - **Recíproca:** *Tú y yo* nos entendemos muy bien. / *Tú y él* se saludaron.
 - **Impersonales**
