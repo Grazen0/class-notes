@@ -4,39 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "52017c88fb576aba",
+        "id": "1548c85badc966c2",
         "type": "tabs",
         "children": [
           {
-            "id": "7fc645523c04b235",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciclo 1/Notas diarias/15-04-2024.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "0bad2bb0ce26392a",
+            "id": "b70c55bd1b8dd878",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Ciclo 1/Notas diarias/15-04-2024.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,12 +149,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0bad2bb0ce26392a",
+  "active": "b70c55bd1b8dd878",
   "lastOpenFiles": [
+    "Kanban.md",
     "Untitled.excalidraw.md",
     "Ciclo 1/Notas diarias/15-04-2024.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S2D - Lógica proposicional.md",
-    "Kanban.md",
     "Ciclo 1/Notas diarias/12-04-2024.md",
     "Ciclo 1/Notas diarias/05-04-2024.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S2C - Sistemas de numeración.md",
