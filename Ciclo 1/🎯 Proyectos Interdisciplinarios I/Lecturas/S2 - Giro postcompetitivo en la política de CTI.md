@@ -31,7 +31,7 @@ Es de consideración general que el enfoque convencional de las CTI (economía y
 Los tres marcos de esta reforma y sus premisas son:
 
 - **Grandes desafíos**: El enfoque convencional no trabaja con los grandes desafíos
-- **Tecnologías emergentes**: Las nuevas tecnologías plantean problemas incompatibles con el enfoque convencional
+- **Innovación responsable**: Las nuevas tecnologías plantean problemas incompatibles con el enfoque convencional
 - **Inclusión social**: El enfoque convencional aumenta la desigualdad
 
 | **Postulado tradicional**                                                               | **Postulado alternativo**                                                        | **Nuevo enfoque**                       |

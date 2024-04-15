@@ -1,3 +1,5 @@
+Lets go
+
 ## Proposiciones lógicas
 
 ```ad-definition
@@ -56,18 +58,12 @@ La **conjunción** es un conector denotado por el símbolo $\land$, cuyo valor d
 
 $p \land q$ es verdadero cuando $p$ es verdadero y $q$ es verdadero, y es falso en cualquier otro caso.
 
-$$
-\begin{array}{|c c|c|}
-\hline
-p & q & p \land q \\
-\hline
-\True  & \True  & \True  \\
-\True  & \False & \False \\
-\False & \True  & \False \\
-\False & \False & \False \\
-\hline
-\end{array}
-$$
+| $p$ | $q$ | $p \land q$ |
+| :-: | :-: | :---------: |
+|  V  |  V  |      V      |
+|  V  |  F  |      F      |
+|  F  |  V  |      F      |
+|  F  |  F  |      F      |
 
 ```
 
@@ -112,6 +108,7 @@ $$
 
 ```ad-example
 title: Ejemplo de dedución
+collapse: closed
 
 Si suponemos que $p \land (q \land r) \equiv \True$, entonces podemos deducir lo siguiente:
 
@@ -127,6 +124,8 @@ $$
 
 ```
 
+
+
 ### Disyunción (débil) - $\lor$
 
 ```ad-definition
@@ -135,18 +134,12 @@ La **desyunción** es un conector denotado por el símbolo $\lor$, cuyo valor de
 
 $p \lor q$ es falso cuando $p$ es falso y $q$ es falso, y es verdadero en cualquier otro caso.
 
-$$
-\begin{array}{|c c|c|}
-\hline
-p & q & p \lor q \\
-\hline
-\True  & \True  & \True  \\
-\True  & \False & \True  \\
-\False & \True  & \True  \\
-\False & \False & \False \\
-\hline
-\end{array}
-$$
+| $p$ | $q$ | $p \lor q$ |
+| :-: | :-: | :---------: |
+|  V  |  V  |      V      |
+|  V  |  F  |      V      |
+|  F  |  V  |      V      |
+|  F  |  F  |      F      |
 
 ```
 

@@ -443,11 +443,14 @@ body {
   --table-header-weight: var(--font-semibold);
   --table-header-color: var(--text-normal);
 }
+
 .cm-embed-block.markdown-rendered .block-language-dataview,
 .markdown-rendered table,
 .markdown-rendered .table-view-table {
+  margin-left: auto;
+  margin-right: auto;
   margin-bottom: 1.5em;
-  width: 100%;
+  /*width: 100%;*/
 }
 .cm-embed-block.markdown-rendered .block-language-dataview th,
 .cm-embed-block.markdown-rendered .block-language-dataview td,
@@ -456,7 +459,17 @@ body {
 .markdown-rendered .table-view-table th,
 .markdown-rendered .table-view-table td {
   padding: 0.6em 1.8em 0.6em 1.8em;
+  border-color: hsl(var(--base-h), var(--base-s), calc(var(--base-d) + 10%)) !important;
+  border-collapse: collapse;
 }
+.admonition table th,
+.admonition table td,
+.admonition .table-view-table th,
+.admonition .table-view-table td {
+  border-color: hsl(var(--base-h), var(--base-s), calc(var(--base-d) + 25%)) !important;
+  border-collapse: collapse;
+}	
+
 .cm-embed-block.markdown-rendered .block-language-dataview td,
 .markdown-rendered table td,
 .markdown-rendered .table-view-table td {

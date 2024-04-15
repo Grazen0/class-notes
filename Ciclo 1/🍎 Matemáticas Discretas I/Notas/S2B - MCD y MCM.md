@@ -23,7 +23,7 @@ El **mínimo común múltiplo** de dos enteros $a$ y $b$, denotado con $\lcm(a,b
 
 ```ad-theorem
 
-Sean $a,b$ dos enteros en su descomposición canónica de la siguiente forma:
+Sean $a,b$ dos enteros positivos en su descomposición canónica de la siguiente forma:
 
 $$
 \begin{align}
