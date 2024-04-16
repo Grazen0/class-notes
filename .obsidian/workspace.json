@@ -49,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/S1B (Lab) - Oraciones y su clasificación.md"
+                "file": "Ciclo 1/📈 Cálculo de Una Variable/Notas/S3 - Funciones trascendentales.md"
               }
             }
           },
@@ -177,8 +177,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6fce715e2f46f9fa",
+  "active": "b65ddc84e8311747",
   "lastOpenFiles": [
+    "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/S1B (Lab) - Oraciones y su clasificación.md",
     "Ciclo 1/Notas diarias/15-04-2024.md",
     "Ciclo 1/📈 Cálculo de Una Variable/Notas/S3 - Funciones trascendentales.md",
     "Kanban.md",
@@ -199,7 +200,6 @@
     "document.tex",
     "New Text Document.txt",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/S2 (Lab) - Puntuación.md",
-    "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/S1B (Lab) - Oraciones y su clasificación.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/Clasificación sintáctica.excalidraw.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S3 - El esquema clásico de la comunicación y sus limitaciones (cáp. 1).md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S3 - La comunicación como práctica discursiva.md",

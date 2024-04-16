@@ -45,3 +45,15 @@ $$
 \ran(\cosh) &= [1, +\infty)
 \end{align}
 $$
+
+## Funciones trigonométricas
+
+$$
+\begin{align}
+f(x) &= A\sin\left( \frac{2\pi}{T}x \right)
+\end{align}
+$$
+
+$A$: amplitud
+$T$: periodo
+
