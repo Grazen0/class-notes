@@ -10,6 +10,7 @@
           {
             "id": "b70c55bd1b8dd878",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,10 +18,38 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "b65ddc84e8311747",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciclo 1/📈 Cálculo de Una Variable/Notas/S3 - Funciones trascendentales.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6fce715e2f46f9fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/S1B (Lab) - Oraciones y su clasificación.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo 1/Notas diarias/15-04-2024.md"
+                "file": "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/S1B (Lab) - Oraciones y su clasificación.md"
               }
             }
           },
@@ -132,8 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,11 +177,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b70c55bd1b8dd878",
+  "active": "6fce715e2f46f9fa",
   "lastOpenFiles": [
+    "Ciclo 1/Notas diarias/15-04-2024.md",
+    "Ciclo 1/📈 Cálculo de Una Variable/Notas/S3 - Funciones trascendentales.md",
     "Kanban.md",
     "Untitled.excalidraw.md",
-    "Ciclo 1/Notas diarias/15-04-2024.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S2D - Lógica proposicional.md",
     "Ciclo 1/Notas diarias/12-04-2024.md",
     "Ciclo 1/Notas diarias/05-04-2024.md",
@@ -184,7 +213,6 @@
     "Ciclo 1/✍ Laboratorio de Comunicación I/Anexo.pdf",
     "Ciclo 1/Notas diarias/11-04-2024.md",
     "Ciclo 1/Notas diarias/10-04-2024.md",
-    "Ciclo 1/💻 Programación I/Notas/S2 (Teo) - Elementos de un programa.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Sílabo.pdf",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Cronograma.pdf",
     "Ciclo 1/📈 Cálculo de Una Variable/Notas/Recursos/Grafico Liebre.png",
