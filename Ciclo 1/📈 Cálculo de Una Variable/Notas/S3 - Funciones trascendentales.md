@@ -57,3 +57,7 @@ $$
 $A$: amplitud
 $T$: periodo
 
+Ojo es periódica
+
+**Dominio:** $\R$
+**Rango:** $[-1, 1]$
