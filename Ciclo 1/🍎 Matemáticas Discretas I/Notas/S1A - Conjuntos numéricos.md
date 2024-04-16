@@ -189,7 +189,7 @@ Estas propiedades se extienden a $\leq$ y $\geq$.
 
 $$
 \begin{align}
-a < b \text{ y } c > 0 &\implies \begin{cases}
+a < b \text{ y } c \in \R &\implies \begin{cases}
 ac < bc & \text{si } c > 0 \\
 ac > bc & \text{si } c < 0
 \end{cases} \\
