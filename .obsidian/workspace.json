@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4888df7eb6227623",
+        "id": "060ffb20f3beb696",
         "type": "tabs",
         "children": [
           {
-            "id": "727abbed2f493e88",
+            "id": "7a2644f98d7b12aa",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -146,7 +146,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "727abbed2f493e88",
+  "active": "7a2644f98d7b12aa",
   "lastOpenFiles": [
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S2 - Giro postcompetitivo en la política de CTI.md",
     "Ciclo 1/Notas diarias/15-04-2024.md",
