@@ -6,7 +6,8 @@
     "style",
     "mathjax",
     "images",
-    "headings"
+    "headings",
+    "li-spacing"
   ],
   "nativeMenus": false,
   "textFontFamily": "",

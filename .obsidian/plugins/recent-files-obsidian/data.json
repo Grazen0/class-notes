@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Kanban",
+      "path": "Kanban.md"
+    },
+    {
       "basename": "S3 (Teo) - El proceso de la comunicación",
       "path": "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/S3 (Teo) - El proceso de la comunicación.md"
+    },
+    {
+      "basename": "NOESTOYGRITANDO",
+      "path": "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/NOESTOYGRITANDO.png"
+    },
+    {
+      "basename": "Horario",
+      "path": "Ciclo 1/Horario.pdf"
     },
     {
       "basename": "Modelo de David Berlo.excalidraw",
@@ -17,10 +29,6 @@
       "path": "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/Modelo de Jakobson.excalidraw.md"
     },
     {
-      "basename": "Kanban",
-      "path": "Kanban.md"
-    },
-    {
       "basename": "Comic marcianito baño (1)",
       "path": "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/Comic marcianito baño (1).png"
     },
@@ -31,14 +39,6 @@
     {
       "basename": "S5 - Perna. IA y los ODS",
       "path": "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S5 - Perna. IA y los ODS.md"
-    },
-    {
-      "basename": "Renwick. Escrituralidad y oralidad",
-      "path": "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/Renwick. Escrituralidad y oralidad.pdf"
-    },
-    {
-      "basename": "Pernas. IA y los ODS",
-      "path": "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/Pernas. IA y los ODS.pdf"
     }
   ],
   "omittedPaths": [

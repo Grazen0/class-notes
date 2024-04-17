@@ -29,9 +29,18 @@ Es un modelo **lineal**, basado en las raíces de la teoría de la información.
 
 ![[Modelo de David Berlo.excalidraw|width:80%]]
 
-### Limitaciones del receptor
+## Barreras de la comunicación
 
-La comunicación se puede ver limitada por diversos factores desde el lado del **receptor**:
+La comunicación se puede ver limitada por diversos factores desde cada uno de sus elementos.
+
+### En el emisor
+
+- Desconocimiento del tema
+- Comunicación confusa
+- Inseguridad
+- Incoherencia con las acciones
+
+### En el receptor
 
 - Distracciones
 - No saber escuchar
@@ -39,25 +48,40 @@ La comunicación se puede ver limitada por diversos factores desde el lado del *
 - Barreras culturales: prejuicios, estereotipos
 - Subjetividad
 
-### Limitaciones del mensaje
+### En el mensaje
 
 - Información deficiente
 - Código inapropiado (jerga / formalidad)
 
-### Leyes de la comunicación
+### En el canal
+
+- No vocalizar, hablar bajo.
+- *Teléfono malogrado*
+
+## Leyes de la comunicación
 
 1. **Lo importante es lo que recibe el receptor**, no lo que emite el emisor. El mensaje no siempre se capta de la forma prevista.
 2. **El emisor es el primer responsable de los resultados.** 
-3. AAAAAAAA
+3. **Las subjetividades se mezclan con lo objetivo**. El emisor usualmente incluye algo de sus opiniones, y el receptor interpreta bajo su conocimiento.
 4. **La comunicación requiere de *feedback*** como herramienta para verificar la correcta recepción del mensaje.
 5. **Se comunica con el cuerpo y la actitud también.**
-6. AAAAAAAAAAAAAAAA
+6. **Se debe mantener coherencia** entre lo que se piensa, siente, dice y hace.
 
-### Funciones de la comunicación
+## Funciones de la comunicación
 
-- **Referencial/representativa**: Hablan sobre facts, hechos de la realidad.
-- **Apelativa/conativa**: Apela al receptor: órdenes, solicitar, persuadir, etc.
-- **Emotiva**: Sentimientos, emociones.
-- **Poética**: Causar extrañeza.
-- **Metalingüística**: Habla sobre la comunicación en sí.
-- **Fática**: Confirmación de funcionamiento del canal. ("Aló?")
+- **Referencial / representativa**: Hablan sobre *facts*, hechos de la realidad.
+- **Emotiva / expresiva**: Sentimientos, *emociones*.
+- **Conativa / apelativa**: Apela al *receptor*: órdenes, solicitar, persuadir, etc.
+- **Poética / estética**: Énfasis en el mensaje (publicidad, poemas, etc).
+- **Fática**: Confirmación de funcionamiento del canal. *("Aló?")
+- **Metalingüística**: Habla sobre la comunicación en sí.*
+
+
+| Función         | Elemento | Intención                       |
+| --------------- | :------: | ------------------------------- |
+| Referencial     | Contexto | Informar                        |
+| Emotiva         |  Emisor  | Expresar sentimientos           |
+| Conativa        | Receptor | Persuadir / ordenar             |
+| Poética         | Mensaje  | Confirmar funcionamiento        |
+| Fática          |  Canal   | Abrir / mantener / cerrar canal |
+| Metalinguística |  Código  | Referenciar al lenguaje         |
