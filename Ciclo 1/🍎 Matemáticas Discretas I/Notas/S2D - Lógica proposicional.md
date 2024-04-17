@@ -1,5 +1,3 @@
-Lets go
-
 ## Proposiciones lógicas
 
 ```ad-definition
@@ -67,7 +65,13 @@ $p \land q$ es verdadero cuando $p$ es verdadero y $q$ es verdadero, y es falso 
 
 ```
 
-La idea de conjunción es la misma que el uso de la palabra **"y"** en el lenguaje usual. También puede ser aplicable para **"pero"**, **"además"**, etc.
+### Lenguaje coloquial
+
+$p \land q$ es equivalente a:
+
+- $p$ y $q$.
+- $p$ pero $q$.
+- $p$, además $q$.
 
 **Ejemplo:** "Hoy llegué temprano a la universidad, pero ayer llegué tarde."
 
@@ -141,14 +145,11 @@ $p \lor q$ es falso cuando $p$ es falso y $q$ es falso, y es verdadero en cualqu
 
 ```
 
-En el lenguaje usual, la idea de disyunción **no siempre coincide con el uso de la palabra "o"**, ya que esta palabra se puede usar para disyunción tanto débil como exclusiva.
+### Lenguaje coloquial
 
-```ad-important
-title: Sin embargo...
+$p \lor q$ es equivalente a:
 
-En este curso, la palabra "o" se referirá a la **disyunción débil**.
-
-```
+- $p$ o $q$.
 
 ```ad-exercise
 title: Ejercicios (disyunción débil)
@@ -218,8 +219,9 @@ $p \to q$ es equivalente a:
 - $p$ entonces $q$.
 - $p$ implica $q$.
 - $p$ solo si $q$.
-- $q$ si $p$.
-- $q$ solo si $\neg p$.
+
+"$p$ si $q$" es equivalente a $q \to p$.
+"$p$ excepto si $q$" es equivalente a $\neg q \to p$.
 
 ```ad-exercise
 title: Ejercicios (condicional)
@@ -274,3 +276,70 @@ $$
 
 ```
 
+## Bicondicional - $\leftrightarrow$
+
+```ad-definition
+
+La **bicondicional** ("equivalencia") es un conector, denotado por el símbolo $\leftrightarrow$, cuyo valor de verdad se define de la siguiente manera:
+
+$p \leftrightarrow q$ es verdadero solamente cuando $p$ y $q$ tienen el mismo valor de verdad.
+
+| $p$ | $q$ | $p \leftrightarrow q$ |
+| :-: | :-: | :-------------------: |
+|  V  |  V  |           V           |
+|  V  |  F  |           F           |
+|  F  |  V  |           F           |
+|  F  |  F  |           V           |
+
+```
+
+### Lenguaje coloquial
+
+$p \leftrightarrow  q$ es equivalente a:
+
+- $p$ si y solo si $q$.
+- $p$ siempre y cuando $q$.
+- $p$ es equivalente a $q$.
+
+```ad-exercise
+title: Ejercicios (bicondicional)
+collapse: closed
+
+Determine el valor de verdad de las siguientes proposiciones:
+
+1. $0 = 1$ si y solo si $1 = 2$.
+
+$$
+\begin{align}
+0 = 1 \leftrightarrow 1 = 2 &\equiv \False \leftrightarrow \False \\
+&\equiv \True
+\end{align}
+$$
+
+2. Lima es la capital de Chile si y solo si Perú es un país de sudamérica.
+$$
+\begin{align}
+&\equiv \False \leftrightarrow \True \\
+&\equiv \False
+\end{align}
+$$
+
+3. $0^{2} = 0$ siempre y cuando $2^{2} = 2$.
+
+$$
+\begin{align}
+0^{2} = 0 \leftrightarrow 2^{2} = 2 &\equiv \True \leftrightarrow \False \\
+&\equiv \False
+\end{align}
+$$
+
+4. Ayer llovió en Lima si y solo si anteayer llovió en Lima.
+
+$$
+\begin{align}
+&\equiv \False \leftrightarrow \False \\
+&\equiv \True
+\end{align}
+$$
+
+```

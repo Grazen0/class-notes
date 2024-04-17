@@ -4,19 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a5890a3986bdbacd",
+        "id": "b78a6ab5a43c62dd",
         "type": "tabs",
         "children": [
           {
-            "id": "4979d7c5de1e44b2",
+            "id": "dd010e278e4a8a12",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Ciclo 1/Notas diarias/17-04-2024.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Kanban.md"
               }
             }
           }
@@ -102,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo 1/Notas diarias/17-04-2024.md"
+                "file": "Kanban.md"
               }
             }
           },
@@ -149,13 +146,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "4979d7c5de1e44b2",
+  "active": "dd010e278e4a8a12",
   "lastOpenFiles": [
+    "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S2D - Lógica proposicional.md",
+    "Ciclo 1/Notas diarias/17-04-2024.md",
     "Kanban.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Información del curso.md",
-    "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S2D - Lógica proposicional.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Evaluaciones.pdf",
-    "Ciclo 1/Notas diarias/17-04-2024.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Sílabo.pdf",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Verdera. Enfoques sobre la pobreza.pdf",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/S3 (Lab) - Patrimonio cultural y el desarrollo sostenible.md",
