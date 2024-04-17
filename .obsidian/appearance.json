@@ -7,7 +7,9 @@
     "mathjax",
     "images",
     "headings",
-    "li-spacing"
+    "li-spacing",
+    "typwriter-fix",
+    "typewriter-fix"
   ],
   "nativeMenus": false,
   "textFontFamily": "",
