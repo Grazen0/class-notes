@@ -5,8 +5,16 @@
       "path": "Ciclo 1/Notas diarias/17-04-2024.md"
     },
     {
+      "basename": "Kanban",
+      "path": "Kanban.md"
+    },
+    {
       "basename": "S3 (Lab) - nonse",
       "path": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/S3 (Lab) - nonse.md"
+    },
+    {
+      "basename": "Información del curso",
+      "path": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Información del curso.md"
     },
     {
       "basename": "08-04-2024",
@@ -27,18 +35,6 @@
     {
       "basename": "16-04-2024",
       "path": "Ciclo 1/Notas diarias/16-04-2024.md"
-    },
-    {
-      "basename": "Kanban",
-      "path": "Kanban.md"
-    },
-    {
-      "basename": "S3 - Funciones trascendentales",
-      "path": "Ciclo 1/📈 Cálculo de Una Variable/Notas/S3 - Funciones trascendentales.md"
-    },
-    {
-      "basename": "S3 (Teo) - El proceso de la comunicación",
-      "path": "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/S3 (Teo) - El proceso de la comunicación.md"
     }
   ],
   "omittedPaths": [
