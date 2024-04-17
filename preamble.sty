@@ -1,5 +1,4 @@
-% \usepackage[spanish]{babel}
-
+%%% Number sets
 \newcommand{\N}{\mathbb{N}}
 \newcommand{\Z}{\mathbb{Z}}
 \newcommand{\Zp}{\mathbb{Z^{+}}}
@@ -9,26 +8,30 @@
 \newcommand{\Rp}{\mathbb{R^{+}}}
 \newcommand{\C}{\mathbb{C}}
 
+%%% Propositional logic
 \newcommand{\T}{\text{V}}
 \newcommand{\F}{\text{F}}
 
-\DeclareMathOperator{\dom}{Dom}
-\DeclareMathOperator{\ran}{Ran}
+%%% Number theory
 \DeclareMathOperator{\sgn}{sgn}
 \DeclareMathOperator{\lcm}{mcm}
-\DeclareMathOperator{\Re}{Re}
-\DeclareMathOperator{\Im}{Im}
-
-%%% Translate stuff
-\DeclareMathOperator{\gcd}{mcd}
+\DeclareMathOperator{\gcd}{mcd} % Translation
 \DeclareMathOperator{\min}{mín}
 \DeclareMathOperator{\max}{máx}
 
-\newcommand{\lmid}{\;\middle|\;}
+%%% Functions
+\DeclareMathOperator{\dom}{Dom}
+\DeclareMathOperator{\ran}{Ran}
+
+%%% Trigonometry
+\DeclareMathOperator{\sin}{sen}
 
 %%% Set theory
+\newcommand{\lmid}{\;\middle|\;}       % "such that" symbol
 \DeclareMathOperator{\Ps}{\mathscr{P}} % Power set
-\newcommand{\sor}{\cup}               % Union
-\newcommand{\sand}{\cap}                % Intersection
+\newcommand{\snot}[1]{\overline{#1}}   % Complement
+\newcommand{\sor}{\cup}                % Union
+\newcommand{\sand}{\cap}               % Intersection
 
-\newcommand{\qed}{\tag*{$\blacksquare$}}
+%%% Misc
+\newcommand{\qed}{\tag*{$\blacksquare$}} % Q.E.D. symbol
