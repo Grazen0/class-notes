@@ -116,15 +116,13 @@ $$
 \begin{align}
 &&\underbrace{p}_{\True} \land \underbrace{(q \land r)}_{\True} &\equiv \True \\
 \hline
-\implies && \underbrace{q}_{\True} \lor \underbrace{r}_{\True} &\equiv V \\
+\implies && \underbrace{q}_{\True} \land \underbrace{r}_{\True} &\equiv V \\
 \hline
 \implies && p \equiv q \equiv r &\equiv \True
 \end{align}
 $$
 
 ```
-
-
 
 ### Disyunción (débil) - $\lor$
 
