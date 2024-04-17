@@ -1,4 +1,4 @@
-[[S2 - Acciones para el potenciamiento de la CTI en Perú.pdf]]
+[[CCCTI. Acciones para el potenciamiento de la CTI en Perú.pdf]]
 
 ```ad-summary
 title: Resumen

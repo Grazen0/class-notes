@@ -1,4 +1,4 @@
-[[S2 - De animales a dioses.pdf]]
+[[Harari. De animales a dioses.pdf]]
 
 ## Preguntas guía
 

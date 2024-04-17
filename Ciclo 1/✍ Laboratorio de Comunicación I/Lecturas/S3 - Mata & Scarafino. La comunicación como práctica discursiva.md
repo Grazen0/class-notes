@@ -1,4 +1,4 @@
-[[S3 - La comunicación como práctica discursiva.pdf]]
+[[Mata & Scarafino. La comunicación como práctica discursiva.pdf]]
 
 ```ad-summary
 title: Resumen

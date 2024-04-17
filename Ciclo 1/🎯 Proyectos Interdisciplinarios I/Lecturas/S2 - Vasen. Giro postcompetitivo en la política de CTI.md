@@ -1,4 +1,4 @@
-[[S2 - Giro postcompetitivo en la política de CTI.pdf]]
+[[Vasen. Giro postcompetitivo en la política de CTI.pdf]]
 
 ```ad-abstract
 

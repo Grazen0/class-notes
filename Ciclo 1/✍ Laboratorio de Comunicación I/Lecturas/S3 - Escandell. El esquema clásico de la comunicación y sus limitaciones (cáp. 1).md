@@ -1,4 +1,4 @@
-[[S3 - El esquema clásico de la comunicación y sus limitaciones.pdf]]
+[[Escandell. El esquema clásico de la comunicación y sus limitaciones.pdf]]
 
 ```ad-summary
 title: Resumen

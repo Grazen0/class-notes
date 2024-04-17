@@ -12,14 +12,14 @@ kanban-plugin: basic
 
 ## Lecturas
 
-- [ ] **[[S3-4 - Guía para la preparación de las hojas de ruta de la CTI para los ODS]]**<br><br>ONU<br><br>#pi #teo @{22-04-2024}
+- [ ] **[[S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS]]**<br><br>ONU<br><br>#pi #teo @{22-04-2024}
 
 
 ## Completado
 
 **Complete**
-- [x] **[[S3 - La comunicación como práctica discursiva]]**<br><br>María Cristina Mata / Silvia Scarafino<br><br>#comu #teo
-- [x] **[[S3 - El esquema clásico de la comunicación y sus limitaciones (cáp. 1)]]**<br><br>Escandell<br><br>#comu #teo
+- [x] **[[S3 - Mata & Scarafino. La comunicación como práctica discursiva]]**<br><br>María Cristina Mata / Silvia Scarafino<br><br>#comu #teo
+- [x] **[[S3 - Escandell. El esquema clásico de la comunicación y sus limitaciones (cáp. 1)]]**<br><br>Escandell<br><br>#comu #teo
 
 
 ***
@@ -27,9 +27,9 @@ kanban-plugin: basic
 ## Archive
 
 - [ ] Lectura PI
-- [x] [[S2 - De animales a dioses (cáp. 2)|De animales a dioses: Breve historia de la humanidad]]<br><br>Yuval Noah Harari<br><br>*Sólo el cáp. 2*<br><br>#comu #teo
-- [x] [[S2 - Giro postcompetitivo en la política de CTI|¿Estamos ante un  giro postcompetitivo  en la política de ciencia, tecnología e innovación?]]<br><br>Frederico Vasen<br><br>#pi #teo
-- [x] [[S2 - Acciones para el potenciamiento de la CTI en Perú|Acciones para el potenciamiento de la ciencia, la tecnología y la innovación en el Perú]]<br><br>CCCTI<br><br>#pi #teo
+- [x] [[S2 - Harari. De animales a dioses (cáp. 2)|De animales a dioses: Breve historia de la humanidad]]<br><br>Yuval Noah Harari<br><br>*Sólo el cáp. 2*<br><br>#comu #teo
+- [x] [[S2 - Vasen. Giro postcompetitivo en la política de CTI|¿Estamos ante un  giro postcompetitivo  en la política de ciencia, tecnología e innovación?]]<br><br>Frederico Vasen<br><br>#pi #teo
+- [x] [[S2 - CCCTI. Acciones para el potenciamiento de la CTI en Perú|Acciones para el potenciamiento de la ciencia, la tecnología y la innovación en el Perú]]<br><br>CCCTI<br><br>#pi #teo
 
 %% kanban:settings
 ```
