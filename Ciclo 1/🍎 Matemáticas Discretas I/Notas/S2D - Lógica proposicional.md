@@ -48,6 +48,23 @@ El valor de verdad de $p \operatorname{\#} q$ depende **únicamente** de $p$ y $
 - 91 es un número primo **o** es un número compuesto.
 - Raúl nació en Lima; Pedro, en Cajamarca.
 
+## Negación - $\neg$
+
+```ad-definition
+
+La **negación** es un conector denotado por el símbolo $\neg$, cuyo valor de verdad se define de la siguiente manera:
+
+$\neg p$ es verdadero cuando $p$ es falso, y falso cuando $p$ es verdadero.
+
+| $p$ | $\neg p$ |
+| :-: | :------: |
+|  V  |    F     |
+|  F  |    V     |
+
+```
+
+La negación tiene la **primera precedencia** de todos los conectores lógicos.
+
 ### Conjunción - $\land$
 
 ```ad-definition
@@ -85,8 +102,8 @@ Determine el valor de verdad de las siguientes proposiciones:
 
 $$
 \begin{align}
-8\text{ es impar} \land 6\text{ es impar} &\equiv \False \land \False \\
-&\equiv \False
+8\text{ es impar} \land 6\text{ es impar} &\equiv \F \land \F \\
+&\equiv \F
 \end{align}
 $$
 
@@ -94,8 +111,8 @@ $$
 
 $$
 \begin{align}
-16\text{ es par} \land 51\text{ es impar} &\equiv \True \land \True \\
-&= \True
+16\text{ es par} \land 51\text{ es impar} &\equiv \T \land \T \\
+&= \T
 \end{align}
 $$
 
@@ -103,8 +120,8 @@ $$
 
 $$
 \begin{align}
-5 \leq 8 \land 8 \leq 7 &\equiv \True \land \False \\
-&= \False
+5 \leq 8 \land 8 \leq 7 &\equiv \T \land \F \\
+&= \F
 \end{align}
 $$
 
@@ -114,15 +131,15 @@ $$
 title: Ejemplo de dedución
 collapse: closed
 
-Si suponemos que $p \land (q \land r) \equiv \True$, entonces podemos deducir lo siguiente:
+Si suponemos que $p \land (q \land r) \equiv \T$, entonces podemos deducir lo siguiente:
 
 $$
 \begin{align}
-&&\underbrace{p}_{\True} \land \underbrace{(q \land r)}_{\True} &\equiv \True \\
+&&\underbrace{p}_{\T} \land \underbrace{(q \land r)}_{\T} &\equiv \T \\
 \hline
-\implies && \underbrace{q}_{\True} \land \underbrace{r}_{\True} &\equiv V \\
+\implies && \underbrace{q}_{\T} \land \underbrace{r}_{\T} &\equiv V \\
 \hline
-\implies && p \equiv q \equiv r &\equiv \True
+\implies && p \equiv q \equiv r &\equiv \T
 \end{align}
 $$
 
@@ -161,8 +178,8 @@ Determine el valor de verdad de las siguientes proposiciones:
 
 $$
 \begin{align}
-8\text{ es impar} \lor 6\text{ es impar} &\equiv \False \lor \False \\
-&\equiv \False
+8\text{ es impar} \lor 6\text{ es impar} &\equiv \F \lor \F \\
+&\equiv \F
 \end{align}
 $$
 
@@ -170,16 +187,16 @@ $$
 
 $$
 \begin{align}
-16\text{ es par} \lor 51\text{ es impar} &\equiv \True \lor \True \\
-&\equiv \True
+16\text{ es par} \lor 51\text{ es impar} &\equiv \T \lor \T \\
+&\equiv \T
 \end{align}
 $$
 
 3. "$5 \leq 8$ o $8 \leq 7$."
 $$
 \begin{align}
-5 \leq 8 \lor 8 \leq 7 &\equiv \True \lor \False \\
-&\equiv \True
+5 \leq 8 \lor 8 \leq 7 &\equiv \T \lor \F \\
+&\equiv \T
 \end{align}
 $$
 
@@ -187,8 +204,8 @@ $$
 
 $$
 \begin{align}
-\text{Lima es la capital del Perú} \lor \text{Santiago es la capital de Chile} &\equiv \True \lor \True \\
-&\equiv \True
+\text{Lima es la capital del Perú} \lor \text{Santiago es la capital de Chile} &\equiv \T \lor \T \\
+&\equiv \T
 \end{align}
 $$
 
@@ -233,8 +250,8 @@ Determine el valor de verdad de las siguientes proposiciones:
 
 $$
 \begin{align}
-8\text{ es impar} \to 6\text{ es impar} &\equiv \False \to \False \\
-&\equiv \True
+8\text{ es impar} \to 6\text{ es impar} &\equiv \F \to \F \\
+&\equiv \T
 \end{align}
 $$
 
@@ -242,8 +259,8 @@ $$
 
 $$
 \begin{align}
-5 > 4 \to 4 > 5 &\equiv \True \to \False \\
-&\equiv \False
+5 > 4 \to 4 > 5 &\equiv \T \to \F \\
+&\equiv \F
 \end{align}
 $$
 
@@ -251,8 +268,8 @@ $$
 
 $$
 \begin{align}
-5 \geq 8 \to 2023\text{ es par} &\equiv \False \to \False \\
-&\equiv \True
+5 \geq 8 \to 2023\text{ es par} &\equiv \F \to \F \\
+&\equiv \T
 \end{align}
 $$
 
@@ -260,8 +277,8 @@ $$
 
 $$
 \begin{align}
-&\equiv \True \to \True \\
-&\equiv \True
+&\equiv \T \to \T \\
+&\equiv \T
 \end{align}
 $$
 
@@ -269,8 +286,8 @@ $$
 
 $$
 \begin{align}
-0^{2} = 0 \to 2^{2} = 2 &\equiv \True \to \False \\
-&\equiv \False
+0^{2} = 0 \to 2^{2} = 2 &\equiv \T \to \F \\
+&\equiv \F
 \end{align}
 $$
 
@@ -311,16 +328,16 @@ Determine el valor de verdad de las siguientes proposiciones:
 
 $$
 \begin{align}
-0 = 1 \leftrightarrow 1 = 2 &\equiv \False \leftrightarrow \False \\
-&\equiv \True
+0 = 1 \leftrightarrow 1 = 2 &\equiv \F \leftrightarrow \F \\
+&\equiv \T
 \end{align}
 $$
 
 2. Lima es la capital de Chile si y solo si Perú es un país de sudamérica.
 $$
 \begin{align}
-&\equiv \False \leftrightarrow \True \\
-&\equiv \False
+&\equiv \F \leftrightarrow \T \\
+&\equiv \F
 \end{align}
 $$
 
@@ -328,8 +345,8 @@ $$
 
 $$
 \begin{align}
-0^{2} = 0 \leftrightarrow 2^{2} = 2 &\equiv \True \leftrightarrow \False \\
-&\equiv \False
+0^{2} = 0 \leftrightarrow 2^{2} = 2 &\equiv \T \leftrightarrow \F \\
+&\equiv \F
 \end{align}
 $$
 
@@ -337,8 +354,8 @@ $$
 
 $$
 \begin{align}
-&\equiv \False \leftrightarrow \False \\
-&\equiv \True
+&\equiv \F \leftrightarrow \F \\
+&\equiv \T
 \end{align}
 $$
 

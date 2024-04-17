@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b78a6ab5a43c62dd",
+        "id": "aa51cef2e6a289a7",
         "type": "tabs",
         "children": [
           {
-            "id": "dd010e278e4a8a12",
+            "id": "1e8d0fb0f4456804",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanban.md"
+                "file": "Ciclo 1/Notas diarias/15-04-2024.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -47,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\\mid",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban.md"
+                "file": "Ciclo 1/Notas diarias/15-04-2024.md"
               }
             }
           },
@@ -146,11 +149,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "dd010e278e4a8a12",
+  "active": "1e8d0fb0f4456804",
   "lastOpenFiles": [
+    "Kanban.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S2D - Lógica proposicional.md",
     "Ciclo 1/Notas diarias/17-04-2024.md",
-    "Kanban.md",
+    "Ciclo 1/Notas diarias/15-04-2024.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Información del curso.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Evaluaciones.pdf",
     "Ciclo 1/🍎 Matemáticas Discretas I/Sílabo.pdf",
