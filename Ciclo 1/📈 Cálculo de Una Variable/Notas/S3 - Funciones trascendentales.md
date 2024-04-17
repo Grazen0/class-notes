@@ -9,6 +9,15 @@ donde $a > 0$ y $a \neq 1$.
 **Dominio:** $\R$
 **Rango:** $(0, +\infty)$
 
+### Función de crecimiento logístico
+
+$$
+f(x) = \frac{a}{1 + be^{-kx}}
+$$
+
+**Dominio:** $\R$
+**Rango:** $(0, a)$
+
 ## Función logarítmica
 
 $$
