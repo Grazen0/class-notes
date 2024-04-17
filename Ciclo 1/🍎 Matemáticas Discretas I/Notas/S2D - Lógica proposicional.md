@@ -202,11 +202,75 @@ La **condicional** ("implicación") es un conector denotado por el símbolo $\to
 $p \to q$ es falso cuando $p$ es verdadero y $q$ es falso. Es verdadero en cualquier otro caso.
 
 | $p$ | $q$ | $p \to q$ |
-| --- | --- | --------- |
-| V   | V   | V         |
-| V   | F   | F         |
-| F   | V   | V         |
-| F   | F   | V         |
+| :-: | :-: | :-------: |
+|  V  |  V  |     V     |
+|  V  |  F  |     F     |
+|  F  |  V  |     V     |
+|  F  |  F  |     V     |
+
+```
+
+#### Lenguaje coloquial
+
+$p \to q$ es equivalente a:
+
+- Si $p$ entonces $q$.
+- $p$ entonces $q$.
+- $p$ implica $q$.
+- $p$ solo si $q$.
+- $q$ si $p$.
+- $q$ solo si $\neg p$.
+
+```ad-exercise
+title: Ejercicios (condicional)
+collapse: closed
+
+Determine el valor de verdad de las siguientes proposiciones:
+
+1. Si $8$ es un número impar entonces $6$ es impar.
+
+$$
+\begin{align}
+8\text{ es impar} \to 6\text{ es impar} &\equiv \False \to \False \\
+&\equiv \True
+\end{align}
+$$
+
+2. Si $5 > 4$ entonces $4 > 5$.
+
+$$
+\begin{align}
+5 > 4 \to 4 > 5 &\equiv \True \to \False \\
+&\equiv \False
+\end{align}
+$$
+
+3. Si $5 \geq 8$ entonces $2023$ es par.
+
+$$
+\begin{align}
+5 \geq 8 \to 2023\text{ es par} &\equiv \False \to \False \\
+&\equiv \True
+\end{align}
+$$
+
+4. Si Barranco es un distrito de Lima entonces UTEC está ubicada en Barranco.
+
+$$
+\begin{align}
+&\equiv \True \to \True \\
+&\equiv \True
+\end{align}
+$$
+
+5. $0^{2} = 0$ implica que $2^{2} = 2$
+
+$$
+\begin{align}
+0^{2} = 0 \to 2^{2} = 2 &\equiv \True \to \False \\
+&\equiv \False
+\end{align}
+$$
 
 ```
 

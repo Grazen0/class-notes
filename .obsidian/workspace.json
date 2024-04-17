@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f09971ba79dded5a",
+        "id": "a5890a3986bdbacd",
         "type": "tabs",
         "children": [
           {
-            "id": "35a48e0b007123bb",
+            "id": "4979d7c5de1e44b2",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,50 +17,10 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "46656be8780e898e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S2D - Lógica proposicional.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "c847ff29d6677765",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciclo 1/🍎 Matemáticas Discretas I/Información del curso.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0012a2d92f3b6f6c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Ciclo 1/🍎 Matemáticas Discretas I/Evaluaciones.pdf"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo 1/🍎 Matemáticas Discretas I/Evaluaciones.pdf"
+                "file": "Ciclo 1/Notas diarias/17-04-2024.md"
               }
             }
           },
@@ -190,16 +149,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "0012a2d92f3b6f6c",
+  "active": "4979d7c5de1e44b2",
   "lastOpenFiles": [
+    "Kanban.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Información del curso.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S2D - Lógica proposicional.md",
+    "Ciclo 1/🍎 Matemáticas Discretas I/Evaluaciones.pdf",
     "Ciclo 1/Notas diarias/17-04-2024.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Sílabo.pdf",
-    "Ciclo 1/🍎 Matemáticas Discretas I/Evaluaciones.pdf",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Verdera. Enfoques sobre la pobreza.pdf",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/S3 (Lab) - Patrimonio cultural y el desarrollo sostenible.md",
-    "Kanban.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S2C - Sistemas de numeración.md",
     "Ciclo 1/Notas diarias/04/17-04-2024.md",
     "Ciclo 1/Notas diarias/04",
