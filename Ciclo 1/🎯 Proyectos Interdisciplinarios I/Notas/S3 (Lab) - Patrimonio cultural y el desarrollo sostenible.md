@@ -1,4 +1,3 @@
-## Proyectos Interdisciplinarios
 
 ```ad-quote
 title: Importancia del patrimonio cultural
@@ -9,7 +8,7 @@ El patrimonio cultural es "esencial para promover la paz y el desarrollo social,
 
 **Desafíos**: Cambio climático, desastres naturales, conflictos comunitarios, educación, salud, emigración, urbanización, marginación, desigualdad económica.
 
-### Desarrollo sostenible
+## Desarrollo sostenible
 
 ```ad-info
 title: ¿Qué hace el desarrollo sostenible?
@@ -27,25 +26,3 @@ Los ODS relevantes para el patrimonio son:
 El patrimonio cultural puede causar **tanto bien como mal**.
 
 P.ej: Machu Picchu está en riesgo debido a la **mala gestión**. (basura, mucho turismo, etc)
-
-### Proyecto: Design Thinking
-
-Nos concentraremos mucho en el **usuario**, encontrando un cruce entre:
-
-- Sus necesidades
-- Tecnologías factibles
-- Estrategias viables
-
-#### Fases del Design Thinking
-
-1. **Empatía**: Profunda comprensión de las necesidades los usuarios implicados.
-2. **Definición**: Filtrar información, llegar al problema específico.
-3. **Ideación**: Favoreciendo *out-of-the-box* thinking, generar diversas opciones.
-4. **Prototipado**: Generar la solución.
-5. **Testeo**: Prueba y retroalimentación.
-
-
-
-
-## Matemáticas Discretas
-

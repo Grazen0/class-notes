@@ -10,18 +10,19 @@ Tanto la nota de **teoría** como **laboratorio** deben ser **mayor o iguales a 
 
 ### Teoría
 
-| Tipo de evaluación | Cód. |  Nota   |
-| ------------------ | :--: | :-----: |
-| Examen             |  E1  |   20%   |
-| Examen             |  E2  |   20%   |
-| Examen             |  E3  |   20%   |
-|                    |      | **60%** |
+| Tipo de evaluación | Cód. |  Nota   | Semana | Fecha |
+| ------------------ | :--: | :-----: | :----: | :---: |
+| Examen             |  E1  |   20%   |   7    | 17/05 |
+| Examen             |  E2  |   20%   |   13   | 28/06 |
+| Examen             |  E3  |   20%   |   16   | 19/07 |
+|                    |      | **60%** |        |       |
 
 ### Laboratorio
 
-| Tipo de evaluación  | Cód. |  Nota   |
-| ------------------- | :--: | :-----: |
-| Práctica calificada |  E1  |   20%   |
-| Práctica calificada |  E2  |   20%   |
-| Práctica calificada |  E3  |   20%   |
-|                     |      | **60%** |
+| Tipo de evaluación  | Cód. |  Nota   | Semana | Fecha |
+| ------------------- | :--: | :-----: | :----: | :---: |
+| Práctica calificada | PC1  |   10%   |   4    | 26/04 |
+| Práctica calificada | PC2  |   10%   |   11   | 14/06 |
+| Evaluación continua | EC1  |   10%   |   -    |   -   |
+| Evaluación continua | EC2  |   10%   |   -    |   -   |
+|                     |      | **40%** |        |       |

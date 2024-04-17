@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "03ef3639316d25a6",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Kanban.md"
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "35a48e0b007123bb",
             "type": "leaf",
             "pinned": true,
@@ -35,8 +23,9 @@
             }
           },
           {
-            "id": "c160f00061bc0bb7",
+            "id": "46656be8780e898e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -44,10 +33,35 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "c847ff29d6677765",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciclo 1/🍎 Matemáticas Discretas I/Información del curso.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0012a2d92f3b6f6c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Ciclo 1/🍎 Matemáticas Discretas I/Evaluaciones.pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -129,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban.md"
+                "file": "Ciclo 1/🍎 Matemáticas Discretas I/Evaluaciones.pdf"
               }
             }
           },
@@ -159,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,14 +190,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "03ef3639316d25a6",
+  "active": "0012a2d92f3b6f6c",
   "lastOpenFiles": [
-    "Ciclo 1/Notas diarias/17-04-2024.md",
+    "Ciclo 1/🍎 Matemáticas Discretas I/Información del curso.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S2D - Lógica proposicional.md",
+    "Ciclo 1/Notas diarias/17-04-2024.md",
+    "Ciclo 1/🍎 Matemáticas Discretas I/Sílabo.pdf",
+    "Ciclo 1/🍎 Matemáticas Discretas I/Evaluaciones.pdf",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Verdera. Enfoques sobre la pobreza.pdf",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/S3 (Lab) - Patrimonio cultural y el desarrollo sostenible.md",
     "Kanban.md",
+    "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S2C - Sistemas de numeración.md",
     "Ciclo 1/Notas diarias/04/17-04-2024.md",
     "Ciclo 1/Notas diarias/04",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/S3 (Lab) - nonse.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Información del curso.md",
     "Ciclo 1/Notas diarias/08-04-2024.md",
     "Ciclo 1/Notas diarias/05-04-2024.md",
@@ -209,12 +229,6 @@
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Vasen. Giro postcompetitivo en la política de CTI.pdf",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/CCCTI. Acciones para el potenciamiento de la CTI en Perú.pdf",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S2 - Harari. De animales a dioses (cáp. 2).md",
-    "Ciclo 1/💻 Programación I/Notas/S3 - Funciones.md",
-    "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/Mata & Scarafino. La comunicación como práctica discursiva.pdf",
-    "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/Escandell. El esquema clásico de la comunicación y sus limitaciones.pdf",
-    "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/Harari. De animales a dioses.pdf",
-    "Ciclo 1/✍ Laboratorio de Comunicación I/Información del curso.md",
-    "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S1A - Conjuntos numéricos.md",
     "Ciclo 1/📈 Cálculo de Una Variable/Notas/Recursos/Grafico Liebre.png",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Recursos/ods.jpg",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/Noam Chomsky.jpg",

@@ -192,3 +192,21 @@ $$
 $$
 
 ```
+
+### Condicional - $\to$
+
+```ad-definition
+
+La **condicional** ("implicación") es un conector denotado por el símbolo $\to$, cuyo valor de verdad se define de la siguiente manera:
+
+$p \to q$ es falso cuando $p$ es verdadero y $q$ es falso. Es verdadero en cualquier otro caso.
+
+| $p$ | $q$ | $p \to q$ |
+| --- | --- | --------- |
+| V   | V   | V         |
+| V   | F   | F         |
+| F   | V   | V         |
+| F   | F   | V         |
+
+```
+
