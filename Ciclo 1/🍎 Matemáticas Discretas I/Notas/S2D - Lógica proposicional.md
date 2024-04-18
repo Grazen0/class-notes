@@ -166,7 +166,7 @@ $p \lor q$ es falso cuando $p$ es falso y $q$ es falso, y es verdadero en cualqu
 
 $p \lor q$ es equivalente a:
 
-- $p$ o $q$.
+- $p$ ó $q$.
 
 ```ad-exercise
 title: Ejercicios (disyunción débil)

@@ -141,3 +141,18 @@ Las principales características de una hoja de ruta son:
 
 ---
 
+```ad-info
+title: Recomendaciones del Informe Mundial sobre el Desarrollo Sostenible
+
+Se proponen **6 puntos de entrada** para abordar el desarrollo sostenible:
+
+1. Bienestar y habilidades **humanas**
+2. **Economías** sostenibles y justas
+3. **Sistemas alimentarios** sostenibles y alimentación sana
+4. Descarbonización de la **energía** y acceso universal
+5. Desarrollo **urbano** y periurbano
+6. Patrimonio **medioambiental** mundial
+
+Además, para cada punto de entrada se le 
+
+```

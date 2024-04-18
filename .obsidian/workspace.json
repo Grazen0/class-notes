@@ -8,12 +8,45 @@
         "type": "tabs",
         "children": [
           {
+            "id": "f9fadccc1a49688d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciclo 1/Notas diarias/18-04-2024.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "59d2e234f5578acb",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanban.md"
+                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "f6370b09e7605bc3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58bc3b2e9ff043c3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS.pdf"
               }
             }
           }
@@ -99,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban.md"
+                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS.md"
               }
             }
           },
@@ -148,8 +181,11 @@
   },
   "active": "59d2e234f5578acb",
   "lastOpenFiles": [
-    "Kanban.md",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS.pdf",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS.md",
+    "Ciclo 1/Notas diarias/18-04-2024.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S2D - Lógica proposicional.md",
+    "Kanban.md",
     "Ciclo 1/Notas diarias/17-04-2024.md",
     "Ciclo 1/Notas diarias/15-04-2024.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Información del curso.md",
@@ -179,13 +215,9 @@
     "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/Pernas. IA y los ODS.pdf",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S3 - Mata & Scarafino. La comunicación como práctica discursiva.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S3 - Escandell. El esquema clásico de la comunicación y sus limitaciones (cáp. 1).md",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S2 - CCCTI. Acciones para el potenciamiento de la CTI en Perú.md",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S2 - Vasen. Giro postcompetitivo en la política de CTI.md",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS.pdf",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Vasen. Giro postcompetitivo en la política de CTI.pdf",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/CCCTI. Acciones para el potenciamiento de la CTI en Perú.pdf",
-    "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S2 - Harari. De animales a dioses (cáp. 2).md",
     "Ciclo 1/📈 Cálculo de Una Variable/Notas/Recursos/Grafico Liebre.png",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Recursos/ods.jpg",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/Noam Chomsky.jpg",
