@@ -21,7 +21,18 @@ Imaginemos que somos una aseguradora de carros, y queremos subir los precios sin
 |    006    |       4       |         80         |      V       |         F          |       F        |    1    |
 |    007    |       3       |         40         |      F       |         F          |       F        |    0    |
 
-Idea: Colocar las dimensiones de la tabla en una gráfica (con V = $1$ y F = $0$), donde se utilice la **distancia** del dato al origen como criterio de clasificación
+Idea: Colocar las dimensiones de la tabla en una gráfica (con V = $1$ y F = $0$), donde se utilice la **distancia** del dato al origen como criterio de clasificación.
+
+```ad-warning
+title: Advertencia
+
+¡Cuidado con las escalas en los gráficos!
+
+```
+
+### Formas de ubicar centroides
+
+- Ubicar centroides "de mentira" en los extremos de la gráfica. Agrupar los datos según esos centroides, y promediar las coordenadas de los puntos en cada grupo para hallar los centroides reales.
 
 ## K-means y distancias euclidianas
 
