@@ -36,6 +36,23 @@ title: Advertencia
 
 ## K-means y distancias euclidianas
 
+### Distancia euclidiana
+
+$$
+d_{E}(P,Q) = \sqrt{(p_{1} - q_{1})^{2} + (p_{2} - q_{2})^{2} + \ldots + (p_{n} - q_{n})^{2}} = \sqrt{\sum_{i=0}^{n}{(p_{i}-q_{i})^{2}}}
+$$
+
+### K-means
+
+"K-means" es una estrategia de agrupación de datos. Usa un algoritmo iterativo que ubica $k$ centroides en un gráfico de $n$ datos.
+
+```
+1. Ubicar centroides de inicio
+2. Mientras que los datos agrupados sigan cambiando:
+	2.1. Agrupar cada dato al centroide más cercano
+	2.2. Cambiar la distancia de cada centroide al promedio de sus datos
+```
+
 ## Ejemplo práctico
 
 ## Interpretación clusters
