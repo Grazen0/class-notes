@@ -74,7 +74,7 @@ my_float = float(20) # 20.0
 
 #### Precedencia
 
-Básicamente como toda la vida
+Básicamente como toda la vida.
 
 1. Potencia (`**`)
 2. Multiplicación (`*`), división (`/`), división entera (`//`), módulo (`%`)

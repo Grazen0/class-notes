@@ -1,4 +1,3 @@
-
 ```ad-quote
 title: Importancia del patrimonio cultural
 

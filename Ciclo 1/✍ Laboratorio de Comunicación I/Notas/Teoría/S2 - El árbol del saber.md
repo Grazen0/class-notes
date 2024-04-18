@@ -1,4 +1,3 @@
-
 Desarrollo cognitivo $\to$ chismorreo $\to$ mitos y ficciones $\to$ cooperación $\to$ evolución histórica
 ## "Hay un león en el río"
 

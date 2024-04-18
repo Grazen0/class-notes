@@ -7,7 +7,7 @@ kanban-plugin: basic
 ## Proyectos
 
 - [ ] **Investigación sobre innatismo vs. culturalismo**<br><br>#comu #lab #grupal <br><br>Característica: *(por definir)*<br><br>- [ ] Definir característica
-- [ ] **Investigación sobre problema en nuestra localidad**<br><br>Mal estado de las veredas (huecos, baches, etc)<br><br>- [x] Definir problema<br>- [ ] Definir localidad<br>- [ ] Investigar y resumir<br>- [ ] Relación con ODS (la 11)<br>- [ ] Definir actores<br>- [ ] Analizar actores<br>- [ ] Identificar niveles de poder<br><br>#pi #lab #grupal
+- [ ] **Investigación sobre problema en nuestra localidad**<br><br>Es peligroso cruzar Abancay para gente con discapacidad, negando el acceso a la Iglesia San Pedro.<br><br>- [x] Definir problema<br>- [ ] Definir localidad<br>- [ ] Investigar y resumir<br>- [ ] Relación con ODS (la 11)<br>- [ ] Definir actores<br>- [ ] Analizar actores<br>- [ ] Identificar niveles de poder<br><br>#pi #lab #grupal
 
 
 ## Presentaciones
