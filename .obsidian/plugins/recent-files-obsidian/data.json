@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Kanban",
+      "path": "Kanban.md"
+    },
+    {
       "basename": "S3 - Clustering",
       "path": "Ciclo 1/💾 Introducción a Ciencias de la Computación/Notas/S3 - Clustering.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "S2D - Lógica proposicional",
       "path": "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S2D - Lógica proposicional.md"
-    },
-    {
-      "basename": "Kanban",
-      "path": "Kanban.md"
     },
     {
       "basename": "S1B (Lab) - Oraciones y su clasificación",

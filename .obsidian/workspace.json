@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a228fe80877f304a",
+        "id": "63090f9881b2615f",
         "type": "tabs",
         "children": [
           {
-            "id": "0b9db59fdcf55139",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciclo 1/Notas diarias/18-04-2024.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "f9fadccc1a49688d",
+            "id": "c46aa5c8ee888684",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Ciclo 1/💾 Introducción a Ciencias de la Computación/Notas/S3 - Clustering.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Kanban.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo 1/💾 Introducción a Ciencias de la Computación/Notas/S3 - Clustering.md"
+                "file": "Kanban.md"
               }
             }
           },
@@ -165,7 +146,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "f9fadccc1a49688d",
+  "active": "c46aa5c8ee888684",
   "lastOpenFiles": [
     "Ciclo 1/Notas diarias/18-04-2024.md",
     "Ciclo 1/💾 Introducción a Ciencias de la Computación/Notas/S3 - Clustering.md",
