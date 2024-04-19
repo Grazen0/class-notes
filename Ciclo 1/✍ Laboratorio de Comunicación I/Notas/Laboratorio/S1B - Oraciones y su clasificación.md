@@ -81,7 +81,7 @@ title: Advertencia
 
 - **Transitiva:** Juan *golpea* la pared. (Juan **la** golpea) (golpea $\to$ pared)
 - **Intransitiva**
-	- **Pura:** Juan *sonríe*.
+	- **Pura:** Juan sonríe.
 	- **Ergativa:** La primavera *llegó*. / La planta *floreció*.
 - **Reflexiva:** Él *se lava*. / *Me compré* una bicicleta. 
 - **Recíproca:** *Tú y yo* nos entendemos muy bien. / *Tú y él* se saludaron.
