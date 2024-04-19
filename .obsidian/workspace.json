@@ -4,19 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "895655818e58e8bc",
+        "id": "5686c5d44510f261",
         "type": "tabs",
         "children": [
           {
-            "id": "80931af96473ad64",
+            "id": "ad26db30e856e4e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Laboratorio/S1B - Oraciones y su clasificación.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Kanban.md"
               }
             }
           }
@@ -102,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Laboratorio/S1B - Oraciones y su clasificación.md"
+                "file": "Kanban.md"
               }
             }
           },
@@ -149,10 +146,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "80931af96473ad64",
+  "active": "ad26db30e856e4e7",
   "lastOpenFiles": [
-    "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Laboratorio/S2 - Puntuación.md",
+    "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S4 - Escandell. El esquema clásico de la comunicación y sus limitaciones (cáp. 1).md",
     "Kanban.md",
+    "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S4 - Mata & Scarafino. La comunicación como práctica discursiva.md",
+    "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/Escandell. El esquema clásico de la comunicación y sus limitaciones.pdf",
+    "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Laboratorio/S1B - Oraciones y su clasificación.md",
+    "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Laboratorio/S2 - Puntuación.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS.pdf",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S2A - Números primos y descomposición canónica.md",
@@ -160,7 +161,6 @@
     "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S2C - Sistemas de numeración.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Notas/Recursos/93 a binario.excalidraw.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S2B - MCD y MCM.md",
-    "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Laboratorio/S1B - Oraciones y su clasificación.md",
     "Ciclo 1/💻 Programación I/Notas/S1B (Lab) - Introducción a Python.md",
     "Ciclo 1/💻 Programación I/Notas/S1A (Lab) - Algoritmos.md",
     "Ciclo 1/💻 Programación I/Notas/S3 (Teo) - Funciones.md",
@@ -180,13 +180,11 @@
     "Ciclo 1/Notas diarias/12-04-2024.md",
     "Ciclo 1/Notas diarias/18-04-2024.md",
     "Ciclo 1/💾 Introducción a Ciencias de la Computación/Notas/S3 - Clustering.md",
-    "Ciclo 1/Notas diarias/17-04-2024.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Evaluaciones.pdf",
     "Ciclo 1/🍎 Matemáticas Discretas I/Sílabo.pdf",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Verdera. Enfoques sobre la pobreza.pdf",
     "Ciclo 1/Notas diarias/04",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/NOESTOYGRITANDO.png",
-    "Ciclo 1/Horario.pdf",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/Comic marcianito baño (1).png",
     "Ciclo 1/📈 Cálculo de Una Variable/Notas/Recursos/Grafico Liebre.png",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Recursos/ods.jpg",

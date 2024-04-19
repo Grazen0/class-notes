@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Kanban",
+      "path": "Kanban.md"
+    },
+    {
+      "basename": "S4 - Escandell. El esquema clásico de la comunicación y sus limitaciones (cáp. 1)",
+      "path": "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S4 - Escandell. El esquema clásico de la comunicación y sus limitaciones (cáp. 1).md"
+    },
+    {
+      "basename": "S4 - Mata & Scarafino. La comunicación como práctica discursiva",
+      "path": "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S4 - Mata & Scarafino. La comunicación como práctica discursiva.md"
+    },
+    {
+      "basename": "Escandell. El esquema clásico de la comunicación y sus limitaciones",
+      "path": "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/Escandell. El esquema clásico de la comunicación y sus limitaciones.pdf"
+    },
+    {
       "basename": "S1B - Oraciones y su clasificación",
       "path": "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Laboratorio/S1B - Oraciones y su clasificación.md"
     },
     {
       "basename": "S2 - Puntuación",
       "path": "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Laboratorio/S2 - Puntuación.md"
-    },
-    {
-      "basename": "Kanban",
-      "path": "Kanban.md"
     },
     {
       "basename": "S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS",
@@ -27,18 +39,6 @@
     {
       "basename": "S2D - Lógica proposicional",
       "path": "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S2D - Lógica proposicional.md"
-    },
-    {
-      "basename": "S2C - Sistemas de numeración",
-      "path": "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S2C - Sistemas de numeración.md"
-    },
-    {
-      "basename": "93 a binario.excalidraw",
-      "path": "Ciclo 1/🍎 Matemáticas Discretas I/Notas/Recursos/93 a binario.excalidraw.md"
-    },
-    {
-      "basename": "S2B - MCD y MCM",
-      "path": "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S2B - MCD y MCM.md"
     }
   ],
   "omittedPaths": [

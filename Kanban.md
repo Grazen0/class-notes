@@ -23,8 +23,8 @@ kanban-plugin: basic
 ## Completado
 
 **Complete**
-- [x] **[[S3 - Mata & Scarafino. La comunicación como práctica discursiva]]**<br><br>María Cristina Mata / Silvia Scarafino<br><br>#comu #teo
-- [x] **[[S3 - Escandell. El esquema clásico de la comunicación y sus limitaciones (cáp. 1)]]**<br><br>Escandell<br><br>#comu #teo
+- [x] **[[S4 - Mata & Scarafino. La comunicación como práctica discursiva]]**<br><br>María Cristina Mata / Silvia Scarafino<br><br>#comu #teo
+- [x] **[[S4 - Escandell. El esquema clásico de la comunicación y sus limitaciones (cáp. 1)]]**<br><br>Escandell<br><br>#comu #teo
 
 
 ***
