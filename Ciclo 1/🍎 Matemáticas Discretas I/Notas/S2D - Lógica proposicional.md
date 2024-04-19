@@ -421,7 +421,7 @@ Elaborar la tabla de verdad de $p \rightarrow (q \land r)$.
 
 ```ad-exercise
 title: Ejercicios (tablas de verdad)
-collapse: open
+collapse: closed
 
 1. Comprobar mediante el uso de tablas que $p \to q$ y $\neg p \lor q$ tienen el mismo valor de verdad.
 
@@ -450,5 +450,28 @@ collapse: open
 |  F  |  V  |     V     |     F     |            **F**            |         **F**         |
 |  F  |  F  |     V     |     V     |            **V**            |         **V**         |
 
-```
+4. Elabore las tablas de $p \to (q \to r)$ y $(p \to q) \to r$.
 
+| $p$ | $q$ | $r$ | $q \to r$ | $p \to (q \to r)$ |
+| :-: | :-: | :-: | :-------: | :---------------: |
+|  V  |  V  |  V  |     V     |       **V**       |
+|  V  |  V  |  F  |     F     |       **F**       |
+|  V  |  F  |  V  |     V     |       **V**       |
+|  V  |  F  |  F  |     V     |       **V**       |
+|  F  |  V  |  V  |     V     |       **V**       |
+|  F  |  V  |  F  |     F     |       **V**       |
+|  F  |  F  |  V  |     V     |       **V**       |
+|  F  |  F  |  F  |     V     |       **V**       |
+
+| $p$ | $q$ | $r$ | $p \to q$ | $(p \to q) \to r$ |
+| :-: | :-: | :-: | :-------: | :---------------: |
+|  V  |  V  |  V  |     V     |       **V**       |
+|  V  |  V  |  F  |     V     |       **F**       |
+|  V  |  F  |  V  |     F     |       **V**       |
+|  V  |  F  |  F  |     F     |       **V**       |
+|  F  |  V  |  V  |     V     |       **V**       |
+|  F  |  V  |  F  |     V     |       **F**       |
+|  F  |  F  |  V  |     V     |       **V**       |
+|  F  |  F  |  F  |     V     |       **F**       |
+
+```
