@@ -153,6 +153,34 @@ Se proponen **6 puntos de entrada** para abordar el desarrollo sostenible:
 5. Desarrollo **urbano** y periurbano
 6. Patrimonio **medioambiental** mundial
 
-Además, para cada punto de entrada se le 
+Además, para cada punto de entrada se le recomiendan **4 palancas** para facilitar las transformaciones necesarias.
+
+1. Gobernanza
+2. Economía y finanzas
+3. Acción individual y colectiva
+4. Ciencia y tecnología
+
+```
+
+```ad-info
+title: Principales caras de la innovación para los ODS
+
+**Productos y servicios**
+
+
+
+**Organizativa (institucional)**
+
+**De comercialización**
+
+**En modelos de negocio**
+
+**En favor de los pobres, inclusiva y fructífera**
+
+**De base**
+
+**Social**
+
+**Del sistema**
 
 ```
