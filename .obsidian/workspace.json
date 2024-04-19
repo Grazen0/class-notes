@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5686c5d44510f261",
+        "id": "d2fc849f16a40a04",
         "type": "tabs",
         "children": [
           {
-            "id": "ad26db30e856e4e7",
+            "id": "a9527ba22ad2046c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciclo 1/Notas diarias/19-04-2024.md",
+                "file": "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S2D - Lógica proposicional.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo 1/Notas diarias/19-04-2024.md"
+                "file": "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S2D - Lógica proposicional.md"
               }
             }
           },
@@ -149,10 +149,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ad26db30e856e4e7",
+  "active": "a9527ba22ad2046c",
   "lastOpenFiles": [
-    "Kanban.md",
     "Ciclo 1/Notas diarias/19-04-2024.md",
+    "Kanban.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S4 - Escandell. El esquema clásico de la comunicación y sus limitaciones (cáp. 1).md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S4 - Mata & Scarafino. La comunicación como práctica discursiva.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/Escandell. El esquema clásico de la comunicación y sus limitaciones.pdf",

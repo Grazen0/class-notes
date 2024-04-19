@@ -360,3 +360,22 @@ $$
 $$
 
 ```
+
+## Disyunción fuerte
+
+```ad-definition
+title: Definición.
+
+La **disyunción fuerte** ("exclusiva") es un conector, denotado por el símbolo $p \lxor q$, cuyo valor de verdad se define de la siguiente forma:
+
+$p \lxor q$ es verdadero solamente cuando uno de ellos es verdadero y el otro es falso. Equivalentemente, es verdadero cuando $p$ y $q$ tienen distinto valor de verdad.
+
+| $p$ | $q$ | $p \lxor q$ |
+| :-: | :-: | :---------: |
+|  V  |  V  |      F      |
+|  V  |  F  |      V      |
+|  F  |  V  |      V      |
+|  F  |  F  |      F      |
+
+```
+
