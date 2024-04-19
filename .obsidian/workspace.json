@@ -11,9 +11,12 @@
             "id": "80931af96473ad64",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanban.md"
+                "file": "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Laboratorio/S1B - Oraciones y su clasificación.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -99,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban.md"
+                "file": "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Laboratorio/S1B - Oraciones y su clasificación.md"
               }
             }
           },
@@ -148,16 +151,16 @@
   },
   "active": "80931af96473ad64",
   "lastOpenFiles": [
+    "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Laboratorio/S2 - Puntuación.md",
+    "Kanban.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS.pdf",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS.md",
-    "Kanban.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S2A - Números primos y descomposición canónica.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S2D - Lógica proposicional.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S2C - Sistemas de numeración.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Notas/Recursos/93 a binario.excalidraw.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S2B - MCD y MCM.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Laboratorio/S1B - Oraciones y su clasificación.md",
-    "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Laboratorio/S2 - Puntuación.md",
     "Ciclo 1/💻 Programación I/Notas/S1B (Lab) - Introducción a Python.md",
     "Ciclo 1/💻 Programación I/Notas/S1A (Lab) - Algoritmos.md",
     "Ciclo 1/💻 Programación I/Notas/S3 (Teo) - Funciones.md",
