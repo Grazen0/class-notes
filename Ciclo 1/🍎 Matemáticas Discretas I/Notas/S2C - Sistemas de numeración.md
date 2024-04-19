@@ -19,7 +19,7 @@ Cuando $k > 10$, se usan los símbolos $\text{A},\text{B},\text{C},\text{D},\tex
 Un número $n$ en base $k$ representado en la forma anterior se puede descomponer en la suma:
 
 $$
-n = a_{1}k^{t-1} + a_{2}k^{t-2} + \dots + a_{t-1}k + a_t
+n = a_{1}k^{t-1} + a_{2}k^{t-2} + \ldots + a_{t-1}k + a_t
 $$
 
 **Ejemplos:**
@@ -36,7 +36,7 @@ Para cualquier $k \geq 2$, todo entero positivo se puede representar **de forma 
 
 ## Cambio de base
 
-Para convertir un número $n$ a a una base $k$, se emplea un proceso de **divisiones repetidas** a $n$, donde cada residuo sucesivo se concatena al número desde la izquierda hasta la derecha.
+Para convertir un número $n$ a a una base $k$, se emplea un proceso de **divisiones repetidas** a $n$, donde cada residuo sucesivo se concatena al número desde la izquierda hacia la derecha.
 
 ```ad-example
 title: Ejemplo: 91 en base 2
@@ -44,7 +44,7 @@ title: Ejemplo: 91 en base 2
 ![[93 a binario.excalidraw]]
 
 $$
-91 = 1011011_{(2)}
+\therefore 91 = 1011011_{(2)}
 $$
 
 ```
