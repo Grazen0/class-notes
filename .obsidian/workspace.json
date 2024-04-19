@@ -4,19 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "26e031cf98927404",
+        "id": "895655818e58e8bc",
         "type": "tabs",
         "children": [
           {
-            "id": "dc60fad2cb4e1754",
+            "id": "80931af96473ad64",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Kanban.md"
               }
             }
           }
@@ -102,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS.md"
+                "file": "Kanban.md"
               }
             }
           },
@@ -149,42 +146,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "4219a1730addfea5",
-    "type": "floating",
-    "children": [
-      {
-        "id": "6bf802c47b4dbe10",
-        "type": "window",
-        "children": [
-          {
-            "id": "7590553688d7c29b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "529bb8009fdb02c7",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS.pdf"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 110,
-        "y": 0,
-        "width": 1146,
-        "height": 728,
-        "maximize": true,
-        "zoom": -0.5
-      }
-    ]
-  },
-  "active": "dc60fad2cb4e1754",
+  "active": "80931af96473ad64",
   "lastOpenFiles": [
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS.pdf",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS.md",

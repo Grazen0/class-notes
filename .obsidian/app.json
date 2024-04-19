@@ -5,7 +5,7 @@
   "readableLineLength": true,
   "strictLineBreaks": false,
   "rightToLeft": false,
-  "vimMode": false,
+  "vimMode": true,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "",
   "showUnsupportedFiles": false

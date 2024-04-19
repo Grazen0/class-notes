@@ -165,22 +165,43 @@ Además, para cada punto de entrada se le recomiendan **4 palancas** para facili
 ```ad-info
 title: Principales caras de la innovación para los ODS
 
-**Productos y servicios**
+**📦 Productos y servicios**
 
+- Responder a **necesidades económicas**.
+- Productos accesibles, duraderos, reutilizables, etc.
+- Servicios accesibles, eficientes, rápidos, etc.
 
+k**🏬 Organizativa (institucional)**
 
-**Organizativa (institucional)**
+- Mejor organización del suministro de bienes / servicios.
+- Mejor gestión de la producción de bienes / servicios.
 
-**De comercialización**
+**💰 De comercialización**
 
-**En modelos de negocio**
+- Entrega rápida.
+- Diferenciación de productos (etiquetas ecológicas).
+- Campañas científicas y **sensibilización**.
 
-**En favor de los pobres, inclusiva y fructífera**
+**🤝 En modelos de negocio**
 
-**De base**
+- Mejor **organización** de las empresas y sus productos / servicios.
+- Mejores **propuestas de valor** (ep. ej. conomía circular)
 
-**Social**
+**💕 En favor de los pobres, inclusiva y fructífera**
 
-**Del sistema**
+- Abordar las necesidades de los **marginados**.
+- Productos **asequibles** con poco impacto ambiental.
+
+**👥 De base**
+
+- Agentes de base (ONG, comunidades)
+
+**👦 Social**
+
+- **Colaboraciones** con beneficios sociales y ambientales.
+
+**🌐 Del sistema**
+
+- Cambios en el sistema aplicadas por varias organizaciones.
 
 ```
