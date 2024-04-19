@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "19-04-2024",
+      "path": "Ciclo 1/Notas diarias/19-04-2024.md"
+    },
+    {
       "basename": "Kanban",
       "path": "Kanban.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "S2A - Números primos y descomposición canónica",
       "path": "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S2A - Números primos y descomposición canónica.md"
-    },
-    {
-      "basename": "S2D - Lógica proposicional",
-      "path": "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S2D - Lógica proposicional.md"
     }
   ],
   "omittedPaths": [
