@@ -48,7 +48,7 @@ El valor de verdad de $p \operatorname{\#} q$ depende **únicamente** de $p$ y $
 - 91 es un número primo **o** es un número compuesto.
 - Raúl nació en Lima; Pedro, en Cajamarca.
 
-## Negación - $\neg$
+### Negación - $\neg$
 
 ```ad-definition
 
@@ -82,7 +82,7 @@ $p \land q$ es verdadero cuando $p$ es verdadero y $q$ es verdadero, y es falso 
 
 ```
 
-### Lenguaje coloquial
+#### Lenguaje coloquial
 
 $p \land q$ es equivalente a:
 
@@ -149,7 +149,7 @@ $$
 
 ```ad-definition
 
-La **desyunción** es un conector denotado por el símbolo $\lor$, cuyo valor de verdad se define de la siguiente manera:
+La **disyunción** es un conector denotado por el símbolo $\lor$, cuyo valor de verdad se define de la siguiente manera:
 
 $p \lor q$ es falso cuando $p$ es falso y $q$ es falso, y es verdadero en cualquier otro caso.
 
@@ -162,11 +162,11 @@ $p \lor q$ es falso cuando $p$ es falso y $q$ es falso, y es verdadero en cualqu
 
 ```
 
-### Lenguaje coloquial
+#### Lenguaje coloquial
 
 $p \lor q$ es equivalente a:
 
-- $p$ ó $q$.
+- $p$ o $q$.
 
 ```ad-exercise
 title: Ejercicios (disyunción débil)
@@ -293,7 +293,7 @@ $$
 
 ```
 
-## Bicondicional - $\leftrightarrow$
+### Bicondicional - $\leftrightarrow$
 
 ```ad-definition
 
@@ -310,7 +310,7 @@ $p \leftrightarrow q$ es verdadero solamente cuando $p$ y $q$ tienen el mismo va
 
 ```
 
-### Lenguaje coloquial
+#### Lenguaje coloquial
 
 $p \leftrightarrow  q$ es equivalente a:
 
@@ -361,7 +361,7 @@ $$
 
 ```
 
-## Disyunción fuerte
+### Disyunción fuerte - $\lxor$
 
 ```ad-definition
 title: Definición.
@@ -376,6 +376,79 @@ $p \lxor q$ es verdadero solamente cuando uno de ellos es verdadero y el otro es
 |  V  |  F  |      V      |
 |  F  |  V  |      V      |
 |  F  |  F  |      F      |
+
+```
+
+#### Lenguaje coloquial
+
+$p \lxor q$ se es equivalente a:
+
+- O $p$ o $q$.
+- O bien $p$ o bien $q$.
+
+```ad-proposition
+title: Observación.
+
+La bicondicional tiene el valor de verdad opuesto de la disyunción fuerte.
+
+$$
+p \lxor q \equiv \neg(p \leftrightarrow q)
+$$
+
+```
+
+## Tablas de verdad
+
+Si tenemos $n$ proposiciones $p_{1},p_{2},\ldots,p_{n}$, entonces una tabla de verdad consistirá de $2{^n}$ columnas.
+
+```ad-example
+title: Ejemplo
+
+Elaborar la tabla de verdad de $p \rightarrow (q \land r)$.
+
+| $p$ | $q$ | $r$ | $q \land r$ | $p \to (q \land r)$ |
+| :-: | :-: | :-: | :---------: | :-----------------: |
+|  V  |  V  |  V  |      V      |          **V**          |
+|  V  |  V  |  F  |      F      |          **F**          |
+|  V  |  F  |  V  |      F      |          **F**          |
+|  V  |  F  |  F  |      F      |          **F**          |
+|  F  |  V  |  V  |      V      |          **V**          |
+|  F  |  V  |  F  |      F      |          **V**          |
+|  F  |  F  |  V  |      F      |          **V**          |
+|  F  |  F  |  F  |      F      |          **V**          |
+
+```
+
+```ad-exercise
+title: Ejercicios (tablas de verdad)
+collapse: open
+
+1. Comprobar mediante el uso de tablas que $p \to q$ y $\neg p \lor q$ tienen el mismo valor de verdad.
+
+| $p$ | $q$ | $\neg p$ | **$p \to q$** | **$\neg p \lor q$** |
+| :-: | :-: | :------: | :-----------: | :-----------------: |
+|  V  |  V  |    F     |     **V**     |        **V**        |
+|  V  |  F  |    F     |     **F**     |        **F**        |
+|  F  |  V  |    V     |     **V**     |        **V**        |
+|  F  |  F  |    V     |     **V**     |        **V**        |
+
+2. Elaborar la tabla de $p \to (p \to q)$.
+
+| $p$ | $q$ | $p \to q$ | $p \to (p \to q)$ |
+| --- | --- | --------- | ----------------- |
+| V   | V   | V         | **V**             |
+| V   | F   | F         | **F**             |
+| F   | V   | V         | **V**             |
+| F   | F   | V         | **V**             |
+
+3. Comprobar mediante el uso de tablas que $p \leftrightarrow q$ y $(p \to q) \land (q \to p)$ tienen el mismo valor de verdad.
+
+| $p$ | $q$ | $p \to q$ | $q \to p$ | $(p \to q) \land (q \to p)$ | $p \leftrightarrow q$ |
+| :-: | :-: | :-------: | :-------: | :-------------------------: | :-------------------: |
+|  V  |  V  |     V     |     V     |            **V**            |         **V**         |
+|  V  |  F  |     F     |     V     |            **F**            |         **F**         |
+|  F  |  V  |     V     |     F     |            **F**            |         **F**         |
+|  F  |  F  |     V     |     V     |            **V**            |         **V**         |
 
 ```
 
