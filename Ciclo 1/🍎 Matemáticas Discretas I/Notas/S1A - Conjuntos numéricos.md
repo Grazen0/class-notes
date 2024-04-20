@@ -177,9 +177,9 @@ Estas propiedades se extienden a $>$, $\leq$ y $\geq$.
 
 $$
 \begin{align}
-a > 0 \text{ y } b > 0 &\iff ab > 0 \\
+a > 0 \text{ y } b > 0 &\implies ab > 0 \\
+a < 0 \text{ y } b < 0 &\implies ab > 0 \\
 a > 0 \text{ y } b < 0 &\implies ab < 0 \\
-a < 0 \text{ y } b < 0 &\iff ab > 0
 \end{align}
 $$
 

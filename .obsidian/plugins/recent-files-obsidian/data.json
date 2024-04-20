@@ -5,8 +5,32 @@
       "path": "Kanban.md"
     },
     {
+      "basename": "S5 - Pernas. IA y los ODS",
+      "path": "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S5 - Pernas. IA y los ODS.md"
+    },
+    {
+      "basename": "Pernas. IA y los ODS",
+      "path": "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/Pernas. IA y los ODS.pdf"
+    },
+    {
       "basename": "S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS",
       "path": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS.md"
+    },
+    {
+      "basename": "S2B - MCD y MCM",
+      "path": "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S2B - MCD y MCM.md"
+    },
+    {
+      "basename": "S2C - Sistemas de numeración",
+      "path": "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S2C - Sistemas de numeración.md"
+    },
+    {
+      "basename": "S2D - Lógica proposicional",
+      "path": "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S2D - Lógica proposicional.md"
+    },
+    {
+      "basename": "S1A - Conjuntos numéricos",
+      "path": "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S1A - Conjuntos numéricos.md"
     },
     {
       "basename": "S5,6 - Verdera. Enfoques sobre la pobreza",
@@ -15,30 +39,6 @@
     {
       "basename": "Verdera. Enfoques sobre la pobreza",
       "path": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Verdera. Enfoques sobre la pobreza.pdf"
-    },
-    {
-      "basename": "18-04-2024",
-      "path": "Ciclo 1/Notas diarias/18-04-2024.md"
-    },
-    {
-      "basename": "S2D - Lógica proposicional",
-      "path": "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S2D - Lógica proposicional.md"
-    },
-    {
-      "basename": "15-04-2024",
-      "path": "Ciclo 1/Notas diarias/15-04-2024.md"
-    },
-    {
-      "basename": "12-04-2024",
-      "path": "Ciclo 1/Notas diarias/12-04-2024.md"
-    },
-    {
-      "basename": "S4 - Escandell. El esquema clásico de la comunicación y sus limitaciones (cáp. 1)",
-      "path": "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S4 - Escandell. El esquema clásico de la comunicación y sus limitaciones (cáp. 1).md"
-    },
-    {
-      "basename": "S4 - Mata & Scarafino. La comunicación como práctica discursiva",
-      "path": "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S4 - Mata & Scarafino. La comunicación como práctica discursiva.md"
     }
   ],
   "omittedPaths": [
