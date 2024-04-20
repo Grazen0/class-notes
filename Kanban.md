@@ -12,12 +12,10 @@ kanban-plugin: basic
 
 ## Presentaciones
 
-- [ ] **Coordinar expo del problema para PI**<br><br>@{Apr/24-04-2024}<br><br>#pi #lab #grupal
 
 
 ## Lecturas
 
-- [ ] **[[S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS]]**<br><br>ONU<br><br>#pi #teo @{22-04-2024}
 
 
 ## Completado
@@ -25,6 +23,7 @@ kanban-plugin: basic
 **Complete**
 - [x] **[[S4 - Mata & Scarafino. La comunicación como práctica discursiva]]**<br><br>María Cristina Mata / Silvia Scarafino<br><br>#comu #teo
 - [x] **[[S4 - Escandell. El esquema clásico de la comunicación y sus limitaciones (cáp. 1)]]**<br><br>Escandell<br><br>#comu #teo
+- [x] **[[S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS]]**<br><br>ONU<br><br>#pi #teo @{22-04-2024}
 
 
 ***
