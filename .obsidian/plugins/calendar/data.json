@@ -2,7 +2,7 @@
   "shouldConfirmBeforeCreate": true,
   "weekStart": "monday",
   "wordsPerDot": 250,
-  "showWeeklyNote": true,
+  "showWeeklyNote": false,
   "weeklyNoteFormat": "",
   "weeklyNoteTemplate": "",
   "weeklyNoteFolder": "",
