@@ -18,6 +18,7 @@ kanban-plugin: basic
 
 - [ ] **[[S5 - Pernas. IA y los ODS]]**<br><br>@{30-04-2024}<br>#comu #teo
 - [ ] **[[S16 - Renwick. Escrituralidad y oralidad]]**<br><br>@{16-07-2024}<br>#comu #teo
+- [ ] **[[S5,6 - Verdera. Enfoques sobre la pobreza]]**<br><br>@{29-04-2024}<br>#pi #teo
 
 
 ## Completado
