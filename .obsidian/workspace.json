@@ -4,24 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4569f1947867ef00",
+        "id": "d93e36dedce84924",
         "type": "tabs",
         "children": [
           {
-            "id": "cdd6d8ba39a5c75d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciclo 1/Notas diarias/22-04-2024.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b4d48c0b697eee0",
+            "id": "d6799e68f231c67d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,7 +149,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9b4d48c0b697eee0",
+  "active": "d6799e68f231c67d",
   "lastOpenFiles": [
     "Kanban.md",
     "Ciclo 1/Notas diarias/22-04-2024.md",
