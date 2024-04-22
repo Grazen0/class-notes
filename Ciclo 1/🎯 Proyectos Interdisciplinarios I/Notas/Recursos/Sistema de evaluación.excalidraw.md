@@ -17,7 +17,7 @@ Laboratorio
 PA1
 10% ^EeN90zc2
 
-CL2
+CL1
 15% ^aglMVjIF
 
 E
@@ -41,7 +41,7 @@ P3
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.1.1",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.1.4",
 	"elements": [
 		{
 			"type": "rectangle",
@@ -270,8 +270,8 @@ P3
 		},
 		{
 			"type": "text",
-			"version": 349,
-			"versionNonce": 681153879,
+			"version": 353,
+			"versionNonce": 156668423,
 			"isDeleted": false,
 			"id": "aglMVjIF",
 			"fillStyle": "solid",
@@ -280,28 +280,28 @@ P3
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -295.323406782271,
+			"x": -294.0534101392046,
 			"y": 4.230709071077968,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 39.0999755859375,
+			"width": 36.55998229980469,
 			"height": 50,
 			"seed": 996988087,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1712844629405,
+			"updated": 1713802258115,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "CL2\n15%",
-			"rawText": "CL2\n15%",
+			"text": "CL1\n15%",
+			"rawText": "CL1\n15%",
 			"textAlign": "center",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "CL2\n15%",
+			"originalText": "CL1\n15%",
 			"lineHeight": 1.25
 		},
 		{

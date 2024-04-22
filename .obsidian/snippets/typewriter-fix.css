@@ -10,6 +10,10 @@
 		var(--base-s),
 		calc(var(--base-d) - 2%)
 	) !important;
+	--background-modifier-error: #700000 !important;
+	--background-modifier-error-rgb: 112, 0, 0 !important;
+	
+	--text-error: #FF3030;
 }
 
 /* Idk what this does but it's there */
