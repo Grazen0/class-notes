@@ -1,0 +1,114 @@
+## Definiciones previas
+
+```ad-definition
+title: Definición (tautología).
+
+Una **tautología** es una proposición lógica que siempre toma el valor de verdadero (V). Se denota usualmente como $\top$.
+
+Por ejemplo, $p \lor \neg p \equiv \top$.
+
+```
+
+```ad-definition
+title: Definición (contradicción).
+
+Una **contradicción** es una proposición lógica que siempre toma el valor de falso (F). Se denota usualmente como $\bot$.
+
+Por ejemplo, $p \land \neg p \equiv \bot$.
+
+```
+
+```ad-definition
+title: Definición (equivalencia).
+
+Decimos que dos proposiciones lógicas $p$ y $q$ son equivalentes si $p \leftrightarrow q$ es una tautología. Es decir, si y solo si tienen el mismo valor de verdad.
+
+Por ejemplo: $p \land p \equiv p$.
+
+```
+
+## Leyes lógicas
+
+$$
+\begin{array}{lll}
+	\text{Conmutativas:}
+		& p \land q \equiv q \land p
+		& p \lor q \equiv q \lor p \\
+	\text{Asociativas:}
+		& (p \land q) \land r \equiv p \land (q \land r)
+		& (p \lor q) \lor r \equiv p \lor (q \lor r) \\
+	\text{Distributivas:}
+		& p \land (q \lor r) \equiv (p \land q) \lor (p \land r)
+		& p \lor (q \land r) \equiv (p \lor q) \land (p \lor r) \\
+	\text{Identidad:}
+		& p \land \T \equiv p
+		& p \lor \F \equiv p \\
+	\text{Negación:}
+		& p \lor \neg p \equiv \T
+		& p \land \neg p \equiv \F \\
+	\text{Doble negativo:}
+		& \neg(\neg p) \equiv p
+		& \\
+	\text{Idempotencia:}
+		& p \land p \equiv p
+		& p \lor p \equiv p \\
+	\text{Dominación:}
+		& p \lor \T \equiv \T
+		& p \land \F \equiv \F \\
+	\text{De Morgan:}
+		& \neg(p \land q) \equiv \neg p \lor \neg q
+		& \neg(p \lor q) \equiv \neg p \land \neg q \\
+	\text{Absorción:}
+		& p \lor (p \land q) \equiv p
+		& p \land (p \lor q) \equiv p \\
+\end{array}
+$$
+
+```ad-proof
+title: Demostración por división en casos
+collapse: closed
+
+Para demostrar $p \lor (p \land q) \equiv p$, dividimos en casos:
+
+**Caso 1:** $p \equiv \T$
+
+Lado izquierdo: $\T \lor (\T \land q) \equiv \T$
+
+**Caso 2:** $p \equiv \F$
+
+Lado izquierdo: $\F \lor (\F \land q) \equiv \F$
+
+Por lo tanto, en cada caso, $p \lor (p \land q)$ tiene el mismo valor de verdad que $p$.
+$$\qed$$
+
+```
+
+### Leyes de condicional
+
+```ad-important
+title: Contraposición
+
+La ley de **contraposición** o "contra-recíproca" es particularmente importante para las demostraciones:
+
+$$
+p \to q \equiv \neg q \to \neg p
+$$
+
+```
+
+Otra ley es:
+
+$$
+\begin{align}
+p \to q &\equiv \neg p \lor q \\
+\end{align}
+$$
+
+Y la **distributividad**:
+
+$$
+\begin{align}
+(p \to q) \land (p \to r) &\equiv p \to (q \land r) \\
+(p \to q) \lor (p \to r) &\equiv p \to (q \lor r)
+\end{align}
+$$
