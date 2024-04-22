@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Información del curso",
+      "path": "Ciclo 1/💾 Introducción a Ciencias de la Computación/Información del curso.md"
+    },
+    {
       "basename": "22-04-2024",
       "path": "Ciclo 1/Notas diarias/22-04-2024.md"
     },
     {
+      "basename": "S2D,3 - Lógica proposicional",
+      "path": "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S2D,3 - Lógica proposicional.md"
+    },
+    {
       "basename": "Kanban",
       "path": "Kanban.md"
+    },
+    {
+      "basename": "Horario",
+      "path": "Ciclo 1/Horario.pdf"
     },
     {
       "basename": "S5 - De Parra y Tortosa. Violencia estructural",
@@ -27,18 +39,6 @@
     {
       "basename": "Vasen. Giro postcompetitivo en la política de CTI",
       "path": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Vasen. Giro postcompetitivo en la política de CTI.pdf"
-    },
-    {
-      "basename": "ODS vs ODM.excalidraw",
-      "path": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Recursos/ODS vs ODM.excalidraw.md"
-    },
-    {
-      "basename": "S3 - De los ODM a los ODS",
-      "path": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Teoría/S3 - De los ODM a los ODS.md"
-    },
-    {
-      "basename": "S1B - Divisibilidad",
-      "path": "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S1B - Divisibilidad.md"
     }
   ],
   "omittedPaths": [

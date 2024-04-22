@@ -10,17 +10,33 @@
           {
             "id": "d6799e68f231c67d",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Ciclo 1/Notas diarias/22-04-2024.md",
-                "mode": "source",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "5b6d6e75f1a4f901",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciclo 1/💾 Introducción a Ciencias de la Computación/Información del curso.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo 1/Notas diarias/22-04-2024.md"
+                "file": "Ciclo 1/💾 Introducción a Ciencias de la Computación/Información del curso.md"
               }
             }
           },
@@ -149,10 +165,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d6799e68f231c67d",
+  "active": "5b6d6e75f1a4f901",
   "lastOpenFiles": [
-    "Kanban.md",
     "Ciclo 1/Notas diarias/22-04-2024.md",
+    "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S2D,3 - Lógica proposicional.md",
+    "Kanban.md",
+    "Ciclo 1/Horario.pdf",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5 - De Parra y Tortosa. Violencia estructural.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Información del curso.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS.md",
@@ -173,7 +191,6 @@
     "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S4 - Leyes lógicas.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Evaluaciones.pdf",
     "Ciclo 1/🍎 Matemáticas Discretas I/Información del curso.md",
-    "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S2D - Lógica proposicional.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Teoría/S3 - Desafíos globales y participación social.md",
     "Ciclo 1/Notas diarias/15-04-2024.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S2 - Vasen. Giro postcompetitivo en la política de CTI.md",
@@ -184,9 +201,7 @@
     "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/Pernas. IA y los ODS.pdf",
     "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S2B - MCD y MCM.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S2C - Sistemas de numeración.md",
-    "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S1A - Conjuntos numéricos.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Laboratorio",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Teoría",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/NOESTOYGRITANDO.png",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/Comic marcianito baño (1).png",
     "Ciclo 1/📈 Cálculo de Una Variable/Notas/Recursos/Grafico Liebre.png",
