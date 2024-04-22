@@ -14,3 +14,24 @@ Es decir, **$f(x)$ se acerca al entorno de $L$ cuando $x$ se acerca al entorno d
 
 ## Límites laterales
 
+Límite lateral por la derecha:
+
+$$
+\lim_{x \to a^{+}} f(x) = L
+$$
+
+Límite lateral por la izquierda:
+
+$$
+\lim_{x \to a^{-}} f(x) = L
+$$
+
+```ad-theorem
+
+Sea $f$ una función y $a \in \R$, entonces
+
+$$
+\lim_{x \to a} f(x) = L \iff \lim_{x \to a^{+}} f(x) = \lim_{x \to a^{-}} f(x) = L
+$$
+
+```
