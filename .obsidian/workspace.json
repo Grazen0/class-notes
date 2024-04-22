@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0682e3c4a34d26ee",
+        "id": "bff6d67f84b2c77d",
         "type": "tabs",
         "children": [
           {
-            "id": "798cfc251c3bad0e",
+            "id": "4846fddc3abd660f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S4 - Leyes lógicas.md",
+                "file": "Ciclo 1/Notas diarias/22-04-2024.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S4 - Leyes lógicas.md"
+                "file": "Ciclo 1/Notas diarias/22-04-2024.md"
               }
             }
           },
@@ -132,8 +132,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,17 +148,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "798cfc251c3bad0e",
+  "active": "4846fddc3abd660f",
   "lastOpenFiles": [
+    "Ciclo 1/Notas diarias/05-04-2024.md",
+    "Ciclo 1/Notas diarias/04-04-2024.md",
+    "Ciclo 1/Notas diarias/03-04-2024.md",
     "Kanban.md",
+    "Ciclo 1/Notas diarias/16-04-2024.md",
+    "Ciclo 1/Notas diarias/22-04-2024.md",
+    "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S4 - Leyes lógicas.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Evaluaciones.pdf",
     "Ciclo 1/🍎 Matemáticas Discretas I/Información del curso.md",
-    "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S4 - Leyes lógicas.md",
-    "Ciclo 1/Notas diarias/22-04-2024.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S2D - Lógica proposicional.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Teoría/S3 - Desafíos globales y participación social.md",
     "Ciclo 1/Notas diarias/15-04-2024.md",
-    "Ciclo 1/Notas diarias/16-04-2024.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S2 - Vasen. Giro postcompetitivo en la política de CTI.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS.pdf",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5,6 - Verdera. Enfoques sobre la pobreza.md",
@@ -179,8 +181,6 @@
     "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S4 - Mata & Scarafino. La comunicación como práctica discursiva.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Laboratorio/S1B - Oraciones y su clasificación.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Laboratorio/S2 - Puntuación.md",
-    "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S2A - Números primos y descomposición canónica.md",
-    "Ciclo 1/🍎 Matemáticas Discretas I/Notas/Recursos/93 a binario.excalidraw.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Laboratorio",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Teoría",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Laboratorio",
