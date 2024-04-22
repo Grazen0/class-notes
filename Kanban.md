@@ -6,21 +6,23 @@ kanban-plugin: basic
 
 ## Proyectos
 
+- [ ] **¿Qué es la ciencia de la computación?**<br><br>Video explicativo, a partir de un programa de doctorado en alguna universidad.<br><br>#intro-cs #teo
 - [ ] **Investigación: innatismo vs. culturalismo**<br><br>#comu #lab #grupal <br><br>Característica: *(por definir)*<br><br>- [ ] Definir característica
 - [ ] **Investigación sobre problema en nuestra localidad**<br><br>Es peligroso cruzar Abancay para gente con discapacidad, negando el acceso a la Iglesia San Pedro.<br><br>- [x] Definir problema<br>- [ ] Definir localidad<br>- [ ] Investigar y resumir<br>- [ ] Relación con ODS (la 11)<br>- [ ] Definir actores<br>- [ ] Analizar actores<br>- [ ] Identificar niveles de poder<br><br>#pi #lab #grupal
 
 
 ## Lecturas
 
-- [ ] **[[S16 - Renwick. Escrituralidad y oralidad]]**<br><br>@{16-07-2024}<br>#comu #teo
+- [ ] **[[S5 - De Parra y Tortosa. Violencia estructural]]**<br><br>@{29-04-2024}<br>#pi #teo
 - [ ] **[[S5 - Pernas. IA y los ODS]]**<br><br>@{30-04-2024}<br>#comu #teo
 - [ ] **[[S5,6 - Verdera. Enfoques sobre la pobreza]]**<br><br>@{29-04-2024}<br>#pi #teo
-- [ ] **[[S5 - De Parra y Tortosa. Violencia estructural]]**<br><br>@{29-04-2024}<br>#pi #teo
+- [ ] **[[S16 - Renwick. Escrituralidad y oralidad]]**<br><br>@{16-07-2024}<br>#comu #teo
+- [ ] **[Lectura de laboratorio]**<br><br>@{08-05-2024}<br>#comu
 
 
-## Otros
+## Evaluaciones
 
-- [ ] **¿Qué es la ciencia de la computación?**<br><br>Video explicativo, a partir de un programa de doctorado en alguna universidad.<br><br>#intro-cs #teo
+- [ ] **Cálculo: EV1**<br><br>@{30-04-2024}@@{12:00}<br>#calculo
 
 
 ## Completado
@@ -28,7 +30,6 @@ kanban-plugin: basic
 **Complete**
 - [x] **[[S4 - Mata & Scarafino. La comunicación como práctica discursiva]]**<br><br>María Cristina Mata / Silvia Scarafino<br><br>#comu #teo
 - [x] **[[S4 - Escandell. El esquema clásico de la comunicación y sus limitaciones (cáp. 1)]]**<br><br>Escandell<br><br>#comu #teo
-- [x] **[[S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS]]**<br><br>ONU<br><br>#pi #teo @{22-04-2024}
 
 
 ***
@@ -39,6 +40,7 @@ kanban-plugin: basic
 - [x] [[S2 - Harari. De animales a dioses (cáp. 2)|De animales a dioses: Breve historia de la humanidad]]<br><br>Yuval Noah Harari<br><br>*Sólo el cáp. 2*<br><br>#comu #teo
 - [x] [[S2 - Vasen. Giro postcompetitivo en la política de CTI|¿Estamos ante un  giro postcompetitivo  en la política de ciencia, tecnología e innovación?]]<br><br>Frederico Vasen<br><br>#pi #teo
 - [x] [[S2 - CCCTI. Acciones para el potenciamiento de la CTI en Perú|Acciones para el potenciamiento de la ciencia, la tecnología y la innovación en el Perú]]<br><br>CCCTI<br><br>#pi #teo
+- [x] **[[S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS]]**<br><br>ONU<br><br>#pi #teo @{22-04-2024}
 
 %% kanban:settings
 ```

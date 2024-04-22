@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "ba03c832f170376b",
+            "id": "4d889787248aca34",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciclo 1/📈 Cálculo de Una Variable/Información del curso.md",
+                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5 - De Parra y Tortosa. Violencia estructural.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo 1/📈 Cálculo de Una Variable/Información del curso.md"
+                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5 - De Parra y Tortosa. Violencia estructural.md"
               }
             }
           },
@@ -165,10 +165,48 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ba03c832f170376b",
+  "floating": {
+    "id": "98ee96339e17b9a6",
+    "type": "floating",
+    "children": [
+      {
+        "id": "4dec547cd6910c5e",
+        "type": "window",
+        "children": [
+          {
+            "id": "b12af38a54be0731",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "423993ab7a77ac8a",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/De Parra y Tortosa. Violencia Estructural.pdf"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 171,
+        "y": 0,
+        "width": 1024,
+        "height": 727,
+        "maximize": true,
+        "zoom": -0.5
+      }
+    ]
+  },
+  "active": "4d889787248aca34",
   "lastOpenFiles": [
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/De Parra y Tortosa. Violencia Estructural.pdf",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5 - De Parra y Tortosa. Violencia estructural.md",
     "Kanban.md",
     "Ciclo 1/Notas diarias/22-04-2024.md",
+    "Ciclo 1/📈 Cálculo de Una Variable/Información del curso.md",
     "Ciclo 1/Notas diarias/03-04-2024.md",
     "Ciclo 1/Notas diarias/04-04-2024.md",
     "Ciclo 1/Notas diarias/18-04-2024.md",
@@ -178,10 +216,8 @@
     "Ciclo 1/💾 Introducción a Ciencias de la Computación/Información del curso.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S2D,3 - Lógica proposicional.md",
     "Ciclo 1/Horario.pdf",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5 - De Parra y Tortosa. Violencia estructural.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Información del curso.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS.md",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/De Parra y Tortosa. Violencia Estructural.pdf",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Verdera. Enfoques sobre la pobreza.pdf",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Vasen. Giro postcompetitivo en la política de CTI.pdf",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Recursos/ODS vs ODM.excalidraw.md",
@@ -199,8 +235,6 @@
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Teoría/S3 - Desafíos globales y participación social.md",
     "Ciclo 1/Notas diarias/15-04-2024.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S2 - Vasen. Giro postcompetitivo en la política de CTI.md",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5,6 - Verdera. Enfoques sobre la pobreza.md",
-    "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S5 - Pernas. IA y los ODS.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/Escandell. El esquema clásico de la comunicación y sus limitaciones.pdf",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/Pernas. IA y los ODS.pdf",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/NOESTOYGRITANDO.png",
