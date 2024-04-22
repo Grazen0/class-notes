@@ -23,20 +23,19 @@
             }
           },
           {
-            "id": "4d889787248aca34",
+            "id": "afd92ce103672f02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5 - De Parra y Tortosa. Violencia estructural.md",
+                "file": "Ciclo 1/💾 Introducción a Ciencias de la Computación/Trabajos/Video informativo.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5 - De Parra y Tortosa. Violencia estructural.md"
+                "file": "Ciclo 1/Notas diarias/22-04-2024.md"
               }
             }
           },
@@ -165,53 +164,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "98ee96339e17b9a6",
-    "type": "floating",
-    "children": [
-      {
-        "id": "4dec547cd6910c5e",
-        "type": "window",
-        "children": [
-          {
-            "id": "b12af38a54be0731",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "423993ab7a77ac8a",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/De Parra y Tortosa. Violencia Estructural.pdf"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 171,
-        "y": 0,
-        "width": 1024,
-        "height": 727,
-        "maximize": true,
-        "zoom": -0.5
-      }
-    ]
-  },
-  "active": "4d889787248aca34",
+  "active": "d6799e68f231c67d",
   "lastOpenFiles": [
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/De Parra y Tortosa. Violencia Estructural.pdf",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5 - De Parra y Tortosa. Violencia estructural.md",
+    "Ciclo 1/💾 Introducción a Ciencias de la Computación/Trabajos/Video informativo.md",
     "Kanban.md",
     "Ciclo 1/Notas diarias/22-04-2024.md",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5 - De Parra y Tortosa. Violencia estructural.md",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/De Parra y Tortosa. Violencia Estructural.pdf",
     "Ciclo 1/📈 Cálculo de Una Variable/Información del curso.md",
     "Ciclo 1/Notas diarias/03-04-2024.md",
     "Ciclo 1/Notas diarias/04-04-2024.md",
     "Ciclo 1/Notas diarias/18-04-2024.md",
     "Ciclo 1/Notas diarias/11-04-2024.md",
-    "Ciclo 1/💾 Introducción a Ciencias de la Computación/Trabajos/Video informativo.md",
     "Ciclo 1/💾 Introducción a Ciencias de la Computación/Trabajos",
     "Ciclo 1/💾 Introducción a Ciencias de la Computación/Información del curso.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S2D,3 - Lógica proposicional.md",
