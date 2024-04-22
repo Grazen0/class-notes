@@ -34,8 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "44c6ecc1ffbe20d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciclo 1/📈 Cálculo de Una Variable/Notas/S4 - Límites.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -117,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo 1/Notas diarias/22-04-2024.md"
+                "file": "Ciclo 1/📈 Cálculo de Una Variable/Notas/S4 - Límites.md"
               }
             }
           },
@@ -164,11 +178,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d6799e68f231c67d",
+  "active": "44c6ecc1ffbe20d1",
   "lastOpenFiles": [
+    "Ciclo 1/Notas diarias/22-04-2024.md",
+    "Ciclo 1/📈 Cálculo de Una Variable/Notas/S4 - Límites.md",
+    "Ciclo 1/📈 Cálculo de Una Variable/Notas/Untitled",
     "Ciclo 1/💾 Introducción a Ciencias de la Computación/Trabajos/Video informativo.md",
     "Kanban.md",
-    "Ciclo 1/Notas diarias/22-04-2024.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5 - De Parra y Tortosa. Violencia estructural.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/De Parra y Tortosa. Violencia Estructural.pdf",
     "Ciclo 1/📈 Cálculo de Una Variable/Información del curso.md",
@@ -200,7 +216,6 @@
     "Ciclo 1/Notas diarias/15-04-2024.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S2 - Vasen. Giro postcompetitivo en la política de CTI.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/Escandell. El esquema clásico de la comunicación y sus limitaciones.pdf",
-    "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/Pernas. IA y los ODS.pdf",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/NOESTOYGRITANDO.png",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/Comic marcianito baño (1).png",
     "Ciclo 1/📈 Cálculo de Una Variable/Notas/Recursos/Grafico Liebre.png",
