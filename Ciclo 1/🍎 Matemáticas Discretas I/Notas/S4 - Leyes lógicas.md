@@ -1,3 +1,30 @@
+```ad-exercise
+title: Ejercicios
+collapse: closed
+
+1. Simplificar $p \to (p \land q)$.
+
+$$
+\begin{align}
+p \to (p \land q) &\equiv \neg p \lor (p \land q) \\
+&\equiv \underbrace{(\neg p \lor p)}_{\T}  \land (\neg p \land q) \\
+&\equiv \T \land (\neg p \land q) \\
+&\equiv \neg p \land q \\
+&\equiv p \to q
+\end{align}
+$$
+
+2. Simplificar $p \to (\neg p \land q)$.
+
+$$
+\begin{align}
+p \to (\neg p \land q) &\equiv \neg p \lor (\neg p \land q) \\
+&\equiv \neg p && \text{(absorción)}
+\end{align}
+$$
+
+```
+
 ## Definiciones previas
 
 ```ad-definition
@@ -12,9 +39,9 @@ Por ejemplo, $p \lor \neg p \equiv \top$.
 ```ad-definition
 title: Definición (contradicción).
 
-Una **contradicción** es una proposición lógica que siempre toma el valor de falso (F). Se denota usualmente como $\bot$.
+Una **contradicción** es una proposición lógica que siempre toma el valor de falso (F).
 
-Por ejemplo, $p \land \neg p \equiv \bot$.
+Por ejemplo, $p \land \neg p \equiv \F$.
 
 ```
 
