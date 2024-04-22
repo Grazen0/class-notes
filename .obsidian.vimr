@@ -414,7 +414,12 @@ nnoremap ,od :enableDiagnostics
 exmap disableDiagnostics obcommand obsidian-languagetool-plugin:ltclear
 nnoremap ,oD :disableDiagnostics
 
-" window controls
+nnoremap zr :unfoldall
+
+""""""""""""""""""""""
+" Window Controls
+""""""""""""""""""""""
+
 exmap wq obcommand workspace:close
 exmap q obcommand workspace:close
 
