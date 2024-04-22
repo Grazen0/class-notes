@@ -5,6 +5,18 @@
       "path": "Ciclo 1/Notas diarias/22-04-2024.md"
     },
     {
+      "basename": "Información del curso",
+      "path": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Información del curso.md"
+    },
+    {
+      "basename": "Verdera. Enfoques sobre la pobreza",
+      "path": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Verdera. Enfoques sobre la pobreza.pdf"
+    },
+    {
+      "basename": "Vasen. Giro postcompetitivo en la política de CTI",
+      "path": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Vasen. Giro postcompetitivo en la política de CTI.pdf"
+    },
+    {
       "basename": "Kanban",
       "path": "Kanban.md"
     },
@@ -27,18 +39,6 @@
     {
       "basename": "ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS",
       "path": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS.pdf"
-    },
-    {
-      "basename": "Información del curso",
-      "path": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Información del curso.md"
-    },
-    {
-      "basename": "Sistema de evaluación.excalidraw",
-      "path": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Recursos/Sistema de evaluación.excalidraw.md"
-    },
-    {
-      "basename": "05-04-2024",
-      "path": "Ciclo 1/Notas diarias/05-04-2024.md"
     }
   ],
   "omittedPaths": [
