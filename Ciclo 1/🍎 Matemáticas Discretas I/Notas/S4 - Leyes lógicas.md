@@ -112,3 +112,13 @@ $$
 (p \to q) \lor (p \to r) &\equiv p \to (q \lor r)
 \end{align}
 $$
+
+### Leyes de bicondicional
+
+$$
+\begin{align}
+&p \leftrightarrow q \equiv (p \to q) \land (q \to p) \\
+&p \leftrightarrow q \equiv \neg q \leftrightarrow \neg q \\
+&\neg(p \leftrightarrow q) \equiv p \leftrightarrow \neg q \equiv \neg p \leftrightarrow q
+\end{align}
+$$

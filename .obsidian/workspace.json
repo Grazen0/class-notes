@@ -4,19 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dc22a15911b68eb5",
+        "id": "a7347f5fe70ecb83",
         "type": "tabs",
         "children": [
           {
-            "id": "46f600b0096b84e0",
+            "id": "e98e376af18e08f4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S4 - Leyes lógicas.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Kanban.md"
               }
             }
           }
@@ -102,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S4 - Leyes lógicas.md"
+                "file": "Kanban.md"
               }
             }
           },
@@ -149,10 +146,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "46f600b0096b84e0",
+  "active": "e98e376af18e08f4",
   "lastOpenFiles": [
-    "Ciclo 1/Notas diarias/22-04-2024.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S4 - Leyes lógicas.md",
+    "Ciclo 1/Notas diarias/22-04-2024.md",
+    "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S2D - Lógica proposicional.md",
     "Kanban.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Teoría/S3 - Desafíos globales y participación social.md",
     "Ciclo 1/Notas diarias/15-04-2024.md",
@@ -167,7 +165,6 @@
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S2B - MCD y MCM.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S2C - Sistemas de numeración.md",
-    "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S2D - Lógica proposicional.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S1A - Conjuntos numéricos.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Verdera. Enfoques sobre la pobreza.pdf",
     "Ciclo 1/Notas diarias/18-04-2024.md",
