@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Información del curso",
-      "path": "Ciclo 1/💾 Introducción a Ciencias de la Computación/Información del curso.md"
-    },
-    {
       "basename": "22-04-2024",
       "path": "Ciclo 1/Notas diarias/22-04-2024.md"
     },
     {
-      "basename": "S2D,3 - Lógica proposicional",
-      "path": "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S2D,3 - Lógica proposicional.md"
+      "basename": "Video informativo",
+      "path": "Ciclo 1/💾 Introducción a Ciencias de la Computación/Trabajos/Video informativo.md"
     },
     {
       "basename": "Kanban",
       "path": "Kanban.md"
+    },
+    {
+      "basename": "Información del curso",
+      "path": "Ciclo 1/💾 Introducción a Ciencias de la Computación/Información del curso.md"
+    },
+    {
+      "basename": "S2D,3 - Lógica proposicional",
+      "path": "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S2D,3 - Lógica proposicional.md"
     },
     {
       "basename": "Horario",
@@ -35,10 +39,6 @@
     {
       "basename": "Verdera. Enfoques sobre la pobreza",
       "path": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Verdera. Enfoques sobre la pobreza.pdf"
-    },
-    {
-      "basename": "Vasen. Giro postcompetitivo en la política de CTI",
-      "path": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Vasen. Giro postcompetitivo en la política de CTI.pdf"
     }
   ],
   "omittedPaths": [
