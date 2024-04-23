@@ -11,7 +11,7 @@ La comunicación debe ser **clara y adecuada**. Sin ello, el mensaje se puede in
 
 ## Modelos de la comunicación
 
-### Modelo de Roman Jakobson
+### Modelo de Jakobson
 
 Es un modelo **lineal**, basado en las raíces de la teoría de la información. **No se le da capacidad de interpretación libre al receptor.**
 
@@ -82,6 +82,6 @@ La comunicación se puede ver limitada por diversos factores desde cada uno de s
 | Referencial     | Contexto | Informar                        |
 | Emotiva         |  Emisor  | Expresar sentimientos           |
 | Conativa        | Receptor | Persuadir / ordenar             |
-| Poética         | Mensaje  | Confirmar funcionamiento        |
+| Poética         | Mensaje  | Causar extrañeza                |
 | Fática          |  Canal   | Abrir / mantener / cerrar canal |
 | Metalinguística |  Código  | Referenciar al lenguaje         |

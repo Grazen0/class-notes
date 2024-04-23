@@ -23,7 +23,7 @@ kanban-plugin: basic
 
 ## On Freeze
 
-- [ ] **[[S16 - Renwick. Escrituralidad y oralidad]]**<br><br>@{16-07-2024}<br>#comu #teo
+- [ ] **[[S14 - Renwick. Escrituralidad y oralidad]]**<br><br>@{02-07-2024}<br>#comu #teo
 - [ ] **[[Video informativo]]**<br><br>Video explicativo, a partir de un programa de doctorado en alguna universidad.<br><br>#intro-cs #teo
 - [ ] **Investigación: innatismo vs. culturalismo**<br><br>#comu #lab #grupal <br><br>Característica: *(por definir)*<br><br>- [ ] Definir característica
 - [ ] **[Lectura de laboratorio]**<br><br>@{08-05-2024}<br>#comu
