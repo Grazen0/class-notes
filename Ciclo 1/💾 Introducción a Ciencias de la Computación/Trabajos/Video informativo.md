@@ -4,6 +4,17 @@
 **Programa:** [Master of Computing - Artificial Intelligence Specialisation](https://www.comp.nus.edu.sg/programmes/pg/mai/)
 **Tipo:** PHD
 
+[**Requisitos:**](https://www.comp.nus.edu.sg/programmes/pg/mai/admissions/)
+
+Alguno de los siguientes:
+
+- Matrícula de honor en computación.
+- Matrícula de honor en una disciplina relacionada con 2 años de experiencia en TI.
+- Grado de bachiller en computación con 2 años de experiencia en TI.
+- Grado de bachiller u honores en una disciplina de negocios con 2 años de experiencia en TI.
+
+Además, se toman en cuenta resultados de exámenes GRE/GMAT y TOEFL/IELTS.
+
 **[Cursos del programa:](https://www.comp.nus.edu.sg/wp-content/uploads/2023/10/Annex_A_specialisations_AI_Jan2020-Rev_June2023_.pdf)**
 
 - Theory and Algorithms for Machine Learning

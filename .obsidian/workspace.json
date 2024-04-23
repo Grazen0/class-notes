@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9fb95d1252d7bc68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciclo 1/Notas diarias/22-04-2024.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ab68039ca1218476",
             "type": "leaf",
             "state": {
@@ -29,22 +16,8 @@
                 "file": "Kanban.md"
               }
             }
-          },
-          {
-            "id": "ecb60b2a878a0d61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciclo 1/💾 Introducción a Ciencias de la Computación/Trabajos/Video informativo.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo 1/💾 Introducción a Ciencias de la Computación/Trabajos/Video informativo.md"
+                "file": "Kanban.md"
               }
             }
           },
@@ -173,13 +146,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ecb60b2a878a0d61",
+  "active": "ab68039ca1218476",
   "lastOpenFiles": [
-    "Kanban.md",
     "Ciclo 1/Notas diarias/22-04-2024.md",
+    "Kanban.md",
+    "Ciclo 1/💾 Introducción a Ciencias de la Computación/Trabajos/Video informativo.md",
     "Ciclo 1/📈 Cálculo de Una Variable/Notas/S4 - Límites.md",
     "Ciclo 1/📈 Cálculo de Una Variable/Notas/Untitled",
-    "Ciclo 1/💾 Introducción a Ciencias de la Computación/Trabajos/Video informativo.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5 - De Parra y Tortosa. Violencia estructural.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/De Parra y Tortosa. Violencia Estructural.pdf",
     "Ciclo 1/📈 Cálculo de Una Variable/Información del curso.md",
