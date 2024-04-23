@@ -59,4 +59,28 @@ $$
 \end{align}
 $$
 
+## Continuidad
 
+Una función $f$ es continua si y solo si, para todo $a \in \dom f$,
+
+$$
+\lim_{x \to a} f(x) = f(a)
+$$
+
+## Formas indeterminadas
+
+$$
+\begin{gather} \\
+\infty - \infty \\
+0 \cdot \infty \\
+\infty - \infty \\
+\frac{0}{0} \\
+\frac{\infty}{\infty} \\
+1^{\infty}
+\end{gather}
+$$
+
+Para levantar indeterminaciones, se emplean ciertas manipulaciones:
+
+- Factorizando y simplificando.
+- En presencia de radicales, multiplicar por la **conjugada**.
