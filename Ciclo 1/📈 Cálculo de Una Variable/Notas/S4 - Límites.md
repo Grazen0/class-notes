@@ -69,16 +69,7 @@ $$
 
 ## Formas indeterminadas
 
-$$
-\begin{gather} \\
-\infty - \infty \\
-0 \cdot \infty \\
-\infty - \infty \\
-\frac{0}{0} \\
-\frac{\infty}{\infty} \\
-1^{\infty}
-\end{gather}
-$$
+$\frac{0}{0}$, $\infty - \infty$, $0 \cdot \infty$, $\frac{\infty}{\infty}$, $1^{\infty}$, $0^{0}$, $\infty^{0}$
 
 Para levantar indeterminaciones, se emplean ciertas manipulaciones:
 
