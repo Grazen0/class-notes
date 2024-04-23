@@ -10,14 +10,16 @@
           {
             "id": "e4c5b33a5eecb9eb",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciclo 1/Notas diarias/16-04-2024.md",
-                "mode": "preview",
+                "file": "Ciclo 1/Notas diarias/23-04-2024.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -102,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo 1/Notas diarias/16-04-2024.md"
+                "file": "Ciclo 1/Notas diarias/23-04-2024.md"
               }
             }
           },
@@ -150,9 +152,10 @@
   },
   "active": "e4c5b33a5eecb9eb",
   "lastOpenFiles": [
+    "Ciclo 1/Notas diarias/08-04-2024.md",
     "Ciclo 1/Notas diarias/09-04-2024.md",
-    "Ciclo 1/📈 Cálculo de Una Variable/Notas/S4 - Límites.md",
     "Ciclo 1/Notas diarias/16-04-2024.md",
+    "Ciclo 1/📈 Cálculo de Una Variable/Notas/S4 - Límites.md",
     "Ciclo 1/Notas diarias/23-04-2024.md",
     "Kanban.md",
     "Ciclo 1/Notas diarias/18-04-2024.md",
@@ -184,7 +187,6 @@
     "Ciclo 1/Notas diarias/05-04-2024.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S4 - Leyes lógicas.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Evaluaciones.pdf",
-    "Ciclo 1/🍎 Matemáticas Discretas I/Información del curso.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/Escandell. El esquema clásico de la comunicación y sus limitaciones.pdf",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/NOESTOYGRITANDO.png",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/Comic marcianito baño (1).png",
