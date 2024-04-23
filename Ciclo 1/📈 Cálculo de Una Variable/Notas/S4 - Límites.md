@@ -47,7 +47,8 @@ $$
 & \lim_{x \to a} cf(x) = c\left( \lim_{x \to a} f(x) \right) \\
 & \lim_{x \to a} \left( f(x) \pm g(x) \right) = \lim_{x \to a} f(x) \pm \lim_{x \to a} g(x) \\
 & \lim_{x \to a} f(x)g(x) = ( \lim_{x \to a} f(x) ) \\
-& \lim_{x \to a} \frac{f(x)}{g(x)} = \frac{\lim_{x \to a}f(x)}{\lim_{x \to a} g(x)} \qquad \text{dado $\lim_{x \to a} g(x) \neq 0$}
+& \lim_{x \to a} \frac{f(x)}{g(x)} = \frac{\lim_{x \to a}f(x)}{\lim_{x \to a} g(x)} \qquad \text{dado $\lim_{x \to a} g(x) \neq 0$} \\
+& \lim_{x \to a} f(x)^{g(x)} = \left( \lim_{x \to a} f(x) \right)^{\lim_{x \to a} g(x))}
 \end{align}
 $$
 ## Límites al infinito
