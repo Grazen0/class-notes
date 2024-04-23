@@ -40,16 +40,13 @@ $$
 
 Sean $f$ y $g$ funciones de variable real y $c \in \R$
 
-Límite de una constante:
-
-$$
-\lim_{x \to a} c = c
-$$
-
-Límite de una constante por una función:
 
 $$
 \begin{align}
-a
+& \lim_{x \to a} c = c \\
+& \lim_{x \to a} cf(x) = c\left( \lim_{x \to a} f(x) \right) \\
+& \lim_{x \to a} \left( f(x) \pm g(x) \right) = \lim_{x \to a} f(x) \pm \lim_{x \to a} g(x) \\
+& \lim_{x \to a} f(x)g(x) = ( \lim_{x \to a} f(x) ) \\
+& \lim_{x \to a} \frac{f(x)}{g(x)} = \frac{\lim_{x \to a}f(x)}{\lim_{x \to a} g(x)} \qquad \text{dado $\lim_{x \to a} g(x) \neq 0$}
 \end{align}
 $$
