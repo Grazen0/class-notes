@@ -4,52 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "d93e36dedce84924",
+        "id": "d7f03ee618bf3d15",
         "type": "tabs",
         "children": [
           {
-            "id": "d6799e68f231c67d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciclo 1/Notas diarias/22-04-2024.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "afd92ce103672f02",
+            "id": "9fb95d1252d7bc68",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Ciclo 1/💾 Introducción a Ciencias de la Computación/Trabajos/Video informativo.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "44c6ecc1ffbe20d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciclo 1/📈 Cálculo de Una Variable/Notas/S4 - Límites.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Kanban.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo 1/📈 Cálculo de Una Variable/Notas/S4 - Límites.md"
+                "file": "Kanban.md"
               }
             }
           },
@@ -178,7 +146,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "44c6ecc1ffbe20d1",
+  "active": "9fb95d1252d7bc68",
   "lastOpenFiles": [
     "Ciclo 1/Notas diarias/22-04-2024.md",
     "Ciclo 1/📈 Cálculo de Una Variable/Notas/S4 - Límites.md",

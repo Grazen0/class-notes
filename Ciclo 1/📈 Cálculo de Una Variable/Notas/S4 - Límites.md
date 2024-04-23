@@ -35,3 +35,21 @@ $$
 $$
 
 ```
+
+## Propiedades de los límites
+
+Sean $f$ y $g$ funciones de variable real y $c \in \R$
+
+Límite de una constante:
+
+$$
+\lim_{x \to a} c = c
+$$
+
+Límite de una constante por una función:
+
+$$
+\begin{align}
+a
+\end{align}
+$$
