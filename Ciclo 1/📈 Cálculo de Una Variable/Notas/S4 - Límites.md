@@ -50,3 +50,13 @@ $$
 & \lim_{x \to a} \frac{f(x)}{g(x)} = \frac{\lim_{x \to a}f(x)}{\lim_{x \to a} g(x)} \qquad \text{dado $\lim_{x \to a} g(x) \neq 0$}
 \end{align}
 $$
+## Límites al infinito
+
+$$
+\begin{align}
+\lim_{x \to a} f(x) = +\infty \\
+\lim_{x \to a} f(x) = -\infty
+\end{align}
+$$
+
+
