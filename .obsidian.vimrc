@@ -12,6 +12,17 @@ nnoremap <Esc> :nohl
 
 
 """"""""""""""""""""""
+" Navigation
+""""""""""""""""""""""
+
+" navigate visual lines rather than logical ones
+nnoremap j gj
+nnoremap k gk
+nnoremap I g0i
+nnoremap A g$a
+
+
+""""""""""""""""""""""
 " Window Controls
 """"""""""""""""""""""
 
