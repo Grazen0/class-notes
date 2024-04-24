@@ -11,6 +11,15 @@ title: Resumen
 
 Su principal causa es la **estructuración social** en todas las escalas.
 
+```ad-example
+title: Ejemplo de violencia estructural
+
+A lo largo del texto se comenta sobre este hecho:
+
+**La esperanza de vida promedio en España es de 40 años más que en Zimbabwe.** Esto es un caso de los efectos negativos que crea la violencia estructural.
+
+```
+
 ## Sobre el uso del término "violencia estructural"
 
 Otras "posibles" alternativas al término son:
@@ -19,8 +28,10 @@ Otras "posibles" alternativas al término son:
 - Injusticia social
 - Formas de desigualdad
 
-Sin embargo, **se prefiere el término "violencia estructural"** por tres razones:
+### Razones para la preferencia de "violencia estructural"
 
 1. "Violencia" implica un **problema común**: Insatisfacción de las necesidades humanas básicas.
 2. **Relaciona** la idea de violencia directa con la estructural.
-3. "Estructural" implica al ejercicio del poder como el principal causante.
+3. "Estructural" implica al **ejercicio del poder** como el principal causante.
+4. "Violencia" descarta la posibilidad de intentar legitimizar los actos de opresión.
+
