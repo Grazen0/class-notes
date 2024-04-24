@@ -44,6 +44,8 @@ Sistema municipal ^qobZf8IT
 
 Sistema social de discapacidad motriz ^gViLEJvo
 
+- Infraestructura ^QAIj6y90
+
 %%
 # Drawing
 ```json
@@ -56,9 +58,9 @@ Sistema social de discapacidad motriz ^gViLEJvo
 			"id": "b7Qw84qr7Eg1rluSIFH6u",
 			"type": "rectangle",
 			"x": -470.3711927123811,
-			"y": 98.13182542095713,
+			"y": -53.53371592961747,
 			"width": 717.4870161622382,
-			"height": 379.84607449975874,
+			"height": 531.5116158503333,
 			"angle": 0,
 			"strokeColor": "#343a40",
 			"backgroundColor": "transparent",
@@ -73,11 +75,11 @@ Sistema social de discapacidad motriz ^gViLEJvo
 				"type": 3
 			},
 			"seed": 2053004686,
-			"version": 117,
-			"versionNonce": 1203533586,
+			"version": 187,
+			"versionNonce": 581979730,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1713972577312,
+			"updated": 1713973098610,
 			"link": null,
 			"locked": false
 		},
@@ -250,11 +252,11 @@ Sistema social de discapacidad motriz ^gViLEJvo
 				"type": 2
 			},
 			"seed": 348784654,
-			"version": 388,
-			"versionNonce": 357748622,
+			"version": 392,
+			"versionNonce": 2145168014,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1713972577312,
+			"updated": 1713973111035,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -284,10 +286,10 @@ Sistema social de discapacidad motriz ^gViLEJvo
 		{
 			"id": "7XvfaxabRk_UC7LazuQgT",
 			"type": "arrow",
-			"x": -66.581494471616,
+			"x": -66.59345059145217,
 			"y": -188.23847025010105,
-			"width": 0.06358968387453956,
-			"height": 146.01489773882972,
+			"width": 0.12440815323962795,
+			"height": 146.0148977388297,
 			"angle": 0,
 			"strokeColor": "#ffffff",
 			"backgroundColor": "transparent",
@@ -302,8 +304,8 @@ Sistema social de discapacidad motriz ^gViLEJvo
 				"type": 2
 			},
 			"seed": 1628761746,
-			"version": 312,
-			"versionNonce": 967718994,
+			"version": 414,
+			"versionNonce": 1939988238,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -311,7 +313,7 @@ Sistema social de discapacidad motriz ^gViLEJvo
 					"id": "mXtEt2yA"
 				}
 			],
-			"updated": 1713972577312,
+			"updated": 1713973111038,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -320,8 +322,8 @@ Sistema social de discapacidad motriz ^gViLEJvo
 					0
 				],
 				[
-					-0.06358968387453956,
-					146.01489773882972
+					-0.12440815323962795,
+					146.0148977388297
 				]
 			],
 			"lastCommittedPoint": null,
@@ -376,8 +378,8 @@ Sistema social de discapacidad motriz ^gViLEJvo
 		},
 		{
 			"type": "rectangle",
-			"version": 397,
-			"versionNonce": 1403477522,
+			"version": 449,
+			"versionNonce": 1001898578,
 			"isDeleted": false,
 			"id": "nQ-3cLNE-OBFZrl9K5Odu",
 			"fillStyle": "solid",
@@ -386,12 +388,12 @@ Sistema social de discapacidad motriz ^gViLEJvo
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -143.4861250863874,
-			"y": -32.39601356482866,
+			"x": -162.05739210720748,
+			"y": -32.39601356482865,
 			"strokeColor": "#ffffff",
 			"backgroundColor": "transparent",
-			"width": 154.457763671875,
-			"height": 89.82647705078125,
+			"width": 191.6003839419051,
+			"height": 97.97631700715078,
 			"seed": 1778400914,
 			"groupIds": [],
 			"frameId": null,
@@ -416,14 +418,14 @@ Sistema social de discapacidad motriz ^gViLEJvo
 					"type": "arrow"
 				}
 			],
-			"updated": 1713972577312,
+			"updated": 1713973083254,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 405,
-			"versionNonce": 596821006,
+			"version": 458,
+			"versionNonce": 804235282,
 			"isDeleted": false,
 			"id": "nJiUFXNZ",
 			"fillStyle": "solid",
@@ -432,21 +434,21 @@ Sistema social de discapacidad motriz ^gViLEJvo
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -120.23719320162178,
-			"y": -12.482775039438032,
+			"x": -141.82916821486822,
+			"y": -18.407855061253258,
 			"strokeColor": "#ffffff",
 			"backgroundColor": "transparent",
-			"width": 107.95989990234375,
-			"height": 50,
+			"width": 151.14393615722656,
+			"height": 70,
 			"seed": 811506770,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713972577312,
+			"updated": 1713973083254,
 			"link": null,
 			"locked": false,
-			"fontSize": 20,
+			"fontSize": 28,
 			"fontFamily": 1,
 			"text": "Sistema de\ntránsito",
 			"rawText": "Sistema de tránsito",
@@ -459,10 +461,10 @@ Sistema social de discapacidad motriz ^gViLEJvo
 		{
 			"id": "4-rAGOygKSWS0unw12Thz",
 			"type": "arrow",
-			"x": -68.63632399589562,
-			"y": 66.81712226706233,
-			"width": 73.94902355304097,
-			"height": 54.501454100997705,
+			"x": -66.33529463809015,
+			"y": 74.96696222343186,
+			"width": 69.31659137623865,
+			"height": 46.35161414462817,
 			"angle": 0,
 			"strokeColor": "#ffffff",
 			"backgroundColor": "transparent",
@@ -477,11 +479,11 @@ Sistema social de discapacidad motriz ^gViLEJvo
 				"type": 2
 			},
 			"seed": 1645584206,
-			"version": 192,
-			"versionNonce": 653642706,
+			"version": 296,
+			"versionNonce": 1526168078,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1713972577313,
+			"updated": 1713973111053,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -490,8 +492,8 @@ Sistema social de discapacidad motriz ^gViLEJvo
 					0
 				],
 				[
-					-73.94902355304097,
-					54.501454100997705
+					-69.31659137623865,
+					46.35161414462817
 				]
 			],
 			"lastCommittedPoint": null,
@@ -511,10 +513,10 @@ Sistema social de discapacidad motriz ^gViLEJvo
 		{
 			"id": "-YpwIh_UA2HlCW25UuX95",
 			"type": "arrow",
-			"x": -60.35590318211697,
-			"y": 65.72021000000001,
-			"width": 69.53877408480471,
-			"height": 58.402645850572526,
+			"x": -62.070381217381914,
+			"y": 73.87004995636954,
+			"width": 65.99447345273452,
+			"height": 50.94134534291297,
 			"angle": 0,
 			"strokeColor": "#ffffff",
 			"backgroundColor": "transparent",
@@ -529,11 +531,11 @@ Sistema social de discapacidad motriz ^gViLEJvo
 				"type": 2
 			},
 			"seed": 1124339090,
-			"version": 276,
-			"versionNonce": 1157304910,
+			"version": 380,
+			"versionNonce": 499039374,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1713972577313,
+			"updated": 1713973111046,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -542,8 +544,8 @@ Sistema social de discapacidad motriz ^gViLEJvo
 					0
 				],
 				[
-					69.53877408480471,
-					58.402645850572526
+					65.99447345273452,
+					50.94134534291297
 				]
 			],
 			"lastCommittedPoint": null,
@@ -786,11 +788,11 @@ Sistema social de discapacidad motriz ^gViLEJvo
 				"type": 2
 			},
 			"seed": 1419415054,
-			"version": 323,
-			"versionNonce": 924929294,
+			"version": 327,
+			"versionNonce": 183422606,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1713972577313,
+			"updated": 1713973111057,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -861,9 +863,9 @@ Sistema social de discapacidad motriz ^gViLEJvo
 		{
 			"id": "kOMfrxQrgMQrCsBaVCuBJ",
 			"type": "arrow",
-			"x": 79.4948590091418,
+			"x": 79.49485899909908,
 			"y": 233.60313449062375,
-			"width": 0.9169478778269138,
+			"width": 0.916947883565129,
 			"height": 87.76787181398885,
 			"angle": 0,
 			"strokeColor": "#ffffff",
@@ -879,11 +881,11 @@ Sistema social de discapacidad motriz ^gViLEJvo
 				"type": 2
 			},
 			"seed": 1067192078,
-			"version": 349,
-			"versionNonce": 1473280846,
+			"version": 353,
+			"versionNonce": 193163598,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1713972577313,
+			"updated": 1713973111066,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -892,7 +894,7 @@ Sistema social de discapacidad motriz ^gViLEJvo
 					0
 				],
 				[
-					0.9169478778269138,
+					0.916947883565129,
 					87.76787181398885
 				]
 			],
@@ -1017,8 +1019,8 @@ Sistema social de discapacidad motriz ^gViLEJvo
 				"type": 2
 			},
 			"seed": 1987074190,
-			"version": 209,
-			"versionNonce": 1788036690,
+			"version": 211,
+			"versionNonce": 1558452110,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -1026,7 +1028,7 @@ Sistema social de discapacidad motriz ^gViLEJvo
 					"id": "8KFTBmee"
 				}
 			],
-			"updated": 1713972577313,
+			"updated": 1713973111067,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1121,8 +1123,8 @@ Sistema social de discapacidad motriz ^gViLEJvo
 				"type": 2
 			},
 			"seed": 2060898386,
-			"version": 499,
-			"versionNonce": 12233746,
+			"version": 500,
+			"versionNonce": 2144728526,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -1130,7 +1132,7 @@ Sistema social de discapacidad motriz ^gViLEJvo
 					"id": "ijLsDDHb"
 				}
 			],
-			"updated": 1713972577313,
+			"updated": 1713973111072,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1210,8 +1212,8 @@ Sistema social de discapacidad motriz ^gViLEJvo
 		},
 		{
 			"type": "rectangle",
-			"version": 463,
-			"versionNonce": 812603858,
+			"version": 604,
+			"versionNonce": 426565774,
 			"isDeleted": false,
 			"id": "bCqjnU3FtjdHC9IpbdQ0A",
 			"fillStyle": "solid",
@@ -1220,8 +1222,8 @@ Sistema social de discapacidad motriz ^gViLEJvo
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -514.5967395859805,
-			"y": 236.40383179099751,
+			"x": -502.21589490543386,
+			"y": -12.76099076146744,
 			"strokeColor": "#ced4da",
 			"backgroundColor": "#1e1e1e",
 			"width": 189.1673653635866,
@@ -1238,14 +1240,14 @@ Sistema social de discapacidad motriz ^gViLEJvo
 					"id": "qobZf8IT"
 				}
 			],
-			"updated": 1713972577313,
+			"updated": 1713973111076,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 472,
-			"versionNonce": 1411998798,
+			"version": 613,
+			"versionNonce": 576560846,
 			"isDeleted": false,
 			"id": "qobZf8IT",
 			"fillStyle": "solid",
@@ -1254,8 +1256,8 @@ Sistema social de discapacidad motriz ^gViLEJvo
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -476.44702449451916,
-			"y": 256.4099305445918,
+			"x": -464.06617981397255,
+			"y": 7.245107992126833,
 			"strokeColor": "#ced4da",
 			"backgroundColor": "transparent",
 			"width": 112.86793518066406,
@@ -1265,7 +1267,7 @@ Sistema social de discapacidad motriz ^gViLEJvo
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713972577313,
+			"updated": 1713973111076,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1352,8 +1354,8 @@ Sistema social de discapacidad motriz ^gViLEJvo
 		},
 		{
 			"type": "rectangle",
-			"version": 1059,
-			"versionNonce": 1224571470,
+			"version": 1060,
+			"versionNonce": 1125946638,
 			"isDeleted": false,
 			"id": "NWznN5OauGMyXuFTlMpLC",
 			"fillStyle": "solid",
@@ -1362,8 +1364,8 @@ Sistema social de discapacidad motriz ^gViLEJvo
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 291.9137941644371,
-			"y": 472.0242462480913,
+			"x": 291.91379416443715,
+			"y": 472.02424624809123,
 			"strokeColor": "#ffffff",
 			"backgroundColor": "#1e1e1e",
 			"width": 329.66961594379086,
@@ -1384,14 +1386,14 @@ Sistema social de discapacidad motriz ^gViLEJvo
 					"type": "arrow"
 				}
 			],
-			"updated": 1713972583707,
+			"updated": 1713973111076,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1163,
-			"versionNonce": 1345650830,
+			"version": 1164,
+			"versionNonce": 591972302,
 			"isDeleted": false,
 			"id": "gViLEJvo",
 			"fillStyle": "solid",
@@ -1400,8 +1402,8 @@ Sistema social de discapacidad motriz ^gViLEJvo
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 321.5226652466841,
-			"y": 506.43827329288735,
+			"x": 321.52266524668414,
+			"y": 506.4382732928873,
 			"strokeColor": "#ffffff",
 			"backgroundColor": "transparent",
 			"width": 270.4518737792969,
@@ -1411,7 +1413,7 @@ Sistema social de discapacidad motriz ^gViLEJvo
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713972583707,
+			"updated": 1713973111078,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1427,10 +1429,10 @@ Sistema social de discapacidad motriz ^gViLEJvo
 		{
 			"id": "NU5dww3fmMVGnwnYuBNP3",
 			"type": "arrow",
-			"x": 173.38339186244787,
-			"y": 452.6174393010654,
-			"width": 104.50886994366306,
-			"height": 45.65577491692471,
+			"x": 173.38339186244795,
+			"y": 452.6174393010655,
+			"width": 104.50886994366297,
+			"height": 45.655774916924656,
 			"angle": 0,
 			"strokeColor": "#ffffff",
 			"backgroundColor": "#1e1e1e",
@@ -1445,11 +1447,11 @@ Sistema social de discapacidad motriz ^gViLEJvo
 				"type": 2
 			},
 			"seed": 1719159182,
-			"version": 708,
-			"versionNonce": 1292137362,
+			"version": 712,
+			"versionNonce": 449390990,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1713972589209,
+			"updated": 1713973111077,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1458,8 +1460,8 @@ Sistema social de discapacidad motriz ^gViLEJvo
 					0
 				],
 				[
-					104.50886994366306,
-					45.65577491692471
+					104.50886994366297,
+					45.655774916924656
 				]
 			],
 			"lastCommittedPoint": [
@@ -1468,16 +1470,52 @@ Sistema social de discapacidad motriz ^gViLEJvo
 			],
 			"startBinding": {
 				"elementId": "fmc2c_bt2FOxCSkWJHdhL",
-				"focus": 0.27684918085593146,
-				"gap": 12.818907898838631
+				"gap": 12.818907898838631,
+				"focus": 0.27684918085593146
 			},
 			"endBinding": {
 				"elementId": "NWznN5OauGMyXuFTlMpLC",
-				"focus": -0.24727217749209643,
-				"gap": 14.021532358326198
+				"gap": 14.021532358326198,
+				"focus": -0.24727217749209643
 			},
 			"startArrowhead": "arrow",
 			"endArrowhead": "arrow"
+		},
+		{
+			"type": "text",
+			"version": 396,
+			"versionNonce": 234334926,
+			"isDeleted": false,
+			"id": "QAIj6y90",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -279.35219407332215,
+			"y": 67.90133186225091,
+			"strokeColor": "#ced4da",
+			"backgroundColor": "#1e1e1e",
+			"width": 142.25588989257812,
+			"height": 20,
+			"seed": 1324972878,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1713973140623,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 1,
+			"text": "- Infraestructura",
+			"rawText": "- Infraestructura",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "- Infraestructura",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -1495,10 +1533,10 @@ Sistema social de discapacidad motriz ^gViLEJvo
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": "arrow",
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 959.3485265670381,
-		"scrollY": 419.8459257756838,
+		"scrollX": 774.727211942396,
+		"scrollY": 246.52114902598925,
 		"zoom": {
-			"value": 0.5578313338715201
+			"value": 0.7578313338715202
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

@@ -18,30 +18,17 @@
             }
           },
           {
-            "id": "719543cfcb03f3cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciclo 1/💻 Programación I/Información del curso.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc89f71ae34241bf",
+            "id": "b7a57f89699f57b3",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Untitled.excalidraw.md"
+                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Trabajos/El Problema como Sistema.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.excalidraw.md"
+                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Trabajos/El Problema como Sistema.excalidraw.md"
               }
             }
           },
@@ -170,10 +157,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dc89f71ae34241bf",
+  "active": "b7a57f89699f57b3",
   "lastOpenFiles": [
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Trabajos/El Problema como Sistema.excalidraw.md",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Trabajos",
+    "Ciclo 1/✍ Laboratorio de Comunicación I/Cronograma.pdf",
     "Ciclo 1/💻 Programación I/Información del curso.md",
-    "Untitled.excalidraw.md",
     "Kanban.md",
     "Ciclo 1/📈 Cálculo de Una Variable/Información del curso.md",
     "Ciclo 1/Notas diarias/22-04-2024.md",
@@ -203,12 +192,9 @@
     "Ciclo 1/🍎 Matemáticas Discretas I/Notas/S2D,3 - Lógica proposicional.md",
     "Ciclo 1/Horario.pdf",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Información del curso.md",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Verdera. Enfoques sobre la pobreza.pdf",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Vasen. Giro postcompetitivo en la política de CTI.pdf",
     "New Text Document.txt",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS.pdf",
-    "Ciclo 1/🍎 Matemáticas Discretas I/Evaluaciones.pdf",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/NOESTOYGRITANDO.png",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/Comic marcianito baño (1).png",
     "Ciclo 1/📈 Cálculo de Una Variable/Notas/Recursos/Grafico Liebre.png",
