@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ad42197b37643360",
+            "id": "215274544a229c60",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -149,11 +149,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ad42197b37643360",
+  "floating": {
+    "id": "cf87a6f3e0272c36",
+    "type": "floating",
+    "children": [
+      {
+        "id": "9c203d214141a46e",
+        "type": "window",
+        "children": [
+          {
+            "id": "5f059c54ca7a924e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "81ee126d60e71dc8",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/La Parra y Tortosa. Violencia Estructural.pdf"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 171,
+        "y": 0,
+        "width": 1024,
+        "height": 727,
+        "maximize": true,
+        "zoom": -0.5
+      }
+    ]
+  },
+  "active": "215274544a229c60",
   "lastOpenFiles": [
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/La Parra y Tortosa. Violencia Estructural.pdf",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5 - La Parra y Tortosa. Violencia estructural.md",
     "Kanban.md",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5 - La Parra y Tortosa. Violencia estructural.md",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/La Parra y Tortosa. Violencia Estructural.pdf",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Trabajos/El Problema como Sistema.excalidraw.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Trabajos",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Cronograma.pdf",
