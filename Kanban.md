@@ -21,7 +21,7 @@ kanban-plugin: basic
 - [ ] **Cálculo: EV1**<br><br>- [x] Parte 1<br>- [ ] Parte 2<br><br>@{30-04-2024}@@{12:00}<br>#calculo
 
 
-## On Freeze
+## 🧊 On Freeze
 
 - [ ] **[[S14 - Renwick. Escrituralidad y oralidad]]**<br><br>@{02-07-2024}<br>#comu #teo
 - [ ] **[[Video informativo]]**<br><br>Video explicativo, a partir de un programa de doctorado en alguna universidad.<br><br>#intro-cs #teo
