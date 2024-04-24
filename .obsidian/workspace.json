@@ -29,9 +29,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dc89f71ae34241bf",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Untitled.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo 1/💻 Programación I/Información del curso.md"
+                "file": "Untitled.excalidraw.md"
               }
             }
           },
@@ -143,7 +153,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,8 +170,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "719543cfcb03f3cf",
+  "active": "dc89f71ae34241bf",
   "lastOpenFiles": [
+    "Ciclo 1/💻 Programación I/Información del curso.md",
+    "Untitled.excalidraw.md",
     "Ciclo 1/📈 Cálculo de Una Variable/Información del curso.md",
     "Kanban.md",
     "Ciclo 1/Notas diarias/22-04-2024.md",
@@ -193,7 +206,6 @@
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Verdera. Enfoques sobre la pobreza.pdf",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Vasen. Giro postcompetitivo en la política de CTI.pdf",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Recursos/ODS vs ODM.excalidraw.md",
     "New Text Document.txt",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS.pdf",
     "Ciclo 1/🍎 Matemáticas Discretas I/Evaluaciones.pdf",
