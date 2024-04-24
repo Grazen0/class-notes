@@ -6,7 +6,7 @@ kanban-plugin: basic
 
 ## 🧱 Proyectos
 
-- [ ] **Investigación sobre problema en nuestra localidad**<br><br>Es peligroso cruzar Abancay para gente con discapacidad, negando el acceso a la Iglesia San Pedro.<br><br>- [x] Definir problema<br>- [ ] Definir localidad<br>- [ ] Investigar y resumir<br>- [ ] Relación con ODS (la 11)<br>- [ ] Definir actores<br>- [ ] Analizar actores<br>- [ ] Identificar niveles de poder<br><br>#pi #lab #grupal
+- [ ] **Proyecto PI**<br><br>**Problema:** Es peligroso cruzar Abancay para gente con discapacidad, negando el acceso a la Iglesia San Pedro.<br><br>- [x] Definir problema<br>- [ ] Definir localidad<br>- [ ] Investigar y resumir<br>- [ ] Relación con ODS (la 11)<br>- [ ] Definir actores<br>- [ ] Analizar actores<br>- [ ] Identificar niveles de poder<br><br>#pi #lab #grupal
 
 
 ## 📚 Lecturas

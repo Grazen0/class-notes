@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "88967405e1e6d5bb",
+        "id": "b32f5394ac31463e",
         "type": "tabs",
         "children": [
           {
-            "id": "69da7ea4bc67c03d",
+            "id": "fcd681a63db539e7",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -16,8 +16,22 @@
                 "file": "Kanban.md"
               }
             }
+          },
+          {
+            "id": "719543cfcb03f3cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciclo 1/💻 Programación I/Información del curso.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban.md"
+                "file": "Ciclo 1/💻 Programación I/Información del curso.md"
               }
             }
           },
@@ -129,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,18 +159,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "69da7ea4bc67c03d",
+  "active": "719543cfcb03f3cf",
   "lastOpenFiles": [
+    "Ciclo 1/📈 Cálculo de Una Variable/Información del curso.md",
+    "Kanban.md",
+    "Ciclo 1/Notas diarias/22-04-2024.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/De Parra y Tortosa. Violencia Estructural.pdf",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5 - De Parra y Tortosa. Violencia estructural.md",
-    "Kanban.md",
     "Ciclo 1/📈 Cálculo de Una Variable/Notas/S2 - Tipos de funciones.md",
     "Ciclo 1/📈 Cálculo de Una Variable/Notas/S1 - Funciones.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Teoría/S3,4 - El proceso de la comunicación.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Anexo.pdf",
     "Ciclo 1/Notas diarias/23-04-2024.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Teoría/S4 -.md",
-    "Ciclo 1/📈 Cálculo de Una Variable/Información del curso.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/Las Meninas de Velasquez.jpg",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S4 - Mata & Scarafino. La comunicación como práctica discursiva.md",
     "Ciclo 1/Notas diarias/08-04-2024.md",
@@ -166,7 +180,6 @@
     "Ciclo 1/📈 Cálculo de Una Variable/Notas/S4 - Límites.md",
     "Ciclo 1/Notas diarias/18-04-2024.md",
     "Ciclo 1/Notas diarias/17-04-2024.md",
-    "Ciclo 1/Notas diarias/22-04-2024.md",
     "Ciclo 1/💾 Introducción a Ciencias de la Computación/Trabajos/Video informativo.md",
     "Ciclo 1/📈 Cálculo de Una Variable/Notas/Untitled",
     "Ciclo 1/Notas diarias/03-04-2024.md",
