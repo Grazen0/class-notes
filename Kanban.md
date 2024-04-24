@@ -7,11 +7,11 @@ kanban-plugin: basic
 ## 🧱 Proyectos
 
 - [ ] **Proyecto PI**<br><br>**Problema:** Es peligroso cruzar Abancay para gente con discapacidad, negando el acceso a la Iglesia San Pedro.<br><br>- [x] Definir problema<br>- [ ] Definir localidad<br>- [ ] Investigar y resumir<br>- [ ] Relación con ODS (la 11)<br>- [ ] Definir actores<br>- [ ] Analizar actores<br>- [ ] Identificar niveles de poder<br><br>#pi #lab #grupal
+- [ ] **Investigación: innatismo vs. culturalismo**<br><br>#comu #lab #grupal <br><br>Característica: *(por definir)*<br><br>- [ ] Definir característica
 
 
 ## 📚 Lecturas
 
-- [ ] **[[S5 - La Parra y Tortosa. Violencia estructural]]**<br><br>@{29-04-2024}<br>#pi #teo
 - [ ] **[[S5 - Pernas. IA y los ODS]]**<br><br>@{30-04-2024}<br>#comu #teo
 - [ ] **[[S5,6 - Verdera. Enfoques sobre la pobreza]]**<br><br>@{29-04-2024}<br>#pi #teo
 
@@ -25,13 +25,12 @@ kanban-plugin: basic
 
 - [ ] **[[S14 - Renwick. Escrituralidad y oralidad]]**<br><br>@{02-07-2024}<br>#comu #teo
 - [ ] **[[Video informativo]]**<br><br>Video explicativo, a partir de un programa de doctorado en alguna universidad.<br><br>#intro-cs #teo
-- [ ] **Investigación: innatismo vs. culturalismo**<br><br>#comu #lab #grupal <br><br>Característica: *(por definir)*<br><br>- [ ] Definir característica
-- [ ] **[Lectura de laboratorio]**<br><br>@{08-05-2024}<br>#comu
 
 
 ## 👍 Completado
 
 **Complete**
+- [x] **[[S5 - La Parra y Tortosa. Violencia estructural]]**<br><br>@{29-04-2024}<br>#pi #teo
 - [x] **[[S4 - Mata & Scarafino. La comunicación como práctica discursiva]]**<br><br>María Cristina Mata / Silvia Scarafino<br><br>#comu #teo
 - [x] **[[S4 - Escandell. El esquema clásico de la comunicación y sus limitaciones (cáp. 1)]]**<br><br>Escandell<br><br>#comu #teo
 

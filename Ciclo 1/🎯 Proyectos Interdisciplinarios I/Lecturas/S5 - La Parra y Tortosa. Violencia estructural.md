@@ -16,6 +16,15 @@ Un caso de violencia estructural mencionado es la **desigualdad entre hombres y 
 
 Otro caso que se discute más es la **diferencia de 40 años en la esperanza de vida entre España y Zimbabwe**.
 
+Entre los mecanismos que llevan a este paradigma se encuentran **razones históricas** de colonización, acuerdos internacionales, **ilegitimidad** guvernamental y desigualdades sociales.
+
+Finalmente, se concluye sobre la violencia estructural:
+
+1. Es el daño **potencialmente evitable** que ocurre a partir de **estructuras sociales**, produciendo desigualdad de poder y recursos.
+2. Afecta a las **necesidades humanas básicas**, incluyendo vida, libertad, etc.
+3. Sus mecanismos se presentan dentro de las **estructuras sociales**, por lo que comprender esta violencia implica **abstracción**.
+4. **Se relaciona** con otras formas de violencia.
+
 ```
 
 **Violencia estructural**: Violencia no física ni directa, sino causada por medio de la privación de medios bienes, materiales, etc y otros mecanismos pasivos que priven de las necesidades básicas humanas.
@@ -69,7 +78,7 @@ Los mecanismos que producen la violencia estructural son altamente **ricos y com
 
 Aquí se listan algunos modos en los que se ejerce la violencia estructural hacia Zimbabwe.
 
-#### Causas en términos de países
+#### Causas fuera de Zimbabwe
 
 - Razones históricas de **colonización**.
 - **Acuerdos internacionales** que desfavorecen a Zimbabwe.
@@ -82,3 +91,12 @@ Aquí se listan algunos modos en los que se ejerce la violencia estructural haci
 - Desigualdad entre niños y niñas para la **educación**.
 - Mortalidad infantil.
 - Separación entre **ricos y pobres**.
+
+## Conclusiones
+
+Se concluye sobre la violencia estructural:
+
+1. Es aquel daño al poder y los recursos proveniente de las **estructuras sociales**. No tiene un actor identificable.
+2. Afecta concretamente a la **satisfacción de las necesidades humanas básicas**. Esto incluye privación de libertad, aculturación, y otros.
+3. Sus mecanismos están **embebidos en la estructura social**. Comprenderlos implica **abstracción**, y es un trabajo complejo.
+4. No es la única forma de violencia posible. Más bien, **se relaciona con otrs tipos de violencia.**
