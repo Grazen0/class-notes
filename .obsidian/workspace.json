@@ -4,19 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "787f37a147f2481a",
+        "id": "88967405e1e6d5bb",
         "type": "tabs",
         "children": [
           {
-            "id": "b772236b4ed1c988",
+            "id": "69da7ea4bc67c03d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5 - De Parra y Tortosa. Violencia estructural.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Kanban.md"
               }
             }
           }
@@ -102,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5 - De Parra y Tortosa. Violencia estructural.md"
+                "file": "Kanban.md"
               }
             }
           },
@@ -149,42 +146,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "cf87a6f3e0272c36",
-    "type": "floating",
-    "children": [
-      {
-        "id": "dfc39bf02f068277",
-        "type": "window",
-        "children": [
-          {
-            "id": "1881d9fa6082aa2b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6f12183a7608abb8",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/De Parra y Tortosa. Violencia Estructural.pdf"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 171,
-        "y": 0,
-        "width": 1024,
-        "height": 727,
-        "maximize": true,
-        "zoom": -0.5
-      }
-    ]
-  },
-  "active": "b772236b4ed1c988",
+  "active": "69da7ea4bc67c03d",
   "lastOpenFiles": [
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/De Parra y Tortosa. Violencia Estructural.pdf",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5 - De Parra y Tortosa. Violencia estructural.md",
