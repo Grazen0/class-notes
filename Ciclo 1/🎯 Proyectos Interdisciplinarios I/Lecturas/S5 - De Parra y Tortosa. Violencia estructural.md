@@ -35,3 +35,19 @@ Otras "posibles" alternativas al término son:
 3. "Estructural" implica al **ejercicio del poder** como el principal causante.
 4. "Violencia" descarta la posibilidad de intentar legitimizar los actos de opresión.
 
+## Casos de violencia estructural
+
+```ad-important
+title: Importante
+
+Los mecanismos que producen la violencia estructural son altamente **ricos y complejos**. Pueden relacionar ámbitos aparentemente no relacionados y varían mucho en varios temas.
+
+```
+
+### Desigualdad entre hombres y mujeres
+
+- Se logra prácticamente **sin violencia directa**.
+- Usa **mecanismos** para alterar el reparto de recursos y posibilidades.
+
+### España y Zimbabwe: Expectativas de vida
+

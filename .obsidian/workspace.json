@@ -4,16 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "2960acb75cb9378d",
+        "id": "96a946769b924018",
         "type": "tabs",
         "children": [
           {
-            "id": "6ed7a3fc8d31f632",
+            "id": "ad42197b37643360",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Trabajos/El Problema como Sistema.excalidraw.md"
+                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5 - De Parra y Tortosa. Violencia estructural.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "4c63e585c238314d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d5363aee4c3b098",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/De Parra y Tortosa. Violencia Estructural.pdf"
               }
             }
           }
@@ -83,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "7f7f85319d7ebd75",
@@ -99,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Trabajos/El Problema como Sistema.excalidraw.md"
+                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5 - De Parra y Tortosa. Violencia estructural.md"
               }
             }
           },
@@ -146,8 +166,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6ed7a3fc8d31f632",
+  "active": "ad42197b37643360",
   "lastOpenFiles": [
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/De Parra y Tortosa. Violencia Estructural.pdf",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5 - De Parra y Tortosa. Violencia estructural.md",
     "Kanban.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Trabajos/El Problema como Sistema.excalidraw.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Trabajos",
@@ -155,8 +177,6 @@
     "Ciclo 1/💻 Programación I/Información del curso.md",
     "Ciclo 1/📈 Cálculo de Una Variable/Información del curso.md",
     "Ciclo 1/Notas diarias/22-04-2024.md",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/De Parra y Tortosa. Violencia Estructural.pdf",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5 - De Parra y Tortosa. Violencia estructural.md",
     "Ciclo 1/📈 Cálculo de Una Variable/Notas/S2 - Tipos de funciones.md",
     "Ciclo 1/📈 Cálculo de Una Variable/Notas/S1 - Funciones.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Teoría/S3,4 - El proceso de la comunicación.md",
