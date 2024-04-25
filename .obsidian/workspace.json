@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d476bde26d588653",
+        "id": "4ef6098a2f1c5cd6",
         "type": "tabs",
         "children": [
           {
-            "id": "2ebeede3a1b02a9d",
+            "id": "9a12b6ff36586503",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanban.md"
+                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Laboratorio/S4 - Teoría de sistemas.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -99,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban.md"
+                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Laboratorio/S4 - Teoría de sistemas.md"
               }
             }
           },
@@ -146,10 +149,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2ebeede3a1b02a9d",
+  "active": "9a12b6ff36586503",
   "lastOpenFiles": [
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Verdera. Enfoques sobre la pobreza.pdf",
     "Kanban.md",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Laboratorio/S4 - Teoría de sistemas.md",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Información del curso.md",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Verdera. Enfoques sobre la pobreza.pdf",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5,6 - Verdera. Enfoques sobre la pobreza.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5 - La Parra y Tortosa. Violencia estructural.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S5 - Pernas. IA y los ODS.md",
@@ -181,7 +186,6 @@
     "Ciclo 1/Notas diarias/04-04-2024.md",
     "Ciclo 1/Notas diarias/11-04-2024.md",
     "Ciclo 1/💾 Introducción a Ciencias de la Computación/Trabajos",
-    "Ciclo 1/💾 Introducción a Ciencias de la Computación/Información del curso.md",
     "Ciclo 1/Horario.pdf",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Vasen. Giro postcompetitivo en la política de CTI.pdf",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/NOESTOYGRITANDO.png",
