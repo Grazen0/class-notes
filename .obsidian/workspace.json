@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "38c15136cffccae5",
+        "id": "2199bc4bb17db09c",
         "type": "tabs",
         "children": [
           {
-            "id": "3c6a3d1968ae1869",
+            "id": "684a5d88f08936fc",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -146,9 +146,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3c6a3d1968ae1869",
+  "active": "684a5d88f08936fc",
   "lastOpenFiles": [
-    "Teoria de sistemas.excalidraw.md",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Recursos/Teoria de sistemas.excalidraw.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Laboratorio/S4 - Teoría de sistemas.md",
     "Kanban.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Información del curso.md",
