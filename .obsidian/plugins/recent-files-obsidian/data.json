@@ -5,6 +5,10 @@
       "path": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Laboratorio/S4 - Teoría de sistemas.md"
     },
     {
+      "basename": "Teoria de sistemas.excalidraw",
+      "path": "Teoria de sistemas.excalidraw.md"
+    },
+    {
       "basename": "Kanban",
       "path": "Kanban.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "La Parra y Tortosa. Violencia Estructural",
       "path": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/La Parra y Tortosa. Violencia Estructural.pdf"
-    },
-    {
-      "basename": "El Problema como Sistema.excalidraw",
-      "path": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Trabajos/El Problema como Sistema.excalidraw.md"
     }
   ],
   "omittedPaths": [

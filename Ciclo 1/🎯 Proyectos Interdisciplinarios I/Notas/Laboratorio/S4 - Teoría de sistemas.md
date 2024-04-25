@@ -9,6 +9,8 @@ title: Idea principal
 
 La teoría de sistemas estudia las **relaciones entre sistemas**.
 
+![[Teoria de sistemas.excalidraw|width:80%]]
+
 ```ad-example
 title: Ejemplo
 

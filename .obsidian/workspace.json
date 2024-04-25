@@ -19,6 +19,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7705ccd0aac54e7e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Teoria de sistemas.excalidraw.md"
+              }
+            }
           }
         ]
       }
@@ -151,8 +161,9 @@
   },
   "active": "9a12b6ff36586503",
   "lastOpenFiles": [
-    "Kanban.md",
+    "Teoria de sistemas.excalidraw.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Laboratorio/S4 - Teoría de sistemas.md",
+    "Kanban.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Información del curso.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Verdera. Enfoques sobre la pobreza.pdf",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5,6 - Verdera. Enfoques sobre la pobreza.md",
@@ -184,7 +195,6 @@
     "Ciclo 1/📈 Cálculo de Una Variable/Notas/Untitled",
     "Ciclo 1/Notas diarias/03-04-2024.md",
     "Ciclo 1/Notas diarias/04-04-2024.md",
-    "Ciclo 1/Notas diarias/11-04-2024.md",
     "Ciclo 1/💾 Introducción a Ciencias de la Computación/Trabajos",
     "Ciclo 1/Horario.pdf",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Vasen. Giro postcompetitivo en la política de CTI.pdf",
