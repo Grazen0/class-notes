@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "2199bc4bb17db09c",
+        "id": "215080d130e3b12e",
         "type": "tabs",
         "children": [
           {
-            "id": "684a5d88f08936fc",
+            "id": "e64567de64bee849",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanban.md"
+                "file": "Ciclo 1/Notas diarias/25-04-2024.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -99,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban.md"
+                "file": "Ciclo 1/Notas diarias/25-04-2024.md"
               }
             }
           },
@@ -146,17 +149,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "684a5d88f08936fc",
+  "active": "e64567de64bee849",
   "lastOpenFiles": [
+    "Kanban.md",
+    "Ciclo 1/Notas diarias/25-04-2024.md",
+    "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/Pernas. IA y los ODS.pdf",
+    "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S5 - Pernas. IA y los ODS.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Recursos/Teoria de sistemas.excalidraw.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Laboratorio/S4 - Teoría de sistemas.md",
-    "Kanban.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Información del curso.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Verdera. Enfoques sobre la pobreza.pdf",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5,6 - Verdera. Enfoques sobre la pobreza.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5 - La Parra y Tortosa. Violencia estructural.md",
-    "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S5 - Pernas. IA y los ODS.md",
-    "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/Pernas. IA y los ODS.pdf",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/La Parra y Tortosa. Violencia Estructural.pdf",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Trabajos/El Problema como Sistema.excalidraw.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Trabajos",
@@ -181,7 +185,6 @@
     "Ciclo 1/💾 Introducción a Ciencias de la Computación/Trabajos/Video informativo.md",
     "Ciclo 1/📈 Cálculo de Una Variable/Notas/Untitled",
     "Ciclo 1/Notas diarias/03-04-2024.md",
-    "Ciclo 1/Notas diarias/04-04-2024.md",
     "Ciclo 1/💾 Introducción a Ciencias de la Computación/Trabajos",
     "Ciclo 1/Horario.pdf",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Vasen. Giro postcompetitivo en la política de CTI.pdf",
