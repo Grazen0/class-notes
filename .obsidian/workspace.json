@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4ef6098a2f1c5cd6",
+        "id": "38c15136cffccae5",
         "type": "tabs",
         "children": [
           {
-            "id": "9a12b6ff36586503",
+            "id": "3c6a3d1968ae1869",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Laboratorio/S4 - Teoría de sistemas.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7705ccd0aac54e7e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Teoria de sistemas.excalidraw.md"
+                "file": "Kanban.md"
               }
             }
           }
@@ -112,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Laboratorio/S4 - Teoría de sistemas.md"
+                "file": "Kanban.md"
               }
             }
           },
@@ -159,7 +146,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9a12b6ff36586503",
+  "active": "3c6a3d1968ae1869",
   "lastOpenFiles": [
     "Teoria de sistemas.excalidraw.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Laboratorio/S4 - Teoría de sistemas.md",

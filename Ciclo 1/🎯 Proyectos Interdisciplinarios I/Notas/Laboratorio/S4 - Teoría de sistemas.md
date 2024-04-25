@@ -1,7 +1,7 @@
 ```ad-quote
 title: Idea principal
 
-**Todo está relacionado entre sí.**
+**"Todo está relacionado entre sí."**
 
 ```
 
@@ -26,15 +26,19 @@ Para estudiar un proyector de video, estudia no solo su funcionamiento, sino tam
 
 ## Definiciones importantes
 
-**Homeostasis:** La capacidad / tendencia de un sistema para mantenerse en equilibrio bajo los cambios de su entorno.
+### Homeostasis
 
-**Retroalimentación:** Capacidad de un sistema para *responder a un estímulo*.
+La capacidad / tendencia de un sistema para **mantenerse en equilibrio** bajo los cambios de su entorno.
 
-**Entropía:** Tendencia natural de los sistemas a la *pérdida de orden*.
+### Retroalimentación
 
-```ad-note
-title: Nota
+Capacidad de un sistema para **responder a un estímulo**.
 
-Un principio de la entropía: **En todo caos hay un orden.**
+### Entropía
 
-```
+Tendencia natural de los sistemas a la **pérdida de orden**.
+
+Un principio de la entropía: "En todo caos hay un orden."
+## ¿Por qué fallan los sistemas?
+
+Un problema en un sistema no es aislado. Implica múltiples **sub-problemas** en los sistemas que afectan al sistema con el problema principal.
