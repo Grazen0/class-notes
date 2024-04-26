@@ -14,6 +14,7 @@ kanban-plugin: basic
 
 - [ ] **[[S5 - Pernas. IA y los ODS]]**<br><br>@{30-04-2024}<br>#comu #teo
 - [ ] **[[S5,6 - Verdera. Enfoques sobre la pobreza]]**<br><br>@{29-04-2024}<br>#pi #teo
+- [ ] **[[S10 - Steven Pinker. La tabla rasa (Cáp. 17)]]**<br><br>@{17-05-2024}<br>#comu #lab
 
 
 ## 📄 Evaluaciones
