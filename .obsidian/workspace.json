@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b14eecc1bb20ff76",
+        "id": "7b449b8ef592a839",
         "type": "tabs",
         "children": [
           {
-            "id": "b31ead8e4dc2e60f",
+            "id": "c3415a6a0ea85c54",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -146,7 +146,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b31ead8e4dc2e60f",
+  "active": "c3415a6a0ea85c54",
   "lastOpenFiles": [
     "Kanban.md",
     "Ciclo 1/Notas diarias/25-04-2024.md",
