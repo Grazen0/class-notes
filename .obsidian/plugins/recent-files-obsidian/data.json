@@ -5,6 +5,10 @@
       "path": "Kanban.md"
     },
     {
+      "basename": "Información del curso",
+      "path": "Ciclo 1/🍎 Matemáticas Discretas I/Información del curso.md"
+    },
+    {
       "basename": "26-04-2024",
       "path": "Ciclo 1/Notas diarias/26-04-2024.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "Información del curso",
       "path": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Información del curso.md"
-    },
-    {
-      "basename": "S5,6 - Verdera. Enfoques sobre la pobreza",
-      "path": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5,6 - Verdera. Enfoques sobre la pobreza.md"
     }
   ],
   "omittedPaths": [
