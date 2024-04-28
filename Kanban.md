@@ -7,7 +7,7 @@ kanban-plugin: basic
 ## 🧱 Proyectos
 
 - [ ] **Proyecto PI**<br><br>**Problema:** Es peligroso cruzar Abancay para gente con discapacidad, negando el acceso a la Iglesia San Pedro.<br><br>- [x] Definir problema<br>- [x] Definir localidad<br>- [ ] Investigar y resumir<br>- [ ] Relación con ODS (la 11)<br>- [ ] Definir actores<br>- [ ] Analizar actores<br>- [ ] Identificar niveles de poder<br><br>#pi #lab #grupal
-- [ ] **Investigación: innatismo vs. culturalismo**<br><br>#comu #lab #grupal <br><br>Característica: *(por definir)*<br><br>- [ ] Definir característica
+- [ ] **Proyecto LabCom**<br><br>#comu #lab #grupal <br><br>Característica: *(por definir)*<br><br>- [ ] Definir característica
 
 
 ## 📚 Lecturas
@@ -19,7 +19,6 @@ kanban-plugin: basic
 
 ## 📄 Evaluaciones
 
-- [ ] **Cálculo: EV1**<br><br>- [x] Parte 1<br>- [x] Parte 2<br><br>@{30-04-2024}@@{12:00}<br>#calculo
 
 
 ## 🧊 On Freeze
@@ -31,6 +30,7 @@ kanban-plugin: basic
 ## 👍 Completado
 
 **Complete**
+- [x] **Cálculo: EV1**<br><br>- [x] Parte 1<br>- [x] Parte 2<br><br>@{30-04-2024}@@{12:00}<br>#calculo
 - [x] **[[S5 - La Parra y Tortosa. Violencia estructural]]**<br><br>@{29-04-2024}<br>#pi #teo
 - [x] **[[S4 - Mata & Scarafino. La comunicación como práctica discursiva]]**<br><br>María Cristina Mata / Silvia Scarafino<br><br>#comu #teo
 - [x] **[[S4 - Escandell. El esquema clásico de la comunicación y sus limitaciones (cáp. 1)]]**<br><br>Escandell<br><br>#comu #teo
