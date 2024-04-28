@@ -19,7 +19,7 @@ kanban-plugin: basic
 
 ## 📄 Evaluaciones
 
-- [ ] **Cálculo: EV1**<br><br>- [x] Parte 1<br>- [ ] Parte 2<br><br>@{30-04-2024}@@{12:00}<br>#calculo
+- [ ] **Cálculo: EV1**<br><br>- [x] Parte 1<br>- [x] Parte 2<br><br>@{30-04-2024}@@{12:00}<br>#calculo
 
 
 ## 🧊 On Freeze

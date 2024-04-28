@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "246607eb7f5ef4ca",
+        "id": "549a4841856b776c",
         "type": "tabs",
         "children": [
           {
-            "id": "a6b2e23e782f68c3",
+            "id": "6547f02c8d11e005",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -146,8 +146,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a6b2e23e782f68c3",
+  "active": "6547f02c8d11e005",
   "lastOpenFiles": [
+    "Ciclo 1/🚀 CMA",
     "Ciclo 1/🍎 Matemáticas Discretas I/Información del curso.md",
     "Kanban.md",
     "Ciclo 1/Notas diarias/26-04-2024.md",
@@ -181,7 +182,6 @@
     "Ciclo 1/Notas diarias/08-04-2024.md",
     "Ciclo 1/Notas diarias/09-04-2024.md",
     "Ciclo 1/Notas diarias/16-04-2024.md",
-    "Ciclo 1/📈 Cálculo de Una Variable/Notas/S4 - Límites.md",
     "Ciclo 1/📈 Cálculo de Una Variable/Notas/Untitled",
     "Ciclo 1/💾 Introducción a Ciencias de la Computación/Trabajos",
     "Ciclo 1/Horario.pdf",
