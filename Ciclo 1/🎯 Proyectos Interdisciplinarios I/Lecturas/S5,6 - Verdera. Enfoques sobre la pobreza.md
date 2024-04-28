@@ -17,3 +17,18 @@ Actualmente, la pobreza se estudia desde 4 enfoques:
 3. La **exclusión social**.
 4. El enfoque **estructural** con respecto a la economía.
 
+Otro problema es la **definición de pobreza**.
+
+```ad-note
+title: Nota
+
+En este texto, se considera el marco **estructural** de la pobreza, donde esta situación es resultado de la estrucura económica y social y su composición.
+
+```
+
+## 2. Los activos de los pobres
+
+Todos los pobres tienen algún **capital** y, según este enfoque, los pobres podrían salir de la pobreza si lo usaran mejor.
+
+### Banco Mundial e IDS
+
