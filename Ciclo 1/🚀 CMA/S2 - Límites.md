@@ -32,7 +32,7 @@ title: Lema
 Sea $x$ un número real no negativo, entonces:
 
 $$
-(\forall a > 0\ (x < a)) \implies x = 0
+(\forall a > 0,\ x < a) \implies x = 0
 $$
 
 ```
@@ -84,3 +84,9 @@ $$\qed$$
 
 `````
 
+```ad-theorem
+title: Teorema (teorema del sándwich).
+
+
+
+```
