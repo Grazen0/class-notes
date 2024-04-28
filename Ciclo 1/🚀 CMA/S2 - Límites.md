@@ -14,6 +14,7 @@ $$
 $$
 
 ```
+
 `````ad-theorem
 title: Teorema (unicidad del límite).
 
@@ -79,8 +80,6 @@ $$\qed$$
 
 
 ````
-
-
 
 `````
 
@@ -160,3 +159,13 @@ $$\qed$$
 ```
 
 `````
+
+Algunos ejercicios interesantes de hoy:
+
+$$
+\prod_{n=2}^{\infty} \frac{n^{3}-1}{n^{3}+1}
+$$
+
+$$
+\lim_{n \to \infty} (a^{n}+b^{n})^{\frac{1}{n}}
+$$
