@@ -32,3 +32,6 @@ Todos los pobres tienen algún **capital** y, según este enfoque, los pobres po
 
 ### Banco Mundial e IDS
 
+El desarrollo de los países subdesarrollados no afecta a **un tercio de su población**, el crecimiento se **distribuye desigualmente**.
+
+Es decir, los pobres se ven **sistemáticamente apartados** del desarrollo económico.
