@@ -84,9 +84,79 @@ $$\qed$$
 
 `````
 
-```ad-theorem
+`````ad-theorem
 title: Teorema (teorema del sándwich).
 
+Si $g(x) \leq f(x) \leq h(x)$ en algún intervalo alrededor de $x_{0}$, y se cumple que
 
+$$
+\lim_{x \to x_{0}} g(x) = \lim_{x \to x_{0}} h(x) = L
+$$
+
+entonces
+
+$$
+\lim_{x \to x_{0}} f(x) = L
+$$
+
+```ad-proof
+collapse: closed
+
+Nuestras hipótesis son
+
+$$
+\begin{align}
+\forall \varepsilon_{1} > 0,\ \exists \delta_{1} > 0 : (0 < |x - x_{0}| < \delta_{1} \implies |g(x) - L| < \varepsilon_{1} \\
+\forall \varepsilon_{2} > 0,\ \exists \delta_{2} > 0 : (0 < |x - x_{0}| < \delta_{2} \implies |h(x) - L| < \varepsilon_{2} \\
+\end{align}
+$$
+
+y
+
+$$
+g(x) \leq f(x) \leq h(x)
+$$
+
+en algún intervalo alrededor de $x = x_{0}$.
+
+Ahora, tenemos que demostrar que
+
+$$
+\forall \varepsilon > 0,\ \exists \delta > 0 : (0 < |x - x_{0}| < \delta \implies |f(x) - L| < \varepsilon
+$$
+
+Entonces, sea $\varepsilon > 0$. Escogeremos $\delta = \min(\delta_{1}, \delta_{2})$ y asumiremos que $0 < |x - x_{0}| < \delta$. Ahora, escogeremos $\varepsilon_{1} = \varepsilon_{2} = \varepsilon$, de forma que se cumplen
+
+$$
+\begin{gather}
+|g(x) - L| < \varepsilon_{1} = \varepsilon \\
+L - \varepsilon < g(x) < L + \varepsilon
+
+\end{gather}
+$$
+
+y
+
+$$
+\begin{gather}
+|h(x) - L| < \varepsilon_{2} = \varepsilon \\
+L - \varepsilon < h(x) < L + \varepsilon
+\end{gather}
+$$
+
+Juntando ambas ecuaciones y $g(x) \leq f(x) \leq h(x)$:
+
+$$
+\begin{gather}
+L - \varepsilon < g(x) \leq f(x) \leq h(x) < L + \varepsilon \\
+L - \varepsilon < f(x) < L + \varepsilon \\
+|f(x) - L| < \varepsilon \\
+\end{gather}
+$$
+
+Y esto es lo que era por demostrarse.
+$$\qed$$
 
 ```
+
+`````
