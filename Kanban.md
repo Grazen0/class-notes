@@ -10,10 +10,15 @@ kanban-plugin: basic
 - [ ] **Proyecto Comu**<br><br>#comu #lab #grupal <br><br>Característica: *(por definir)*<br><br>- [ ] Definir característica
 
 
+## ☕ Tareas
+
+- [ ] Investigar herramienta de blurring para videos.<br><br>#intro-cs #teo
+
+
 ## 📚 Lecturas
 
 - [ ] **[[S5 - Pernas. IA y los ODS]]**<br><br>@{30-04-2024}<br>#comu #teo
-- [ ] **[[S5,6 - Verdera. Enfoques sobre la pobreza]]**<br><br>@{29-04-2024}<br>#pi #teo
+- [ ] **[[S5,6 - Verdera. Enfoques sobre la pobreza]]**<br><br>@{06-05-2024}<br>#pi #teo
 - [ ] **[[S10 - Steven Pinker. La tabla rasa (Cáp. 17)]]**<br><br>@{17-05-2024}<br>#comu #lab
 
 
@@ -32,8 +37,6 @@ kanban-plugin: basic
 **Complete**
 - [x] **Cálculo: EV1**<br><br>- [x] Parte 1<br>- [x] Parte 2<br><br>@{30-04-2024}@@{12:00}<br>#calculo
 - [x] **[[S5 - La Parra y Tortosa. Violencia estructural]]**<br><br>@{29-04-2024}<br>#pi #teo
-- [x] **[[S4 - Mata & Scarafino. La comunicación como práctica discursiva]]**<br><br>María Cristina Mata / Silvia Scarafino<br><br>#comu #teo
-- [x] **[[S4 - Escandell. El esquema clásico de la comunicación y sus limitaciones (cáp. 1)]]**<br><br>Escandell<br><br>#comu #teo
 
 
 ***
@@ -45,6 +48,8 @@ kanban-plugin: basic
 - [x] [[S2 - Vasen. Giro postcompetitivo en la política de CTI|¿Estamos ante un  giro postcompetitivo  en la política de ciencia, tecnología e innovación?]]<br><br>Frederico Vasen<br><br>#pi #teo
 - [x] [[S2 - CCCTI. Acciones para el potenciamiento de la CTI en Perú|Acciones para el potenciamiento de la ciencia, la tecnología y la innovación en el Perú]]<br><br>CCCTI<br><br>#pi #teo
 - [x] **[[S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS]]**<br><br>ONU<br><br>#pi #teo @{22-04-2024}
+- [x] **[[S4 - Escandell. El esquema clásico de la comunicación y sus limitaciones (cáp. 1)]]**<br><br>Escandell<br><br>#comu #teo
+- [x] **[[S4 - Mata & Scarafino. La comunicación como práctica discursiva]]**<br><br>María Cristina Mata / Silvia Scarafino<br><br>#comu #teo
 
 %% kanban:settings
 ```
