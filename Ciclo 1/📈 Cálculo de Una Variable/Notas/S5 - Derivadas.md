@@ -1,3 +1,5 @@
+## Tasas de cambio promedio
+
 Dada una función $f$, podemos calcular la tasa de cambio de $f$ entre dos puntos.
 
 La **tasa de cambio promedio** de $f(x)$ con respecto al cambio en $x$ en el intervalo $[x, x + \Delta x]$ es $\frac{\Delta f}{\Delta x}$, que representa la pendiente de la recta secante entre ambos puntos.
@@ -7,6 +9,8 @@ De esta manera, además:
 $$
 \frac{\Delta f}{\Delta x} = \frac{f(x + \Delta x) - f(x)}{\Delta x}
 $$
+
+## La derivada
 
 ```ad-definition
 
@@ -36,5 +40,25 @@ Se dice que una función $f$ es **continua** en $x = a$ si y solo si:
 ```ad-theorem
 
 Si una función es derivable, entonces es continua.
+
+```
+
+## Teoremas importantes
+
+```ad-theorem
+title: Teorema (teorema de Rolle).
+
+Una función $f$, continua en $[a, b]$, derivable en $(a, b)$ con $f(a) = f(b)$, tiene al menos un valor de $x = c$ entre $a$ y $b$ donde $f'(c) = 0$.
+
+
+```
+
+Es decir, dada una función continua y un intervalo de extremos a la misma altura, existe algún punto dentro de ese intervalo donde $f'(x) = 0$.
+
+```ad-theorem
+title: Teorema (teorema del valor medio).
+
+Dada una función $f$
+
 
 ```
