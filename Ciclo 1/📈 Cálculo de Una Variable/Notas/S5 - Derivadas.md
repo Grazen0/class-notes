@@ -32,3 +32,9 @@ Se dice que una función $f$ es **continua** en $x = a$ si y solo si:
 1. Existe $f(a)$.
 2. Existe $\lim_{x \to a} f(x)$.
 3. $\lim_{x \to a} f(x) = f(a)$.
+
+```ad-theorem
+
+Si una función es derivable, entonces es continua.
+
+```
