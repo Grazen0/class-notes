@@ -1,4 +1,4 @@
-### ¿Qué es la pobreza?
+## ¿Qué es la pobreza?
 
 - Necesidad o carencia de algo con respecto al resto.
 - Es un término **relativo**, lo define uno mismo y los demás.
@@ -61,7 +61,3 @@ Para salir de la pobreza, se necesita **cubrir las necesidades básicas**.
 - Se debe medir capacidades humanas, no la economía.
 
 https://worldpoverty.io/
-
-## Ciencias de la computación
-
-Habrá **clase virtual** el 13 de mayo.
