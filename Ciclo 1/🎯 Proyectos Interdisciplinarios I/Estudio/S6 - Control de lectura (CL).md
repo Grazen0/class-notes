@@ -1,0 +1,3 @@
+- [x] [[S2 - Vasen. Giro postcompetitivo en la política de CTI]]
+- [ ] [[S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS]]
+- [ ] [[S5,6 - Verdera. Enfoques sobre la pobreza]]
