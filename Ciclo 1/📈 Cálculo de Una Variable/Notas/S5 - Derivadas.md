@@ -75,7 +75,8 @@ Es decir, la derivada de una función continua en algún intervalo tomará en al
 
 $$
 \begin{align}
-& (cf)' = cf'
+& (c)' = 0 \\
+& (cf)' = cf' \\
 & (f \pm g)' = f' +g' \\
 & (fg)' = f'g + fg' \\
 & \left( \frac{f}{g} \right)' = \frac{f'g - fg'}{g^{2}} \\
