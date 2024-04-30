@@ -14,7 +14,7 @@ kanban-plugin: basic
 
 - [ ] Investigar herramienta de blurring para videos.<br><br>#intro-cs #teo
 - [ ] **Prompts de ChatGPT sobre la comunicación**<br><br>(Enviar por el foro)<br><br>@{07-05-2024}<br>#comu #teo
-- [ ] **Características de la escritura formal**
+- [ ] **Características de la escritura formal**<br><br>@{07-05-2024}<br><br>#comu #teo
 
 
 ## 📚 Lecturas
