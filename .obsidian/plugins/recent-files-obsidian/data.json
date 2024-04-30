@@ -5,6 +5,22 @@
       "path": "Ciclo 1/Notas diarias/30-04-2024.md"
     },
     {
+      "basename": "Kanban",
+      "path": "Kanban.md"
+    },
+    {
+      "basename": "S7 - Control de lectura (EC1)",
+      "path": "Ciclo 1/✍ Laboratorio de Comunicación I/Estudio/S7 - Control de lectura (EC1).md"
+    },
+    {
+      "basename": "S6 - Control de lectura (CL)",
+      "path": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Estudio/S6 - Control de lectura (CL).md"
+    },
+    {
+      "basename": "Información del curso",
+      "path": "Ciclo 1/✍ Laboratorio de Comunicación I/Información del curso.md"
+    },
+    {
       "basename": "Información del curso",
       "path": "Ciclo 1/📈 Cálculo de Una Variable/Información del curso.md"
     },
@@ -23,22 +39,6 @@
     {
       "basename": "S4 - Introducción al análisis matemático",
       "path": "Ciclo 1/🚀 CMA/S4 - Introducción al análisis matemático.md"
-    },
-    {
-      "basename": "S4 - De los ODM a los ODS",
-      "path": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Teoría/S4 - De los ODM a los ODS.md"
-    },
-    {
-      "basename": "S2 - El giro postcompetitivo",
-      "path": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Teoría/S2 - El giro postcompetitivo.md"
-    },
-    {
-      "basename": "S3 - Desafíos globales y participación social",
-      "path": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Teoría/S3 - Desafíos globales y participación social.md"
-    },
-    {
-      "basename": "15-04-2024",
-      "path": "Ciclo 1/Notas diarias/15-04-2024.md"
     }
   ],
   "omittedPaths": [

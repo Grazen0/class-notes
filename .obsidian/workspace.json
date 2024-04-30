@@ -21,6 +21,29 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "87cefca757a595df",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Kanban.md"
+              }
+            }
+          },
+          {
+            "id": "61dd2ee09e29fb3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciclo 1/✍ Laboratorio de Comunicación I/Estudio/S7 - Control de lectura (EC1).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -153,8 +176,14 @@
   },
   "active": "7b742d5e06155432",
   "lastOpenFiles": [
-    "Ciclo 1/📈 Cálculo de Una Variable/Información del curso.md",
+    "Kanban.md",
     "Ciclo 1/Notas diarias/30-04-2024.md",
+    "Ciclo 1/✍ Laboratorio de Comunicación I/Estudio/S7 - Control de lectura (EC1).md",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Estudio/S6 - Control de lectura (CL).md",
+    "Ciclo 1/✍ Laboratorio de Comunicación I/Información del curso.md",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Estudio",
+    "Ciclo 1/✍ Laboratorio de Comunicación I/Estudio",
+    "Ciclo 1/📈 Cálculo de Una Variable/Información del curso.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Teoría/S5 - Enfoques sobre la pobreza.md",
     "Ciclo 1/📈 Cálculo de Una Variable/Notas/S5 - Derivadas.md",
     "Ciclo 1/Notas diarias/29-04-2024.md",
@@ -164,7 +193,6 @@
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Teoría/S3 - Desafíos globales y participación social.md",
     "Ciclo 1/Notas diarias/15-04-2024.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Información del curso.md",
-    "Kanban.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5,6 - Verdera. Enfoques sobre la pobreza.md",
     "Ciclo 1/Notas diarias/22-04-2024.md",
     "Ciclo 1/Notas diarias/16-04-2024.md",
@@ -182,13 +210,8 @@
     "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S5 - Pernas. IA y los ODS.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/Pernas. IA y los ODS.pdf",
     "Ciclo 1/🚀 CMA/Ejercicios/PDF/S4.pdf",
-    "Ciclo 1/🚀 CMA/Ejercicios/S4.md",
-    "Ciclo 1/🚀 CMA/Ejercicios/S3.md",
     "Ciclo 1/🚀 CMA/Ejercicios/PDF/S3.pdf",
     "Ciclo 1/🚀 CMA/Ejercicios/PDF",
-    "Ciclo 1/🚀 CMA/Ejercicios",
-    "Ciclo 1/🚀 CMA/PDF",
-    "Ciclo 1/💻 Programación I/Información del curso.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/Las Meninas de Velasquez.jpg",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/NOESTOYGRITANDO.png",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/Comic marcianito baño (1).png",

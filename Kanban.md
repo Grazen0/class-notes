@@ -13,11 +13,13 @@ kanban-plugin: basic
 ## ☕ Tareas
 
 - [ ] Investigar herramienta de blurring para videos.<br><br>#intro-cs #teo
+- [ ] **Prompts de ChatGPT sobre la comunicación**<br><br>(Enviar por el foro)<br><br>@{07-05-2024}<br>#comu #teo
+- [ ] **Características de la escritura formal**
 
 
 ## 📚 Lecturas
 
-- [ ] **[[S5 - Pernas. IA y los ODS]]**<br><br>@{30-04-2024}<br>#comu #teo
+- [ ] **[[S5 - Pernas. IA y los ODS]]**<br><br>@{14-05-2024}<br>#comu #teo
 - [ ] **[[S5,6 - Verdera. Enfoques sobre la pobreza]]**<br><br>Se viene una PC!!!<br><br>@{06-05-2024}<br>#pi #teo
 - [ ] **[[S10 - Steven Pinker. La tabla rasa (Cáp. 17)]]**<br><br>@{17-05-2024}<br>#comu #lab
 
