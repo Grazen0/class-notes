@@ -31,7 +31,20 @@ title: Algunas bases de datos de acceso libre
 - [eLibro](https://www.elibro.com/)
 - [Dialnet](https://dialnet.unirioja.es/)
 
+Además la **IA** resulta útil para obtener fuentes y una base inicial de información.
+
 ```
 
 ## 3. Marco teórico
 
+El marco teórico son las **investigaciones previas**, es decir los antecedentes de nuestro estudio.
+
+El marco teórico puede incluir **opiniones y posturas diversas**, así que podemos escoger qué información existente incluir y cuál no en nuestro trabajo.
+
+Algunos aportes del marco teórico:
+
+- **Orienta** la investigación.
+- Ayuda con la definición de **conceptos** y **terminología**.
+- Ayuda como **referencia**.
+
+## 4. Fichas de información
