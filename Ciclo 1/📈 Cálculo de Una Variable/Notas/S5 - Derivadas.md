@@ -68,3 +68,22 @@ $$
 ```
 
 Es decir, la derivada de una función continua en algún intervalo tomará en algún punto el valor de la tasa de cambio promedio de aquel intervalo.
+
+## Reglas de derivación
+
+### Reglas generales
+
+$$
+\begin{align}
+& (cf)' = cf'
+& (f \pm g)' = f' +g' \\
+& (fg)' = f'g + fg' \\
+& \left( \frac{f}{g} \right)' = \frac{f'g - fg'}{g^{2}} \\
+\end{align}
+$$
+
+### Regla de la potencia
+
+$$
+(x^{n})' = nx^{n-1}
+$$
