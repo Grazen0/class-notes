@@ -12,9 +12,8 @@ kanban-plugin: basic
 
 ## ☕ Tareas
 
-- [ ] Investigar herramienta de blurring para videos.<br><br>#intro-cs #teo
 - [ ] **Prompts de ChatGPT sobre la comunicación**<br><br>(Enviar por el foro)<br><br>@{07-05-2024}<br>#comu #teo
-- [ ] **Características de la escritura formal**<br><br>@{07-05-2024}<br><br>#comu #teo
+- [ ] **Características de la escritura formal**<br><br>Resolver ficha de trabajo<br><br>@{07-05-2024}<br><br>#comu #teo
 
 
 ## 📚 Lecturas
@@ -26,8 +25,8 @@ kanban-plugin: basic
 
 ## 📄 Evaluaciones
 
-- [ ] **Control de lectura**<br><br><br>#pi #teo
-- [ ] **Control de lectura**<br><br>#comu #teo
+- [ ] **Control de lectura**<br><br>@{08-05-2024}<br>#pi #teo
+- [ ] **Control de lectura**<br><br>Temas:<br><br>- [[S2 - Harari. De animales a dioses (cáp. 2)|El árbol del saber]]<br>- [[S4 - Escandell. El esquema clásico de la comunicación y sus limitaciones (cáp. 1)|Escandell]]<br>- [[S4 - Mata & Scarafino. La comunicación como práctica discursiva|Mata y Scarafino]]<br>- [[S5 - Pernas. IA y los ODS]]<br>- Boroditsky (TED Talk)<br><br>@{14-05-2024}<br>#comu #teo
 
 
 ## 🧊 On Freeze
@@ -39,7 +38,7 @@ kanban-plugin: basic
 ## 👍 Completado
 
 **Complete**
-- [x] **Cálculo: EV1**<br><br>- [x] Parte 1<br>- [x] Parte 2<br><br>@{30-04-2024}@@{12:00}<br>#calculo
+- [x] **Herramienta de blurring para videos**<br><br>Plataforma [Runway](https://runwayml.com), herramienta *"Blur Faces"*.<br><br>[Video guía](https://www.youtube.com/watch?v=Z3YdMkDmee0)<br><br>#intro-cs #teo
 - [x] **[[S5 - La Parra y Tortosa. Violencia estructural]]**<br><br>@{29-04-2024}<br>#pi #teo
 
 
@@ -54,9 +53,10 @@ kanban-plugin: basic
 - [x] **[[S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS]]**<br><br>ONU<br><br>#pi #teo @{22-04-2024}
 - [x] **[[S4 - Escandell. El esquema clásico de la comunicación y sus limitaciones (cáp. 1)]]**<br><br>Escandell<br><br>#comu #teo
 - [x] **[[S4 - Mata & Scarafino. La comunicación como práctica discursiva]]**<br><br>María Cristina Mata / Silvia Scarafino<br><br>#comu #teo
+- [x] **Cálculo: EV1**<br><br>- [x] Parte 1<br>- [x] Parte 2<br><br>@{30-04-2024}@@{12:00}<br>#calculo
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic","tag-colors":[{"tagKey":"#comu","color":"rgba(250, 218, 137, 1)","backgroundColor":"rgba(245, 189, 93, 0.1)"},{"tagKey":"#pi","color":"rgba(137, 250, 142, 1)","backgroundColor":"rgba(123, 245, 93, 0.1)"},{"tagKey":"#progra","color":"rgba(137, 182, 250, 1)","backgroundColor":"rgba(93, 108, 245, 0.1)"},{"tagKey":"#calculo","color":"rgba(250, 137, 137, 1)","backgroundColor":"rgba(245, 93, 93, 0.1)"},{"tagKey":"#discretas","color":"rgba(255, 117, 117, 1)","backgroundColor":"rgba(255, 46, 46, 0.1)"},{"tagKey":"#intro-cs","color":"rgba(250, 239, 137, 1)","backgroundColor":"rgba(245, 230, 93, 0.1)"},{"tagKey":"#lab","color":"rgba(137, 250, 223, 1)","backgroundColor":"rgba(93, 245, 208, 0.1)"},{"tagKey":"#teo","color":"rgba(244, 137, 250, 1)","backgroundColor":"rgba(228, 93, 245, 0.1)"},{"tagKey":"#grupal","color":"rgba(200, 250, 137, 1)","backgroundColor":"rgba(183, 245, 93, 0.1)"}],"date-colors":[{"isToday":false,"distance":1,"unit":"days","direction":"after","backgroundColor":"rgba(104, 26, 26, 0.35)","color":"rgba(236, 170, 170, 1)"},{"isToday":false,"distance":7,"unit":"days","direction":"after","backgroundColor":"rgba(180, 154, 50, 0.16)","color":"rgba(255, 230, 184, 1)"},{"isToday":false,"distance":1,"unit":"months","direction":"after","backgroundColor":"rgba(75, 227, 166, 0.13)","color":"rgba(157, 243, 209, 1)"}]}
+{"kanban-plugin":"basic","tag-colors":[{"tagKey":"#comu","color":"rgba(250, 218, 137, 1)","backgroundColor":"rgba(245, 189, 93, 0.1)"},{"tagKey":"#pi","color":"rgba(137, 250, 142, 1)","backgroundColor":"rgba(123, 245, 93, 0.1)"},{"tagKey":"#progra","color":"rgba(137, 182, 250, 1)","backgroundColor":"rgba(93, 108, 245, 0.1)"},{"tagKey":"#calculo","color":"rgba(250, 137, 137, 1)","backgroundColor":"rgba(245, 93, 93, 0.1)"},{"tagKey":"#discretas","color":"rgba(255, 117, 117, 1)","backgroundColor":"rgba(255, 46, 46, 0.1)"},{"tagKey":"#intro-cs","color":"rgba(250, 239, 137, 1)","backgroundColor":"rgba(245, 230, 93, 0.1)"},{"tagKey":"#lab","color":"rgba(137, 250, 223, 1)","backgroundColor":"rgba(93, 245, 208, 0.1)"},{"tagKey":"#teo","color":"rgba(244, 137, 250, 1)","backgroundColor":"rgba(228, 93, 245, 0.1)"},{"tagKey":"#grupal","color":"rgba(200, 250, 137, 1)","backgroundColor":"rgba(183, 245, 93, 0.1)"}],"date-colors":[{"isToday":false,"distance":1,"unit":"days","direction":"after","backgroundColor":"rgba(111, 15, 15, 0.29)","color":"rgba(233, 180, 180, 1)"},{"isToday":false,"distance":7,"unit":"days","direction":"after","backgroundColor":"rgba(209, 105, 0, 0.13)","color":"rgba(244, 207, 165, 1)"},{"isToday":false,"distance":1,"unit":"months","direction":"after","backgroundColor":"rgba(224, 217, 79, 0.13)","color":"rgba(248, 245, 167, 1)"}],"link-date-to-daily-note":false,"hide-tags-display":false}
 ```
 %%

@@ -8,5 +8,6 @@
   "vimMode": true,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "",
-  "showUnsupportedFiles": false
+  "showUnsupportedFiles": false,
+  "useTab": true
 }

@@ -26,27 +26,17 @@
             "id": "0de8caf3ec921782",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Kanban.md"
-              }
-            }
-          },
-          {
-            "id": "bd45a64fc1027a75",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Teoría/S5A - Informe de investigación.md",
-                "mode": "source",
+                "file": "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Teoría/S5B - Normativa APA.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Teoría/S5A - Informe de investigación.md"
+                "file": "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Teoría/S5B - Normativa APA.md"
               }
             }
           },
@@ -183,17 +173,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bd45a64fc1027a75",
+  "active": "0de8caf3ec921782",
   "lastOpenFiles": [
-    "Ciclo 1/Notas diarias/30-04-2024.md",
-    "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Teoría/S5A - Informe de investigación.md",
-    "Kanban.md",
+    "Ciclo 1/✍ Laboratorio de Comunicación I/MANUAL APA 2020.pdf",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Teoría/S5B - Normativa APA.md",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Estudio/S6 - Control de lectura (CL).md",
+    "Ciclo 1/Notas diarias/30-04-2024.md",
+    "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/Skinner vs Chomsky.excalidraw.md",
+    "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/NOESTOYGRITANDO.png",
+    "Kanban.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Estudio/S7 - Control de lectura (EC1).md",
+    "Manual APA 2020.md",
+    "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/MANUAL APA 2020 2.docx",
+    "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/MANUAL APA 2020 1.docx",
+    "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/img",
+    "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/excalidraw",
+    "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/MANUAL APA 2020.docx",
+    "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Teoría/S5A - Informe de investigación.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Información del curso.md",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Estudio/S6 - Control de lectura (CL).md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Estudio",
-    "Ciclo 1/✍ Laboratorio de Comunicación I/Estudio",
+    "Ciclo 1/✍ Laboratorio de Comunicación I/Recursos",
     "Ciclo 1/📈 Cálculo de Una Variable/Información del curso.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Teoría/S5 - Enfoques sobre la pobreza.md",
     "Ciclo 1/📈 Cálculo de Una Variable/Notas/S5 - Derivadas.md",
@@ -210,19 +209,9 @@
     "Ciclo 1/Notas diarias/05-04-2024.md",
     "Ciclo 1/Notas diarias/23-04-2024.md",
     "Ciclo 1/📈 Cálculo de Una Variable/Notas/S2 - Tipos de funciones.md",
-    "Ciclo 1/📈 Cálculo de Una Variable/Notas/S1 - Funciones.md",
-    "Ciclo 1/🍎 Matemáticas Discretas I/Notas/III. Lógica proposicional/S2D,3 - Lógica proposicional.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Notas/III. Lógica proposicional",
-    "Ciclo 1/🍎 Matemáticas Discretas I/Notas/Recursos/S1B - Divisibilidad.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Notas/II. Teoría de números",
-    "Ciclo 1/🍎 Matemáticas Discretas I/Notas/I. Introducción",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Verdera. Enfoques sobre la pobreza.pdf",
-    "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/Pernas. IA y los ODS.pdf",
-    "Ciclo 1/🚀 CMA/Ejercicios/PDF/S4.pdf",
-    "Ciclo 1/🚀 CMA/Ejercicios/PDF/S3.pdf",
-    "Ciclo 1/🚀 CMA/Ejercicios/PDF",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/Las Meninas de Velasquez.jpg",
-    "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/NOESTOYGRITANDO.png",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/Comic marcianito baño (1).png",
     "Ciclo 1/📈 Cálculo de Una Variable/Notas/Recursos/Grafico Liebre.png",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Recursos/ods.jpg",

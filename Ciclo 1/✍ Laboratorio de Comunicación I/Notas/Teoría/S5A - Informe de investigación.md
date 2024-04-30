@@ -51,26 +51,33 @@ Algunos aportes del marco teórico:
 
 Es un método para registrar material de investigación.
 
-- Citar textualmente
-- Anotar cualquier dato con la información bibliográfica - APA.
-- Ordenar el material con encabezados comunes
+Algunas direcciones para redactar fichas son:
+
+- Citar **textualmente**.
+- Anotar cualquier dato con la **información bibliográfica en APA**.
+- Ordenar el material con **encabezados comunes**.
 
 ```ad-example
 title: Ejemplo de fichas de información
+collapse: closed
 
 **Registro de información relevante**
 
 **Objetivo del discurso:** Me gustaría que la audiencia estuviera de acuerdo en que la violencia doméstica es un problema; que conozca algunas de sus causas fundamentales, y que se convenza de que existen estrategias para reducirla en Estados Unidos hoy en día.
 
+---
+
 **Tarjeta 1**
 
 Tema. *El problema*
 
-Encabezado. **Campo de acción**
+Encabezado. *Campo de acción*
 
 *Tres millones de mujeres al año son maltratadas físicamente por sus esposos y novios, y alrededor de 31% de mujeres estadounidenses informan haber sufreido agresión sexual o física por un hombre durante su vida. (En otras palabras, de las 20 mujeres en mi clase de oratorioa, más o menos seis serán agredidas por un hombre durante su vida.)*
 
 *Sitio web Futures without Violence (2009). "The Facts on Domestic, Dating and Sexual Violencie". http://www.futureswithoutviolence.org. visitada Febrero 26, 2013*
+
+---
 
 **Tarjeta 2**
 
@@ -78,6 +85,33 @@ Tema. *El problema*
 
 Encabezado. *Severidad*
 
-*En 2007 hubo 248,300 violaciones/ataques sexuales*
+*En 2007 hubo 248,300 violaciones/ataques sexuales, más de 500 por día, frente a los 190,600 en 2005.*
+
+*Goodman, A. (2010, March 2). Domestic Violence: A pre-existing condition? TruthDig.com. Recuperado en Febrero 26, 2013 de http://www.truthdig.com/report/item/domestic_violence_a_pre-existing_condition_20100302/*
+
+---
+
+**Tarjeta 3**
+
+Tema. *Causas*
+
+Encabezado. *Poder y control*
+
+*Es frecuente que los hombres recurran a la violencia para tener poder sobre las mujeres cuando se sienten amenazados y subordinados y desean mantener un sentido de control.*
+
+*Johnson, Michael P. y Ferraro, Kathleen J. (2000). "Research on domestic violence in the 1990s: making distinctions". Journal of Marriage and Family, 62(4), pp. 948-963.*
+
+---
+
+**Tarjeta 4**
+
+Tema. *Causas*
+
+Encabezado. *Poder y control*
+
+*Casi todas las mujeres objeto de abuso se marcharían de su casa si el capital humano, como es vivienta y empleo, fuera más fácilmente accesible para ellas.*
+
+
+*Christy-McMullin, K. y Shobe, M. A. (2007). "The role of economic resources and human capital with woman abuse". Journal of Policy Practice, 6(1), pp. 3-26.*
 
 ```
