@@ -134,3 +134,61 @@ De primera, se debe tener en cuenta ciertos datos:
 
 ### Libros
 
+#### Impreso
+
+Apellido, N. (año). *Título*. Editorial.
+
+```ad-example
+title: Ejemplo
+
+Herrera Cáceres, C. y Rosillo Peña, M. (2019). *Confort y eficiencia energética en el diseño de edificaciones*. Universidad del Valle.
+
+```
+
+#### En línea
+
+Apellido, N. (año). *Título*. Editorial. DOI o URL
+
+```ad-example
+title: Ejemplo
+
+Herrera Cáceres, C. y Rosillo Peña, M. (2019). *Confort y eficiencia energética en el diseño de edificaciones*. Univerisdad del Valle. https://www.reddebibliotecas.org.co/
+
+```
+
+### Artículo de revista
+
+#### Impreso
+
+Apellido, N. (año). Título del artículo. *Título de la revista, volumen* (N° de la revista), pp.
+
+```ad-example
+title: Ejemplo
+
+Muñoz Vila, C. (enero-febrero 2012). Lo que se haga por un niño se hace por un pueblo. *Revista In*`se cortó el ejemplo xd`
+
+```
+
+#### En línea
+
+Apellido, N. (año). Título del artículo. *Título de la revista, volumen* (N° de la revista), pp. DOI o URL.
+
+```ad-example
+title: Ejemplo
+
+Castañeda Naranjo, L. A. y Palacios Neri, J. (2015). Nanotecnología: fuente de nuevos paradigmas. Mundo Nano. *Revista Interdisciplinaria en Nanociencias y Nanotecnología, 7*(12), 45-49. https://doi.org/10.22201/ceiich.24485691e.2014.12.49710
+
+```
+
+### Tesis
+
+#### Impresas
+
+Apellido, N. (año). *Título de tesis* \[Tesis de ... no publicada]. Nombre de la institución académica.
+
+```ad-example
+title: Ejemplo
+
+Vargas Pérez, J. A. (2018). *Detección y prevención de virus respiratorios aplicado a plásticos burbujas* \[Tesis de doctorado no publicada]. Universidad Católica.
+
+```

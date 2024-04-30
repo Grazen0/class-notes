@@ -25,8 +25,8 @@ kanban-plugin: basic
 
 ## 📄 Evaluaciones
 
-- [ ] **Control de lectura**<br><br>@{08-05-2024}<br>#pi #teo
-- [ ] **Control de lectura**<br><br>Temas:<br><br>- [[S2 - Harari. De animales a dioses (cáp. 2)|El árbol del saber]]<br>- [[S4 - Escandell. El esquema clásico de la comunicación y sus limitaciones (cáp. 1)|Escandell]]<br>- [[S4 - Mata & Scarafino. La comunicación como práctica discursiva|Mata y Scarafino]]<br>- [[S5 - Pernas. IA y los ODS]]<br>- Boroditsky (TED Talk)<br><br>@{14-05-2024}<br>#comu #teo
+- [ ] **Control de lectura**<br><br>Temas:<br><br>- [[S2 - Vasen. Giro postcompetitivo en la política de CTI|Giro postcompetitivo]]<br>- [[S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS|Hojas de ruta ODS]]<br>- [[S5 - Enfoques sobre la pobreza|Enfoques sobre la pobreza]]<br><br>@{08-05-2024}<br>#pi #teo
+- [ ] **Control de lectura**<br><br>Temas:<br><br>- [[S2 - Harari. De animales a dioses (cáp. 2)|El árbol del saber]]<br>- [[S4 - Escandell. El esquema clásico de la comunicación y sus limitaciones (cáp. 1)|Escandell]]<br>- [[S4 - Mata & Scarafino. La comunicación como práctica discursiva|Mata y Scarafino]]<br>- [[S5 - Pernas. IA y los ODS]]<br>- Boroditsky (TED Talk)<br>- Video sobre los prejuicios<br><br>@{14-05-2024}<br>#comu #teo
 
 
 ## 🧊 On Freeze
