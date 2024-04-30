@@ -58,7 +58,13 @@ Es decir, dada una función continua y un intervalo de extremos a la misma altur
 ```ad-theorem
 title: Teorema (teorema del valor medio).
 
-Dada una función $f$
+Una función $f$ continua en $[a, b]$, derivable en $(a, b)$, tiene al menos un valor de $x = c$ entre $a$ y $b$ donde:
+
+$$
+f'(c) = \frac{f(b) - f(a)}{b - a}
+$$
 
 
 ```
+
+Es decir, la derivada de una función continua en algún intervalo tomará en algún punto el valor de la tasa de cambio promedio de aquel intervalo.
