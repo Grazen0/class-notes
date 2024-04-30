@@ -24,3 +24,11 @@ La derivada se describe como
 - variación;
 
 y es la **pendiente de la recta tangente** a la función en un punto determinado.
+
+## Límites y continuidad
+
+Se dice que una función $f$ es **continua** en $x = a$ si y solo si:
+
+1. Existe $f(a)$.
+2. Existe $\lim_{x \to a} f(x)$.
+3. $\lim_{x \to a} f(x) = f(a)$.
