@@ -4,19 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "75101c387e28a4c4",
+        "id": "995ac523fa13090c",
         "type": "tabs",
         "children": [
           {
-            "id": "49fb1d6cb26b80d3",
+            "id": "a8e56a3dc04017fc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Ciclo 1/📈 Cálculo de Una Variable/Notas/S5 - Derivadas.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Kanban.md"
               }
             }
           }
@@ -102,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo 1/📈 Cálculo de Una Variable/Notas/S5 - Derivadas.md"
+                "file": "Kanban.md"
               }
             }
           },
@@ -149,7 +146,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "49fb1d6cb26b80d3",
+  "active": "a8e56a3dc04017fc",
   "lastOpenFiles": [
     "Kanban.md",
     "Ciclo 1/📈 Cálculo de Una Variable/Notas/S5 - Derivadas.md",
