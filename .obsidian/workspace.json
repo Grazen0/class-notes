@@ -21,35 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "61948a8dd239c3c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Teoría/S5 - Enfoques sobre la pobreza.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d15acc0ff29c2341",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciclo 1/📈 Cálculo de Una Variable/Notas/S5 - Derivadas.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo 1/📈 Cálculo de Una Variable/Notas/S5 - Derivadas.md"
+                "file": "Ciclo 1/Notas diarias/30-04-2024.md"
               }
             }
           },
@@ -178,11 +151,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d15acc0ff29c2341",
+  "active": "7b742d5e06155432",
   "lastOpenFiles": [
+    "Ciclo 1/📈 Cálculo de Una Variable/Información del curso.md",
     "Ciclo 1/Notas diarias/30-04-2024.md",
-    "Ciclo 1/Notas diarias/29-04-2024.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Teoría/S5 - Enfoques sobre la pobreza.md",
+    "Ciclo 1/📈 Cálculo de Una Variable/Notas/S5 - Derivadas.md",
+    "Ciclo 1/Notas diarias/29-04-2024.md",
     "Ciclo 1/🚀 CMA/S4 - Introducción al análisis matemático.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Teoría/S4 - De los ODM a los ODS.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Teoría/S2 - El giro postcompetitivo.md",
@@ -197,7 +172,6 @@
     "Ciclo 1/Notas diarias/23-04-2024.md",
     "Ciclo 1/📈 Cálculo de Una Variable/Notas/S2 - Tipos de funciones.md",
     "Ciclo 1/📈 Cálculo de Una Variable/Notas/S1 - Funciones.md",
-    "Ciclo 1/📈 Cálculo de Una Variable/Notas/S5 - Derivadas.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Notas/III. Lógica proposicional/S2D,3 - Lógica proposicional.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Notas/III. Lógica proposicional",
     "Ciclo 1/🍎 Matemáticas Discretas I/Notas/Recursos/S1B - Divisibilidad.md",
@@ -215,7 +189,6 @@
     "Ciclo 1/🚀 CMA/Ejercicios",
     "Ciclo 1/🚀 CMA/PDF",
     "Ciclo 1/💻 Programación I/Información del curso.md",
-    "Ciclo 1/Notas diarias/26-04-2024.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/Las Meninas de Velasquez.jpg",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/NOESTOYGRITANDO.png",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/Comic marcianito baño (1).png",
