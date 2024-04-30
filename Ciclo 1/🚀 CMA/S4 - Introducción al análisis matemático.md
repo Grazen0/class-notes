@@ -28,7 +28,7 @@ $$
 collapse: closed
 
 ```ad-proposition
-title: Lema
+title: Lema 1.
 
 Sea $x$ un número real no negativo, entonces:
 
@@ -42,8 +42,8 @@ Nuestras hipótesis son:
 
 $$
 \begin{align}
-\forall \varepsilon_{1} > 0, \exists \delta_{1} > 0\ : \left( 0 < |x - x_{0}| < \delta_{1} \implies |f(x) - L| < \varepsilon_{1} \right) \\
-\forall \varepsilon_{2} > 0, \exists \delta_{2} > 0\ : \left( 0 < |x - x_{0}| < \delta_{2} \implies |f(x) - M| < \varepsilon_{2} \right)
+\forall \varepsilon_{1} > 0, \exists \delta_{1} > 0 : \left( 0 < |x - x_{0}| < \delta_{1} \implies |f(x) - L| < \varepsilon_{1} \right) \\
+\forall \varepsilon_{2} > 0, \exists \delta_{2} > 0 : \left( 0 < |x - x_{0}| < \delta_{2} \implies |f(x) - M| < \varepsilon_{2} \right)
 \end{align}
 $$
 
@@ -75,7 +75,7 @@ $$
 \end{align}
 $$
 
-Entonces, como esto se cumple para todo $a > 0$, se cumple que $L - M = 0$ por el lema. Entonces, $L = M$.
+Entonces, como esto se cumple para todo $a > 0$, se cumple que $L - M = 0$ por el lema 1. Entonces, $L = M$.
 $$\qed$$
 
 

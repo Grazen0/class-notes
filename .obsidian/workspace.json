@@ -146,7 +146,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,11 +165,13 @@
   },
   "active": "61948a8dd239c3c2",
   "lastOpenFiles": [
+    "Ciclo 1/🚀 CMA/S4 - Introducción al análisis matemático.md",
+    "Ciclo 1/Notas diarias/30-04-2024.md",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Teoría/S5 - Enfoques sobre la pobreza.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Teoría/S4 - De los ODM a los ODS.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Teoría/S2 - El giro postcompetitivo.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Teoría/S3 - Desafíos globales y participación social.md",
     "Ciclo 1/Notas diarias/15-04-2024.md",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Teoría/S5 - Enfoques sobre la pobreza.md",
     "Ciclo 1/Notas diarias/29-04-2024.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Información del curso.md",
     "Kanban.md",
@@ -196,10 +199,8 @@
     "Ciclo 1/🚀 CMA/Ejercicios/PDF",
     "Ciclo 1/🚀 CMA/Ejercicios",
     "Ciclo 1/🚀 CMA/PDF",
-    "Ciclo 1/🚀 CMA/S4 - Introducción al análisis matemático.md",
     "Ciclo 1/💻 Programación I/Información del curso.md",
     "Ciclo 1/Notas diarias/26-04-2024.md",
-    "Ciclo 1/✍ Laboratorio de Comunicación I/Información del curso.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/Las Meninas de Velasquez.jpg",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/NOESTOYGRITANDO.png",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/Comic marcianito baño (1).png",
