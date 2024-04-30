@@ -37,7 +37,7 @@ Además la **IA** resulta útil para obtener fuentes y una base inicial de infor
 
 ## 3. Marco teórico
 
-El marco teórico son las **investigaciones previas**, es decir los antecedentes de nuestro estudio.
+El marco teórico son los **fundamentos** sobre los que se basa la investigación. Incluye especialmente a las **investigaciones previas**, es decir los antecedentes de nuestro estudio.
 
 El marco teórico puede incluir **opiniones y posturas diversas**, así que podemos escoger qué información existente incluir y cuál no en nuestro trabajo.
 
@@ -48,3 +48,36 @@ Algunos aportes del marco teórico:
 - Ayuda como **referencia**.
 
 ## 4. Fichas de información
+
+Es un método para registrar material de investigación.
+
+- Citar textualmente
+- Anotar cualquier dato con la información bibliográfica - APA.
+- Ordenar el material con encabezados comunes
+
+```ad-example
+title: Ejemplo de fichas de información
+
+**Registro de información relevante**
+
+**Objetivo del discurso:** Me gustaría que la audiencia estuviera de acuerdo en que la violencia doméstica es un problema; que conozca algunas de sus causas fundamentales, y que se convenza de que existen estrategias para reducirla en Estados Unidos hoy en día.
+
+**Tarjeta 1**
+
+Tema. *El problema*
+
+Encabezado. **Campo de acción**
+
+*Tres millones de mujeres al año son maltratadas físicamente por sus esposos y novios, y alrededor de 31% de mujeres estadounidenses informan haber sufreido agresión sexual o física por un hombre durante su vida. (En otras palabras, de las 20 mujeres en mi clase de oratorioa, más o menos seis serán agredidas por un hombre durante su vida.)*
+
+*Sitio web Futures without Violence (2009). "The Facts on Domestic, Dating and Sexual Violencie". http://www.futureswithoutviolence.org. visitada Febrero 26, 2013*
+
+**Tarjeta 2**
+
+Tema. *El problema*
+
+Encabezado. *Severidad*
+
+*En 2007 hubo 248,300 violaciones/ataques sexuales*
+
+```
