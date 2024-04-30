@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8756d0a3f31904e0",
+        "id": "2135c5c37de1744f",
         "type": "tabs",
         "children": [
           {
-            "id": "55d0b654d3f6ae8f",
+            "id": "6c459c69a51d03d1",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanban.md"
+                "file": "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Teoría/S5B - Normativa APA.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -99,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban.md"
+                "file": "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Teoría/S5B - Normativa APA.md"
               }
             }
           },
@@ -154,18 +157,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "55d0b654d3f6ae8f",
+  "active": "6c459c69a51d03d1",
   "lastOpenFiles": [
-    "Ciclo 1/💻 Programación I/Notas/S5 (Teo) - Bucles anidados.md",
     "Kanban.md",
-    "Ciclo 1/💻 Programación I/Notas/S4 (Teo) - Bucles con while.md",
+    "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Teoría/S5B - Normativa APA.md",
     "Ciclo 1/Notas diarias/22-04-2024.md",
+    "Ciclo 1/💻 Programación I/Notas/S5 (Teo) - Bucles anidados.md",
+    "Ciclo 1/💻 Programación I/Notas/S4 (Teo) - Bucles con while.md",
     "Ciclo 1/Notas diarias/16-04-2024.md",
     "Ciclo 1/Notas diarias/30-04-2024.md",
     "Ciclo 1/Notas diarias/23-04-2024.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Notas/II. Teoría de números/S2A - Números primos y descomposición canónica.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Notas/II. Teoría de números/S1B - Divisibilidad.md",
-    "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Teoría/S5B - Normativa APA.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Notas/I. Introducción/S1A - Conjuntos numéricos.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Notas/III. Lógica proposicional/S2D,3 - Lógica proposicional.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/MANUAL APA 2020.pdf",

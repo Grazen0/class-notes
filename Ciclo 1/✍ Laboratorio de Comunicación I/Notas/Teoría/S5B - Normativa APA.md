@@ -192,3 +192,20 @@ title: Ejemplo
 Vargas Pérez, J. A. (2018). *Detección y prevención de virus respiratorios aplicado a plásticos burbujas* \[Tesis de doctorado no publicada]. Universidad Católica.
 
 ```
+
+#### De un repositorio institucional
+
+Apellido, N. (año). *Título de tesis* \[Tesis de ..., nombre de la institución que otorgó el título]. Nombre 
+
+-- ARREGLAR --
+
+#### De una web personal o archivo de la institución
+
+Apellido, N. (año). Título de tesis \[Tesis de ..., nombre de la institución que otorgó el título]. URL del archivo de la U de la website.
+
+```ad-example
+title: Ejemplo
+
+Martínez Ribón, J. G. T. (2011). *Propuesta de metodología para la implementación de la filosofía Lean (construcción esbelta) en proyectos de construcción* \[Tesis de Maestría, Universidad Nacional de Colombia]. http://bdigital.unal.edu.co/10578/
+
+```

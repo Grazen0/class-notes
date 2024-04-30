@@ -6,7 +6,7 @@ kanban-plugin: basic
 
 ## 🧱 Proyectos
 
-- [ ] **Proyecto PI**<br><br>**Problema:** Es peligroso cruzar Abancay para gente con discapacidad, negando el acceso a la Iglesia San Pedro.<br><br>- [x] Definir problema<br>- [x] Definir localidad<br>- [ ] Investigar y resumir<br>- [ ] Relación con ODS (la 11)<br>- [ ] Definir actores<br>- [ ] Analizar actores<br>- [ ] Identificar niveles de poder<br><br>#pi #lab #grupal
+- [ ] **Patrimonio cultural**<br><br>**Problema:** Es peligroso cruzar Abancay para gente con discapacidad, negando el acceso a la Iglesia San Pedro.<br><br>- [x] Definir problema<br>- [x] Definir localidad<br>- [ ] Investigar y resumir<br>- [ ] Relación con ODS (la 11)<br>- [ ] Definir actores<br>- [ ] Analizar actores<br>- [ ] Identificar niveles de poder<br><br>#pi #lab #grupal
 - [ ] **Proyecto Comu**<br><br>#comu #lab #grupal <br><br>Característica: *(por definir)*<br><br>- [ ] Definir característica
 
 
@@ -14,6 +14,7 @@ kanban-plugin: basic
 
 - [ ] **Prompts de ChatGPT sobre la comunicación**<br><br>(Enviar por el foro)<br><br>@{07-05-2024}<br>#comu #teo
 - [ ] **Características de la escritura formal**<br><br>Resolver ficha de trabajo<br><br>@{07-05-2024}<br><br>#comu #teo
+- [ ] **Problemas de la semana**<br><br>- [ ] Codeforces<br>- [ ] AtCoder<br><br>@{05-05-2024}<br>#cpc
 
 
 ## 📚 Lecturas
@@ -57,6 +58,6 @@ kanban-plugin: basic
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic","tag-colors":[{"tagKey":"#comu","color":"rgba(250, 218, 137, 1)","backgroundColor":"rgba(245, 189, 93, 0.1)"},{"tagKey":"#pi","color":"rgba(137, 250, 142, 1)","backgroundColor":"rgba(123, 245, 93, 0.1)"},{"tagKey":"#progra","color":"rgba(137, 182, 250, 1)","backgroundColor":"rgba(93, 108, 245, 0.1)"},{"tagKey":"#calculo","color":"rgba(250, 137, 137, 1)","backgroundColor":"rgba(245, 93, 93, 0.1)"},{"tagKey":"#discretas","color":"rgba(255, 117, 117, 1)","backgroundColor":"rgba(255, 46, 46, 0.1)"},{"tagKey":"#intro-cs","color":"rgba(250, 239, 137, 1)","backgroundColor":"rgba(245, 230, 93, 0.1)"},{"tagKey":"#lab","color":"rgba(137, 250, 223, 1)","backgroundColor":"rgba(93, 245, 208, 0.1)"},{"tagKey":"#teo","color":"rgba(244, 137, 250, 1)","backgroundColor":"rgba(228, 93, 245, 0.1)"},{"tagKey":"#grupal","color":"rgba(200, 250, 137, 1)","backgroundColor":"rgba(183, 245, 93, 0.1)"}],"date-colors":[{"isToday":false,"distance":1,"unit":"days","direction":"after","backgroundColor":"rgba(111, 15, 15, 0.29)","color":"rgba(233, 180, 180, 1)"},{"isToday":false,"distance":7,"unit":"days","direction":"after","backgroundColor":"rgba(209, 105, 0, 0.13)","color":"rgba(244, 207, 165, 1)"},{"isToday":false,"distance":1,"unit":"months","direction":"after","backgroundColor":"rgba(224, 217, 79, 0.13)","color":"rgba(248, 245, 167, 1)"}],"link-date-to-daily-note":false,"hide-tags-display":false}
+{"kanban-plugin":"basic","tag-colors":[{"tagKey":"#comu","color":"rgba(233, 192, 158, 1)","backgroundColor":"rgba(250, 173, 72, 0.14)"},{"tagKey":"#pi","color":"rgba(137, 250, 142, 1)","backgroundColor":"rgba(123, 245, 93, 0.1)"},{"tagKey":"#progra","color":"rgba(137, 182, 250, 1)","backgroundColor":"rgba(93, 108, 245, 0.1)"},{"tagKey":"#calculo","color":"rgba(250, 137, 137, 1)","backgroundColor":"rgba(245, 93, 93, 0.1)"},{"tagKey":"#discretas","color":"rgba(255, 117, 117, 1)","backgroundColor":"rgba(255, 46, 46, 0.1)"},{"tagKey":"#intro-cs","color":"rgba(250, 239, 137, 1)","backgroundColor":"rgba(245, 230, 93, 0.1)"},{"tagKey":"#lab","color":"rgba(137, 240, 250, 1)","backgroundColor":"rgba(93, 223, 245, 0.1)"},{"tagKey":"#teo","color":"rgba(244, 137, 250, 1)","backgroundColor":"rgba(228, 93, 245, 0.1)"},{"tagKey":"#grupal","color":"rgba(200, 250, 137, 1)","backgroundColor":"rgba(183, 245, 93, 0.1)"},{"tagKey":"#cpc","color":"rgba(255, 181, 234, 1)","backgroundColor":"rgba(255, 46, 141, 0.15)"},{"tagKey":"#cma","color":"rgba(137, 250, 172, 1)","backgroundColor":"rgba(93, 245, 244, 0.11)"}],"date-colors":[{"isToday":false,"distance":1,"unit":"days","direction":"after","backgroundColor":"rgba(111, 15, 15, 0.29)","color":"rgba(243, 157, 157, 1)"},{"isToday":false,"distance":7,"unit":"days","direction":"after","backgroundColor":"rgba(209, 105, 0, 0.16)","color":"rgba(255, 207, 152, 1)"},{"isToday":false,"distance":1,"unit":"months","direction":"after","backgroundColor":"rgba(226, 222, 121, 0.11)","color":"rgba(230, 230, 175, 1)"}],"link-date-to-daily-note":false,"hide-tags-display":false}
 ```
 %%
