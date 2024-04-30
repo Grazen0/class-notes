@@ -23,19 +23,6 @@
             }
           },
           {
-            "id": "87cefca757a595df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Estudio/S6 - Control de lectura (CL).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0de8caf3ec921782",
             "type": "leaf",
             "state": {
@@ -44,8 +31,22 @@
                 "file": "Kanban.md"
               }
             }
+          },
+          {
+            "id": "c4850921b28d06ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Teoría/S5A - Informe de investigación.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -127,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo 1/Notas diarias/30-04-2024.md"
+                "file": "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Teoría/S5A - Informe de investigación.md"
               }
             }
           },
@@ -182,10 +183,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7b742d5e06155432",
+  "active": "c4850921b28d06ab",
   "lastOpenFiles": [
-    "Kanban.md",
     "Ciclo 1/Notas diarias/30-04-2024.md",
+    "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Teoría/S5A - Informe de investigación.md",
+    "Kanban.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Estudio/S6 - Control de lectura (CL).md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Estudio/S7 - Control de lectura (EC1).md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Información del curso.md",
@@ -215,7 +217,6 @@
     "Ciclo 1/🍎 Matemáticas Discretas I/Notas/II. Teoría de números",
     "Ciclo 1/🍎 Matemáticas Discretas I/Notas/I. Introducción",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Verdera. Enfoques sobre la pobreza.pdf",
-    "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S5 - Pernas. IA y los ODS.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/Pernas. IA y los ODS.pdf",
     "Ciclo 1/🚀 CMA/Ejercicios/PDF/S4.pdf",
     "Ciclo 1/🚀 CMA/Ejercicios/PDF/S3.pdf",
