@@ -13,7 +13,6 @@ kanban-plugin: basic
 ## ☕ Tareas
 
 - [ ] **Características de la escritura formal**<br><br>Resolver ficha de trabajo<br><br>@{07-05-2024}<br><br>#comu #teo
-- [ ] **Problemas de la semana**<br><br>- [x] Codeforces<br>- [ ] AtCoder<br><br>@{05-05-2024}<br>#cpc
 
 
 ## 📚 Lecturas
@@ -38,6 +37,7 @@ kanban-plugin: basic
 ## 👍 Completado
 
 **Complete**
+- [x] **Problemas de la semana**<br><br>- [x] Codeforces<br>- [x] AtCoder<br><br>@{05-05-2024}<br>#cpc
 - [x] **Prompts de ChatGPT sobre la comunicación**<br><br>(Enviar por el foro)<br><br>@{07-05-2024}<br>#comu #teo
 - [x] **Herramienta de blurring para videos**<br><br>Plataforma [Runway](https://runwayml.com), herramienta *"Blur Faces"*.<br><br>[Video guía](https://www.youtube.com/watch?v=Z3YdMkDmee0)<br><br>#intro-cs #teo
 - [x] **[[S5 - La Parra y Tortosa. Violencia estructural]]**<br><br>@{29-04-2024}<br>#pi #teo
