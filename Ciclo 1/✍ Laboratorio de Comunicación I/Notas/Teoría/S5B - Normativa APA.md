@@ -165,7 +165,7 @@ Apellido, N. (año). Título del artículo. *Título de la revista, volumen* (N�
 ```ad-example
 title: Ejemplo
 
-Muñoz Vila, C. (enero-febrero 2012). Lo que se haga por un niño se hace por un pueblo. *Revista In*`se cortó el ejemplo xd`
+Muñoz Vila, C. (enero-febrero 2012). Lo que se haga por un niño se hace por un pueblo. *Revista Internacional Magisterio*, (54), 10-17.
 
 ```
 
@@ -195,9 +195,14 @@ Vargas Pérez, J. A. (2018). *Detección y prevención de virus respiratorios ap
 
 #### De un repositorio institucional
 
-Apellido, N. (año). *Título de tesis* \[Tesis de ..., nombre de la institución que otorgó el título]. Nombre 
+Apellido, N. (año). *Título de tesis* \[Tesis de ..., nombre de la institución que otorgó el título]. Nombre de la base de datos.
 
--- ARREGLAR --
+```ad-example
+title: Ejemplo
+
+Sáenz Jiménez, F. A. (2017). *Factores ambientales y antrópicos que determinan la presencia y distribución del Cóndor Andino y la selección de lugares de anidación y descanso: un enfoque multiescalar*. \[Tesis de Doctorado, Pontificia Univerisdad Javeriana]. Repositorio Institucional — Pontificia Universidad Javeriana
+
+```
 
 #### De una web personal o archivo de la institución
 
@@ -207,5 +212,60 @@ Apellido, N. (año). Título de tesis \[Tesis de ..., nombre de la institución 
 title: Ejemplo
 
 Martínez Ribón, J. G. T. (2011). *Propuesta de metodología para la implementación de la filosofía Lean (construcción esbelta) en proyectos de construcción* \[Tesis de Maestría, Universidad Nacional de Colombia]. http://bdigital.unal.edu.co/10578/
+
+```
+
+### Diario
+
+#### Impreso
+
+Apellido, N. (fecha y año). Titular del artículo / editorial. *Nombre del diario*.
+
+#### En línea
+
+Apellido, N. (fecha y año). Titular del artículo / editorial. *Nombre del diario*. URL
+
+```ad-example
+title: Ejemplo
+
+Carreño, L. (9 de febrero de 2020). La disputa gremial por los aranceles a las prendas de vestir. *El espectador*. https://www.elespectador.com/economia/la-disputa-gremial-por-los-aranceles-las-prendas-de-vestir-articulo-903768
+
+```
+
+### Web
+
+#### Contenido estático
+
+Apellido, N. (fecha y año). *Título del artículo web*. Nombre de la web. URL.
+
+#### Contenido actualizado con regularidad
+
+Apellido, N. (fecha y año). *Título del artículo web*. Nombre de la web. Recuperado el día, mes año, URL
+
+#### Formato especial dentro de una página web
+
+Apellido, N. (fechca y año). Título del archivo \[Archivo ...]. Nombre de la página web. URL
+
+#### Página web con autor corporativo
+
+Nombre de la org. (fecha y año). *Título del texto*. URL.
+
+```ad-example
+title: Ejemplo
+
+Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura. (1 de octubre de 2018). *Nuevos datos revelan que en el mundo uno de cada tres adolescentes sufre acoso escolar*.
+
+https://es.unesco.org/news/nuevos-datos-revelan-que-mundo-cada-tres-adolescentes-sufre-acoso-escolar
+
+```
+
+### YouTube
+
+Nombre del autor / Canal. (fecha). *Título del video* \[Archivo de video]. YouTube. URL
+
+```ad-example
+title: Ejemplo
+
+Canal REDMÁS. (19 de septiembre de 2017). *Antanas Mockus en Confesiones* \[Archivo de video]. YouTube. https://youtu.be/de_4nTCHtJs
 
 ```

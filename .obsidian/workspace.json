@@ -4,23 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "2135c5c37de1744f",
+        "id": "580a478850401356",
         "type": "tabs",
         "children": [
           {
-            "id": "6c459c69a51d03d1",
+            "id": "439eb1a0aae74c41",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Kanban.md"
+              }
+            }
+          },
+          {
+            "id": "45a1d883d0b1d525",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Teoría/S5B - Normativa APA.md",
-                "mode": "source",
+                "file": "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Teoría/S3,4 - El proceso de la comunicación.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Teoría/S5B - Normativa APA.md"
+                "file": "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Teoría/S3,4 - El proceso de la comunicación.md"
               }
             }
           },
@@ -157,7 +168,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6c459c69a51d03d1",
+  "active": "45a1d883d0b1d525",
   "lastOpenFiles": [
     "Kanban.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Teoría/S5B - Normativa APA.md",
