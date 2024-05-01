@@ -42,4 +42,16 @@ El desarrollo de los países subdesarrollados no afecta a un tercio de su poblac
 	- Falta de **capital humano**.
 	- Inaccesibilidad a dicho capital.
 - El crecimiento económico **se enfoca en sectores reducidos** de la economía, casi sin efecto en los pobres.
-- 
+
+En este sentido, se necesitaría:
+
+- **Inversión pública** que apoye a los pobres.
+- **Acceso** a educación, crédito y otros recursos.
+- **Convertir** pobreza en **productividad**.
+
+Sin embargo, este modelo es difícil de seguir, por lo difícil que sería atraer inversión al sector pobres.
+
+### El enfoque del BID
+
+En este enfoque, lo más importante es el **crecimiento económico**. El uso y acceso a los activos queda en segunda.
+
