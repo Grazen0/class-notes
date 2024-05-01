@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "Características de la escritura formal",
+      "path": "Ciclo 1/✍ Laboratorio de Comunicación I/Trabajos/Características de la escritura formal.md"
     },
     {
       "basename": "Kanban",
       "path": "Kanban.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "S4",
@@ -35,10 +39,6 @@
     {
       "basename": "S4 (Teo) - Bucles con while",
       "path": "Ciclo 1/💻 Programación I/Notas/S4 (Teo) - Bucles con while.md"
-    },
-    {
-      "basename": "16-04-2024",
-      "path": "Ciclo 1/Notas diarias/16-04-2024.md"
     }
   ],
   "omittedPaths": [
