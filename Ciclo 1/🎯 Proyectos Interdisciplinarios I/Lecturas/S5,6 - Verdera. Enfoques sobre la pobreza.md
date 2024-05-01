@@ -103,3 +103,4 @@ Los activos significan cosas distintas para los que están en **supervivencia** 
 - La **supervivencia** emplea acciones a **corto plazo**.
 - El **ascenso social** usa planes de **largo plazo** con inversión continua.
 
+Se propone que debe existir una **diferencia** entre los activos para los pobres y los activos para aquellos fuera de la pobreza.
