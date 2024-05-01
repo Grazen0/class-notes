@@ -90,4 +90,16 @@ Se concluye:
 9. Las predicciones estadísticas **pierden precisión** al hablar de hogares que transicionan hacia afuera de la pobreza.
 10. En cuanto a **probabilidades**:
 	1. El capital humano, las finanzas y otros recursos determinan la permanencia en el sector pobre / no pobre de una familia.
-	2. 
+	2. La transición hacia fuera de la pobreza se da por los cambios en activos de capital humano y el *shock*.
+	3. Los hogares **se vuelven pobres** debido a:
+		- Falta de educación
+		- Falta de experiencia laboral
+		- Inaccesibilidad a bienes públicos
+
+### d. Activos, vulnerabilidad y oportunidades
+
+Los activos significan cosas distintas para los que están en **supervivencia** vs. los que están en **ascenso social**.
+
+- La **supervivencia** emplea acciones a **corto plazo**.
+- El **ascenso social** usa planes de **largo plazo** con inversión continua.
+
