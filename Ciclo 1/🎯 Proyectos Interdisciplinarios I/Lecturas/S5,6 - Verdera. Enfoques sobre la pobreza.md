@@ -66,3 +66,23 @@ Se concluye que los pobres deben recibir **mejor distribución de activos** para
 
 ### c. Una aplicación para el Perú
 
+De nuevo, el enfoque está en **modificar la distribución de activos**.
+
+Se busca reducir la pobreza mediante activos en cuya distribución puede intervenir el **estado**, y aumentando la **rentabilidad** de activos ya existentes.
+
+En particular se enfoca en la **educación** y la **tierra**.
+
+Se concluye:
+
+1. La educación y la tierra **han cambiado el patrón de tenencia de activos**, y se espera que hayan elevado los ingresos.
+2. La rentabilidad de la **tierra** se ha **reducido**.
+3. La **educación** se mantiene **igual de rentable**.
+4. La pobreza **cambia** en función de:
+	1. El **crecimiento económico**
+	2. La **distribución de ingresos**
+5. Existe un **modelo** que permite relacionar directamente las causas de la pobreza.
+6. La **posesión de activos** es inversamente proporcional a la **probabilidad de ser pobre**.
+7. En el **sector rural**:
+	1. Los factores más determinantes son el capital **público / organizacional**.
+	2. La tenencia de tierra no es tan importante.
+8. 
