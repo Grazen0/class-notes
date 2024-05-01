@@ -82,12 +82,12 @@ Se concluye:
 	2. La **distribución de ingresos**
 5. Existe un **modelo** que permite relacionar directamente las causas de la pobreza.
 6. La **posesión de activos** es inversamente proporcional a la **probabilidad de ser pobre**.
-7. En el **sector rural**:
-	1. Los factores más determinantes son el capital **público / organizacional**.
+7. En el **sector rural**: 1. Los factores más determinantes son el capital **público / organizacional**.
 	2. La tenencia de tierra no es tan importante.
 8. La **transición** para salir de la pobreza está determinada por:
 	- La posesión y **acumulación** de activos
 	- Los ***shocks*** externos.
 9. Las predicciones estadísticas **pierden precisión** al hablar de hogares que transicionan hacia afuera de la pobreza.
 10. En cuanto a **probabilidades**:
-	1. 
+	1. El capital humano, las finanzas y otros recursos determinan la permanencia en el sector pobre / no pobre de una familia.
+	2. 
