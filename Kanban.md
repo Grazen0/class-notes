@@ -13,7 +13,7 @@ kanban-plugin: basic
 ## ☕ Tareas
 
 - [ ] **Características de la escritura formal**<br><br>Resolver ficha de trabajo<br><br>@{07-05-2024}<br><br>#comu #teo
-- [ ] **Problemas de la semana**<br><br>- [ ] Codeforces<br>- [ ] AtCoder<br><br>@{05-05-2024}<br>#cpc
+- [ ] **Problemas de la semana**<br><br>- [x] Codeforces<br>- [ ] AtCoder<br><br>@{05-05-2024}<br>#cpc
 
 
 ## 📚 Lecturas
