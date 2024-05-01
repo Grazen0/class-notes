@@ -31,9 +31,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8374f99a840a88f8",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Kanban.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5,6 - Verdera. Enfoques sobre la pobreza.md"
+                "file": "Kanban.md"
               }
             }
           },
@@ -205,14 +215,15 @@
       }
     ]
   },
-  "active": "26b35a345f6b0a31",
+  "active": "8374f99a840a88f8",
   "lastOpenFiles": [
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Teoría/S5 - Enfoques sobre la pobreza.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Verdera. Enfoques sobre la pobreza.pdf",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5,6 - Verdera. Enfoques sobre la pobreza.md",
-    "Ciclo 1/Notas diarias/29-04-2024.md",
-    "Ciclo 1/Notas diarias/30-04-2024.md",
     "Kanban.md",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5,6 - Verdera. Enfoques sobre la pobreza.md",
+    "Ciclo 1/Notas diarias/22-04-2024.md",
+    "Ciclo 1/Notas diarias/29-04-2024.md",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Teoría/S5 - Enfoques sobre la pobreza.md",
+    "Ciclo 1/Notas diarias/30-04-2024.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Trabajos/Características de la escritura formal.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Trabajos/PDF",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Trabajos/PDF/1. Características de la escritura formal.pdf",
@@ -223,7 +234,6 @@
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Teoría/S5B - Normativa APA.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Teoría/S1 - La Comunicación.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Teoría/S3,4 - El proceso de la comunicación.md",
-    "Ciclo 1/Notas diarias/22-04-2024.md",
     "Ciclo 1/💻 Programación I/Notas/S5 (Teo) - Bucles anidados.md",
     "Ciclo 1/💻 Programación I/Notas/S4 (Teo) - Bucles con while.md",
     "Ciclo 1/Notas diarias/16-04-2024.md",
