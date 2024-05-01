@@ -112,4 +112,5 @@ Se propone un enfoque "**activos - vulnerabilidad - estructura de oportunidades*
 
 - Se debe entender la configuración de los activos en las familias para diseñar **políticas sociales** y no agarrar perspectivas **ideológicas**.
 	- Cualquier extremo es "ideológico": La ayuda a los pobres no debe venir solo de nosotros ni solo de ellos.
+- Es necesario **INDAGAR EN LAS OPORTUNIDADES QUE TIENEN LOS POBRES**
 - 
