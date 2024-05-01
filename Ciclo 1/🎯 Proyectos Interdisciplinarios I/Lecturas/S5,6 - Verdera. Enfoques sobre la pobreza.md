@@ -17,6 +17,11 @@ Actualmente, la pobreza se estudia desde 4 enfoques:
 3. La **exclusión social**.
 4. El enfoque **estructural** con respecto a la economía.
 
+También se incluyen 2 enfoques más:
+
+5. La definición de "pobre" por el aspecto **monetario**.
+6. La definición de "pobre" por el aspecto **participativo**.
+
 Otro problema es la **definición de pobreza**.
 
 ```ad-note
@@ -33,7 +38,7 @@ En este texto, se considera el marco **estructural** de la pobreza, donde esta s
 
 Algunas referencias a este enfoque se encuentran en:
 
-### Banco Mundial e IDS
+### a. Banco Mundial e IDS
 
 El desarrollo de los países subdesarrollados no afecta a un tercio de su población, **el crecimiento se distribuye desigualmente**.
 
@@ -51,7 +56,13 @@ En este sentido, se necesitaría:
 
 Sin embargo, este modelo es difícil de seguir, por lo difícil que sería atraer inversión al sector pobres.
 
-### El enfoque del BID
+### b. El enfoque del BID
 
 En este enfoque, lo más importante es el **crecimiento económico**. El uso y acceso a los activos queda en segunda.
+
+- Mediante una investigación en 52 países, se observa que **la desigualdad afecta negativamente al crecimiento económico**.
+
+Se concluye que los pobres deben recibir **mejor distribución de activos** para poder ejercer productivamente.
+
+### c. Una aplicación para el Perú
 
