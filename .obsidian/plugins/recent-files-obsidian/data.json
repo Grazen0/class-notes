@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Información del curso",
+      "path": "Ciclo 1/💻 Programación I/Información del curso.md"
+    },
+    {
       "basename": "S4 - Introducción al análisis matemático",
       "path": "Ciclo 1/🚀 CMA/S4 - Introducción al análisis matemático.md"
+    },
+    {
+      "basename": "Verdera. Enfoques sobre la pobreza",
+      "path": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Verdera. Enfoques sobre la pobreza.pdf"
     },
     {
       "basename": "08-04-2024",
@@ -21,10 +29,6 @@
       "path": "Kanban.md"
     },
     {
-      "basename": "Verdera. Enfoques sobre la pobreza",
-      "path": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Verdera. Enfoques sobre la pobreza.pdf"
-    },
-    {
       "basename": "09-04-2024",
       "path": "Ciclo 1/Notas diarias/09-04-2024.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "S1B - Divisibilidad",
       "path": "Ciclo 1/🍎 Matemáticas Discretas I/Notas/II. Teoría de números/S1B - Divisibilidad.md"
-    },
-    {
-      "basename": "S2B - MCD y MCM",
-      "path": "Ciclo 1/🍎 Matemáticas Discretas I/Notas/II. Teoría de números/S2B - MCD y MCM.md"
     }
   ],
   "omittedPaths": [
