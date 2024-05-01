@@ -103,4 +103,13 @@ Los activos significan cosas distintas para los que están en **supervivencia** 
 - La **supervivencia** emplea acciones a **corto plazo**.
 - El **ascenso social** usa planes de **largo plazo** con inversión continua.
 
-Se propone que debe existir una **diferencia** entre los activos para los pobres y los activos para aquellos fuera de la pobreza.
+Se propone cambiar el uso del término "activos":
+
+- **Conservar** el término "activos" para los recursos para salir de la pobreza.
+- **Buscar otro término** para los recursos no relevantes para salir de la pobreza.
+
+Se propone un enfoque "**activos - vulnerabilidad - estructura de oportunidades**", donde la **definición de activos** debe necesariamente estar relacionada al mercado y las oportunidades que ofrece.
+
+- Se debe entender la configuración de los activos en las familias para diseñar **políticas sociales** y no agarrar perspectivas **ideológicas**.
+	- Cualquier extremo es "ideológico": La ayuda a los pobres no debe venir solo de nosotros ni solo de ellos.
+- 
