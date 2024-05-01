@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5,6 - Verdera. Enfoques sobre la pobreza.md",
-                "mode": "source",
+                "file": "Ciclo 1/🚀 CMA/S4 - Introducción al análisis matemático.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5,6 - Verdera. Enfoques sobre la pobreza.md"
+                "file": "Ciclo 1/🚀 CMA/S4 - Introducción al análisis matemático.md"
               }
             }
           },
@@ -198,20 +198,28 @@
         "y": 0,
         "width": 1147,
         "height": 728,
-        "maximize": true,
+        "maximize": false,
         "zoom": -0.5
       }
     ]
   },
   "active": "26b35a345f6b0a31",
   "lastOpenFiles": [
+    "Ciclo 1/Notas diarias/08-04-2024.md",
+    "Ciclo 1/✍ Laboratorio de Comunicación I/MANUAL APA 2020.pdf",
+    "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Teoría/S5B - Normativa APA.md",
+    "Kanban.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Verdera. Enfoques sobre la pobreza.pdf",
+    "Ciclo 1/Notas diarias/30-04-2024.md",
+    "Ciclo 1/Notas diarias/01-05-2024.md",
+    "Ciclo 1/Notas diarias/09-04-2024.md",
+    "Ciclo 1/Notas diarias/16-04-2024.md",
+    "Ciclo 1/🍎 Matemáticas Discretas I/Notas/II. Teoría de números/S1B - Divisibilidad.md",
+    "Ciclo 1/🍎 Matemáticas Discretas I/Notas/II. Teoría de números/S2B - MCD y MCM.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5,6 - Verdera. Enfoques sobre la pobreza.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Teoría/S5 - Enfoques sobre la pobreza.md",
-    "Kanban.md",
     "Ciclo 1/Notas diarias/22-04-2024.md",
     "Ciclo 1/Notas diarias/29-04-2024.md",
-    "Ciclo 1/Notas diarias/30-04-2024.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Trabajos/Características de la escritura formal.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Trabajos/PDF",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Trabajos/PDF/1. Características de la escritura formal.pdf",
@@ -219,28 +227,20 @@
     "README.md",
     "Untitled.md",
     "Ciclo 1/🚀 CMA/Ejercicios/S4.md",
-    "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Teoría/S5B - Normativa APA.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Teoría/S1 - La Comunicación.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Teoría/S3,4 - El proceso de la comunicación.md",
     "Ciclo 1/💻 Programación I/Notas/S5 (Teo) - Bucles anidados.md",
     "Ciclo 1/💻 Programación I/Notas/S4 (Teo) - Bucles con while.md",
-    "Ciclo 1/Notas diarias/16-04-2024.md",
     "Ciclo 1/Notas diarias/23-04-2024.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Notas/II. Teoría de números/S2A - Números primos y descomposición canónica.md",
-    "Ciclo 1/🍎 Matemáticas Discretas I/Notas/II. Teoría de números/S1B - Divisibilidad.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Notas/I. Introducción/S1A - Conjuntos numéricos.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Notas/III. Lógica proposicional/S2D,3 - Lógica proposicional.md",
-    "Ciclo 1/✍ Laboratorio de Comunicación I/MANUAL APA 2020.pdf",
-    "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/Skinner vs Chomsky.excalidraw.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/NOESTOYGRITANDO.png",
-    "Ciclo 1/✍ Laboratorio de Comunicación I/Estudio/S7 - Control de lectura (EC1).md",
-    "Manual APA 2020.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/MANUAL APA 2020 2.docx",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/MANUAL APA 2020 1.docx",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/img",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/excalidraw",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/MANUAL APA 2020.docx",
-    "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Teoría/S5A - Informe de investigación.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/Las Meninas de Velasquez.jpg",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/Comic marcianito baño (1).png",
     "Ciclo 1/📈 Cálculo de Una Variable/Notas/Recursos/Grafico Liebre.png",
