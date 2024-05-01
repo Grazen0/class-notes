@@ -51,7 +51,7 @@ La pobreza debe ser combatida parcialmente por varios sectores de la sociedad. *
 
 #### Reconocimiento de derechos y capacidades
 
-"Pobre no es el que no tiene, pobre es el que no puede hacer."
+"Pobre es quien no puede hacer."
 
 Para salir de la pobreza, se necesita **cubrir las necesidades básicas**.
 

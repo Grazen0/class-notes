@@ -28,10 +28,18 @@ En este texto, se considera el marco **estructural** de la pobreza, donde esta s
 
 ## 2. Los activos de los pobres
 
-Todos los pobres tienen algún **capital** y, según este enfoque, los pobres podrían salir de la pobreza si lo usaran mejor.
+- Todos los pobres tienen algún **capital** presente.
+- Este capital puede ser **invertido** para salir de la pobreza.
+
+Algunas referencias a este enfoque se encuentran en:
 
 ### Banco Mundial e IDS
 
-El desarrollo de los países subdesarrollados no afecta a **un tercio de su población**, el crecimiento se **distribuye desigualmente**.
+El desarrollo de los países subdesarrollados no afecta a un tercio de su población, **el crecimiento se distribuye desigualmente**.
 
-Es decir, los pobres se ven **sistemáticamente apartados** del desarrollo económico.
+- Los pobres no son parte del crecimiento económico debido a:
+	- Falta de **capital físico**.
+	- Falta de **capital humano**.
+	- Inaccesibilidad a dicho capital.
+- El crecimiento económico **se enfoca en sectores reducidos** de la economía, casi sin efecto en los pobres.
+- 
