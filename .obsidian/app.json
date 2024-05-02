@@ -1,6 +1,6 @@
 {
   "promptDelete": false,
-  "showLineNumber": true,
+  "showLineNumber": false,
   "spellcheck": true,
   "readableLineLength": true,
   "strictLineBreaks": false,
