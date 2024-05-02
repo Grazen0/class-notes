@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b2ebaaaacb10cdc0",
+        "id": "e29c07d4bd56b838",
         "type": "tabs",
         "children": [
           {
-            "id": "4f291b8a1f582fa6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5,6 - Verdera. Enfoques sobre la pobreza.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d19185d213f15f10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5,6 - Verdera. Enfoques sobre la pobreza.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7131a09e4ef6f343",
+            "id": "ceebe7384033501c",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -41,8 +17,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,49 +154,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "c054b2aca93b6a18",
-    "type": "floating",
-    "children": [
-      {
-        "id": "782e1d47680c4d85",
-        "type": "window",
-        "children": [
-          {
-            "id": "cce20ac3ef594bba",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "17f987d1d2c3a580",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Verdera. Enfoques sobre la pobreza.pdf"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 171,
-        "y": 0,
-        "width": 1024,
-        "height": 727,
-        "maximize": true,
-        "zoom": -0.5
-      }
-    ]
-  },
-  "active": "7131a09e4ef6f343",
+  "active": "ceebe7384033501c",
   "lastOpenFiles": [
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Verdera. Enfoques sobre la pobreza.pdf",
-    "Kanban.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5,6 - Verdera. Enfoques sobre la pobreza.md",
+    "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S5 - Pernas. IA y los ODS.md",
+    "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/Pernas. IA y los ODS.pdf",
+    "Kanban.md",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Verdera. Enfoques sobre la pobreza.pdf",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Información del curso.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5 - La Parra y Tortosa. Violencia estructural.md",
-    "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S5 - Pernas. IA y los ODS.md",
     "README.md",
     "du.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Teoría/S5 - Enfoques sobre la pobreza.md",
@@ -251,7 +192,6 @@
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/MANUAL APA 2020 1.docx",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/img",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/excalidraw",
-    "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/MANUAL APA 2020.docx",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/Las Meninas de Velasquez.jpg",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/Comic marcianito baño (1).png",
     "Ciclo 1/📈 Cálculo de Una Variable/Notas/Recursos/Grafico Liebre.png",

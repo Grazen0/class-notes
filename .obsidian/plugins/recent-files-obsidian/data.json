@@ -5,12 +5,20 @@
       "path": "Kanban.md"
     },
     {
-      "basename": "Verdera. Enfoques sobre la pobreza",
-      "path": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Verdera. Enfoques sobre la pobreza.pdf"
+      "basename": "Pernas. IA y los ODS",
+      "path": "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/Pernas. IA y los ODS.pdf"
     },
     {
       "basename": "S5,6 - Verdera. Enfoques sobre la pobreza",
       "path": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5,6 - Verdera. Enfoques sobre la pobreza.md"
+    },
+    {
+      "basename": "S5 - Pernas. IA y los ODS",
+      "path": "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S5 - Pernas. IA y los ODS.md"
+    },
+    {
+      "basename": "Verdera. Enfoques sobre la pobreza",
+      "path": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Verdera. Enfoques sobre la pobreza.pdf"
     },
     {
       "basename": "Información del curso",
@@ -19,10 +27,6 @@
     {
       "basename": "S5 - La Parra y Tortosa. Violencia estructural",
       "path": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5 - La Parra y Tortosa. Violencia estructural.md"
-    },
-    {
-      "basename": "S5 - Pernas. IA y los ODS",
-      "path": "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S5 - Pernas. IA y los ODS.md"
     },
     {
       "basename": "S5 - Enfoques sobre la pobreza",
@@ -35,10 +39,6 @@
     {
       "basename": "S4 - Introducción al análisis matemático",
       "path": "Ciclo 1/🚀 CMA/S4 - Introducción al análisis matemático.md"
-    },
-    {
-      "basename": "08-04-2024",
-      "path": "Ciclo 1/Notas diarias/08-04-2024.md"
     }
   ],
   "omittedPaths": [
