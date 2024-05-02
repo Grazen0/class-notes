@@ -1,12 +1,4 @@
 {
   "editor:delete-paragraph": [],
-  "workspace:close": [],
-  "editor:open-search-replace": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "R"
-    }
-  ]
+  "workspace:close": []
 }

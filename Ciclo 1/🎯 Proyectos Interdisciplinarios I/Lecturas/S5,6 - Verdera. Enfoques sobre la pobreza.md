@@ -142,4 +142,5 @@ Se propone un enfoque "**activos - vulnerabilidad - estructura de oportunidades*
 - Existen dos factores determinantes para salir de la pobreza:
 	1. Posesión de **activos**.
 	2. **Oportunidades** en el mercado.
-- 
+- Los activos están **desigualmente distribuidos**.
+	- Reducir pobreza implica una **mejor distribución de activos**. de forma más igualitaria.
