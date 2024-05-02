@@ -17,9 +17,9 @@ kanban-plugin: basic
 
 ## 📚 Lecturas
 
-- [ ] **[[S5,6 - Verdera. Enfoques sobre la pobreza]]**<br><br>Evaluación en la próxima clase.<br><br>@{06-05-2024}<br>#pi #teo
-- [ ] **[[S5 - Pernas. IA y los ODS]]**<br><br>@{14-05-2024}<br>#comu #teo
-- [ ] **[[S10 - Steven Pinker. La tabla rasa (Cáp. 17)]]**<br><br>@{17-05-2024}<br>#comu #lab
+- [ ] **[[S5,6 - Verdera. Enfoques sobre la pobreza]]**<br><br>- [ ] Leído<br>- [ ] Anotado<br><br>Evaluación en la próxima clase.<br><br>@{06-05-2024}<br>#pi #teo
+- [ ] **[[S5 - Pernas. IA y los ODS]]**<br><br>- [ ] Leído<br>- [ ] Anotado<br><br>@{14-05-2024}<br>#comu #teo
+- [ ] **[[S10 - Steven Pinker. La tabla rasa (Cáp. 17)]]**<br><br>- [ ] Leído<br>- [ ] Anotado<br><br>@{17-05-2024}<br>#comu #lab
 
 
 ## 📄 Evaluaciones

@@ -23,26 +23,26 @@
             "id": "d19185d213f15f10",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5,6 - Verdera. Enfoques sobre la pobreza.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7131a09e4ef6f343",
+            "type": "leaf",
+            "state": {
               "type": "kanban",
               "state": {
                 "file": "Kanban.md"
               }
             }
-          },
-          {
-            "id": "72137cedf981d35b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Información del curso.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,15 +184,15 @@
     "type": "floating",
     "children": [
       {
-        "id": "6e3a8afe70bb8e9f",
+        "id": "782e1d47680c4d85",
         "type": "window",
         "children": [
           {
-            "id": "ac2858796d97fe03",
+            "id": "cce20ac3ef594bba",
             "type": "tabs",
             "children": [
               {
-                "id": "eff9721261367f64",
+                "id": "17f987d1d2c3a580",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
@@ -205,22 +205,23 @@
           }
         ],
         "direction": "vertical",
-        "x": 109,
+        "x": 171,
         "y": 0,
-        "width": 1147,
-        "height": 728,
+        "width": 1024,
+        "height": 727,
         "maximize": true,
         "zoom": -0.5
       }
     ]
   },
-  "active": "d19185d213f15f10",
+  "active": "7131a09e4ef6f343",
   "lastOpenFiles": [
-    "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S5 - Pernas. IA y los ODS.md",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Verdera. Enfoques sobre la pobreza.pdf",
     "Kanban.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5,6 - Verdera. Enfoques sobre la pobreza.md",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Verdera. Enfoques sobre la pobreza.pdf",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Información del curso.md",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5 - La Parra y Tortosa. Violencia estructural.md",
+    "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S5 - Pernas. IA y los ODS.md",
     "README.md",
     "du.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Teoría/S5 - Enfoques sobre la pobreza.md",
@@ -245,8 +246,6 @@
     "Ciclo 1/🚀 CMA/Ejercicios/S4.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Teoría/S1 - La Comunicación.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Teoría/S3,4 - El proceso de la comunicación.md",
-    "Ciclo 1/💻 Programación I/Notas/S5 (Teo) - Bucles anidados.md",
-    "Ciclo 1/💻 Programación I/Notas/S4 (Teo) - Bucles con while.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/NOESTOYGRITANDO.png",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/MANUAL APA 2020 2.docx",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/MANUAL APA 2020 1.docx",
