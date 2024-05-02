@@ -40,6 +40,14 @@ Algunas referencias a este enfoque se encuentran en:
 
 ### a. Banco Mundial e IDS
 
+```ad-important
+title: Idea principal
+
+Se necesita **inversión pública** y **educación** para convertir la pobreza en productividad.
+
+```
+
+
 El desarrollo de los países subdesarrollados no afecta a un tercio de su población, **el crecimiento se distribuye desigualmente**.
 
 - Los pobres no son parte del crecimiento económico debido a:
@@ -58,6 +66,14 @@ Sin embargo, este modelo es difícil de seguir, por lo difícil que sería atrae
 
 ### b. El enfoque del BID
 
+```ad-important
+title: Idea principal
+
+Se necesita una **mejor distribución de los activos** que beneficie a los pobres.
+
+```
+
+
 En este enfoque, lo más importante es el **crecimiento económico**. El uso y acceso a los activos queda en segunda.
 
 - Mediante una investigación en 52 países, se observa que **la desigualdad afecta negativamente al crecimiento económico**.
@@ -65,6 +81,14 @@ En este enfoque, lo más importante es el **crecimiento económico**. El uso y a
 Se concluye que los pobres deben recibir **mejor distribución de activos** para poder ejercer productivamente.
 
 ### c. Una aplicación para el Perú
+
+```ad-important
+title: Idea principal
+
+
+
+```
+
 
 De nuevo, el enfoque está en **modificar la distribución de activos**.
 
@@ -113,4 +137,3 @@ Se propone un enfoque "**activos - vulnerabilidad - estructura de oportunidades*
 - Se debe entender la configuración de los activos en las familias para diseñar **políticas sociales** y no agarrar perspectivas **ideológicas**.
 	- Cualquier extremo es "ideológico": La ayuda a los pobres no debe venir solo de nosotros ni solo de ellos.
 - Es necesario **INDAGAR EN LAS OPORTUNIDADES QUE TIENEN LOS POBRES**
-- 
