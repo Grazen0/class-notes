@@ -89,7 +89,6 @@ title: Idea principal
 
 ```
 
-
 De nuevo, el enfoque está en **modificar la distribución de activos**.
 
 Se busca reducir la pobreza mediante activos en cuya distribución puede intervenir el **estado**, y aumentando la **rentabilidad** de activos ya existentes.
