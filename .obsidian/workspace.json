@@ -11,9 +11,12 @@
             "id": "2bdb4294b590eac6",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanban.md"
+                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Laboratorio/S4 - Teoría de sistemas.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -83,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5110321044922,
-    "collapsed": true
+    "width": 304.5110321044922
   },
   "right": {
     "id": "7f7f85319d7ebd75",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban.md"
+                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Laboratorio/S4 - Teoría de sistemas.md"
               }
             }
           },
@@ -157,7 +159,12 @@
   },
   "active": "2bdb4294b590eac6",
   "lastOpenFiles": [
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Recursos/Teoria de sistemas.excalidraw.md",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Laboratorio/S4 - Teoría de sistemas.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S5 - Pernas. IA y los ODS.md",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS.md",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S2 - CCCTI. Acciones para el potenciamiento de la CTI en Perú.md",
+    "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/Pernas. IA y los ODS.pdf",
     "Kanban.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5,6 - Verdera. Enfoques sobre la pobreza.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Verdera. Enfoques sobre la pobreza.pdf",
@@ -171,7 +178,6 @@
     "Ciclo 1/🚀 CMA/Notas",
     "Ciclo 1/🚀 CMA/New folder",
     "Ciclo 1/🚀 CMA/Temario.pdf",
-    "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/Pernas. IA y los ODS.pdf",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Información del curso.md",
     "README.md",
     "du.md",
@@ -189,9 +195,6 @@
     "Ciclo 1/🍎 Matemáticas Discretas I/Notas/II. Teoría de números/S1B - Divisibilidad.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Notas/II. Teoría de números/S2B - MCD y MCM.md",
     "Ciclo 1/Notas diarias/22-04-2024.md",
-    "Ciclo 1/Notas diarias/29-04-2024.md",
-    "Ciclo 1/✍ Laboratorio de Comunicación I/Trabajos/Características de la escritura formal.md",
-    "Ciclo 1/🚀 CMA/Ejercicios/S4.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/NOESTOYGRITANDO.png",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/Las Meninas de Velasquez.jpg",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/Comic marcianito baño (1).png",

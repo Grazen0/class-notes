@@ -171,7 +171,7 @@ title: Principales caras de la innovación para los ODS
 - Productos accesibles, duraderos, reutilizables, etc.
 - Servicios accesibles, eficientes, rápidos, etc.
 
-k**🏬 Organizativa (institucional)**
+**🏬 Organizativa (institucional)**
 
 - Mejor organización del suministro de bienes / servicios.
 - Mejor gestión de la producción de bienes / servicios.
