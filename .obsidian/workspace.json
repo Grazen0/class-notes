@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0c82484d7c655217",
+            "id": "d0757794c7856285",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S2 - Vasen. Giro postcompetitivo en la política de CTI.md",
+                "file": "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Laboratorio/S5B - Redacción.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,25 @@
             }
           },
           {
-            "id": "217085f5ba43c4ce",
+            "id": "d74d7d7727f39d79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "S14 - Renwick. Escrituralidad y oralidad.md",
+                "file": "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Laboratorio/S5 - Tips de lectura.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b15304ce77eb8450",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciclo 1/Notas diarias/03-05-2024.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -115,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S2 - Vasen. Giro postcompetitivo en la política de CTI.md"
+                "file": "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Laboratorio/S5B - Redacción.md"
               }
             }
           },
@@ -170,14 +183,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0c82484d7c655217",
+  "active": "d0757794c7856285",
   "lastOpenFiles": [
+    "Ciclo 1/Notas diarias/03-05-2024.md",
+    "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Laboratorio/S5 - Tips de lectura.md",
+    "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Laboratorio/S5B - Redacción.md",
+    "Ciclo 1/Notas diarias/26-04-2024.md",
+    "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Laboratorio/S4 - La tabla rasa.md",
+    "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S14 - Renwick. Escrituralidad y oralidad.md",
     "Kanban.md",
+    "README.md",
     "S14 - Renwick. Escrituralidad y oralidad.md",
+    "Ciclo 1/Notas diarias/12-04-2024.md",
+    "Ciclo 1/Notas diarias/19-04-2024.md",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S2 - Vasen. Giro postcompetitivo en la política de CTI.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Notas/III. Lógica proposicional/S5 - Forma normal conjuntiva y disyuntiva.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Información del curso.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/Mata & Scarafino. La comunicación como práctica discursiva.pdf",
-    "Ciclo 1/Notas diarias/03-05-2024.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/Harari. De animales a dioses.pdf",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S2 - Harari. De animales a dioses (cáp. 2).md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S10 - Steven Pinker. La tabla rasa (Cáp. 17).md",
@@ -199,15 +221,6 @@
     "Ciclo 1/🚀 CMA/Notas/S4 - Introducción al análisis matemático.md",
     "Ciclo 1/🚀 CMA/Notas",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Información del curso.md",
-    "README.md",
-    "du.md",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Teoría/S5 - Enfoques sobre la pobreza.md",
-    "Ciclo 1/💻 Programación I/Información del curso.md",
-    "Untitled.excalidraw.md",
-    "Ciclo 1/🚀 CMA/S4 - Introducción al análisis matemático.md",
-    "Ciclo 1/Notas diarias/08-04-2024.md",
-    "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Teoría/S5B - Normativa APA.md",
-    "Ciclo 1/Notas diarias/30-04-2024.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/NOESTOYGRITANDO.png",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/Las Meninas de Velasquez.jpg",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/Comic marcianito baño (1).png",
