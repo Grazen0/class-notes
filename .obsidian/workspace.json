@@ -4,17 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "0a3a4464d7bc149a",
+        "id": "ab8960be3e45a2a8",
         "type": "tabs",
         "children": [
           {
-            "id": "2883e4f935a39f48",
+            "id": "0c82484d7c655217",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciclo 1/🍎 Matemáticas Discretas I/Notas/III. Lógica proposicional/S5 - Forma normal conjuntiva y disyuntiva.md",
-                "mode": "preview",
+                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S2 - Vasen. Giro postcompetitivo en la política de CTI.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "217085f5ba43c4ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "S14 - Renwick. Escrituralidad y oralidad.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -102,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo 1/🍎 Matemáticas Discretas I/Notas/III. Lógica proposicional/S5 - Forma normal conjuntiva y disyuntiva.md"
+                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S2 - Vasen. Giro postcompetitivo en la política de CTI.md"
               }
             }
           },
@@ -157,11 +170,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2883e4f935a39f48",
+  "active": "0c82484d7c655217",
   "lastOpenFiles": [
-    "Ciclo 1/🍎 Matemáticas Discretas I/Información del curso.md",
-    "Ciclo 1/🍎 Matemáticas Discretas I/Notas/III. Lógica proposicional/S5 - Forma normal conjuntiva y disyuntiva.md",
     "Kanban.md",
+    "S14 - Renwick. Escrituralidad y oralidad.md",
+    "Ciclo 1/🍎 Matemáticas Discretas I/Notas/III. Lógica proposicional/S5 - Forma normal conjuntiva y disyuntiva.md",
+    "Ciclo 1/🍎 Matemáticas Discretas I/Información del curso.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/Mata & Scarafino. La comunicación como práctica discursiva.pdf",
     "Ciclo 1/Notas diarias/03-05-2024.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/Harari. De animales a dioses.pdf",
@@ -194,7 +208,6 @@
     "Ciclo 1/Notas diarias/08-04-2024.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Teoría/S5B - Normativa APA.md",
     "Ciclo 1/Notas diarias/30-04-2024.md",
-    "Ciclo 1/Notas diarias/01-05-2024.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/NOESTOYGRITANDO.png",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/Las Meninas de Velasquez.jpg",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/Comic marcianito baño (1).png",

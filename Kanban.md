@@ -7,7 +7,6 @@ kanban-plugin: basic
 ## 🧱 Proyectos
 
 - [ ] **Patrimonio cultural**<br><br>**Problema:** Es peligroso cruzar Abancay para gente con discapacidad, negando el acceso a la Iglesia San Pedro.<br><br>- [x] Definir problema<br>- [x] Definir localidad<br>- [ ] Investigar y resumir<br>- [ ] Relación con ODS (la 11)<br>- [ ] Definir actores<br>- [ ] Analizar actores<br>- [ ] Identificar niveles de poder<br><br>#pi #lab #grupal
-- [ ] **Proyecto Comu**<br><br>#comu #lab #grupal <br><br>Característica: *(por definir)*<br><br>- [ ] Definir característica
 
 
 ## ☕ Tareas
@@ -25,11 +24,12 @@ kanban-plugin: basic
 ## 📄 Evaluaciones
 
 - [ ] **Control de lectura**<br><br>Temas:<br><br>- [[S2 - Vasen. Giro postcompetitivo en la política de CTI|Giro postcompetitivo]]<br>- [[S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS|Hojas de ruta ODS]]<br>- [[S5 - La Parra y Tortosa. Violencia estructural|Violencia estructural]]<br>- [[S4 - Teoría de sistemas|Teoría de sistemas]]<br><br>@{08-05-2024}<br>#pi #teo
-- [ ] **Control de lectura**<br><br>Temas:<br><br>- [[S2 - Harari. De animales a dioses (cáp. 2)|El árbol del saber]]<br>- [[S4 - Escandell. El esquema clásico de la comunicación y sus limitaciones (cáp. 1)|El esquema clásico de la comunicación y sus limitaciones]]<br>- [[S4 - Mata & Scarafino. La comunicación como práctica discursiva|Mata y Scarafino]]<br>- [[S5 - Pernas. IA y los ODS|IA y los ODS]]<br>- Boroditsky (TED Talk)<br>- Video sobre los prejuicios<br><br>@{14-05-2024}<br>#comu #teo
+- [ ] **Control de lectura**<br><br>Temas:<br><br>- [[S2 - Harari. De animales a dioses (cáp. 2)|Harari. El árbol del saber]]<br>- [[S4 - Escandell. El esquema clásico de la comunicación y sus limitaciones (cáp. 1)|Escandell. El esquema clásico de la comunicación y sus limitaciones]]<br>- [[S4 - Mata & Scarafino. La comunicación como práctica discursiva|Mata y Scarafino]]<br>- [[S5 - Pernas. IA y los ODS|Pernas. IA y los ODS]]<br>- Boroditsky (TED Talk)<br>- Video sobre los prejuicios<br><br>@{14-05-2024}<br>#comu #teo
 
 
 ## 🧊 On Freeze
 
+- [ ] **Proyecto Comu**<br><br>#comu #lab #grupal <br><br>Característica: *(por definir)*<br><br>- [ ] Definir característica
 - [ ] **[[S14 - Renwick. Escrituralidad y oralidad]]**<br><br>@{02-07-2024}<br>#comu #teo
 - [ ] **[[Video informativo]]**<br><br>Video explicativo, a partir de un programa de doctorado en alguna universidad.<br><br>#intro-cs #teo
 
