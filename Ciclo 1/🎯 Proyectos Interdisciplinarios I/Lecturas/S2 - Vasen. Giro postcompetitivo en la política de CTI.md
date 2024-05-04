@@ -6,7 +6,7 @@ Las políticas de ciencia, tecnología e innovación (CTI) suelen priorizar el c
 
 El texto analiza tres enfoques de esta premisa:
 1. Orientación a los **"grandes desafíos"**.
-2. **Responsabilidad** con las tecnologías emergentes.
+2. **Responsabilidad** hacia las tecnologías emergentes.
 3. La **inclusión social**.
 
 A este movimiento, el texto lo denomina como **giro postcompetitivo**.
