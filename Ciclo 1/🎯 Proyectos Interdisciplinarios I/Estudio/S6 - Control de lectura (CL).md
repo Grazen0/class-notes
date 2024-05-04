@@ -11,7 +11,7 @@ Vasen divide el giro postcompetitivo en tres enfoques: los grandes desafíos, la
 
 ### Grandes desafíos
 
-
+El nuevo enfoque hacia los grandes desafíos que Vasen menciona se refiere al reciente énfasis de la CTI en abordar una gran variedad de problemas sociales a nivel global. En particular, el término "grandes desafíos" se refiere a 
 
 ## La guía para las hojas de ruta de CTI
 
