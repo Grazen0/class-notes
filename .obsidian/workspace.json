@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "79cd5698fdb35362",
+            "id": "686920724cb1978c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Teoría/S2 - El giro postcompetitivo.md",
+                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Estudio/S6 - Control de lectura (CL).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "686920724cb1978c",
+            "id": "be5b8814ec0c81b1",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Teoría/S2 - El giro postcompetitivo.md"
+                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Vasen. Giro postcompetitivo en la política de CTI.pdf"
               }
             }
           },
@@ -164,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,11 +181,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "79cd5698fdb35362",
+  "active": "be5b8814ec0c81b1",
   "lastOpenFiles": [
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Estudio/S6 - Control de lectura (CL).md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S2 - Vasen. Giro postcompetitivo en la política de CTI.md",
-    "Kanban.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Vasen. Giro postcompetitivo en la política de CTI.pdf",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Teoría/S2 - El giro postcompetitivo.md",
+    "Kanban.md",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS.pdf",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/Untitled.excalidraw.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S2 - CCCTI. Acciones para el potenciamiento de la CTI en Perú.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Laboratorio/S5A - Tips de lectura.md",
@@ -208,15 +213,11 @@
     "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S5 - Pernas. IA y los ODS.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Laboratorio/S4 - Teoría de sistemas.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Recursos/Teoria de sistemas.excalidraw.md",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5,6 - Verdera. Enfoques sobre la pobreza.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Verdera. Enfoques sobre la pobreza.pdf",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5 - La Parra y Tortosa. Violencia estructural.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/La Parra y Tortosa. Violencia Estructural.pdf",
-    "Ciclo 1/Notas diarias/25-04-2024.md",
     "Ciclo 1/🚀 CMA/Ejercicios/PDF/S0.pdf",
     "Ciclo 1/🚀 CMA/Ejercicios/PDF/Lista_de_Ejercicios_1.pdf",
-    "Ciclo 1/🚀 CMA/Ejercicios/Lista_de_Ejercicios_1.pdf",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/NOESTOYGRITANDO.png",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/Las Meninas de Velasquez.jpg",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/Comic marcianito baño (1).png",
