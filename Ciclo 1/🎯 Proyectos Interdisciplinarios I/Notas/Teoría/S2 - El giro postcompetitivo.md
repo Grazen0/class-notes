@@ -24,13 +24,13 @@
 - Inversión en **ciencia básica** (universidades estatales en USA, p. ej.)
 - "Ciencia básica $\to$ desarrollo tecnológico $\to$ crecimiento socio-económico"
 - Máximo exponente: **Carrera espacial**
-### 2. 1960 - 1980
+### 2. 60's - 80's
 
 - Inclusión de **prioridades y criterios externos**.
 - Se priorizan objetivos y políticas nacionales. **Control del estado**
 - "Hay investigaciones más importantes que otras"
 
-### 3. 1980 - 2000
+### 3. 80's - 2000
 
 - **Economía**
 - "Innovación = desarrollo económico"

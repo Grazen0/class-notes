@@ -38,7 +38,6 @@ kanban-plugin: basic
 
 **Complete**
 - [x] **Herramienta de blurring para videos**<br><br>Plataforma [Runway](https://runwayml.com), herramienta *"Blur Faces"*.<br><br>[Video guía](https://www.youtube.com/watch?v=Z3YdMkDmee0)<br><br>#intro-cs #teo
-- [x] **[[S5 - La Parra y Tortosa. Violencia estructural]]**<br><br>@{29-04-2024}<br>#pi #teo
 
 
 ***
@@ -55,6 +54,7 @@ kanban-plugin: basic
 - [x] **Cálculo: EV1**<br><br>- [x] Parte 1<br>- [x] Parte 2<br><br>@{30-04-2024}@@{12:00}<br>#calculo
 - [x] **Prompts de ChatGPT sobre la comunicación**<br><br>(Enviar por el foro)<br><br>@{07-05-2024}<br>#comu #teo
 - [x] **Problemas de la semana**<br><br>- [x] Codeforces<br>- [x] AtCoder<br><br>@{05-05-2024}<br>#cpc
+- [x] **[[S5 - La Parra y Tortosa. Violencia estructural]]**<br><br>@{29-04-2024}<br>#pi #teo
 
 %% kanban:settings
 ```
