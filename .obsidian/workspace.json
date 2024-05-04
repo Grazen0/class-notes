@@ -8,19 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7c3132781a52dbc7",
+            "id": "c6d699968c5f9f37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S2 - Vasen. Giro postcompetitivo en la política de CTI.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
-                "source": true
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "686920724cb1978c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Vasen. Giro postcompetitivo en la política de CTI.pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S2 - Vasen. Giro postcompetitivo en la política de CTI.md"
+                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Vasen. Giro postcompetitivo en la política de CTI.pdf"
               }
             }
           },
@@ -157,8 +168,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7c3132781a52dbc7",
+  "active": "686920724cb1978c",
   "lastOpenFiles": [
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S2 - Vasen. Giro postcompetitivo en la política de CTI.md",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Vasen. Giro postcompetitivo en la política de CTI.pdf",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/Untitled.excalidraw.md",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S2 - CCCTI. Acciones para el potenciamiento de la CTI en Perú.md",
     "Kanban.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Laboratorio/S5A - Tips de lectura.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Laboratorio/S5B - Redacción.md",
@@ -170,7 +185,6 @@
     "S14 - Renwick. Escrituralidad y oralidad.md",
     "Ciclo 1/Notas diarias/12-04-2024.md",
     "Ciclo 1/Notas diarias/19-04-2024.md",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S2 - Vasen. Giro postcompetitivo en la política de CTI.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Notas/III. Lógica proposicional/S5 - Forma normal conjuntiva y disyuntiva.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Información del curso.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/Mata & Scarafino. La comunicación como práctica discursiva.pdf",
@@ -183,7 +197,6 @@
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Laboratorio/S4 - Teoría de sistemas.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Recursos/Teoria de sistemas.excalidraw.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS.md",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S2 - CCCTI. Acciones para el potenciamiento de la CTI en Perú.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5,6 - Verdera. Enfoques sobre la pobreza.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Verdera. Enfoques sobre la pobreza.pdf",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5 - La Parra y Tortosa. Violencia estructural.md",
@@ -192,9 +205,6 @@
     "Ciclo 1/🚀 CMA/Ejercicios/PDF/S0.pdf",
     "Ciclo 1/🚀 CMA/Ejercicios/PDF/Lista_de_Ejercicios_1.pdf",
     "Ciclo 1/🚀 CMA/Ejercicios/Lista_de_Ejercicios_1.pdf",
-    "Ciclo 1/🚀 CMA/Notas/S4 - Introducción al análisis matemático.md",
-    "Ciclo 1/🚀 CMA/Notas",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Información del curso.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/NOESTOYGRITANDO.png",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/Las Meninas de Velasquez.jpg",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/Comic marcianito baño (1).png",
