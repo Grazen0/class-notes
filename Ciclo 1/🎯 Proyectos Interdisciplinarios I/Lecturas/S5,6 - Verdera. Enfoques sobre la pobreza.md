@@ -164,7 +164,7 @@ El concepto de "desempeño" es importante porque puede ayudar a **focalizar** la
 
 ### Cons
 
-
+- Todavía mantiene el enfoque individualista causal de la pobreza, sin considerar las estructuras sociales.
 
 ## 4. Exclusión social
 
