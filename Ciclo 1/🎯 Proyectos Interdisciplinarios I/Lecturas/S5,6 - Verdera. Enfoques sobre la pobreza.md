@@ -144,12 +144,20 @@ Amartya Sen postula que la pobreza es *equivalente* a la falta de **capacidades 
 ```ad-info
 title: Sobre los "desempeños"
 
-Sen se refiere a los **desempeños** como 
+Sen se refiere a los **desempeños** como las cosas que una **persona logra ser o hacer al vivir**.
+
+Los desempeños incluyen:
+
+- Estar bien nutrido
+- Tener buena salud
+
+Entonces, la capacidad de una persona refleja sus desempeños, por lo que ambos conceptos están bien relacionados.
+
+El concepto de "desempeño" es importante porque puede ayudar a **focalizar** la pobreza 
 
 ```
-
 
 ### Beneficios de este enfoque
 
 - Aumenta el rango de las causas de la pobreza
-- Expande el aspecto monetario, ya que este no es suficiente para dictar la pobreza.
+- Expande por sobre el aspecto monetario, ya que este no es suficiente para dictar la pobreza.
