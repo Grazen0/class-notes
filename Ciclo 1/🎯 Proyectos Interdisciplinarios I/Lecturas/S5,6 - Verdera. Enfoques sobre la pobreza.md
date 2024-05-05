@@ -177,3 +177,44 @@ antes que
 
 ## 4. Exclusión social
 
+La pobreza es producto de la **exclusión** en distintos ámbitos:
+
+### Ámbitos de exclusión
+
+#### El mercado laboral
+
+```ad-definition
+title: Los mercados según Figueroa *et al.*
+
+Figueroa *et al.* distinguen dos tipos de mercados: **walrasianos** y **no walrasianos**.
+
+Los mercados **walrasianos** son el "mercado perfecto".
+
+- Competencia perfecta
+- Precios perfectos
+- Equilibrio
+
+Los mercados **no walrasianos** son los más "realistas", funcionan con racionamiento cuantitativo. La existencia de estos mercados se debe a la introducción de la **inseguridad** y los **riesgos**.
+
+- Precios no equilibrados
+- Excesos de oferta y demanda
+
+Algunos ejemplos de mercados no walrasianos son:
+
+- **El mercado laboral**
+- Los créditos
+- Los seguros
+
+```
+
+Un problema existente en el mercado laboral es que existe **demasiada oferta** de trabajo, por lo que el desempleo es inevitable.
+
+Como el mercado laboral es, por la clasificación de Figueroa *et al.*, un mercado no walrasiano, esto origina procesos de exclusión **no al azar**, sino por alguna lógica dependiente de **activos sociales y culturales**.
+
+De esta manera, la pobreza se causa y mantiene por medio de la exclusión del mercado laboral, que desfavorece rasgos correlacionados a la pobreza como la falta de educación
+
+### Pros
+
+### Cons
+
+- No es tan útil para países en desarrollo, porque la pobreza masiva es producto del no reconocimiento de los derechos sociales por parte del Estado.
