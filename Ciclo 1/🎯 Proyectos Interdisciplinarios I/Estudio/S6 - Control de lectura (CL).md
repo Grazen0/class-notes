@@ -15,7 +15,7 @@ El nuevo enfoque hacia los grandes desafíos que Vasen menciona se refiere al re
 
 El término "grandes desafíos" se refiere a los desafíos globales que abordan problemas sociales de alcance mucho mayor a los desafíos sociales convencionales. Estos grandes desafíos incluyen temas como la pobreza y la discriminación, por mencionar algunos ejemplos.
 
-La razón por la que se 
+La razón por la que se favorece este enfoque de los "grandes desafíos" es porque el enfoque convencional de la CTI ha demostrado no ser suficiente para 
 
 ## La guía para las hojas de ruta de CTI
 
