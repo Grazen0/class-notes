@@ -22,15 +22,6 @@ También se incluyen 2 enfoques más:
 5. La definición de "pobre" por el aspecto **monetario**.
 6. La definición de "pobre" por el aspecto **participativo**.
 
-Otro problema es la **definición de pobreza**.
-
-```ad-note
-title: Nota
-
-En este texto, se considera el marco **estructural** de la pobreza, donde esta situación es resultado de la estrucura económica y social y su composición.
-
-```
-
 ## 2. Los activos de los pobres
 
 - Todos los pobres tienen algún **capital** presente.
@@ -143,3 +134,9 @@ Se propone un enfoque "**activos - vulnerabilidad - estructura de oportunidades*
 	2. **Oportunidades** en el mercado.
 - Los activos están **desigualmente distribuidos**.
 	- Reducir pobreza implica una **mejor distribución de activos**. de forma más igualitaria.
+
+## 3. Los derechos y capacidades de los pobres
+
+**Figura importante:** Amartya Sen
+
+Amartya Sen 

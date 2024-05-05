@@ -22,7 +22,7 @@ La pobreza **afecta a todos**, incluyendo a los no pobres.
 
 La pobreza debe ser combatida parcialmente por varios sectores de la sociedad. **No solo el gobierno, no solo la sociedad, etc**. La discusión debe llegar a un término medio.
 
-### Las teorías de la pobreza
+## Las teorías de la pobreza
 
 **No hay una teoría total sobre la pobreza.** Solo existen diferentes enfoques.
 
@@ -37,9 +37,9 @@ La pobreza debe ser combatida parcialmente por varios sectores de la sociedad. *
 
 -- CHEQUEAR PPT --
 
-### Sobre los enfoques de la pobreza
+## Sobre los enfoques de la pobreza
 
-#### Activos de los pobres
+### Activos de los pobres
 
 - Es posible salir de la pobreza con los activos.
 - La pobreza depende de la configuración de sus activos según su potencial o efectivo.
@@ -49,13 +49,14 @@ La pobreza debe ser combatida parcialmente por varios sectores de la sociedad. *
 
 -  No todos tienen activos.
 
-#### Reconocimiento de derechos y capacidades
+### Reconocimiento de derechos y capacidades
 
-"Pobre es quien no puede hacer."
+Se define la pobreza mediante la **carencia de derechos y capacidades básicas**.
 
-Para salir de la pobreza, se necesita **cubrir las necesidades básicas**.
+Es decir, salir de la pobreza requiere de cubrir estas capacidades básicas.
 
 - Salud
+- Educación
 - Capacidad de realizar cosas
 - Derechos políticos
 - Se debe medir capacidades humanas, no la economía.
