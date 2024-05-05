@@ -167,8 +167,9 @@ antes que
 
 ### Pros
 
-- Aumenta el rango de las causas de la pobreza
+- Aumenta el rango de las causas de la pobreza.
 - Expande por sobre el aspecto monetario, ya que este no es suficiente para dictar la pobreza.
+- Observa la **pobreza extrema**.
 
 ### Cons
 
