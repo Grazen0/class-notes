@@ -217,7 +217,14 @@ Algunos rasgos propensos a la exclusión del mercado laboral son:
 
 - Bajos activos culturales
 - Estigmas sociales
-- 
+
+Se dice que la **constante incertidumbre** siempre causará un aumento constante en la **desigualdad** por tres razones:
+
+![[Ricos vs pobres.excalidraw|width:65%]]
+
+1. Los ricos **ahorrarán** y **acumularán** más.
+2. Los ricos pueden abordar **más riesgos**.
+3. Los pobres son **excluidos** de los mercados básicos.
 
 ### Pros
 
