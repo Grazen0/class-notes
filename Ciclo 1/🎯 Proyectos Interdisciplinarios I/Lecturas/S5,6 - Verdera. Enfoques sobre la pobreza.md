@@ -141,6 +141,14 @@ Se propone un enfoque "**activos - vulnerabilidad - estructura de oportunidades*
 
 Amartya Sen postula que la pobreza es *equivalente* a la falta de **capacidades y derechos básicos**, incluyendo asuntos como la salud, educación, derechos políticos, etc.
 
+```ad-info
+title: Sobre los "desempeños"
+
+Sen se refiere a los **desempeños** como 
+
+```
+
+
 ### Beneficios de este enfoque
 
 - Aumenta el rango de las causas de la pobreza
