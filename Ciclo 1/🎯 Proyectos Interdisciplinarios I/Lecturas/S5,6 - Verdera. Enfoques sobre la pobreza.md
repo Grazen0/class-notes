@@ -47,7 +47,6 @@ Se necesita **inversión pública** y **educación** para convertir la pobreza e
 
 ```
 
-
 El desarrollo de los países subdesarrollados no afecta a un tercio de su población, **el crecimiento se distribuye desigualmente**.
 
 - Los pobres no son parte del crecimiento económico debido a:
