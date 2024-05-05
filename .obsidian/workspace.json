@@ -4,19 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ba72fcda58b04b1e",
+        "id": "cb4195616a8bae4e",
         "type": "tabs",
         "children": [
           {
-            "id": "6270fa7129531e40",
+            "id": "7c9c6a8bda5c0f4e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Estudio/S6 - Control de lectura (CL).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Kanban.md"
               }
             }
           }
@@ -102,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Estudio/S6 - Control de lectura (CL).md"
+                "file": "Kanban.md"
               }
             }
           },
@@ -157,7 +154,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6270fa7129531e40",
+  "active": "7c9c6a8bda5c0f4e",
   "lastOpenFiles": [
     "Kanban.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S2 - Vasen. Giro postcompetitivo en la política de CTI.md",
