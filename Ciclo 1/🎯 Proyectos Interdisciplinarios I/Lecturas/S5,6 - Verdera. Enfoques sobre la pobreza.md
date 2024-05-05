@@ -173,6 +173,15 @@ antes que
 
 En los países desarrollados, se estudia que **las transformaciones económicas conducen a la exclusión social**.
 
+Se describen **tres paradigmas** de exclusión social:
+
+|                           | Solidaridad de grupo / Divisiones culturales |        Especialización / Esferas separadas / Interdependencia         |      Monopolio / aislamiento social      |
+| :-----------------------: | :------------------------------------------: | :-------------------------------------------------------------------: | :--------------------------------------: |
+| **Fuente de integración** |              Integración moral               |                              Intercambio                              |           Derechos ciudadanos            |
+|       **Discurso**        |    Exclusión (ruptura de vínculo social)     |                      Discriminación<br>Subclase                       | Nueva pobreza<br>Desigualdad<br>Subclase |
+|       **Ideología**       |        Republicana<br>Contrato social        |               Liberalismo<br>Utilitarismo<br>Individual               |            Democracia social             |
+|  **Modelo de solución**   |      Producción flexible<br>Regulación       | Calificaciones<br>Desincentivos al trabajo<br>Redes<br>Capital social |     Mercados de trabajo segmentados      |
+
 ### Exclusión en el mercado laboral
 
 ```ad-definition
