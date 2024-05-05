@@ -1,11 +1,5 @@
 [[Verdera. Enfoques sobre la pobreza.pdf]]
 
-```ad-summary
-title: Resumen
-
-
-```
-
 ## 1. Introducción
 
 Los estudios sobre la pobreza son **terriblemente pequeños**.
@@ -177,14 +171,13 @@ antes que
 
 ## 4. Exclusión social
 
-La pobreza es producto de la **exclusión** en distintos ámbitos:
+En los países desarrollados, se estudia que **las transformaciones económicas conducen a la exclusión social**.
 
-### Ámbitos de exclusión
-
-#### El mercado laboral
+### Exclusión en el mercado laboral
 
 ```ad-definition
-title: Los mercados según Figueroa *et al.*
+title: Mercados walrasianos y no walrasianos
+collapse: open
 
 Figueroa *et al.* distinguen dos tipos de mercados: **walrasianos** y **no walrasianos**.
 
@@ -227,6 +220,9 @@ Se dice que la **constante incertidumbre** siempre causará un aumento constante
 3. Los pobres son **excluidos** de los mercados básicos.
 
 ### Pros
+
+- Analiza la pobreza con una **perspectiva histórica**.
+- Acepta que la pobreza es más que un problema económico.
 
 ### Cons
 

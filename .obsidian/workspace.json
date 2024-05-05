@@ -4,24 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "519223292171a89c",
+        "id": "7d6125e3462ddb29",
         "type": "tabs",
         "children": [
           {
-            "id": "cd0e6835626c23a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Teoría/S5 - Enfoques sobre la pobreza.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6f7a26af1022109",
+            "id": "219957d325dc3993",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5,6 - Verdera. Enfoques sobre la pobreza.md"
+                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Verdera. Enfoques sobre la pobreza.pdf"
               }
             }
           },
@@ -206,14 +192,14 @@
       }
     ]
   },
-  "active": "a6f7a26af1022109",
+  "active": "03614d04e5cf8fe4",
   "lastOpenFiles": [
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Teoría/S5 - Enfoques sobre la pobreza.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5,6 - Verdera. Enfoques sobre la pobreza.md",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Recursos/Ricos vs pobres.excalidraw.md",
-    "Untitled.md",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Verdera. Enfoques sobre la pobreza.pdf",
     "Kanban.md",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Recursos/Ricos vs pobres.excalidraw.md",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Teoría/S5 - Enfoques sobre la pobreza.md",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Verdera. Enfoques sobre la pobreza.pdf",
+    "Untitled.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Información del curso.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S10 - Steven Pinker. La tabla rasa (Cáp. 17).md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/Steven Pinker. La tabla rasa.pdf",
@@ -239,7 +225,6 @@
     "Ciclo 1/🍎 Matemáticas Discretas I/Información del curso.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/Mata & Scarafino. La comunicación como práctica discursiva.pdf",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/Harari. De animales a dioses.pdf",
-    "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S2 - Harari. De animales a dioses (cáp. 2).md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/Pernas. IA y los ODS.pdf",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/La Parra y Tortosa. Violencia Estructural.pdf",
     "Ciclo 1/🚀 CMA/Ejercicios/PDF/S0.pdf",
