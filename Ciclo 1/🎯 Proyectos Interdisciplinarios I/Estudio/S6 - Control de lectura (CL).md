@@ -23,7 +23,11 @@ El enfoque hacia la innovación responsable, según Vasen, está dirigido hacia 
 
 Además, la innovación responsable y los ejemplos que Vasen menciona de ella incluyen el enfoque de la participación del público, una perspectiva la cual indica que se le debe otorgar poder de evaluación al público mismo y los consumidores para la toma de decisiones sobre el desarrollo de la CTI.
 
-La razón por la que se favorece el enfoque de la innovación responsable es porque el enfoque convencional, en este ámbito, ha demostrado que el mercado no puede regular apropiadamente el desarrollo de la CTI, porque esta entidad no evalúa aspectos como valores y los criterios sociales necesarios para la innovación. El énfasis en la participación del público del nuevo enfoque soluciona este punto, ya que la entrada de opiniones públicas
+La razón por la que se favorece el enfoque de la innovación responsable es porque el enfoque convencional, en este ámbito, ha demostrado que el mercado no puede regular apropiadamente el desarrollo de la CTI, porque esta entidad no evalúa aspectos como valores y los criterios sociales necesarios para la innovación. El énfasis en la participación del público del nuevo enfoque soluciona este punto, ya que la entrada de opiniones públicas implica la entrada de dichos valores y criterios sociales ausentes bajo la dirección del mercado.
+
+### Inclusión social
+
+
 
 ## La guía para las hojas de ruta de CTI
 
