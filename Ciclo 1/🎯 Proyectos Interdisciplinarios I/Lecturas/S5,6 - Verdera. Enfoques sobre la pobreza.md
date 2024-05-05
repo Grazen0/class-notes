@@ -211,7 +211,13 @@ Un problema existente en el mercado laboral es que existe **demasiada oferta** d
 
 Como el mercado laboral es, por la clasificación de Figueroa *et al.*, un mercado no walrasiano, esto origina procesos de exclusión **no al azar**, sino por alguna lógica dependiente de **activos sociales y culturales**.
 
-De esta manera, la pobreza se causa y mantiene por medio de la exclusión del mercado laboral, que desfavorece rasgos correlacionados a la pobreza como la falta de educación
+De esta manera, la pobreza se causa y mantiene por medio de la exclusión del mercado laboral, que desfavorece rasgos correlacionados a la pobreza.
+
+Algunos rasgos propensos a la exclusión del mercado laboral son:
+
+- Bajos activos culturales
+- Estigmas sociales
+- 
 
 ### Pros
 
