@@ -135,7 +135,7 @@ Se propone un enfoque "**activos - vulnerabilidad - estructura de oportunidades*
 - Los activos están **desigualmente distribuidos**.
 	- Reducir pobreza implica una **mejor distribución de activos**. de forma más igualitaria.
 
-## 3. Los derechos y capacidades de los pobres
+## 3. Las capacidades de los pobres
 
 **Figura importante:** Amartya Sen
 
@@ -157,7 +157,14 @@ El concepto de "desempeño" es importante porque puede ayudar a **focalizar** la
 
 ```
 
-### Beneficios de este enfoque
+### Pros
 
 - Aumenta el rango de las causas de la pobreza
 - Expande por sobre el aspecto monetario, ya que este no es suficiente para dictar la pobreza.
+
+### Cons
+
+
+
+## 4. Exclusión social
+
