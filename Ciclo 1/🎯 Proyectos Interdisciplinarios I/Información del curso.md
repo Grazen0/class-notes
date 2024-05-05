@@ -20,7 +20,7 @@
 
 | Tipo de evaluación   | Cód. |  Nota   | Semana | Fecha |
 | -------------------- | :--: | :-----: | :----: | :---: |
-| Participación activa | PA2  |   10%   |   -    |   -   |
+| Participación activa | PA1  |   10%   |   -    |   -   |
 | Proyecto (1)         |  P1  |   10%   |   9    | 29/05 |
 | Proyecto (2)         |  P2  |   15%   |   13   | 26/06 |
 | Proyecto (3)         |  P3  |   20%   |   16   | 17/07 |

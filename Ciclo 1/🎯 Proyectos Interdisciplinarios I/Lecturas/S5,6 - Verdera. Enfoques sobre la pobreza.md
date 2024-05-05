@@ -157,6 +157,14 @@ El concepto de "desempeño" es importante porque puede ayudar a **focalizar** la
 
 ```
 
+Sin embargo, la pobreza se debe combatir mediante un principio de **autonomía** para los pobres:
+
+> ¿Qué pueden hacer los pobres **por sí mismos**?
+
+antes que
+
+> ¿Qué se puede hacer por los pobres?
+
 ### Pros
 
 - Aumenta el rango de las causas de la pobreza
