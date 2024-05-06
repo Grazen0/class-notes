@@ -255,5 +255,7 @@ Las causas de la pobreza estructural se dividen en dos: **patológicas** y **est
 
 #### Causas patológicas
 
-Las causas patológicas observan la pobreza como **responsabilidad de los individuos**. Entonces, esta perspectiva busca solucionar la pobreza **cambiando las actitudes y comportamiento** de los pobres.
+- Observan la pobreza como **responsabilidad de los individuos**.
+- Esta perspectiva busca solucionar la pobreza **cambiando las actitudes y comportamiento** de los pobres.
+
 
