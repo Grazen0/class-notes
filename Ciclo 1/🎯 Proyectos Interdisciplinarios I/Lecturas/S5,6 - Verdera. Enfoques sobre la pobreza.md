@@ -263,3 +263,7 @@ Se tienen **cuatro visiones** de estas causas:
 3. **Rasgos de personalidad** adquiridos / desarrollados
 4. El **ciclo familiar** de empobrecimiento
 
+Se explica que la pobreza implica una **subcultura**, un estilo de vida pobre que genera el el **atasco** en la pobreza.
+
+### Causas estructurales
+
