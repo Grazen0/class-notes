@@ -63,3 +63,33 @@ Esta proposición:
 ```
 
 Esta proposición se lee: "Existe un $x$ en $A$ tal que $P(x)$"
+
+```ad-example
+title: Ejemplos
+collapse: closed
+
+1. $\exists x \in \Zp : x^{2} < 8$.
+
+Caso: $x = 1 \implies x^{2} = 1 < 8$
+
+La proposición es **verdadera**.
+
+2. $\exists x \in \R : x^{2} \geq -1$
+
+Caso: $x = 0 \implies x^{2} = 0 \geq -1$
+
+La proposición es **verdadera**.
+
+3. $\exists x \in \Z : x > 11 \lor x < 7$
+
+Caso: $x = 12 \implies x > 11$
+
+La proposición es **verdadera**.
+
+4. $\exists x \in \Z : x \geq 11 \land x \leq -2$
+
+Sea $x \in \Z$, $x \geq 11$ y $x \leq -2$ implican que $x$ es positivo y negativo a la vez, contradiciendo a la ley de $tricotomía$. Por lo tanto, esta proposición es falsa para $x$.
+
+La proposición es **falsa**.
+
+```
