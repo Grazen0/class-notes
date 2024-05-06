@@ -267,3 +267,11 @@ Se explica que la pobreza implica una **subcultura**, un estilo de vida pobre qu
 
 ### Causas estructurales
 
+Según esta perspectiva, la pobreza es resultado de **fuerzas sociales** ajenas a los mismos pobres. Incluyen
+
+- Recesiones
+- *Shocks* económicos
+- Cambios sociales en general
+
+Tony Novak hace énfasis en que es una **consecuencia directa del capitalismo**.
+
