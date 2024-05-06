@@ -12,6 +12,10 @@ kanban-plugin: basic
 ## ☕ Tareas
 
 - [ ] **Características de la escritura formal**<br><br>Resolver ficha de trabajo<br><br>@{07-05-2024}<br><br>#comu #teo
+- [ ] **01 - Herramienta de blurring para videos**<br><br>Plataforma [Runway](https://runwayml.com), herramienta *"Blur Faces"*.<br><br>[Video guía](https://www.youtube.com/watch?v=Z3YdMkDmee0)<br><br>@{13-05-2024}<br><br>#intro-cs #teo
+- [ ] **02 - Video sobre una herramienta de transcripción**<br><br>@{20-05-2024}<br><br>#intro-cs #teo
+- [ ] **03 - Transcripción del video de la tarea 02**<br><br>@{20-05-2024}<br>#intro-cs #teo
+- [ ] **05 - Artículo científico**<br><br>Escoger un artículo científico de CS y usar LitMaps para rastrear citas a dicho artículo.<br><br>@{27-05-2024}<br>#intro-cs #teo
 
 
 ## 📚 Lecturas
@@ -30,14 +34,12 @@ kanban-plugin: basic
 
 - [ ] **Proyecto Comu**<br><br>#comu #lab #grupal <br><br>Característica: *(por definir)*<br><br>- [ ] Definir característica
 - [ ] **[[S14 - Renwick. Escrituralidad y oralidad]]**<br><br>@{02-07-2024}<br>#comu #teo
-- [ ] **[[Video informativo]]**<br><br>Video explicativo, a partir de un programa de doctorado en alguna universidad.<br><br>#intro-cs #teo
 
 
 ## 👍 Completado
 
 **Complete**
 - [x] **[[S5,6 - Verdera. Enfoques sobre la pobreza]]**<br><br>- [x] Leído<br>- [x] Anotado<br><br>Evaluación en la próxima clase.<br><br>@{06-05-2024}<br>#pi #teo
-- [x] **Herramienta de blurring para videos**<br><br>Plataforma [Runway](https://runwayml.com), herramienta *"Blur Faces"*.<br><br>[Video guía](https://www.youtube.com/watch?v=Z3YdMkDmee0)<br><br>#intro-cs #teo
 
 
 ***
