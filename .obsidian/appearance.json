@@ -1,14 +1,19 @@
 {
   "accentColor": "",
   "baseFontSizeAction": true,
-  "baseFontSize": 14,
+  "baseFontSize": 15,
   "enabledCssSnippets": [
     "style",
-    "typwriter-fix"
+    "typwriter-fix",
+    "headings",
+    "images",
+    "li-spacing",
+    "mathjax",
+    "typewriter-fix"
   ],
   "nativeMenus": false,
   "textFontFamily": "",
-  "cssTheme": "",
+  "cssTheme": "Typewriter",
   "theme": "obsidian",
   "interfaceFontFamily": "",
   "monospaceFontFamily": "JetBrainsMonoNL Nerd Font"

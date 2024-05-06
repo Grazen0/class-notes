@@ -186,7 +186,7 @@ Se describen **tres paradigmas** de exclusión social:
 
 ```ad-definition
 title: Mercados walrasianos y no walrasianos
-collapse: open
+collapse: closed
 
 Figueroa *et al.* distinguen dos tipos de mercados: **walrasianos** y **no walrasianos**.
 
@@ -236,3 +236,5 @@ Se dice que la **constante incertidumbre** siempre causará un aumento constante
 ### Cons
 
 - No es tan útil para países en desarrollo, porque la pobreza masiva es producto del no reconocimiento de los derechos sociales por parte del Estado.
+
+## 5. Enfoque estructural

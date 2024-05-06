@@ -9,5 +9,8 @@
   "homepage",
   "obsidian-kanban",
   "obsidian-latex-suite",
-  "obsidian-functionplot"
+  "obsidian-functionplot",
+  "omnisearch",
+  "recent-files-obsidian",
+  "obsidian-vimrc-support"
 ]

@@ -32,7 +32,6 @@
       {
         "id": "4ba0b5c03b117a3a",
         "type": "tabs",
-        "dimension": 72.52747252747253,
         "children": [
           {
             "id": "a8b522a39de1c274",
@@ -68,21 +67,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "01ca636ab2c3cac5",
-        "type": "tabs",
-        "dimension": 27.47252747252747,
-        "children": [
-          {
-            "id": "6225372779e96b2f",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -95,6 +79,7 @@
       {
         "id": "7dac3dd3b5696e59",
         "type": "tabs",
+        "dimension": 54.51127819548872,
         "children": [
           {
             "id": "80e3864338c43d73",
@@ -107,14 +92,6 @@
             }
           },
           {
-            "id": "fdcce6c69452dc6d",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
             "id": "4a902ac14fca804e",
             "type": "leaf",
             "state": {
@@ -122,6 +99,21 @@
               "state": {}
             }
           },
+          {
+            "id": "6225372779e96b2f",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "edf3a3213405c228",
+        "type": "tabs",
+        "dimension": 45.48872180451128,
+        "children": [
           {
             "id": "c42eb77929d897b7",
             "type": "leaf",
@@ -139,13 +131,15 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "graph:Open graph view": true,
+      "omnisearch:Omnisearch": false,
       "canvas:Create new canvas": true,
       "daily-notes:Open today's daily note": false,
-      "templates:Insert template": true,
       "switcher:Open quick switcher": false,
+      "templates:Insert template": true,
       "command-palette:Open command palette": true,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
@@ -189,6 +183,8 @@
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Verdera. Enfoques sobre la pobreza.pdf",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5,6 - Verdera. Enfoques sobre la pobreza.md",
     "Kanban.md",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Trabajos/El Problema como Sistema.excalidraw.md",
+    "Ciclo 1/🍎 Matemáticas Discretas I/Notas/III. Lógica proposicional/S5 - Forma normal conjuntiva y disyuntiva.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Recursos/Ricos vs pobres.excalidraw.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Teoría/S5 - Enfoques sobre la pobreza.md",
     "Untitled.md",
@@ -213,8 +209,6 @@
     "S14 - Renwick. Escrituralidad y oralidad.md",
     "Ciclo 1/Notas diarias/12-04-2024.md",
     "Ciclo 1/Notas diarias/19-04-2024.md",
-    "Ciclo 1/🍎 Matemáticas Discretas I/Notas/III. Lógica proposicional/S5 - Forma normal conjuntiva y disyuntiva.md",
-    "Ciclo 1/🍎 Matemáticas Discretas I/Información del curso.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/Mata & Scarafino. La comunicación como práctica discursiva.pdf",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/Harari. De animales a dioses.pdf",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/Pernas. IA y los ODS.pdf",
