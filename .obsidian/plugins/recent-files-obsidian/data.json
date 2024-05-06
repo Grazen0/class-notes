@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Kanban",
+      "path": "Kanban.md"
+    },
+    {
       "basename": "S5,6 - Verdera. Enfoques sobre la pobreza",
       "path": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5,6 - Verdera. Enfoques sobre la pobreza.md"
+    },
+    {
+      "basename": "S5 - La Parra y Tortosa. Violencia estructural",
+      "path": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5 - La Parra y Tortosa. Violencia estructural.md"
+    },
+    {
+      "basename": "La Parra y Tortosa. Violencia Estructural",
+      "path": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/La Parra y Tortosa. Violencia Estructural.pdf"
     },
     {
       "basename": "Verdera. Enfoques sobre la pobreza",
@@ -17,10 +29,6 @@
       "path": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Laboratorio/S3 - Patrimonio cultural y el desarrollo sostenible.md"
     },
     {
-      "basename": "Kanban",
-      "path": "Kanban.md"
-    },
-    {
       "basename": "El Problema como Sistema.excalidraw",
       "path": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Trabajos/El Problema como Sistema.excalidraw.md"
     },
@@ -31,14 +39,6 @@
     {
       "basename": "Ricos vs pobres.excalidraw",
       "path": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Recursos/Ricos vs pobres.excalidraw.md"
-    },
-    {
-      "basename": "S5 - Enfoques sobre la pobreza",
-      "path": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Teoría/S5 - Enfoques sobre la pobreza.md"
-    },
-    {
-      "basename": "Información del curso",
-      "path": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Información del curso.md"
     }
   ],
   "omittedPaths": [

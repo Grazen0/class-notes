@@ -80,7 +80,8 @@ Aquí se listan algunos modos en los que se ejerce la violencia estructural haci
 
 #### Causas fuera de Zimbabwe
 
-- Razones históricas de **colonización**.
+- Razones históricas de **colonización**
+	- Las relaciones de poder durante las épocas coloniales tienen un efecto "dominó", y afectan el futuro de los países involucrados.
 - **Acuerdos internacionales** que desfavorecen a Zimbabwe.
 	- **Caso APDIC**: Las compañías farmacéuticas no dejaban a Zimbabwe producir su propio medicamente.
 	- **No se apoya** a países incapaces de producir medicamento.
@@ -99,4 +100,4 @@ Se concluye sobre la violencia estructural:
 1. Es aquel daño al poder y los recursos proveniente de las **estructuras sociales**. No tiene un actor identificable.
 2. Afecta concretamente a la **satisfacción de las necesidades humanas básicas**. Esto incluye privación de libertad, aculturación, y otros.
 3. Sus mecanismos están **embebidos en la estructura social**. Comprenderlos implica **abstracción**, y es un trabajo complejo.
-4. No es la única forma de violencia posible. Más bien, **se relaciona con otrs tipos de violencia.**
+4. No es la única forma de violencia posible. Más bien, **se relaciona con otros tipos de violencia.**
