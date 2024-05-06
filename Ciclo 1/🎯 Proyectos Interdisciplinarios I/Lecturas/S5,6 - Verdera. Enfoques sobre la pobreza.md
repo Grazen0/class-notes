@@ -249,13 +249,17 @@ La **pobreza estructural** se refiere a la condición **permanente** de pobreza 
 
 Se considera el concepto del **círculo vicioso de pobreza**.
 
-### Causas de la pobreza estructural
-
 Las causas de la pobreza estructural se dividen en dos: **patológicas** y **estructurales**.
 
-#### Causas patológicas
+### Causas patológicas
 
 - Observan la pobreza como **responsabilidad de los individuos**.
 - Esta perspectiva busca solucionar la pobreza **cambiando las actitudes y comportamiento** de los pobres.
 
+Se tienen **cuatro visiones** de estas causas:
+
+1.  La **irresponsabilidad**
+2. La **genética** (características heredadas)
+3. **Rasgos de personalidad** adquiridos / desarrollados
+4. El **ciclo familiar** de empobrecimiento
 
