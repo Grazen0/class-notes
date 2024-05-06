@@ -1,6 +1,6 @@
 [[Verdera. Enfoques sobre la pobreza.pdf]]
 
-## 1. Introducción
+## Introducción
 
 Los estudios sobre la pobreza son **terriblemente pequeños**.
 
@@ -16,7 +16,7 @@ También se incluyen 2 enfoques más:
 5. La definición de "pobre" por el aspecto **monetario**.
 6. La definición de "pobre" por el aspecto **participativo**.
 
-## 2. Los activos de los pobres
+## 1. Los activos de los pobres
 
 - Todos los pobres tienen algún **capital** presente.
 - Este capital puede ser **invertido** para salir de la pobreza.
@@ -129,7 +129,7 @@ Se propone un enfoque "**activos - vulnerabilidad - estructura de oportunidades*
 - Los activos están **desigualmente distribuidos**.
 	- Reducir pobreza implica una **mejor distribución de activos**. de forma más igualitaria.
 
-## 3. Las capacidades de los pobres
+## 2.Las capacidades de los pobres
 
 **Figura importante:** Amartya Sen
 
@@ -169,7 +169,7 @@ antes que
 
 - Todavía mantiene el enfoque individualista causal de la pobreza, sin considerar las estructuras sociales.
 
-## 4. Exclusión social
+## 3. Exclusión social
 
 En los países desarrollados, se estudia que **las transformaciones económicas conducen a la exclusión social**.
 
@@ -237,7 +237,7 @@ Se dice que la **constante incertidumbre** siempre causará un aumento constante
 
 - No es tan útil para países en desarrollo, porque la pobreza masiva es producto del no reconocimiento de los derechos sociales por parte del Estado.
 
-## 5. Enfoque estructural
+## 4. Enfoque estructural
 
 ```ad-info
 title: Idea clave
@@ -275,3 +275,41 @@ Según esta perspectiva, la pobreza es resultado de **fuerzas sociales** ajenas 
 
 Tony Novak hace énfasis en que es una **consecuencia directa del capitalismo**.
 
+En los países en desarrollo, se pueden clasificar las **causas** de la pobreza estructural en cuatro:
+
+1. **Estructural**
+	1. La estructura de la propiedad, del producto y del empleo
+	2. Falta de absorción de empleo asalariado
+2. **Macroeconómico coyuntural**
+	1. Recesiones causadas por los mercados
+	2. Salarios bajos causados por estas
+3. **Mesoeconómico**
+	1. El rol del Estado y el sector privado
+	2. Reducción del gasto público social
+4. **Microeconómico**
+	1. Oferta de trabajo y baja dotación
+	2. Uso ineficiente de los activos
+
+## Extra: Otros enfoques recientes
+
+### Enfoque de oportunidades
+
+Se enfoca en que la pobreza se constituye del **acceso a oportunidades** como de las **capacidades para aprovecharlas**. Los pobres no tienen oportunidades debido a razones mencionadas en los enfoques anteriores.
+
+### Capital social
+
+Palabra clave: **Cooperación**
+
+Se habla de "capital social" cuando se refiere a las normas y el entorno que permite a grupos y redes **cooperar**, actuando hacia objetivos comunes.
+
+En este enfoque, se observa que la **cooperación** como sociedad es necesaria para **combatir la pobreza**. Una sociedad con alto capital social tiene miembros capaces de relacionarse con confianza y apoyarse mutuamente.
+
+### Los "nuevos pobres" o "pobres recientes"
+
+Este enfoque se enfoca en los pobres que surgieron tras **eventos económicos** como las hiperinflaciones y las crisis económicas.
+
+### El crecimiento pro-pobre
+
+Este enfoque observa que **el crecimiento económico por sí solo no es suficiente para combatir la pobreza**. Por ello, es necesario buscar un tipo de crecimiento "bueno para los pobres" que cierre las brechas entre clases sociales.
+
+Se tienen dos posturas del crecimiento económico de los pobres: la medición **absoluta** y la medición **relativa**.
