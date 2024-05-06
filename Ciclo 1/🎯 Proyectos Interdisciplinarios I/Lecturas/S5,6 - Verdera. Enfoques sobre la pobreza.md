@@ -238,3 +238,13 @@ Se dice que la **constante incertidumbre** siempre causará un aumento constante
 - No es tan útil para países en desarrollo, porque la pobreza masiva es producto del no reconocimiento de los derechos sociales por parte del Estado.
 
 ## 5. Enfoque estructural
+
+```ad-info
+title: Idea clave
+
+La **pobreza estructural** se refiere a la condición **permanente** de pobreza en sectores amplios de la población, causada desde la estructura social.
+
+```
+
+
+Se considera el concepto del **círculo vicioso de pobreza**. 
