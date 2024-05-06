@@ -1,0 +1,49 @@
+```ad-definition
+title: Definición (función proposicional).
+
+Una **función proposicional** (proposición abierta) es una proposición que depende de uno o más parámetros para estar definida.
+
+```
+
+**Ejemplos:**
+
+- $p(x)\!: x > 5$
+	- $p(x)$ no es una proposición por sí misma.
+	- $p(8)$ es una proposición verdadera.
+	- $p(-5)$ es una proposición falsa.
+- $q(x)\!: \text{\(x\) es un país de Sudamérica}$
+	- $q(\text{Perú})$ es una proposición verdadera.
+	- $q(\text{Colombia})$ es una proposición verdadera.
+	- $q(\text{Francia})$ es una proposición falsa.
+- $r(a)\!: \text{\(a\) es par y \(a \geq 6\)}$
+	- $r(8)$ es una proposición verdadera.
+	- $r(4)$ es una proposición falsa.
+
+## Cuantificador universal ($\forall$)
+
+```ad-definition
+
+El **cuantificador universal**, denotado por $\forall$, se utiliza de la siguiente forma:
+
+$$
+\forall x \in A : P(x)
+$$
+
+Esta proposición:
+
+- Es verdadera cuando $P(x)$ es verdadero para todos los elementos $x$ en el conjunto $A$.
+- Es falsa cuando $P(x)$ es falso para algún elemento $x$ de $A$.
+
+```
+
+Esta proposición se lee: "Para todo elemento $x$ en $A$ se cumple $P(x)$".
+
+**Ejemplos:**
+
+- $\forall x \in \Zp : x^{2} < 8$ (F)
+- $\forall x \in \R : x^{2} \geq -1$ (V)
+- Sea $C$ el conjunto de personas de este salón: $\forall x \in C : \text{\(x\) no nació en Lima}$ (F)
+- $\forall x \in \Z : (x > 11 \lor x < 7)$ (F)
+
+## Cuantificador existencial ($\exists$)
+
