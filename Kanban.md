@@ -15,7 +15,7 @@ kanban-plugin: basic
 - [ ] **01 - Herramienta de blurring para videos**<br><br>Plataforma [Runway](https://runwayml.com), herramienta *"Blur Faces"*.<br><br>[Video guía](https://www.youtube.com/watch?v=Z3YdMkDmee0)<br><br>@{13-05-2024}<br><br>#intro-cs #teo
 - [ ] **02 - Video sobre una herramienta de transcripción**<br><br>@{20-05-2024}<br><br>#intro-cs #teo
 - [ ] **03 - Transcripción del video de la tarea 02**<br><br>@{20-05-2024}<br>#intro-cs #teo
-- [ ] **05 - Artículo científico**<br><br>Escoger un artículo científico de CS y usar LitMaps para rastrear citas a dicho artículo.<br><br>@{27-05-2024}<br>#intro-cs #teo
+- [ ] **05 - Artículo científico**<br><br>Escoger un artículo científico de CS y usar LitMaps para rastrear citas a dicho artículo.<br><br>Usar Google Académico<br><br>@{27-05-2024}<br>#intro-cs #teo
 
 
 ## 📚 Lecturas
