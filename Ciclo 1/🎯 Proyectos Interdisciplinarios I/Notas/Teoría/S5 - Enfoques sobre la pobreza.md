@@ -62,3 +62,33 @@ Es decir, salir de la pobreza requiere de cubrir estas capacidades básicas.
 - Se debe medir capacidades humanas, no la economía.
 
 https://worldpoverty.io/
+
+### Exclusión social
+
+Se habla de "exclusión social" como la **exclusión del progreso** en la economía y los mercados.
+
+#### Puntos positivos
+
+- Reconoce que la pobreza no es solamente económica.
+
+#### Críticas
+
+- Extrapolación de la realidad en **Europa**.
+- No observa que hay pobreza aún con trabajo asalariado.
+
+### Pobreza estructural
+
+Es en el sentido de que la **sociedad** está **estructurada** de tal forma que la pobreza se repite en un ciclo vicioso, y es difícil romper este ciclo..
+
+- Pobreza como resultado de la operación de **fuerzas sociales**
+- Círculo vicioso
+- Necesidades básicas insatisfechas (**NBI**)
+
+### Extras
+
+#### Capital social
+
+- Los **lazos** entre individuos.
+- Se comparten **objetivos en común**, sumando capacidades y activos.
+- Capital social fuerte $\implies$ mejor funcionamiento del estado y mercado.
+- 
