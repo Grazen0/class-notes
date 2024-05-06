@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Verdera. Enfoques sobre la pobreza.pdf"
+                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5,6 - Verdera. Enfoques sobre la pobreza.md"
               }
             }
           },
@@ -121,15 +121,9 @@
               "type": "git-view",
               "state": {}
             }
-          }
-        ]
-      },
-      {
-        "id": "4438b95f576b3f38",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "10f8629d014f3fa7",
+            "id": "c42eb77929d897b7",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -145,15 +139,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
-      "omnisearch:Omnisearch": false,
       "graph:Open graph view": true,
       "canvas:Create new canvas": true,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": true,
       "switcher:Open quick switcher": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "command-palette:Open command palette": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
@@ -192,10 +184,10 @@
       }
     ]
   },
-  "active": "03614d04e5cf8fe4",
+  "active": "219957d325dc3993",
   "lastOpenFiles": [
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5,6 - Verdera. Enfoques sobre la pobreza.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Verdera. Enfoques sobre la pobreza.pdf",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5,6 - Verdera. Enfoques sobre la pobreza.md",
     "Kanban.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Recursos/Ricos vs pobres.excalidraw.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Teoría/S5 - Enfoques sobre la pobreza.md",

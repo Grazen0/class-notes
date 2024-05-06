@@ -1,16 +1,13 @@
 [
-  "obsidian-git",
-  "obsidian-functionplot",
+  "obsidian-admonition",
+  "table-editor-obsidian",
+  "calendar",
   "obsidian-excalidraw-plugin",
   "obsidian-latex",
-  "obsidian-latex-suite",
-  "obsidian-admonition",
-  "obsidian-kanban",
-  "calendar",
   "execute-code",
-  "recent-files-obsidian",
+  "obsidian-git",
   "homepage",
-  "table-editor-obsidian",
-  "omnisearch",
-  "obsidian-vimrc-support"
+  "obsidian-kanban",
+  "obsidian-latex-suite",
+  "obsidian-functionplot"
 ]
