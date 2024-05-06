@@ -47,3 +47,19 @@ Esta proposición se lee: "Para todo elemento $x$ en $A$ se cumple $P(x)$".
 
 ## Cuantificador existencial ($\exists$)
 
+```ad-definition
+
+El **cuantificador existencial**, denotado por $\exists$, se utiliza de la siguiente forma:
+
+$$
+\exists x \in A : P(x)
+$$
+
+Esta proposición:
+
+- Es **verdadera** cuando $P(x)$ es verdadero para al menos un $x$ en $A$.
+- Es **falsa** cuando $P(x)$ es falso para todos los elementos $x$ de $A$.
+
+```
+
+Esta proposición se lee: "Existe un $x$ en $A$ tal que $P(x)$"
