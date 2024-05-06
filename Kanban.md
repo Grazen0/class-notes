@@ -16,7 +16,6 @@ kanban-plugin: basic
 
 ## 📚 Lecturas
 
-- [ ] **[[S5,6 - Verdera. Enfoques sobre la pobreza]]**<br><br>- [x] Leído<br>- [ ] Anotado<br><br>Evaluación en la próxima clase.<br><br>@{06-05-2024}<br>#pi #teo
 - [ ] **[[S5 - Pernas. IA y los ODS]]**<br><br>- [ ] Leído<br>- [ ] Anotado<br><br>@{14-05-2024}<br>#comu #teo
 - [ ] **[[S10 - Steven Pinker. La tabla rasa (Cáp. 17)]]**<br><br>- [ ] Leído<br>- [ ] Anotado<br><br>@{17-05-2024}<br>#comu #lab
 
@@ -37,6 +36,7 @@ kanban-plugin: basic
 ## 👍 Completado
 
 **Complete**
+- [x] **[[S5,6 - Verdera. Enfoques sobre la pobreza]]**<br><br>- [x] Leído<br>- [x] Anotado<br><br>Evaluación en la próxima clase.<br><br>@{06-05-2024}<br>#pi #teo
 - [x] **Herramienta de blurring para videos**<br><br>Plataforma [Runway](https://runwayml.com), herramienta *"Blur Faces"*.<br><br>[Video guía](https://www.youtube.com/watch?v=Z3YdMkDmee0)<br><br>#intro-cs #teo
 
 
