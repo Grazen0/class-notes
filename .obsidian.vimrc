@@ -10,21 +10,13 @@ nnoremap x "_dl
 " <Esc> clears highlights
 nnoremap <Esc> :nohl
 
-
-""""""""""""""""""""""
-" Navigation
-""""""""""""""""""""""
-
 " navigate visual lines rather than logical ones
 nnoremap j gj
 nnoremap k gk
 nnoremap I g0i
 nnoremap A g$a
 
-
-""""""""""""""""""""""
-" Window Controls
-""""""""""""""""""""""
-
+" Window controls
 exmap wq obcommand workspace:close
 exmap q obcommand workspace:close
+

@@ -91,4 +91,7 @@ Es en el sentido de que la **sociedad** está **estructurada** de tal forma que 
 - Los **lazos** entre individuos.
 - Se comparten **objetivos en común**, sumando capacidades y activos.
 - Capital social fuerte $\implies$ mejor funcionamiento del estado y mercado.
-- 
+
+## Otros datos sobre la pobreza
+
+- La pobreza es **mucho más que carencia monetaria**.
