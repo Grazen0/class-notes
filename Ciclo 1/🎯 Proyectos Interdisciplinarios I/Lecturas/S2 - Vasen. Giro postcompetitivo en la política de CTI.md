@@ -120,6 +120,7 @@ Existen dos concepciones en LATAM sobre el tema:
 ### Tecnologías sociales (tec. para la inclusión social)
 
 ```ad-definition
+title: Definición (sistema socio-técnico).
 
 Un **sistema socio-técnico** es un sistema que busca balancear tanto los aspectos sociales como los aspectos organizacionales o técnicos.
 
