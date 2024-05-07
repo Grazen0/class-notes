@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8ff81c2954dfa6a4",
+        "id": "0c13334ae9584e78",
         "type": "tabs",
         "children": [
           {
-            "id": "6a10fed81b1f7b79",
+            "id": "356880e4a2b8b423",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -140,7 +140,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6a10fed81b1f7b79",
+  "active": "356880e4a2b8b423",
   "lastOpenFiles": [
     "Kanban.md",
     "Ciclo 1/💾 Introducción a Ciencias de la Computación/Trabajos/01 - Herramienta de blurring para videos.md",
