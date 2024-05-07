@@ -9,6 +9,14 @@
       "path": "Kanban.md"
     },
     {
+      "basename": "S4 (Teo) - Bucles con while",
+      "path": "Ciclo 1/💻 Programación I/Notas/S4 (Teo) - Bucles con while.md"
+    },
+    {
+      "basename": "S5 (Teo) - Bucles anidados",
+      "path": "Ciclo 1/💻 Programación I/Notas/S5 (Teo) - Bucles anidados.md"
+    },
+    {
       "basename": "01 - Herramienta de blurring para videos",
       "path": "Ciclo 1/💾 Introducción a Ciencias de la Computación/Trabajos/01 - Herramienta de blurring para videos.md"
     },
@@ -31,14 +39,6 @@
     {
       "basename": "S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS",
       "path": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS.md"
-    },
-    {
-      "basename": "Información del curso",
-      "path": "Ciclo 1/📈 Cálculo de Una Variable/Información del curso.md"
-    },
-    {
-      "basename": "S5 - La Parra y Tortosa. Violencia estructural",
-      "path": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5 - La Parra y Tortosa. Violencia estructural.md"
     }
   ],
   "omittedPaths": [

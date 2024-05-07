@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0a9db5e1d9821694",
+        "id": "0c808afd92725e9a",
         "type": "tabs",
         "children": [
           {
-            "id": "c76ba871c60f9948",
+            "id": "e28b569e4aaf6a56",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -143,10 +143,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c76ba871c60f9948",
+  "active": "e28b569e4aaf6a56",
   "lastOpenFiles": [
     "Kanban.md",
     "Ciclo 1/Notas diarias/07-05-2024.md",
+    "Ciclo 1/💻 Programación I/Notas/S4 (Teo) - Bucles con while.md",
+    "Ciclo 1/💻 Programación I/Notas/S5 (Teo) - Bucles anidados.md",
     "Ciclo 1/💾 Introducción a Ciencias de la Computación/Trabajos/01 - Herramienta de blurring para videos.md",
     "Ciclo 1/💾 Introducción a Ciencias de la Computación/Trabajos/Análisis de un programa de doctorado.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Trabajos/Características de la escritura formal.md",
@@ -173,8 +175,6 @@
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Verdera. Enfoques sobre la pobreza.pdf",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Laboratorio/S1 - Los ODS y el patrimonio cultural.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Laboratorio/S3 - Patrimonio cultural y el desarrollo sostenible.md",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Trabajos/El Problema como Sistema.excalidraw.md",
-    "Ciclo 1/🍎 Matemáticas Discretas I/Notas/III. Lógica/S5 - Forma normal conjuntiva y disyuntiva.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/Steven Pinker. La tabla rasa.pdf",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Vasen. Giro postcompetitivo en la política de CTI.pdf",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/Mata & Scarafino. La comunicación como práctica discursiva.pdf",
