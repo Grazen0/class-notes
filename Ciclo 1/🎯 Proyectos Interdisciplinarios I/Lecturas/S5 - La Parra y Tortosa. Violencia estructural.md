@@ -16,7 +16,7 @@ Un caso de violencia estructural mencionado es la **desigualdad entre hombres y 
 
 Otro caso que se discute más es la **diferencia de 40 años en la esperanza de vida entre España y Zimbabwe**.
 
-Entre los mecanismos que llevan a este paradigma se encuentran **razones históricas** de colonización, acuerdos internacionales, **ilegitimidad** guvernamental y desigualdades sociales.
+Entre los mecanismos que llevan a este paradigma se encuentran **razones históricas** de colonización, acuerdos internacionales, **ilegitimidad** gubernamental y desigualdades sociales.
 
 Finalmente, se concluye sobre la violencia estructural:
 
