@@ -11,13 +11,40 @@
             "id": "36f40449e87a047b",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciclo 1/💾 Introducción a Ciencias de la Computación/Trabajos/Análisis de un programa de doctorado.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "85336c51b7a60c2d",
+            "type": "leaf",
+            "state": {
               "type": "kanban",
               "state": {
                 "file": "Kanban.md"
               }
             }
+          },
+          {
+            "id": "316c1e996e786bdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciclo 1/💾 Introducción a Ciencias de la Computación/Trabajos/01 - Herramienta de blurring para videos.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,11 +167,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "36f40449e87a047b",
+  "active": "85336c51b7a60c2d",
   "lastOpenFiles": [
+    "Ciclo 1/💾 Introducción a Ciencias de la Computación/Trabajos/01 - Herramienta de blurring para videos.md",
+    "Kanban.md",
+    "Ciclo 1/💾 Introducción a Ciencias de la Computación/Trabajos/Análisis de un programa de doctorado.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Trabajos/Características de la escritura formal.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Trabajos/PDF/1. Características de la escritura formal.pdf",
-    "Kanban.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS.pdf",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS.md",
     "Ciclo 1/📈 Cálculo de Una Variable/Información del curso.md",
@@ -170,7 +199,6 @@
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Trabajos/El Problema como Sistema.excalidraw.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Notas/III. Lógica/S5 - Forma normal conjuntiva y disyuntiva.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Recursos/Ricos vs pobres.excalidraw.md",
-    "Untitled.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/Steven Pinker. La tabla rasa.pdf",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Vasen. Giro postcompetitivo en la política de CTI.pdf",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/Mata & Scarafino. La comunicación como práctica discursiva.pdf",
