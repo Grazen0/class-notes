@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "edd14ce177c47433",
+        "id": "264c2e2b013c50a3",
         "type": "tabs",
         "children": [
           {
-            "id": "b956c3a2fa9bbf91",
+            "id": "36f40449e87a047b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "kanban",
+              "state": {
+                "file": "Kanban.md"
+              }
             }
           }
         ]
@@ -65,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5110321044922,
-    "collapsed": true
+    "width": 304.5110321044922
   },
   "right": {
     "id": "7f7f85319d7ebd75",
@@ -83,7 +84,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS.pdf"
+                "file": "Kanban.md"
               }
             }
           },
@@ -139,12 +140,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b956c3a2fa9bbf91",
+  "active": "36f40449e87a047b",
   "lastOpenFiles": [
-    "Ciclo 1/✍ Laboratorio de Comunicación I/Trabajos/PDF/1. Características de la escritura formal.pdf",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS.pdf",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Trabajos/Características de la escritura formal.md",
+    "Ciclo 1/✍ Laboratorio de Comunicación I/Trabajos/PDF/1. Características de la escritura formal.pdf",
     "Kanban.md",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS.pdf",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS.md",
     "Ciclo 1/📈 Cálculo de Una Variable/Información del curso.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5 - La Parra y Tortosa. Violencia estructural.md",
