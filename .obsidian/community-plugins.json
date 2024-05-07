@@ -4,7 +4,6 @@
   "calendar",
   "obsidian-excalidraw-plugin",
   "obsidian-latex",
-  "execute-code",
   "obsidian-git",
   "homepage",
   "obsidian-kanban",
@@ -16,5 +15,8 @@
   "obsidian-plugin-update-tracker",
   "obsidian-scroll-offset",
   "folder-note-plugin",
-  "waypoint"
+  "waypoint",
+  "url-into-selection",
+  "execute-code",
+  "cm-editor-syntax-highlight-obsidian"
 ]

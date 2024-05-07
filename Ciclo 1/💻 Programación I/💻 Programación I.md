@@ -11,6 +11,7 @@
 	- [[S3 (Teo) - Funciones]]
 	- [[S4 (Teo) - Bucles con while]]
 	- [[S5 (Teo) - Bucles anidados]]
+	- [[S6 (Teo) - Bucles con for]]
 
 %% End Waypoint %%
 

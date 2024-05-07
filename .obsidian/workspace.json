@@ -19,6 +19,58 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f67c8fb61b6582de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S2 - Vasen. Giro postcompetitivo en la política de CTI.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7c4704a210af21f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c8d45d310feeeab6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5 - La Parra y Tortosa. Violencia estructural.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee0ae66201a1f0e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Laboratorio/S4 - Teoría de sistemas.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -143,17 +195,59 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
+  "floating": {
+    "id": "f26630220ff44ea0",
+    "type": "floating",
+    "children": [
+      {
+        "id": "b708c84ac71e6dc5",
+        "type": "window",
+        "children": [
+          {
+            "id": "0793ff2ddbc4fcc9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "085146398caa85d7",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Vasen. Giro postcompetitivo en la política de CTI.pdf"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 372,
+        "y": 62,
+        "width": 600,
+        "height": 768,
+        "maximize": true,
+        "zoom": -0.5
+      }
+    ]
+  },
   "active": "9d420484e310d3f5",
   "lastOpenFiles": [
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S2 - Vasen. Giro postcompetitivo en la política de CTI.md",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Estudio/S6 - Control de lectura (CL).md",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS.md",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5 - La Parra y Tortosa. Violencia estructural.md",
     "Kanban.md",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Vasen. Giro postcompetitivo en la política de CTI.pdf",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Laboratorio/S4 - Teoría de sistemas.md",
+    "Ciclo 1/💻 Programación I/Notas/S6 (Teo) - Bucles con for.md",
+    "Ciclo 1/💻 Programación I/💻 Programación I.md",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/La Parra y Tortosa. Violencia Estructural.pdf",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Teoría/S2 - El giro postcompetitivo.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/🍎 Matemáticas Discretas I.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Notas/III. Lógica/S6 - Cuantificadores.md",
     "Ciclo 1/💾 Introducción a Ciencias de la Computación/💾 Introducción a Ciencias de la Computación.md",
     "Ciclo 1/🚀 CMA/🚀 CMA.md",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Estudio/S6 - Control de lectura (CL).md",
     "Ciclo 1/Horario.pdf",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S2 - Vasen. Giro postcompetitivo en la política de CTI.md",
-    "Ciclo 1/💻 Programación I/💻 Programación I.md",
     "Ciclo 1/💻 Programación I/Notas/S1B (Lab) - Introducción a Python.md",
     "Ciclo 1/💻 Programación I/Anexo (Lab).pdf",
     "Ciclo 1/Notas diarias/07-05-2024.md",
@@ -171,16 +265,8 @@
     "Cronograma.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Evaluaciones.pdf",
     "Ciclo 1/🍎 Matemáticas Discretas I/Información del curso.md",
-    "Ciclo 1/Notas diarias/15-04-2024.md",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Teoría/S2 - El giro postcompetitivo.md",
-    "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Teoría/S6A - Redacción del párrafo.md",
-    "Ejemplo de planificacion de parrafo.excalidraw.md",
-    "Ciclo 1/💻 Programación I/Notas/S4 (Teo) - Bucles con while.md",
-    "Ciclo 1/💻 Programación I/Notas/S5 (Teo) - Bucles anidados.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Trabajos/PDF/1. Características de la escritura formal.pdf",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS.pdf",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/La Parra y Tortosa. Violencia Estructural.pdf",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Verdera. Enfoques sobre la pobreza.pdf",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/NOESTOYGRITANDO.png",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/Las Meninas de Velasquez.jpg",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/Comic marcianito baño (1).png",
