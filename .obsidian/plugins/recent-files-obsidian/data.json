@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Kanban",
-      "path": "Kanban.md"
-    },
-    {
       "basename": "07-05-2024",
       "path": "Ciclo 1/Notas diarias/07-05-2024.md"
+    },
+    {
+      "basename": "S6A - Redacción del párrafo",
+      "path": "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Teoría/S6A - Redacción del párrafo.md"
+    },
+    {
+      "basename": "Kanban",
+      "path": "Kanban.md"
     },
     {
       "basename": "S4 (Teo) - Bucles con while",
@@ -35,10 +39,6 @@
     {
       "basename": "ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS",
       "path": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS.pdf"
-    },
-    {
-      "basename": "S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS",
-      "path": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS.md"
     }
   ],
   "omittedPaths": [
