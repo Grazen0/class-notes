@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "264c2e2b013c50a3",
+        "id": "8ff81c2954dfa6a4",
         "type": "tabs",
         "children": [
           {
-            "id": "ad7bc68acca5051b",
+            "id": "6a10fed81b1f7b79",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -16,22 +16,8 @@
                 "file": "Kanban.md"
               }
             }
-          },
-          {
-            "id": "85336c51b7a60c2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciclo 1/💾 Introducción a Ciencias de la Computación/Trabajos/01 - Herramienta de blurring para videos.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +84,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo 1/💾 Introducción a Ciencias de la Computación/Trabajos/01 - Herramienta de blurring para videos.md"
+                "file": "Kanban.md"
               }
             }
           },
@@ -154,7 +140,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "85336c51b7a60c2d",
+  "active": "6a10fed81b1f7b79",
   "lastOpenFiles": [
     "Kanban.md",
     "Ciclo 1/💾 Introducción a Ciencias de la Computación/Trabajos/01 - Herramienta de blurring para videos.md",
