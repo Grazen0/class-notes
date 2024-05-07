@@ -88,7 +88,7 @@ La proposición es **verdadera**.
 
 4. $\exists x \in \Z : x \geq 11 \land x \leq -2$
 
-Sea $x \in \Z$, $x \geq 11$ y $x \leq -2$ implican que $x$ es positivo y negativo a la vez, contradiciendo a la ley de $tricotomía$. Por lo tanto, esta proposición es falsa para $x$.
+Sea $x \in \Z$, $x \geq 11$ y $x \leq -2$ implican que $x$ es positivo y negativo a la vez, contradiciendo a la ley de tricotomía. Por lo tanto, esta proposición es falsa para $x$.
 
 La proposición es **falsa**.
 
