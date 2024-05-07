@@ -8,12 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2b99b3f9f241ed8c",
+            "id": "78b4f432e45aea86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciclo 1/📈 Cálculo de Una Variable/Información del curso.md",
+                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc58c05cf2304a6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciclo 1/✍ Laboratorio de Comunicación I/Trabajos/Características de la escritura formal.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,30 +34,17 @@
             }
           },
           {
-            "id": "e328012574fcad51",
+            "id": "5cc63c68c589f2d4",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "pdf",
               "state": {
-                "file": "Kanban.md"
-              }
-            }
-          },
-          {
-            "id": "841b80435dd7f7ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5 - La Parra y Tortosa. Violencia estructural.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS.pdf"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5110321044922
+    "width": 304.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "7f7f85319d7ebd75",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5 - La Parra y Tortosa. Violencia estructural.md"
+                "file": "Ciclo 1/✍ Laboratorio de Comunicación I/Trabajos/Características de la escritura formal.md"
               }
             }
           },
@@ -131,8 +132,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "edf3a3213405c228",
@@ -168,10 +168,50 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "841b80435dd7f7ad",
+  "floating": {
+    "id": "c9568a9bc720b299",
+    "type": "floating",
+    "children": [
+      {
+        "id": "d29c15eba227e46f",
+        "type": "window",
+        "children": [
+          {
+            "id": "14d9e0ad66ef9608",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8b3ac747747b7c33",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Ciclo 1/✍ Laboratorio de Comunicación I/Trabajos/PDF/1. Características de la escritura formal.pdf"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 1366,
+        "height": 728,
+        "maximize": true,
+        "zoom": -0.5
+      }
+    ]
+  },
+  "active": "dc58c05cf2304a6a",
   "lastOpenFiles": [
+    "Ciclo 1/✍ Laboratorio de Comunicación I/Trabajos/PDF/1. Características de la escritura formal.pdf",
+    "Ciclo 1/✍ Laboratorio de Comunicación I/Trabajos/Características de la escritura formal.md",
     "Kanban.md",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS.md",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS.pdf",
     "Ciclo 1/📈 Cálculo de Una Variable/Información del curso.md",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5 - La Parra y Tortosa. Violencia estructural.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Teoría/S6 - Índices para medir la pobreza.md",
     "Ciclo 1/Notas diarias/06-05-2024.md",
     "Untitled.excalidraw.md",
@@ -185,8 +225,6 @@
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Teoría/S2 - El árbol del saber.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Teoría/S5B - Normativa APA.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Teoría/S5A - Informe de investigación.md",
-    "Ciclo 1/✍ Laboratorio de Comunicación I/Trabajos/PDF/1. Características de la escritura formal.pdf",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5 - La Parra y Tortosa. Violencia estructural.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/La Parra y Tortosa. Violencia Estructural.pdf",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5,6 - Verdera. Enfoques sobre la pobreza.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Verdera. Enfoques sobre la pobreza.pdf",
@@ -196,12 +234,8 @@
     "Ciclo 1/🍎 Matemáticas Discretas I/Notas/III. Lógica/S5 - Forma normal conjuntiva y disyuntiva.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Recursos/Ricos vs pobres.excalidraw.md",
     "Untitled.md",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Información del curso.md",
-    "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S10 - Steven Pinker. La tabla rasa (Cáp. 17).md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/Steven Pinker. La tabla rasa.pdf",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S2 - Vasen. Giro postcompetitivo en la política de CTI.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Vasen. Giro postcompetitivo en la política de CTI.pdf",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS.pdf",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/Mata & Scarafino. La comunicación como práctica discursiva.pdf",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/Harari. De animales a dioses.pdf",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/Pernas. IA y los ODS.pdf",

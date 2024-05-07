@@ -51,9 +51,9 @@ Cada país tiene ya una de tres **bases** (marcos políticos) para guiar su hoja
 1. **Plan Nacional de Desarrollo**
 	- Lo tiene la mayoría de países.
 	- Contiene **planes nacionales**.
-1. **Plan Nacional de CTI**
+2. **Plan Nacional de CTI**
 	- Puede **no estar en consonancia** con el plan nacional de desarrollo.
-2. **Plan Nacional de Desarrollo Sostenible**
+3. **Plan Nacional de Desarrollo Sostenible**
 	- Lo tienen algunos países.
 	- No siempre se hace en torno a los ODS.
 
@@ -108,19 +108,12 @@ Los **países en desarrollo** tienen varios riesgos ante el desarrollo de la tec
 
 ### 1.4. Elementos clave de una hoja de ruta
 
-Las principales características de una hoja de ruta son:
 
-- Está **focalizada en los objetivos** en concordancia con la Agenda 2030.
-- Está **basada en pruebas, experiencia y previsión**.
+- **Focalizada en los objetivos** en concordancia con la Agenda 2030.
+- **Basada en pruebas, experiencia y previsión**.
 - **Tiene en cuenta al contexto nacional**: Contextos comunitarios, territorio, financiación, capacidades de ejecución, etc.
-- **Es coherente** y revisada por agentes clave y entidades interesadas.
-- **Es dinámica** y se puede prestar a correcciones en el curso de su ejecución.
-
-### 1.5. Estructura de la guía
-
-- **Capítulo 2:** Orientaciones para crear y aplicar las hojas de ruta.
-- **Capítulo 3:** Recomendaciones sobre asociaciones internacionales.
-- **Capítulo 4:** Mensajes clave, recomendaciones a la comunidad internacional.
+- Es **coherente** y revisada por agentes clave y entidades interesadas.
+- Es **dinámica** y se puede prestar a correcciones en el curso de su ejecución.
 
 ## 2. Hacia las hojas de ruta nacionales de la CTI para los ODS
 
