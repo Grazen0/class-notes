@@ -6,11 +6,11 @@ Por ejemplo, para escribir "un párrafo sobre el **medio ambiente**", podemos ha
 
 Como siguiente paso, creamos un árbol de ideas:
 
-1. Idea #1
+1. **Idea #1**
 	1. Punto #1
 	2. Punto #2
 	3. ...
-2. Idea #2
+2. **Idea #2**
 	1. Punto #1
 	2. ...
 3. ...

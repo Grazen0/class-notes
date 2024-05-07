@@ -7,6 +7,7 @@ kanban-plugin: basic
 ## 🧱 Proyectos
 
 - [ ] **Patrimonio cultural**<br><br>**Problema:** Es peligroso cruzar Abancay para gente con discapacidad, negando el acceso a la Iglesia San Pedro.<br><br>- [x] Definir problema<br>- [x] Definir localidad<br>- [ ] Investigar y resumir<br>- [ ] Relación con ODS (la 11)<br>- [ ] Definir actores<br>- [ ] Analizar actores<br>- [ ] Identificar niveles de poder<br><br>#pi #lab #grupal
+- [ ] **Proyecto Comu**<br><br>#comu #lab #grupal <br><br>Característica: *(por definir)*<br><br>- [ ] Definir característica
 
 
 ## ☕ Tareas
@@ -30,15 +31,12 @@ kanban-plugin: basic
 ## 🧊 On Freeze
 
 - [ ] **05 - Artículo científico**<br><br>Escoger un artículo científico de CS y usar LitMaps para rastrear citas a dicho artículo.<br><br>Usar Google Académico<br><br>@{27-05-2024}<br>#intro-cs #teo
-- [ ] **Proyecto Comu**<br><br>#comu #lab #grupal <br><br>Característica: *(por definir)*<br><br>- [ ] Definir característica
 - [ ] **[[S14 - Renwick. Escrituralidad y oralidad]]**<br><br>@{02-07-2024}<br>#comu #teo
 
 
 ## 👍 Completado
 
 **Complete**
-- [x] **[[Características de la escritura formal]]**<br><br>Resolver ficha de trabajo<br><br>@{07-05-2024}<br><br>#comu #teo
-- [x] **[[S5,6 - Verdera. Enfoques sobre la pobreza]]**<br><br>- [x] Leído<br>- [x] Anotado<br><br>Evaluación en la próxima clase.<br><br>@{06-05-2024}<br>#pi #teo
 
 
 ***
@@ -56,6 +54,8 @@ kanban-plugin: basic
 - [x] **Prompts de ChatGPT sobre la comunicación**<br><br>(Enviar por el foro)<br><br>@{07-05-2024}<br>#comu #teo
 - [x] **Problemas de la semana**<br><br>- [x] Codeforces<br>- [x] AtCoder<br><br>@{05-05-2024}<br>#cpc
 - [x] **[[S5 - La Parra y Tortosa. Violencia estructural]]**<br><br>@{29-04-2024}<br>#pi #teo
+- [x] **[[Características de la escritura formal]]**<br><br>Resolver ficha de trabajo<br><br>@{07-05-2024}<br><br>#comu #teo
+- [x] **[[S5,6 - Verdera. Enfoques sobre la pobreza]]**<br><br>- [x] Leído<br>- [x] Anotado<br><br>Evaluación en la próxima clase.<br><br>@{06-05-2024}<br>#pi #teo
 
 %% kanban:settings
 ```
