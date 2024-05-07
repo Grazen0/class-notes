@@ -126,7 +126,7 @@ Un **sistema socio-técnico** es un sistema que busca balancear tanto los aspect
 
 ```
 
-Las tecnologías sociales son un proceso principalmente democrático para construir sistemas socio-técnicos de una forma **bottom-up***. Toma en cuenta las necesidades y la organización social de aquellos afectados por el problema.
+Las tecnologías sociales son un proceso principalmente democrático para construir sistemas socio-técnicos de una forma **bottom-up**. Toma en cuenta las necesidades y la organización social de aquellos afectados por el problema.
 
 - Se benefician de esto más los movimientos sociales que las instituciones.
 - Evitan soluciones que causen estigmatización.

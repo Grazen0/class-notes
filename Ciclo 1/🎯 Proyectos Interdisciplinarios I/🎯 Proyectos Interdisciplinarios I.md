@@ -1,3 +1,32 @@
+**[[Ciclo 1/🎯 Proyectos Interdisciplinarios I/Sílabo.pdf|Sílabo]]** - **[[Ciclo 1/🎯 Proyectos Interdisciplinarios I/Anexo.pdf|Anexo]]**
+
+## Índice
+
+%% Begin Waypoint %%
+- **Estudio**
+	- [[S6 - Control de lectura (CL)]]
+- **Lecturas**
+	- [[S2 - CCCTI. Acciones para el potenciamiento de la CTI en Perú]]
+	- [[S2 - Vasen. Giro postcompetitivo en la política de CTI]]
+	- [[S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS]]
+	- [[S5 - La Parra y Tortosa. Violencia estructural]]
+	- [[S5,6 - Verdera. Enfoques sobre la pobreza]]
+- **Notas**
+	- **Laboratorio**
+		- [[S1 - Los ODS y el patrimonio cultural]]
+		- [[S3 - Patrimonio cultural y el desarrollo sostenible]]
+		- [[S4 - Teoría de sistemas]]
+	- **Teoría**
+		- [[S2 - El giro postcompetitivo]]
+		- [[S3 - Desafíos globales y participación social]]
+		- [[S4 - De los ODM a los ODS]]
+		- [[S5 - Enfoques sobre la pobreza]]
+		- [[S6 - Índices para medir la pobreza]]
+- **Trabajos**
+	- [[El Problema como Sistema.excalidraw]]
+
+%% End Waypoint %%
+
 ## Profesores
 
 - **Teoría:** Giancarlo Marcone Flores

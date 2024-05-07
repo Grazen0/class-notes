@@ -1,3 +1,19 @@
+**[[Ciclo 1/💻 Programación I/Sílabo.pdf|Sílabo]]** - **[[Ciclo 1/💻 Programación I/Anexo (Teo).pdf|Anexo (Teo)]]** - **[[Ciclo 1/💻 Programación I/Anexo (Lab).pdf|Anexo (Lab)]]**
+
+## Índice
+
+%% Begin Waypoint %%
+- **Notas**
+	- [[S1 (Teo) - Introducción]]
+	- [[S1A (Lab) - Algoritmos]]
+	- [[S1B (Lab) - Introducción a Python]]
+	- [[S2 (Teo) - Elementos de un programa]]
+	- [[S3 (Teo) - Funciones]]
+	- [[S4 (Teo) - Bucles con while]]
+	- [[S5 (Teo) - Bucles anidados]]
+
+%% End Waypoint %%
+
 ## Profesores
 
 - **Teoría**: Maria Hilda Bermejo Rios

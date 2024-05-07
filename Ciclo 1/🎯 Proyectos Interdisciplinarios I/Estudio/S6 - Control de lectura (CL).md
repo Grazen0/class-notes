@@ -27,7 +27,7 @@ La razón por la que se favorece el enfoque de la innovación responsable es por
 
 ### Inclusión social
 
-El enfoque de la inclusión social 
+El enfoque de la inclusión social busca el desarrollo de la CTI con énfasis en el alcance y accesibilidad de la tecnología
 
 ## La guía para las hojas de ruta de CTI
 

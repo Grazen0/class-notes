@@ -1,3 +1,18 @@
+**[[Ciclo 1/💾 Introducción a Ciencias de la Computación/Sílabo.pdf|Sílabo]]** | **[[Ciclo 1/💾 Introducción a Ciencias de la Computación/Anexo (Teo).pdf|Anexo (Teo)]]** | **[[Ciclo 1/💾 Introducción a Ciencias de la Computación/Anexo (Lab).pdf|Anexo (Lab)]]**
+
+## Índice
+
+%% Begin Waypoint %%
+- **Notas**
+	- [[S1 - Introducción]]
+	- [[S2 - Más introducción]]
+	- [[S3 - Clustering]]
+- **Trabajos**
+	- [[01 - Herramienta de blurring para videos]]
+	- [[Análisis de un programa de doctorado]]
+
+%% End Waypoint %%
+
 ## Profesores
 
 Ian Paul Brossard Núñez

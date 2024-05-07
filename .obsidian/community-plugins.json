@@ -15,5 +15,6 @@
   "obsidian-vimrc-support",
   "obsidian-plugin-update-tracker",
   "obsidian-scroll-offset",
-  "folder-note-plugin"
+  "folder-note-plugin",
+  "waypoint"
 ]
