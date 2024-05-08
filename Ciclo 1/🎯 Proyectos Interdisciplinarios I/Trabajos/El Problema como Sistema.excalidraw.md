@@ -291,8 +291,8 @@ Sistema social de discapacidad motriz ^gViLEJvo
 		},
 		{
 			"type": "arrow",
-			"version": 439,
-			"versionNonce": 1690256009,
+			"version": 488,
+			"versionNonce": 269572105,
 			"index": "a6",
 			"isDeleted": false,
 			"id": "7XvfaxabRk_UC7LazuQgT",
@@ -302,12 +302,12 @@ Sistema social de discapacidad motriz ^gViLEJvo
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -66.58937556374543,
-			"y": -188.23847025010105,
+			"x": -62.17722357612033,
+			"y": -188.7630601294875,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 0.12731677173292155,
-			"height": 146.01489773882972,
+			"width": 3.279924154280941,
+			"height": 146.53948761821619,
 			"seed": 1628761746,
 			"groupIds": [],
 			"frameId": null,
@@ -320,7 +320,7 @@ Sistema social de discapacidad motriz ^gViLEJvo
 					"id": "mXtEt2yA"
 				}
 			],
-			"updated": 1715179410170,
+			"updated": 1715180186963,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -342,15 +342,15 @@ Sistema social de discapacidad motriz ^gViLEJvo
 					0
 				],
 				[
-					-0.12731677173292155,
-					146.01489773882972
+					-3.279924154280941,
+					146.53948761821619
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 84,
-			"versionNonce": 1754234761,
+			"version": 85,
+			"versionNonce": 86220935,
 			"index": "a7",
 			"isDeleted": false,
 			"id": "mXtEt2yA",
@@ -360,7 +360,7 @@ Sistema social de discapacidad motriz ^gViLEJvo
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -130.43297169633348,
+			"x": -130.4329716937525,
 			"y": -140.23102138068617,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -371,7 +371,7 @@ Sistema social de discapacidad motriz ^gViLEJvo
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715179407490,
+			"updated": 1715180180526,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -744,8 +744,8 @@ Sistema social de discapacidad motriz ^gViLEJvo
 		},
 		{
 			"type": "text",
-			"version": 64,
-			"versionNonce": 517724042,
+			"version": 91,
+			"versionNonce": 1466799689,
 			"index": "aG",
 			"isDeleted": false,
 			"id": "0iB82Rq9",
@@ -755,12 +755,12 @@ Sistema social de discapacidad motriz ^gViLEJvo
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -110.20835184123001,
-			"y": -215.55796677383393,
+			"x": -116.25753160000289,
+			"y": -221.0825566532204,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 94.22393798828125,
-			"height": 20,
+			"width": 117.77993774414062,
+			"height": 25,
 			"seed": 1899604558,
 			"groupIds": [],
 			"frameId": null,
@@ -771,10 +771,10 @@ Sistema social de discapacidad motriz ^gViLEJvo
 					"type": "arrow"
 				}
 			],
-			"updated": 1715177546420,
+			"updated": 1715180186962,
 			"link": null,
 			"locked": false,
-			"fontSize": 16,
+			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "Av. Abancay",
 			"rawText": "Av. Abancay",
@@ -1656,14 +1656,14 @@ Sistema social de discapacidad motriz ^gViLEJvo
 		"currentItemRoughness": 1,
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 1,
-		"currentItemFontSize": 28,
+		"currentItemFontSize": 20,
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "triangle_outline",
-		"scrollX": 463.2161247306742,
-		"scrollY": 245.8130177453324,
+		"scrollX": 722.2963666952091,
+		"scrollY": 350.24848234521954,
 		"zoom": {
-			"value": 1.0423878696535018
+			"value": 0.7243585208373083
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
