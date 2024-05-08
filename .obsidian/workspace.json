@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3264978d2d94c54a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Estudio/S6 - Control de lectura (CL).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f67c8fb61b6582de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S2 - Vasen. Giro postcompetitivo en la política de CTI.md",
+                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/🎯 Proyectos Interdisciplinarios I.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -126,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Estudio/S6 - Control de lectura (CL).md"
+                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/🎯 Proyectos Interdisciplinarios I.md"
               }
             }
           },
@@ -165,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,23 +195,25 @@
           }
         ],
         "direction": "vertical",
-        "x": -1298,
-        "y": 0,
-        "width": 1298,
-        "height": 384,
-        "maximize": false,
+        "x": -1284,
+        "y": 11,
+        "width": 1279,
+        "height": 705,
+        "maximize": true,
         "zoom": -0.5
       }
     ]
   },
-  "active": "a8b522a39de1c274",
+  "active": "f67c8fb61b6582de",
   "lastOpenFiles": [
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Vasen. Giro postcompetitivo en la política de CTI.pdf",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Estudio/S6 - Control de lectura (CL).md",
-    "Kanban.md",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S2 - Vasen. Giro postcompetitivo en la política de CTI.md",
-    "Ciclo 1/💻 Programación I/💻 Programación I.md",
+    "Ciclo 1/Notas diarias/Notas diarias.md",
+    "Untitled.excalidraw.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/🎯 Proyectos Interdisciplinarios I.md",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S2 - Vasen. Giro postcompetitivo en la política de CTI.md",
+    "Kanban.md",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Estudio/S6 - Control de lectura (CL).md",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Vasen. Giro postcompetitivo en la política de CTI.pdf",
+    "Ciclo 1/💻 Programación I/💻 Programación I.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/✍ Laboratorio de Comunicación I.md",
     "Ciclo 1/🚀 CMA/🚀 CMA.md",
     "Ciclo 1/📈 Cálculo de Una Variable/📈 Cálculo de Una Variable.md",
@@ -249,7 +239,6 @@
     "Ciclo 1/🍎 Matemáticas Discretas I/Notas/III. Lógica/S6 - Cuantificadores.md",
     "Ciclo 1/Horario.pdf",
     "Ciclo 1/💻 Programación I/Anexo (Lab).pdf",
-    "Ciclo 1/Notas diarias/07-05-2024.md",
     "Ciclo 1/📈 Cálculo de Una Variable/Sistema de evaluación.pdf",
     "Ciclo 1/💻 Programación I/Anexo (Teo).pdf",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Sílabo.pdf",
