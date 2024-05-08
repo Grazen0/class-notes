@@ -125,5 +125,28 @@ collapse: closed
 
 ## Cuantificadores anidados
 
-Proposiciones abiertas que dependen de **dos parámetros**, en la forma $p(x, y)$.
+```ad-note
+title: Nota: Funciones proposicionales de 2 variables
+collapse: closed
 
+Una función proposicional de 2 variables tiene la forma $p(x, y)$. Algunos ejemplos son:
+
+- $p(x,y) : x < y$
+	- $p(0,4) : 0 < 4$ (**Verdadero**)
+	- $p(-2,-2) : -2 < -2$ (**Falso**)
+	- $p(-5,0) : -5 < 0$ (**Verdadero**)
+- $q(x,y) : x + y \in \Z$
+	- $q\left( \frac{1}{2}, \frac{1}{2} \right)$ (**Verdadero**)
+	- $q(-2, \frac{1}{2})$ (**Falso**)
+	- $q(2,38)$ (**Verdadero**)
+- $r(x,y) : x^{2} = y$
+	- $\forall x \in \Z : R(x,x)$ (**Falso**, $2^{2} \neq 2$)
+	- $r(x,5) \iff x \in \left\{ -\sqrt{5}, \sqrt{5} \right\}$
+
+```
+
+Un cuantificador anidado es de la siguiente forma:
+
+$$
+\forall x \in A : (\forall y \in B : p(x,y))
+$$
