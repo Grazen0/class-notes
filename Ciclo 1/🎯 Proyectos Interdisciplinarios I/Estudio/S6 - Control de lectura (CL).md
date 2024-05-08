@@ -31,6 +31,10 @@ La razón por la que se favorece el enfoque de la innovación responsable es por
 
 El enfoque de la inclusión social busca el desarrollo de la CTI con énfasis en abordar temáticas de pobreza y desigualdad, especialmente en los países menos desarrollados.
 
+#### Tecnologías sociales
+
+Las tecnologías sociales son una propuesta para innovar no sólo en la tecnología, sino en los **sistemas socio-técnicos**. Esta propuesta postula que estas innovaciones socio-técnicas deben tener un crucial enfoque "bottom-up". Es decir, su desarrollo debe comenzar desde las aportaciones del 
+
 ## La guía para las hojas de ruta de CTI
 
 [[S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS]]
