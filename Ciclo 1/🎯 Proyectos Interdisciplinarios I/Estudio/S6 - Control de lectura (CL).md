@@ -3,8 +3,6 @@
 [[S2 - El giro postcompetitivo]]
 [[S2 - Vasen. Giro postcompetitivo en la política de CTI]]
 
-<img src="C:\\Users\\josed\\Downloads\\image_5.jpg" style="width:100%" />
-
 Vasen denomina al fenómeno descrito como un giro "postcompetitivo" porque hace énfasis en que este fenómeno se ha desarrollado tras una época de tendencias marcadamente competitivas en el desarrollo de la CTI. Esta tendencia previa consistía en un desarrollo de la CTI basado puramente en el movimiento del mercado y la economía, con un enfoque importante en la competencia.
 
 La razón por la que Vasen favorece el giro postcompetitivo es porque el desarrollo de la sociedad a través del tiempo y los cambios en perspectiva globales han demostrado que no es suficiente que la CTI sea dirigida por el mercado y las leyes de oferta y demanda, sino que la CTI requiere de más "input" para cumplir efectivamente con las necesidades reales de la sociedad.
