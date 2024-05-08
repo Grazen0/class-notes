@@ -1018,8 +1018,8 @@ Sistema social de discapacidad motriz ^gViLEJvo
 		},
 		{
 			"type": "arrow",
-			"version": 263,
-			"versionNonce": 472262313,
+			"version": 265,
+			"versionNonce": 2108437097,
 			"index": "aM",
 			"isDeleted": false,
 			"id": "XfDJBE1A3dUUVHpw7fXfY",
@@ -1035,7 +1035,7 @@ Sistema social de discapacidad motriz ^gViLEJvo
 			"backgroundColor": "transparent",
 			"width": 167.03741643942863,
 			"height": 151.75299546560726,
-			"seed": 1987074190,
+			"seed": 1722977671,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
@@ -1047,7 +1047,7 @@ Sistema social de discapacidad motriz ^gViLEJvo
 					"id": "8KFTBmee"
 				}
 			],
-			"updated": 1715179410170,
+			"updated": 1715182908705,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1660,10 +1660,10 @@ Sistema social de discapacidad motriz ^gViLEJvo
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "triangle_outline",
-		"scrollX": 722.2963666952091,
-		"scrollY": 350.24848234521954,
+		"scrollX": 459.2814793974027,
+		"scrollY": 221.71035870698813,
 		"zoom": {
-			"value": 0.7243585208373083
+			"value": 0.9743585208373086
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

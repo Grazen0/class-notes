@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5fc78aabff91b770",
+        "id": "cf0eacc8babd6874",
         "type": "tabs",
         "children": [
           {
-            "id": "19e16ac0194ee5fd",
+            "id": "94aa117e79ef4736",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Trabajos/El Problema como Sistema.excalidraw.md"
+                "file": "Ciclo 1/Notas diarias/08-05-2024.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -76,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Trabajos/El Problema como Sistema.excalidraw.md"
+                "file": "Ciclo 1/Notas diarias/08-05-2024.md"
               }
             }
           },
@@ -129,11 +132,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "19e16ac0194ee5fd",
+  "active": "94aa117e79ef4736",
   "lastOpenFiles": [
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/🎯 Proyectos Interdisciplinarios I.md",
     "Kanban.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Trabajos/El Problema como Sistema.excalidraw.md",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/🎯 Proyectos Interdisciplinarios I.md",
     "Ciclo 1/Notas diarias/08-05-2024.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/🍎 Matemáticas Discretas I.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Anexo.pdf",
