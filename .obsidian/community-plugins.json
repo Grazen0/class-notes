@@ -18,5 +18,7 @@
   "waypoint",
   "url-into-selection",
   "execute-code",
-  "cm-editor-syntax-highlight-obsidian"
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-image-toolkit",
+  "obsidian-outliner"
 ]
