@@ -122,3 +122,8 @@ collapse: closed
 6. $\neg(\exists y \in \left\{ 1,2,3,4,5,6 \right\} : y^{2} = 4 \implies y = 2) \equiv \forall y \in \left\{ 1,2,3,4,5,6 \right\} : y^{2} = 4\ \land\ y \neq 2$
 
 ```
+
+## Cuantificadores anidados
+
+Proposiciones abiertas que dependen de **dos parámetros**, en la forma $p(x, y)$.
+
