@@ -1,4 +1,4 @@
-**[[Ciclo 1/🍎 Matemáticas Discretas I/Sílabo.pdf|Sílabo]]** - **[[Evaluaciones.pdf|Evaluaciones]]**
+**[[Ciclo 1/🍎 Matemáticas Discretas I/Sílabo.pdf|Sílabo]]** | **[[Evaluaciones.pdf|Evaluaciones]]**
 
 ## Índice
 

@@ -33,12 +33,14 @@ El enfoque de la inclusión social busca el desarrollo de la CTI con énfasis en
 
 #### Tecnologías sociales
 
-Las tecnologías sociales son una propuesta para innovar no sólo en la tecnología, sino en los **sistemas socio-técnicos**. Esta propuesta postula que estas innovaciones socio-técnicas deben tener un crucial enfoque "bottom-up". Es decir, su desarrollo debe comenzar desde las aportaciones del 
+Las tecnologías sociales son una propuesta para innovar no sólo en la tecnología, sino en los **sistemas socio-técnicos**. Esta propuesta postula que estas innovaciones socio-técnicas deben tener un crucial enfoque "bottom-up", donde se busque 
 
 ## La guía para las hojas de ruta de CTI
 
 [[S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS]]
 [[S4 - De los ODM a los ODS]]
+
+Las hojas de ruta de CTI para los ODS son planes gubernamentales diseñados para guiar el desarrollo de la ciencia, tecnología e innovación en el país con un enfoque en cumplir los ODS establecidos por la ONU. Este texto es un documento guía con indicaciones y recomendaciones para crear estas hojas de ruta. Tiene un enfoque inclusivo y global, ya que busca 
 ## Violencia estructural (La Parra y Tortosa)
 
 [[S5 - La Parra y Tortosa. Violencia estructural]]

@@ -1,4 +1,4 @@
-**[[Ciclo 1/✍ Laboratorio de Comunicación I/Sílabo.pdf|Sílabo]]** - **[[Ciclo 1/✍ Laboratorio de Comunicación I/Anexo.pdf|Anexo]]** - **[[Cronograma.pdf|Cronograma]]** - **[[MANUAL APA 2020.pdf|Manual APA]]**
+**[[Ciclo 1/✍ Laboratorio de Comunicación I/Sílabo.pdf|Sílabo]]** | **[[Ciclo 1/✍ Laboratorio de Comunicación I/Anexo.pdf|Anexo]]** | **[[Cronograma.pdf|Cronograma]]** | **[[MANUAL APA 2020.pdf|Manual APA]]**
 
 ## Índice
 

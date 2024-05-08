@@ -4,7 +4,7 @@
 
 %% Begin Waypoint %%
 - **Notas**
-	- [[S1 - Introducción]]
+	- [[Ciclo 1/💾 Introducción a Ciencias de la Computación/Notas/S1 - Introducción]]
 	- [[S2 - Más introducción]]
 	- [[S3 - Clustering]]
 - **Trabajos**

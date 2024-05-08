@@ -1,17 +1,20 @@
-**[[Ciclo 1/💻 Programación I/Sílabo.pdf|Sílabo]]** - **[[Ciclo 1/💻 Programación I/Anexo (Teo).pdf|Anexo (Teo)]]** - **[[Ciclo 1/💻 Programación I/Anexo (Lab).pdf|Anexo (Lab)]]**
+**[[Ciclo 1/💻 Programación I/Sílabo.pdf|Sílabo]]** | **[[Ciclo 1/💻 Programación I/Anexo (Teo).pdf|Anexo (Teo)]]** | **[[Ciclo 1/💻 Programación I/Anexo (Lab).pdf|Anexo (Lab)]]**
 
 ## Índice
 
 %% Begin Waypoint %%
 - **Notas**
-	- [[S1 (Teo) - Introducción]]
-	- [[S1A (Lab) - Algoritmos]]
-	- [[S1B (Lab) - Introducción a Python]]
-	- [[S2 (Teo) - Elementos de un programa]]
-	- [[S3 (Teo) - Funciones]]
-	- [[S4 (Teo) - Bucles con while]]
-	- [[S5 (Teo) - Bucles anidados]]
-	- [[S6 (Teo) - Bucles con for]]
+	- **Laboratorio**
+		- [[S1A - Algoritmos]]
+		- [[S1B - Introducción a Python]]
+	- [[S6B - Funciones]]
+	- **Teoría**
+		- [[S1 - Introducción]]
+		- [[S2 - Elementos de un programa]]
+		- [[S3 - Funciones]]
+		- [[S4 - Bucles con while]]
+		- [[S5  - Bucles anidados]]
+		- [[S6A - Bucles con for]]
 
 %% End Waypoint %%
 
