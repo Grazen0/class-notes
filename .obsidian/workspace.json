@@ -13,8 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Estudio/S6 - Control de lectura (CL).md",
-                "mode": "source",
+                "file": "Ciclo 1/💾 Introducción a Ciencias de la Computación/Trabajos/01 - Herramienta de blurring para videos.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38451d7d6c50d8c8",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Kanban.md"
+              }
+            }
+          },
+          {
+            "id": "dd1b493ae53914d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5 - La Parra y Tortosa. Violencia estructural.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -79,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Estudio/S6 - Control de lectura (CL).md"
+                "file": "Ciclo 1/💾 Introducción a Ciencias de la Computación/Trabajos/01 - Herramienta de blurring para videos.md"
               }
             }
           },
@@ -170,10 +193,13 @@
   "active": "c1ffcdf9adc4177a",
   "lastOpenFiles": [
     "Kanban.md",
+    "Ciclo 1/💾 Introducción a Ciencias de la Computación/Trabajos/01 - Herramienta de blurring para videos.md",
+    "Ciclo 1/💾 Introducción a Ciencias de la Computación/💾 Introducción a Ciencias de la Computación.md",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Estudio/S6 - Control de lectura (CL).md",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5 - La Parra y Tortosa. Violencia estructural.md",
     "Ciclo 1/📈 Cálculo de Una Variable/📈 Cálculo de Una Variable.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/✍ Laboratorio de Comunicación I.md",
     "Ciclo 1/📈 Cálculo de Una Variable/Sílabo.pdf",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5 - La Parra y Tortosa. Violencia estructural.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS.md",
     "Ciclo 1/🚀 CMA/🚀 CMA.md",
     "Recording 20240507200505.webm",
@@ -181,11 +207,9 @@
     "Ciclo 1/Notas diarias/Notas diarias.md",
     "Untitled.excalidraw.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S2 - Vasen. Giro postcompetitivo en la política de CTI.md",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Estudio/S6 - Control de lectura (CL).md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Vasen. Giro postcompetitivo en la política de CTI.pdf",
     "Ciclo 1/💻 Programación I/💻 Programación I.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/🍎 Matemáticas Discretas I.md",
-    "Ciclo 1/💾 Introducción a Ciencias de la Computación/💾 Introducción a Ciencias de la Computación.md",
     "Ciclo 1/💻 Programación I/Notas/Laboratorio/S1A - Algoritmos.md",
     "Ciclo 1/💻 Programación I/Notas/Laboratorio/S1B - Introducción a Python.md",
     "Ciclo 1/💻 Programación I/Notas/Recursos/ascii_table.png",
