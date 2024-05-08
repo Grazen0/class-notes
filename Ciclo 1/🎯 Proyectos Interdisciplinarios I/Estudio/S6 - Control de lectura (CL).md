@@ -40,7 +40,9 @@ Las tecnologías sociales son una propuesta para innovar no sólo en la tecnolog
 [[S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS]]
 [[S4 - De los ODM a los ODS]]
 
-Las hojas de ruta de CTI para los ODS son planes gubernamentales diseñados para guiar el desarrollo de la ciencia, tecnología e innovación en el país con un enfoque en cumplir los ODS establecidos por la ONU. Este texto es un documento guía con indicaciones y recomendaciones para crear estas hojas de ruta. Tiene un enfoque inclusivo y global, ya que busca 
+Las hojas de ruta de CTI para los ODS son planes gubernamentales diseñados para guiar el desarrollo de la ciencia, tecnología e innovación en el país con un enfoque en cumplir los ODS establecidos por la ONU. Este texto es un documento guía con indicaciones y recomendaciones para crear estas hojas de ruta. Tiene un enfoque inclusivo y global, ya que busca ser de utilidad para todos los países.
+
+
 ## Violencia estructural (La Parra y Tortosa)
 
 [[S5 - La Parra y Tortosa. Violencia estructural]]
