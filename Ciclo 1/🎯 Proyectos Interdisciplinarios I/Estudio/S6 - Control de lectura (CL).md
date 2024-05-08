@@ -52,3 +52,6 @@ Se prefiere el término "violencia estructural" por algunas razones:
 1. Vincula a la violencia directa con la violencia estructural, ya que una lleva a la otra
 2. Inhibe cualquier posibilidad de intentar "justificar" los actos de violencia estructural
 3. Tanto la violencia física como la estructural tienen algo en común: **privan de los derechos humanos**
+4. Muestra que el causante es el **ejercicio de poder**.
+
+
