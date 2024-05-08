@@ -46,3 +46,11 @@ Las hojas de ruta de CTI para los ODS son planes gubernamentales diseñados para
 ## Violencia estructural (La Parra y Tortosa)
 
 [[S5 - La Parra y Tortosa. Violencia estructural]]
+
+La violencia estructural es la denominación que La Parra y Tortosa le dan a aquella violencia no directa ni física, sino aplicada por medio de las estructuras sociales y que afecta a cierta demográfica.
+
+Se prefiere el término "violencia estructural" por algunas razones:
+
+1. Vincula a la violencia directa con la violencia estructural, ya que una lleva a la otra
+2. Inhibe cualquier posibilidad de intentar "justificar" los actos de violencia estructural
+3. Tanto la violencia física como la estructural tienen algo en común: **privan de los derechos humanos**
