@@ -735,6 +735,88 @@ Tema muy específico ^nQeb8fZd
 					15.156157903750398
 				]
 			]
+		},
+		{
+			"id": "wOhQbipkV_2rzDUjzgYQg",
+			"type": "arrow",
+			"x": -560.108315078863,
+			"y": -269.59507839167156,
+			"width": 170.40262858072913,
+			"height": 272.64414469401044,
+			"angle": 0,
+			"strokeColor": "#343a40",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "aI",
+			"roundness": {
+				"type": 2
+			},
+			"seed": 46666247,
+			"version": 61,
+			"versionNonce": 1617619143,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1715194761932,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					170.40262858072913,
+					272.64414469401044
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "5HGhlhVA",
+			"type": "text",
+			"x": -282.1237230649742,
+			"y": 93.22962863957844,
+			"width": 18,
+			"height": 45,
+			"angle": 0,
+			"strokeColor": "#343a40",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "aJ",
+			"roundness": null,
+			"seed": 603571081,
+			"version": 9,
+			"versionNonce": 1539762825,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1715194759396,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 36,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -752,8 +834,8 @@ Tema muy específico ^nQeb8fZd
 		"currentItemTextAlign": "center",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 800.6212477503041,
-		"scrollY": 330.12983960857696,
+		"scrollX": 751.4878791522137,
+		"scrollY": 354.41599954781304,
 		"zoom": {
 			"value": 0.9
 		},
