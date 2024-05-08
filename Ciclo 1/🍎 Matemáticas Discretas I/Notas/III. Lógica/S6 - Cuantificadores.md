@@ -93,3 +93,32 @@ Sea $x \in \Z$, $x \geq 11$ y $x \leq -2$ implican que $x$ es positivo y negativ
 La proposición es **falsa**.
 
 ```
+
+## Negación de cuantificadores
+
+Parecido a las leyes de Morgan, negar un cuantificador cambia de universal a existencial (o viceversa) y niega la proposición involucrada.
+
+### Universal
+
+$$
+\neg\left( \forall x \in A : P(x) \right) \equiv \exists x \in A : \neg P(x)
+$$
+
+### Existencial
+
+$$
+\neg\left( \exists x \in A : P(x) \right) \equiv \forall x \in A : \neg P(x)
+$$
+
+```ad-example
+title: Ejemplos
+collapse: closed
+
+1. $\neg(\forall x \in \Z : x^{2} \geq 0) \equiv \exists x \in \Z : x^{2} < 0$
+2. $\neg(\forall x \in \R : x > 11\ \lor\ x < 12) \equiv \exists x \in \R : x \leq 11\ \land\ x \geq 12$
+3. $\neg(\forall x \in \R : x \in \Q) \equiv \exists x \in \R : x \notin \Q$
+4. $\neg\left( \exists x \in \left\{ 1, 2, 3, 4 \right\} : x > \frac{x}{2} \right) \equiv \forall x \in \left\{ 1,2,3,4 \right\} : x \leq \frac{x}{2}$
+5. $\neg(\forall a \in \Z : \text{\(a\) es divisor de \(a + 3\)}) \equiv \exists a \in \Z : \text{\(a\) no es divisor de \(a + 3\)}$
+6. $\neg(\exists y \in \left\{ 1,2,3,4,5,6 \right\} : y^{2} = 4 \implies y = 2) \equiv \forall y \in \left\{ 1,2,3,4,5,6 \right\} : y^{2} = 4\ \land\ y \neq 2$
+
+```

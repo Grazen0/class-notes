@@ -24,9 +24,12 @@
             "id": "38bf8ae47bd29a08",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanban.md"
+                "file": "Ciclo 1/🍎 Matemáticas Discretas I/Notas/III. Lógica/S6 - Cuantificadores.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -90,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban.md"
+                "file": "Ciclo 1/🍎 Matemáticas Discretas I/Notas/III. Lógica/S6 - Cuantificadores.md"
               }
             }
           },
@@ -145,11 +148,12 @@
   },
   "active": "38bf8ae47bd29a08",
   "lastOpenFiles": [
-    "Ciclo 1/Notas diarias/08-05-2024.md",
-    "Kanban.md",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Trabajos/El Problema como Sistema.excalidraw.md",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/🎯 Proyectos Interdisciplinarios I.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/🍎 Matemáticas Discretas I.md",
+    "Ciclo 1/🍎 Matemáticas Discretas I/Notas/III. Lógica/Untitled.md",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/🎯 Proyectos Interdisciplinarios I.md",
+    "Kanban.md",
+    "Ciclo 1/Notas diarias/08-05-2024.md",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Trabajos/El Problema como Sistema.excalidraw.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Anexo.pdf",
     "Ciclo 1/✍ Laboratorio de Comunicación I/✍ Laboratorio de Comunicación I.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5 - La Parra y Tortosa. Violencia estructural.md",
@@ -177,7 +181,6 @@
     "Ciclo 1/💻 Programación I/Notas/Recursos/ascii_table.png",
     "Ciclo 1/💻 Programación I/Notas/Teoría/S6A - Bucles con for.md",
     "Ciclo 1/💻 Programación I/Notas/Teoría/S5  - Bucles anidados.md",
-    "Ciclo 1/💻 Programación I/Notas/Teoría/S4 - Bucles con while.md",
     "Ciclo 1/💻 Programación I/Notas/Laboratorio",
     "Ciclo 1/💻 Programación I/Notas/Teoría",
     "Ciclo 1/Horario.pdf",
