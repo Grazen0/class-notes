@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "432750c9acd5b887",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Estudio/S6 - Control de lectura (CL).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "38afd0aba51edf64",
             "type": "leaf",
             "state": {
@@ -31,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -147,11 +160,12 @@
   "lastOpenFiles": [
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S5 - La Parra y Tortosa. Violencia estructural.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Estudio/S6 - Control de lectura (CL).md",
+    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/La Parra y Tortosa. Violencia Estructural.pdf",
+    "Kanban.md",
     "Ciclo 1/Notas diarias/07-05-2024.md",
     "Ciclo 1/💾 Introducción a Ciencias de la Computación/💾 Introducción a Ciencias de la Computación.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/Steven Pinker. La tabla rasa.pdf",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S10 - Steven Pinker. La tabla rasa (Cáp. 17).md",
-    "Kanban.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Vasen. Giro postcompetitivo en la política de CTI.pdf",
     "Ciclo 1/💾 Introducción a Ciencias de la Computación/Trabajos/01 - Herramienta de blurring para videos.md",
     "Ciclo 1/📈 Cálculo de Una Variable/📈 Cálculo de Una Variable.md",
@@ -177,8 +191,6 @@
     "Ciclo 1/💻 Programación I/Notas/Teoría/S2 - Elementos de un programa.md",
     "Ciclo 1/💻 Programación I/Notas/Laboratorio",
     "Ciclo 1/💻 Programación I/Notas/Teoría",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Laboratorio/S4 - Teoría de sistemas.md",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/La Parra y Tortosa. Violencia Estructural.pdf",
     "Ciclo 1/Horario.pdf",
     "Ciclo 1/💻 Programación I/Anexo (Lab).pdf",
     "Ciclo 1/📈 Cálculo de Una Variable/Sistema de evaluación.pdf",
