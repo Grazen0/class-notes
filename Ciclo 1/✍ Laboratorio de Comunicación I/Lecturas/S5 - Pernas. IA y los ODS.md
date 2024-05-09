@@ -108,3 +108,4 @@ Se necesita crear **principios éticos y jurídicos** modernos que garanticen el
 
 ### Posturas sobre el control de la IA
 
+Múltiples autores opinan que **la IA debe frenarse** hasta surgir herramientas para controlarla.
