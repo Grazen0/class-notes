@@ -129,3 +129,7 @@ title: Princpios básicos para regular tecnología
 
 Los ODS son un **llamado universal a la acción** para cumplir metas sobre la pobreza, el medio ambiente y la vida de las personas. Son una continuación de los *Objetivos de Desarrollo del Milenio* (ODM).
 
+La IA, en el ámbito de los ODS, puede ser de gran ayuda para luchar contra la pobreza, la desigualdad y los problemas sociales que abordan los ODS.
+
+**Término clave**: AI4SG (AI for social good)
+
