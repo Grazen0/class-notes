@@ -72,11 +72,13 @@ Sin embargo, **la IA claramente ya existe** e impacta a la sociedad.
 
 De estas clasificaciones, todas las IAs actuales son "débiles".
 
-### III. Riesgos y potencialidades de la IA
+## III. Riesgos y potencialidades de la IA
 
 El desarrollo de la IA no ha tomado en cuenta la **seguridad**, y existen asuntos **éticos** y **jurídicos** que deben verse.
 
-Algunos riesgos son:
+### Riesgos de la IA
+
+Algunos riesgos de la IA son:
 
 - **Falta de transparencia (*Black box*)**
 	- La IA no se puede controlar, y rara vez se pueden explicar sus acciones.
@@ -94,4 +96,15 @@ Algunos riesgos son:
 	- Riesgos en ciberseguridad.
 	- Riesgos de no poder controlar una herramienta tan versátil.
 - **Ciberseguridad**
-	- 
+	- La toma de decisiones con IA para asuntos de seguridad nacional es peligrosa.
+	- Derechos ciudadanos afectados por la vigilancia con IA.
+
+Se necesita crear **principios éticos y jurídicos** modernos que garanticen el bienestar en el mundo digital.
+
+### El futuro de la IA
+
+- **Test de Turing superado para 2030** (Kurzweil)
+- **Inteligencia humana superada para 2045**, consciencia y logro de objetivos globales.
+
+### Posturas sobre el control de la IA
+
