@@ -6,7 +6,6 @@
   "obsidian-latex",
   "obsidian-git",
   "homepage",
-  "obsidian-kanban",
   "obsidian-latex-suite",
   "obsidian-functionplot",
   "omnisearch",
@@ -20,5 +19,5 @@
   "execute-code",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-outliner",
-  "obsidian-image-toolkit"
+  "obsidian-kanban"
 ]

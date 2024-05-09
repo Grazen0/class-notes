@@ -8,19 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ea349c6aabb41b9f",
+            "id": "389af732af507804",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciclo 1/📈 Cálculo de Una Variable/📈 Cálculo de Una Variable.md",
+                "file": "Ciclo 1/Notas diarias/07-05-2024.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "5724eb95acda8ab8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S5 - Pernas. IA y los ODS.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo 1/📈 Cálculo de Una Variable/📈 Cálculo de Una Variable.md"
+                "file": "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S5 - Pernas. IA y los ODS.md"
               }
             }
           },
@@ -99,8 +113,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "edf3a3213405c228",
@@ -133,21 +146,60 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c42eb77929d897b7",
+  "floating": {
+    "id": "288edb7c4566b82e",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a455160581a34159",
+        "type": "window",
+        "children": [
+          {
+            "id": "0664a7b2d4f098e0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9d299c616ca69570",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/Pernas. IA y los ODS.pdf"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -259,
+        "y": 367,
+        "width": 1024,
+        "height": 767,
+        "maximize": true,
+        "zoom": -0.5
+      }
+    ]
+  },
+  "active": "5724eb95acda8ab8",
   "lastOpenFiles": [
+    "Ciclo 1/Notas diarias/07-05-2024.md",
+    "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S5 - Pernas. IA y los ODS.md",
+    "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/Pernas. IA y los ODS.pdf",
+    "Kanban.md",
+    "Ciclo 1/Notas diarias/08-05-2024.md",
+    "Untitled.md",
+    "Ciclo 1/🍎 Matemáticas Discretas I/🍎 Matemáticas Discretas I.md",
+    "Ciclo 1/✍ Laboratorio de Comunicación I/✍ Laboratorio de Comunicación I.md",
+    "Ciclo 1/📈 Cálculo de Una Variable/📈 Cálculo de Una Variable.md",
     "Ciclo 1/🚀 CMA/🚀 CMA.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Teoría/S6A - Redacción del párrafo.md",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/Ejemplo de planificacion de parrafo.excalidraw.md",
-    "Ciclo 1/✍ Laboratorio de Comunicación I/✍ Laboratorio de Comunicación I.md",
-    "Ciclo 1/🍎 Matemáticas Discretas I/🍎 Matemáticas Discretas I.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/🎯 Proyectos Interdisciplinarios I.md",
-    "Kanban.md",
     "Ciclo 1/💾 Introducción a Ciencias de la Computación/Trabajos/01 - Herramienta de blurring para videos.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Notas/III. Lógica/S2D,3 - Lógica proposicional.md",
     "Untitled.canvas",
-    "Ciclo 1/Notas diarias/08-05-2024.md",
     "Ciclo 1/Notas diarias/30-04-2024.md",
-    "Ciclo 1/Notas diarias/07-05-2024.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Notas/III. Lógica/S6 - Cuantificadores.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/Notas/III. Lógica/Untitled.md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Trabajos/El Problema como Sistema.excalidraw.md",
@@ -162,17 +214,12 @@
     "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/Steven Pinker. La tabla rasa.pdf",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S10 - Steven Pinker. La tabla rasa (Cáp. 17).md",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Vasen. Giro postcompetitivo en la política de CTI.pdf",
-    "Ciclo 1/📈 Cálculo de Una Variable/📈 Cálculo de Una Variable.md",
     "Ciclo 1/📈 Cálculo de Una Variable/Sílabo.pdf",
-    "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS.md",
     "Recording 20240507200505.webm",
-    "Ciclo 1/Notas diarias/Notas diarias.md",
-    "Untitled.excalidraw.md",
     "Ciclo 1/💻 Programación I/Notas/Recursos/ascii_table.png",
     "Ciclo 1/💻 Programación I/Notas/Laboratorio",
     "Ciclo 1/💻 Programación I/Notas/Teoría",
     "Ciclo 1/Horario.pdf",
-    "Ciclo 1/💻 Programación I/Anexo (Lab).pdf",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/NOESTOYGRITANDO.png",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/Las Meninas de Velasquez.jpg",
     "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/Comic marcianito baño (1).png",

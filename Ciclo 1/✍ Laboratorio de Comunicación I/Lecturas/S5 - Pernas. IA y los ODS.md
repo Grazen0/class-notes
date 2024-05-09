@@ -14,11 +14,29 @@ Este artículo busca **analizar la relación entre la IA y los ODS**, a partir d
 
 ### Historia y origen
 
-En 1937, Turing diseña el primer ordenador moderno digital, y funda la informática.
+#### Primera fase (siglo XIX-XX)
 
-Se plantea y reflexiona sobre lo que significa "pensar", y cómo una máquina podría posiblemente hacerlo.
+- **Charles Babbage** y **Ada Lovelace** conciben las bases de la computación.
+- En 1937, **Alan Turing** diseña el ordenador moderno y funda la informática.
+	- Turing se reflexiona sobre lo que significa "**pensar**".
+	- Turing diseña el ***juego de la imitación***.
+- En 1965, **John McCarthy** dirige un seminario donde nace la IA.
 
-Turing habla del **juego de imitación**, un "juego" que consiste de una computadora intentando hacerse pasar por un ser humano de tal forma que pudiera convencer a un evaluador de ser un humano.
+#### Segunda fase (1980)
+
+- Interés de **EEUU** y el **Reino Unido**, realizan programas como Darpa.
+- Los proyectos no llegan a mucho.
+
+#### Tercera fase (1990)
+
+- El **poder de las computadoras** había aumentado.
+- ***Deep Blue*** de IBM vence en ajedrez a Garry Kasparov, el campeón mundial.
+
+#### Cuarta fase (2000+)
+
+- Hay aún más poder computacional.
+- Despega el **internet**.
+- La ***Big Data*** apoya el desarrollo de la IA.
 
 ### Concepto
 
