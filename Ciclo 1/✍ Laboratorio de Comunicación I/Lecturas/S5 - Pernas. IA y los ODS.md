@@ -126,3 +126,6 @@ title: Princpios básicos para regular tecnología
 ```
 
 ## IV. Los ODS: Ámbito de aplicación de la IA
+
+Los ODS son un **llamado universal a la acción** para cumplir metas sobre la pobreza, el medio ambiente y la vida de las personas. Son una continuación de los *Objetivos de Desarrollo del Milenio* (ODM).
+
