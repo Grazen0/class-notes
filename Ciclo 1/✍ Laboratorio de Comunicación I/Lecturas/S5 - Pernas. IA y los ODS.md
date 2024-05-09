@@ -133,3 +133,40 @@ La IA, en el ámbito de los ODS, puede ser de gran ayuda para luchar contra la p
 
 **Término clave**: AI4SG (AI for social good)
 
+Los ODS son:
+
+1. Fin de la pobreza
+2. Hambre cero
+3. Salud y bienestar
+4. Educación de calidad
+5. Igualdad de género
+6. Agua limpia y saneamiento
+7. Energía asequible y no contaminante
+8. Trabajo decente y crecimiento económico
+9. Industria, innovación e infraestructura
+10. Reducción de las desigualdades
+11. Ciudades y comunidades sostenibles
+12. Producción y consumo responsables
+13. Acción por el clima
+14. Vida submarina
+15. Vida de ecosistemas terrestres
+16. Paz, justicia e instituciones sólidas
+17. Alianzas para lograr los objetivos
+
+### Las 5 P's de los ODS
+
+1. **Personas** (1-5): Derechos y necesidades de las personas
+2. **Prosperidad** (8): Vida plena y próspera
+3. **Paz** (10, 16): Sociedades pacíficas, inclusivas y justas
+4. **Pacto** (17): Alianzas globales, participación y colaboración
+5. **Planeta** (6-7, 9, 11-15): Proteger el ambiente y el planeta
+
+### Las 3 dimensiones de necesidad humana
+
+#### Dimensión económica
+
+
+
+#### Dimensión social
+
+#### Dimensión medioambiental
