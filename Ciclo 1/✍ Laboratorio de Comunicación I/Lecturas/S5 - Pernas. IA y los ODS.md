@@ -165,8 +165,6 @@ Los ODS son:
 
 #### Dimensión económica
 
-
-
 #### Dimensión social
 
 #### Dimensión medioambiental
