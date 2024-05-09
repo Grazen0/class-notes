@@ -5,8 +5,32 @@
       "path": "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S5 - Pernas. IA y los ODS.md"
     },
     {
+      "basename": "07-05-2024",
+      "path": "Ciclo 1/Notas diarias/07-05-2024.md"
+    },
+    {
       "basename": "Pernas. IA y los ODS",
       "path": "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/Pernas. IA y los ODS.pdf"
+    },
+    {
+      "basename": "✍ Laboratorio de Comunicación I",
+      "path": "Ciclo 1/✍ Laboratorio de Comunicación I/✍ Laboratorio de Comunicación I.md"
+    },
+    {
+      "basename": "🚀 CMA",
+      "path": "Ciclo 1/🚀 CMA/🚀 CMA.md"
+    },
+    {
+      "basename": "Temario",
+      "path": "Ciclo 1/🚀 CMA/Temario.pdf"
+    },
+    {
+      "basename": "S4 - Introducción al análisis matemático",
+      "path": "Ciclo 1/🚀 CMA/Notas/S4 - Introducción al análisis matemático.md"
+    },
+    {
+      "basename": "📈 Cálculo de Una Variable",
+      "path": "Ciclo 1/📈 Cálculo de Una Variable/📈 Cálculo de Una Variable.md"
     },
     {
       "basename": "Kanban",
@@ -15,30 +39,6 @@
     {
       "basename": "03-04-2024",
       "path": "Ciclo 1/Notas diarias/03-04-2024.md"
-    },
-    {
-      "basename": "07-05-2024",
-      "path": "Ciclo 1/Notas diarias/07-05-2024.md"
-    },
-    {
-      "basename": "💻 Programación I",
-      "path": "Ciclo 1/💻 Programación I/💻 Programación I.md"
-    },
-    {
-      "basename": "💾 Introducción a Ciencias de la Computación",
-      "path": "Ciclo 1/💾 Introducción a Ciencias de la Computación/💾 Introducción a Ciencias de la Computación.md"
-    },
-    {
-      "basename": "08-05-2024",
-      "path": "Ciclo 1/Notas diarias/08-05-2024.md"
-    },
-    {
-      "basename": "🍎 Matemáticas Discretas I",
-      "path": "Ciclo 1/🍎 Matemáticas Discretas I/🍎 Matemáticas Discretas I.md"
-    },
-    {
-      "basename": "✍ Laboratorio de Comunicación I",
-      "path": "Ciclo 1/✍ Laboratorio de Comunicación I/✍ Laboratorio de Comunicación I.md"
     }
   ],
   "omittedPaths": [

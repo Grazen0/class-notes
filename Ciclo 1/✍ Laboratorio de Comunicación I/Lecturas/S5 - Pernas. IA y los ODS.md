@@ -56,14 +56,14 @@ Varios autores sostienen que **la IA no existe**, pues las máquinas aún no dem
 
 Sin embargo, **la IA claramente ya existe** e impacta a la sociedad.
 
-#### 4 tipos de IA
+#### Cuatro tipos de IA
 
 1. **Imitación del pensamiento humano** para aprender y resolver problemas.
 2. Imitación **física** superior a los humanos.
 3. Pensamiento **racional** a nivel **intelectual**.
 4. Pensamiento **racional** a nivel **físico**.
 
-#### 3 niveles de IA
+#### Tres niveles de IA
 
 - **IA débil**: Sin autoconciencia, diseñada para una tarea en específico.
 	- Ejemplo: *Deep Blue*, diseñada solo para ajedrez.
@@ -74,3 +74,11 @@ De estas clasificaciones, todas las IAs actuales son "débiles".
 
 ### III. Riesgos y potencialidades de la IA
 
+El desarrollo de la IA no ha tomado en cuenta la **seguridad**, y existen asuntos **éticos** y **jurídicos** que deben verse.
+
+Algunos riesgos son:
+
+- **Falta de transparencia (*Black box*)**: La IA no se puede controlar, y rara vez se pueden explicar sus acciones.
+- **Injusticia, parcialidad y discriminación**: La IA puede tener sesgos debido a los datos con los que se entrena.
+- **Impacto en la salud mental (complejo de Frankenstein)**: Las personas le pueden temer a la IA y a que nos domine.
+- **Privacidad y protección de datos**: 
