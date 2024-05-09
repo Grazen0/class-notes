@@ -110,3 +110,13 @@ Se necesita crear **principios éticos y jurídicos** modernos que garanticen el
 
 Múltiples autores opinan que **la IA debe frenarse** hasta surgir herramientas para controlarla.
 
+Debe existir un **marco legal supranacional** que regule la IA: garantizando principios, valores éticos y especialmente **control** de los seres humanos.
+
+```ad-note
+title: Princpios básicos para regular tecnología
+
+1. Elaborar **definiciones sencillas**, pero usables.
+2. **Divulgar las interpretaciones legales** ampliamente.
+3. ELegir un **enfoque adecuado**
+
+```
