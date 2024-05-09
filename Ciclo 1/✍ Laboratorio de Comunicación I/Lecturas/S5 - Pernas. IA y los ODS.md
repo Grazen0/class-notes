@@ -78,7 +78,20 @@ El desarrollo de la IA no ha tomado en cuenta la **seguridad**, y existen asunto
 
 Algunos riesgos son:
 
-- **Falta de transparencia (*Black box*)**: La IA no se puede controlar, y rara vez se pueden explicar sus acciones.
-- **Injusticia, parcialidad y discriminación**: La IA puede tener sesgos debido a los datos con los que se entrena.
-- **Impacto en la salud mental (complejo de Frankenstein)**: Las personas le pueden temer a la IA y a que nos domine.
-- **Privacidad y protección de datos**: 
+- **Falta de transparencia (*Black box*)**
+	- La IA no se puede controlar, y rara vez se pueden explicar sus acciones.
+- **Injusticia, parcialidad y discriminación**
+	- La IA puede tener sesgos debido a los datos con los que se entrena.
+- **La salud mental (complejo de Frankenstein)**
+	- Las personas le pueden temer a la IA y a que nos domine.
+- **Privacidad y protección de datos**
+	- Los datos recopilados por la IA pueden tener información privada.
+- **La propiedad intelectual**
+	- Cuestiones éticas y legales sobre la pertenencia de obras creadas con IA.
+- **Definición de personalidad jurídica**
+	- ¿Se debe considerar a una IA como sujeto de Derecho?
+- **Seguridad**
+	- Riesgos en ciberseguridad.
+	- Riesgos de no poder controlar una herramienta tan versátil.
+- **Ciberseguridad**
+	- 
