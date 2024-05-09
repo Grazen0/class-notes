@@ -15,3 +15,4 @@ Sin embargo, *deface* me ha parecido la alternativa más conveniente por varias 
 3. Es completamente **seguro** y **privado**. Como este programa corre en *tu* propia computadora, no tienes que subir tu archivo a ninguna página de internet extraña, como podría ser con alguna herramienta en línea. Nunca sabes si alguna página de internet se está quedando con tu video. Por eso, usar *deface* es cuidar tu privacidad, y tu rostro.
 
 ¡Ahora sí, vamos a ver cómo usar *deface*!
+
