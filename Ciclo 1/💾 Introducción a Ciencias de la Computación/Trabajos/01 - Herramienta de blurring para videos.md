@@ -20,3 +20,4 @@ Sin embargo, *deface* me ha parecido la alternativa más conveniente por varias 
 2. Mostrar [GitHub de deface](https://github.com/ORB-HD/deface).
 3. Mostrar [script](https://gist.github.com/ElCholoGamer/95930ed0635c322edcea0fe1de4d237c)
 4. Descargar script
+5. 
