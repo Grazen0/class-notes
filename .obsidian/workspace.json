@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f08cd591a650a0cb",
+        "id": "246bbde989070972",
         "type": "tabs",
         "children": [
           {
-            "id": "389af732af507804",
+            "id": "3409de8034495a4d",
             "type": "leaf",
             "state": {
               "type": "diff-view",
@@ -133,15 +133,15 @@
     "type": "floating",
     "children": [
       {
-        "id": "a455160581a34159",
+        "id": "78b3e1e88f42fa67",
         "type": "window",
         "children": [
           {
-            "id": "0664a7b2d4f098e0",
+            "id": "c7cf1ce60acaa691",
             "type": "tabs",
             "children": [
               {
-                "id": "9d299c616ca69570",
+                "id": "b9dc0ef8bec154e3",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
@@ -154,24 +154,24 @@
           }
         ],
         "direction": "vertical",
-        "x": -259,
-        "y": 367,
+        "x": 202,
+        "y": 0,
         "width": 1024,
         "height": 767,
-        "maximize": true,
+        "maximize": false,
         "zoom": -0.5
       }
     ]
   },
-  "active": "389af732af507804",
+  "active": "3409de8034495a4d",
   "lastOpenFiles": [
+    "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S5 - Pernas. IA y los ODS.md",
+    "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/Pernas. IA y los ODS.pdf",
+    "Kanban.md",
     "Ciclo 1/Notas diarias/07-05-2024.md",
     "Ciclo 1/💻 Programación I/💻 Programación I.md",
     "Ciclo 1/💾 Introducción a Ciencias de la Computación/💾 Introducción a Ciencias de la Computación.md",
-    "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S5 - Pernas. IA y los ODS.md",
-    "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/Pernas. IA y los ODS.pdf",
     "Ciclo 1/🎯 Proyectos Interdisciplinarios I/Lecturas/PDF/Alcazar. Las Brechas que Perduran.pdf",
-    "Kanban.md",
     "Ciclo 1/Notas diarias/08-05-2024.md",
     "Untitled.md",
     "Ciclo 1/🍎 Matemáticas Discretas I/🍎 Matemáticas Discretas I.md",

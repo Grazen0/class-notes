@@ -1,11 +1,5 @@
 [[Pernas. IA y los ODS.pdf]]
 
-```ad-summary
-title: Resumen
-
-
-```
-
 ## I. Introducción
 
 Este artículo busca **analizar la relación entre la IA y los ODS**, a partir del ámbito ético y jurídico.
