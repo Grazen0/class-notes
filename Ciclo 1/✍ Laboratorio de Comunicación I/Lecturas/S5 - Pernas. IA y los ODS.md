@@ -117,6 +117,12 @@ title: Princpios básicos para regular tecnología
 
 1. Elaborar **definiciones sencillas**, pero usables.
 2. **Divulgar las interpretaciones legales** ampliamente.
-3. ELegir un **enfoque adecuado**
+3. ELegir un **enfoque adecuado** normativamente.
+4. **Armonizar** la normativa y sus interpretaciones.
+5. Asegurar que las personas con responsabilidad política **sepan de qué están hablando**.
+6. **Priorizar** los asuntos de **alto impacto**.
+7. **Observar** y regular los casos **menos avanzados**.
 
 ```
+
+## IV. Los ODS: Ámbito de aplicación de la IA
