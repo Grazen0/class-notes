@@ -16,3 +16,6 @@ Sin embargo, *deface* me ha parecido la alternativa más conveniente por varias 
 
 ¡Ahora sí, vamos a ver cómo usar *deface*!
 
+1. Mostrar [Python](https://www.python.org).
+2. Mostrar [GitHub de deface](https://github.com/ORB-HD/deface).
+3. 
