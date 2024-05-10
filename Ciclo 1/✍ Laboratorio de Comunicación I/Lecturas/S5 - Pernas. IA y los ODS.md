@@ -197,3 +197,13 @@ La IA, en el ámbito de los ODS, puede ser de gran ayuda para luchar contra la p
 
 ### Relación entre IA y ODS
 
+- IA y ODS $\to$ Innovación y desarrollo tecnológico
+
+#### Usos de la IA para los ODS
+
+- Medir la pobreza
+- Agricultura sostenible
+- Smart-tech y vida saludable
+- Educación
+- Reflexiones sobre la ingeniería
+- 
