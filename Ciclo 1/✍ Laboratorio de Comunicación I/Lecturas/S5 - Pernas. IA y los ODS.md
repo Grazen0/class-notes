@@ -133,7 +133,7 @@ La IA, en el ámbito de los ODS, puede ser de gran ayuda para luchar contra la p
 
 **Término clave**: AI4SG (AI for social good)
 
-Los ODS son:
+### Lista de ODS
 
 1. Fin de la pobreza
 2. Hambre cero
@@ -164,6 +164,8 @@ Los ODS son:
 ### Las 3 dimensiones de necesidad humana
 
 #### Dimensión económica
+
+
 
 #### Dimensión social
 
