@@ -1,6 +1,6 @@
 {
-  "collapse-filter": false,
-  "search": "",
+  "collapse-filter": true,
+  "search": "-tag:excalidraw -file:Kanban",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -18,5 +18,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.22751270030345386,
-  "close": true
+  "close": false
 }
