@@ -213,6 +213,16 @@ La IA, en el ámbito de los ODS, puede ser de gran ayuda para luchar contra la p
 #### Impactos positivos y negativos
 
 - **Economía**
-	- 
+	- 😎 Identificación de desigualdades y conflictos
+	- 😡 Polarización política
 - **Sociedad**
+	- 😎 Clasificación de áreas de pobreza
+	- 😡 Mal uso de la *Big Data* (efectos sociales, nacionalistas)
 - **Medio ambiente**
+	- 😎 Identificación de zonas con cambio climático
+	- 😡 Uso de energías dañinas al ambiente
+	
+Aunque el medio ambiente da los recursos que impulsan la tecnología, también es el que recibe los daños de ella.
+
+#### Uso de *blockchain*
+
