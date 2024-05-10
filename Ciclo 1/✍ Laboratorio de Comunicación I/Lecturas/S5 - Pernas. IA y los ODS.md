@@ -206,4 +206,13 @@ La IA, en el ámbito de los ODS, puede ser de gran ayuda para luchar contra la p
 - Smart-tech y vida saludable
 - Educación
 - Reflexiones sobre la ingeniería
-- 
+- Detección de comportamientos negativos en las redes
+- Internet de las cosas (smart-cities)
+- Análisis de datos para los ODS medioambientales
+
+#### Impactos positivos y negativos
+
+- **Economía**
+	- 
+- **Sociedad**
+- **Medio ambiente**
