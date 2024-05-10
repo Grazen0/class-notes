@@ -7,13 +7,13 @@ kanban-plugin: basic
 ## 🧱 Proyectos
 
 - [ ] **Patrimonio cultural**<br><br>**Problema:** Es peligroso cruzar Abancay para gente con discapacidad, negando el acceso a la Iglesia San Pedro.<br><br>- [x] Definir problema<br>- [x] Definir localidad<br>- [ ] Investigar y resumir<br>- [x] Relación con ODS<br>- [ ] Definir actores<br>- [ ] Analizar actores<br>- [ ] Identificar niveles de poder<br><br>#pi #lab #grupal
-- [ ] **Proyecto Comu**<br><br>#comu #lab #grupal <br><br>Característica: *(por definir)*<br><br>- [ ] Definir característica
+- [ ] **Proyecto Comu**<br><br>Desarrollo del oído absoluto<br><br>- [x] Definir característica<br>- [ ] Encontrar 3 fuentes<br>- [ ] Argumentos conductismo<br>- [ ] Argumentos innatismo<br>- [ ] Hacer esquema<br><br>@{31-05-2024}<br><br>#comu #lab #grupal
 
 
 ## ☕ Tareas
 
 - [ ] **[[01 - Herramienta de blurring para videos]]**<br><br>Grabar un video de 1-4 mins explicando una herramienta para hacer blurring de videos.<br><br>[Página de la tarea](https://utec.instructure.com/courses/14316/assignments/240863)<br><br>@{13-05-2024}<br><br>#intro-cs #teo
-- [ ] Redactar los párrafos del problema de patrimonio cultural<br><br>@{15-05-2024}<br>#pi #lab #grupal
+- [ ] **Párrafos del patrimonio cultural**<br><br>Redactar los párrafos del problema de patrimonio cultural<br><br>@{15-05-2024}<br>#pi #lab #grupal
 - [ ] **02 - Video sobre una herramienta de transcripción**<br><br>(y 03 - Transcripción del video)<br><br>@{20-05-2024}<br><br>#intro-cs #teo
 
 
