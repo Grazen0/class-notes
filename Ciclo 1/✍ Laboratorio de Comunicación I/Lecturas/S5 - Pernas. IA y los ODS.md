@@ -165,8 +165,35 @@ La IA, en el ámbito de los ODS, puede ser de gran ayuda para luchar contra la p
 
 #### Dimensión económica
 
-
+1. **Vida**
+	- Disminución de la pobreza
+	- Abastecimiento alimentario
+	- Salud
+2. **Desarrollo económico y tecnológico**
+	- Crecimiento económico
+	- Industrialización sostenible
+	- Innovación
 
 #### Dimensión social
 
+1. **Desarrollo social**
+	- Comunidades sostenibles
+	- Paz y justicia
+	- Consumo responsable
+2. **Igualdad de oportunidades**
+	- Educación
+	- Empleo
+	- *Etc...*
+
 #### Dimensión medioambiental
+
+1. **Recursos**
+	- Agua
+	- Energía limpia
+	- Producción y consumo responsable
+2. **Medio ambiente**
+	- Clima
+	- Ecosistema
+
+### Relación entre IA y ODS
+
