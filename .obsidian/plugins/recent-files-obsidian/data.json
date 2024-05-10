@@ -5,6 +5,10 @@
       "path": "Ciclo 1/Notas diarias/10-05-2024.md"
     },
     {
+      "basename": "09-05-2024",
+      "path": "Ciclo 1/Notas diarias/09-05-2024.md"
+    },
+    {
       "basename": "S4 - La tabla rasa",
       "path": "Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Laboratorio/S4 - La tabla rasa.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "01 - Herramienta de blurring para videos",
       "path": "Ciclo 1/💾 Introducción a Ciencias de la Computación/Trabajos/01 - Herramienta de blurring para videos.md"
-    },
-    {
-      "basename": "09-05-2024",
-      "path": "Ciclo 1/Notas diarias/09-05-2024.md"
     }
   ],
   "omittedPaths": [
