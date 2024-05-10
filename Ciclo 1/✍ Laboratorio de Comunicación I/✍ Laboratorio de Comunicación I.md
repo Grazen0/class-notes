@@ -3,6 +3,8 @@
 ## Índice
 
 %% Begin Waypoint %%
+- **Estudio**
+	- [[Examen de redacción (La violencia)]]
 - [[Información del curso]]
 - **Lecturas**
 	- [[S2 - Harari. De animales a dioses (cáp. 2)]]
