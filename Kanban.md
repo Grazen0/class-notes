@@ -6,8 +6,8 @@ kanban-plugin: basic
 
 ## 🧱 Proyectos
 
-- [ ] **Patrimonio cultural**<br><br>**Problema:** Es peligroso cruzar Abancay para gente con discapacidad, negando el acceso a la Iglesia San Pedro.<br><br>- [x] Definir problema<br>- [x] Definir localidad<br>- [ ] Investigar y resumir<br>- [x] Relación con ODS<br>- [ ] Definir actores<br>- [ ] Analizar actores<br>- [ ] Identificar niveles de poder<br><br>#pi #lab #grupal
 - [ ] **Proyecto Comu**<br><br>Desarrollo del oído absoluto<br><br>- [x] Definir característica<br>- [ ] Encontrar 3 fuentes<br>- [ ] Argumentos conductismo<br>- [ ] Argumentos innatismo<br>- [ ] Hacer esquema<br><br>@{31-05-2024}<br><br>#comu #lab #grupal
+- [ ] **Patrimonio cultural**<br><br>**Problema:** Es peligroso cruzar Abancay para gente con discapacidad, negando el acceso a la Iglesia San Pedro.<br><br>- [x] Definir problema<br>- [x] Definir localidad<br>- [ ] Investigar y resumir<br>- [x] Relación con ODS<br>- [ ] Definir actores<br>- [ ] Analizar actores<br>- [ ] Identificar niveles de poder<br><br>#pi #lab #grupal
 
 
 ## ☕ Tareas
