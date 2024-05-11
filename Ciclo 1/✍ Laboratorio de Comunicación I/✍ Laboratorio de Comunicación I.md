@@ -5,7 +5,6 @@
 %% Begin Waypoint %%
 - **Estudio**
 	- [[Examen de redacción (La violencia)]]
-- [[Información del curso]]
 - **Lecturas**
 	- [[S2 - Harari. De animales a dioses (cáp. 2)]]
 	- [[S4 - Escandell. El esquema clásico de la comunicación y sus limitaciones (cáp. 1)]]
