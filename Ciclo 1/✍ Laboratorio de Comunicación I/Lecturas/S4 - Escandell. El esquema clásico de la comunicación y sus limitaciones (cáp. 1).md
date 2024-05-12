@@ -2,6 +2,7 @@
 
 ```ad-summary
 title: Resumen
+collapse: closed
 
 Este primer capítulo **cuestiona** el esquema clásico de la comunicación y **plantea** las necesidades de un sistema más amplio.
 
@@ -16,6 +17,13 @@ Este primer capítulo **cuestiona** el esquema clásico de la comunicación y **
 9. El habla y la escritura difieren no solo por el medio físico, sino también por las **convenciones y particularidades** que conllevan.
 10. El **contexto** de un acto comunicativo cambia a través del tiempo, pero es **estático** en cada instante.
 
+
+```
+
+```ad-exercise
+title: Preguntas guía
+
+1. ¿Por qué es útil atender a las regularidades y no lo anecdótico en este tipo de estudios?
 
 ```
 
