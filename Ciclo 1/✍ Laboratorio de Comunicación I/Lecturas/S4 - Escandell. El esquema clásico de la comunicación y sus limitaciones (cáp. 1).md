@@ -25,6 +25,11 @@ title: Preguntas guía
 
 1. ¿Por qué es útil atender a las regularidades y no lo anecdótico en este tipo de estudios?
 
+2. ¿Cuáles son los elementos del sistema de Shannon y Weavear?
+
+3. ¿Cuáles son los elementos del sistema de Jakobson?
+4. 
+
 ```
 
 La definición, estudio y análisis de lo que conocemos como "comunicación" son asuntos **complejos**, cuyas respuestas no son evidentes a primera vista.

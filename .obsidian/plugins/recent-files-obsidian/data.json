@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Kanban",
-      "path": "Kanban.md"
-    },
-    {
       "basename": "S4 - Escandell. El esquema clásico de la comunicación y sus limitaciones (cáp. 1)",
       "path": "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S4 - Escandell. El esquema clásico de la comunicación y sus limitaciones (cáp. 1).md"
+    },
+    {
+      "basename": "✍ Laboratorio de Comunicación I",
+      "path": "Ciclo 1/✍ Laboratorio de Comunicación I/✍ Laboratorio de Comunicación I.md"
+    },
+    {
+      "basename": "Ciclo 1",
+      "path": "Ciclo 1/Ciclo 1.md"
+    },
+    {
+      "basename": "Examen de redacción (La violencia)",
+      "path": "Ciclo 1/✍ Laboratorio de Comunicación I/Estudio/Examen de redacción (La violencia).md"
+    },
+    {
+      "basename": "Sílabo",
+      "path": "Ciclo 1/✍ Laboratorio de Comunicación I/Sílabo.pdf"
+    },
+    {
+      "basename": "🍎 Matemáticas Discretas I",
+      "path": "Ciclo 1/🍎 Matemáticas Discretas I/🍎 Matemáticas Discretas I.md"
+    },
+    {
+      "basename": "📈 Cálculo de Una Variable",
+      "path": "Ciclo 1/📈 Cálculo de Una Variable/📈 Cálculo de Una Variable.md"
+    },
+    {
+      "basename": "Kanban",
+      "path": "Kanban.md"
     },
     {
       "basename": "Escandell. El esquema clásico de la comunicación y sus limitaciones",
@@ -15,30 +39,6 @@
     {
       "basename": "S5 - Pernas. IA y los ODS",
       "path": "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S5 - Pernas. IA y los ODS.md"
-    },
-    {
-      "basename": "Examen de redacción (La violencia)",
-      "path": "Ciclo 1/✍ Laboratorio de Comunicación I/Estudio/Examen de redacción (La violencia).md"
-    },
-    {
-      "basename": "Pernas. IA y los ODS",
-      "path": "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/PDF/Pernas. IA y los ODS.pdf"
-    },
-    {
-      "basename": "🍎 Matemáticas Discretas I",
-      "path": "Ciclo 1/🍎 Matemáticas Discretas I/🍎 Matemáticas Discretas I.md"
-    },
-    {
-      "basename": "✍ Laboratorio de Comunicación I",
-      "path": "Ciclo 1/✍ Laboratorio de Comunicación I/✍ Laboratorio de Comunicación I.md"
-    },
-    {
-      "basename": "🚀 CMA",
-      "path": "Ciclo 1/🚀 CMA/🚀 CMA.md"
-    },
-    {
-      "basename": "📈 Cálculo de Una Variable",
-      "path": "Ciclo 1/📈 Cálculo de Una Variable/📈 Cálculo de Una Variable.md"
     }
   ],
   "omittedPaths": [
