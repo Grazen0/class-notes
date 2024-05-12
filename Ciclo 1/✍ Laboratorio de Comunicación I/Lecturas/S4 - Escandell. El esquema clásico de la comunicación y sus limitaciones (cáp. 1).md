@@ -43,7 +43,7 @@ title: Preguntas guía
 
 8. ¿Por qué la gramática no es suficiente para explicar los procesos comunicativos?
 
-La gramática no es suficiente porque existen **ambiguedades**
+La gramática no es suficiente porque existen **ambiguedades** en las palabras que sólo se pueden resolver incluyendo un contexto que determine los significados de las palabras ambiguas.
 
 9. ¿Por qué la interpretación de los mensajes no solo consiste en decodificar su contenido?
 
@@ -55,7 +55,11 @@ La gramática no es suficiente porque existen **ambiguedades**
 
 13. ¿En qué se diferencia la comunicación humana de la comunicación animal?
 
+La comunicación humana es **a consciencia**, se realiza voluntariamente y no por instinto.
+
 14. En qué consiste el concepto de "representación interna"?
+
+La representación interna es el concepto que cada persona tiene del contexto que engloba a la comunicación: el espacio, el contexto social, etc. Escandell explica que cuando se habla de un "referente" en la comunicación, en realidad se habla de la representación interna, ya que la comunicación no habla de la realidad en sí, sino de **nuestra** propia percepción (frecuentemente compartida) de la realidad.
 
 15. ¿Cuál es el propósito de la comunicación?
 
