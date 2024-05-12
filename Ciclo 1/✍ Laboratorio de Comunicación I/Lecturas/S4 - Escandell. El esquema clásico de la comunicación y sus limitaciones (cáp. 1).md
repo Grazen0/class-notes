@@ -25,6 +25,8 @@ title: Preguntas guía
 
 1. ¿Por qué es útil atender a las regularidades y no lo anecdótico en este tipo de estudios?
 
+Es necesario porque esto nos permitiría analizar la comunicación desde una perspectiva sistemática. Si atendemos a las regularidades
+
 2. ¿Cuáles son los elementos del sistema de Shannon y Weavear?
 
 3. ¿Cuáles son los elementos del sistema de Jakobson?
