@@ -60,7 +60,7 @@ Permite caracterizar la lengua como un **sistema combinatorio discreto**.
 
 Es necesario porque el código no es un componente suficiente por sí solo para el proceso comunicativo. Hay muchos aspectos de la comunicación (su emisión e interpretación) que dependen de factores externos al código linguístico: señas, actitudes, contexto, etc.
 
-9. ¿Por qué la gramática no es suficiente para explicar los procesos comunicativos?
+8. ¿Por qué la gramática no es suficiente para explicar los procesos comunicativos?
 
 La gramática no es suficiente porque existen **ambiguedades** en las palabras que sólo se pueden resolver incluyendo un contexto que determine los significados de las palabras ambiguas.
 
@@ -74,17 +74,20 @@ La comunicación bien puede darse sin un código, como es el caso del ejemplo de
 
 11. ¿A qué se refiere el autor cuando habla sobre deducciones e inferencias?
 
-Se refiere a 
+Se refiere a los datos o "suposiciones" que podemos hacer a partir de observaciones específicas en otras personas sin necesidad del uso de la lengua. Sin embargo, en estos casos no hay comunicación, ya que no es voluntario.
 
-13. ¿Cuáles son las razones que el autor sostiene sobre la función de la **intencionalidad** en el proceso comunicativo?
+12. ¿Cuáles son las razones que el autor sostiene sobre la función de la **intencionalidad** en el proceso comunicativo?
 
-14. ¿En qué se diferencia la comunicación humana de la comunicación animal?
+- Da **credibilidad** a la información recibida.
+- Establece diferencias entre los actos **voluntarios** e **involuntarios** (reflejos).
+
+13. ¿En qué se diferencia la comunicación humana de la comunicación animal?
 
 La comunicación humana es **a consciencia**, se realiza voluntariamente y no por instinto.
 
 14. En qué consiste el concepto de "representación interna"?
 
-La representación interna es el concepto que cada persona tiene del contexto que engloba a la comunicación: el espacio, el contexto social, etc. Escandell explica que cuando se habla de un "referente" en la comunicación, en realidad se habla de la representación interna, ya que la comunicación no habla de la realidad en sí, sino de **nuestra** propia percepción (frecuentemente compartida) de la realidad.
+La representación interna es el concepto **(imagen mental)** que cada persona tiene del contexto que engloba a la comunicación: el espacio, el contexto social, etc. Escandell explica que cuando se habla de un "referente" en la comunicación, en realidad se habla de la representación interna, ya que la comunicación no habla de la realidad en sí, sino de **nuestra** propia percepción (frecuentemente compartida) de la realidad.
 
 15. ¿Cuál es el propósito de la comunicación?
 
