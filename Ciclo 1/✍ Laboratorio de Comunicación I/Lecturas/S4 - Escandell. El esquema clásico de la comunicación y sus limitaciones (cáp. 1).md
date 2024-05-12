@@ -44,11 +44,11 @@ La crítica que explica Escandell se basa en que el sistema clásico es demasiad
 - El rol del código es excesivo.
 - La relación entre los hablantes no se toma en cuenta.
 - El contexto pasa a un plano secundario
-- 
+- La situación comunicativa carece de peso
 
 5. ¿Qué es un código simple y complejo?
 
-- **Simple:** Se trata de señales básicas universales cuyo significado está completamente fijado. (Señales de buzos, por ejemplo)
+- **Simple:** Se trata de un conjunto **reducido** señales **fijas** e **invariables** cuyo significado está completamente fijado. (Señales de buzos, por ejemplo)
 
 - **Complejo:** Es un código con componentes que se pueden unir recursivamente, y cuyas palabras tienen varios significados dependiendo del contexto (?)
 
