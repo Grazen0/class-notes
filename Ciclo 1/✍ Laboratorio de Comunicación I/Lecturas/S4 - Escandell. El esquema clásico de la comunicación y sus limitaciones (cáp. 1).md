@@ -54,7 +54,7 @@ La crítica que explica Escandell se basa en que el sistema clásico es demasiad
 
 6. ¿Cuáles son las ventajas de abordar la comunicación desde el punto de vista del código?
 
-Abordar la comunicación desde este punto de vista permite 
+Permite caracterizar la lengua como un **sistema combinatorio discreto**.
 
 7. ¿Por qué es necesario apelar a elementos extralinguísticos para explicar el proceso comunicativo?
 
