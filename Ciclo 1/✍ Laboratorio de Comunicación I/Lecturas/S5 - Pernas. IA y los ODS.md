@@ -248,3 +248,10 @@ Se necesitan dos pilares: **transparencia** y **confianza** para evitar el *mied
 
 #### Llevando a cabo los ODS
 
+Los ODS requieren una interacción **colaborativa** entre las personas, las empresas, organizaciones y el estado.
+
+## V. Reflexiones
+
+- Debe reflexionarse sobre la IA: límites, potencialidades y efectos éticos y jurídicos.
+- La IA tiene potencial **multidisciplinario**, y un **dinamismo** nunca antes visto.
+- Se necesita una **previsión legislativa** que proteja los derechos involucrados en el asunto, sobre todo la **privacidad**.
