@@ -242,4 +242,9 @@ Hay investigaciones que afirman que el sistema *blockchain* podría ayudar a los
 - Menos **regulación** del sistema financiero.
 - Menos **competitividad** entre los bancos.
 
-#### Riesgos sociales de la IA
+#### Riesgos sociales con la IA
+
+Se necesitan dos pilares: **transparencia** y **confianza** para evitar el *miedo* a la IA. También se considera importante la colaboración entre los estados incluidos en los ODS.
+
+#### Llevando a cabo los ODS
+
