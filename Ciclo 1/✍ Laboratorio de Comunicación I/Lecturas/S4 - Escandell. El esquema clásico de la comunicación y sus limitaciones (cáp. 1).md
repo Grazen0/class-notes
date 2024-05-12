@@ -66,7 +66,11 @@ La gramática no es suficiente porque existen **ambiguedades** en las palabras q
 
 9. ¿Por qué la interpretación de los mensajes no solo consiste en decodificar su contenido?
 
+Como el código no es suficiente para expresar un proceso comunicativo, el contenido del mensaje debe ser complementado por el receptor utilizando el contexto que engloba al proceso.
+
 10. ¿Es un requisito necesario la utilización de un código para que se lleve a cabo el proceso de comunicación?
+
+La comunicación bien puede darse sin un código, como es el caso del ejemplo de "agitar las llaves" que Escandell menciona.
 
 11. ¿A qué se refiere el autor cuando habla sobre deducciones e inferencias?
 
