@@ -226,3 +226,15 @@ Aunque el medio ambiente da los recursos que impulsan la tecnología, también e
 
 #### Uso de *blockchain*
 
+Hay investigaciones que afirman que el sistema *blockchain* podría ayudar a los ODS en el ámbito financiero.
+
+##### Beneficios
+
+- Eliminar la **burocracia**.
+- Facilitar la **automatización**.
+
+##### Perjuicios
+
+- Menos **regulación** del sistema financiero.
+- Menos **competitividad** entre los bancos.
+
