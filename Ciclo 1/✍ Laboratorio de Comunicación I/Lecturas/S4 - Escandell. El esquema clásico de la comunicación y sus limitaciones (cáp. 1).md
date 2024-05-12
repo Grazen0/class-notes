@@ -28,7 +28,14 @@ title: Preguntas guía
 2. ¿Cuáles son los elementos del sistema de Shannon y Weavear?
 
 3. ¿Cuáles son los elementos del sistema de Jakobson?
-4. 
+
+4. ¿En qué consiste la crítica al sistema clásico?
+
+5. ¿Qué es un código simple y complejo?
+
+6. ¿Cuáles son las ventajas de abordar la comunicación desde el punto de vista del código?
+
+7. 
 
 ```
 
