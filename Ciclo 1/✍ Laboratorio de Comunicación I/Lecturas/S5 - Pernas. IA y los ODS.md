@@ -232,9 +232,14 @@ Hay investigaciones que afirman que el sistema *blockchain* podría ayudar a los
 
 - Eliminar la **burocracia**.
 - Facilitar la **automatización**.
+- Combair la **corrupción**.
+- Mejorar los **derechos de propiedad**.
+- Apoyar la creación de **identidades digitales seguras**.
+- Luchar contra la **desigualdad de género**.
 
 ##### Perjuicios
 
 - Menos **regulación** del sistema financiero.
 - Menos **competitividad** entre los bancos.
 
+#### Riesgos sociales de la IA
