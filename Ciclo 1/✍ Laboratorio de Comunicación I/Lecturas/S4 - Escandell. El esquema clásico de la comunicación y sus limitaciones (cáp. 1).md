@@ -25,13 +25,26 @@ title: Preguntas guía
 
 1. ¿Por qué es útil atender a las regularidades y no lo anecdótico en este tipo de estudios?
 
-Es necesario porque esto nos permitiría analizar la comunicación desde una perspectiva sistemática. Si atendemos a las regularidades
+Es necesario porque esto nos permitiría analizar la comunicación desde una perspectiva sistemática. Si atendemos a las regularidades, podemos descubrir las propiedades **generales** del proceso comunicativo.
 
 2. ¿Cuáles son los elementos del sistema de Shannon y Weavear?
-
 3. ¿Cuáles son los elementos del sistema de Jakobson?
 
+- Emisor
+- Receptor
+- Mensaje
+- Código
+- Canal
+- Contexto
+
 4. ¿En qué consiste la crítica al sistema clásico?
+
+La crítica que explica Escandell se basa en que el sistema clásico es demasiado **rígido** y **simplista**.
+
+- El rol del código es excesivo.
+- La relación entre los hablantes no se toma en cuenta.
+- El contexto pasa a un plano secundario
+- 
 
 5. ¿Qué es un código simple y complejo?
 
