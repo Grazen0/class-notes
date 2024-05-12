@@ -10,7 +10,5 @@ Ver [[S6A - Redacción del párrafo]] y [[S5B - Redacción]].
 
 2. ¿A qué se refiere Pinker con la *trampa Hobbesiana*? Pon 2 ejemplos de la lectura.
 
-
-
 3. ¿Por qué el dilema del prisionero es similar a la situación del pacifista? Pon 2 ejemplos de la lectura.
 
