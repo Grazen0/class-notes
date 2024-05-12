@@ -74,9 +74,11 @@ La comunicación bien puede darse sin un código, como es el caso del ejemplo de
 
 11. ¿A qué se refiere el autor cuando habla sobre deducciones e inferencias?
 
-12. ¿Cuáles son las razones que el autor sostiene sobre la función de la **intencionalidad** en el proceso comunicativo?
+Se refiere a
 
-13. ¿En qué se diferencia la comunicación humana de la comunicación animal?
+13. ¿Cuáles son las razones que el autor sostiene sobre la función de la **intencionalidad** en el proceso comunicativo?
+
+14. ¿En qué se diferencia la comunicación humana de la comunicación animal?
 
 La comunicación humana es **a consciencia**, se realiza voluntariamente y no por instinto.
 
