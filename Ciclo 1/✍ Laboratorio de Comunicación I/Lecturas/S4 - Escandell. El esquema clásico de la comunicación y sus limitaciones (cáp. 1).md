@@ -74,7 +74,7 @@ La comunicación bien puede darse sin un código, como es el caso del ejemplo de
 
 11. ¿A qué se refiere el autor cuando habla sobre deducciones e inferencias?
 
-Se refiere a
+Se refiere a 
 
 13. ¿Cuáles son las razones que el autor sostiene sobre la función de la **intencionalidad** en el proceso comunicativo?
 
