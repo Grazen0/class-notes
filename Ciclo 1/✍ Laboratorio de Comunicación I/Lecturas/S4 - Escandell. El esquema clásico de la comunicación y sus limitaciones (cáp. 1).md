@@ -33,9 +33,31 @@ title: Preguntas guía
 
 5. ¿Qué es un código simple y complejo?
 
+- **Simple:** Se trata de señales básicas universales cuyo significado está completamente fijado. (Señales de buzos, por ejemplo)
+
+- **Complejo:** Es un código con componentes que se pueden unir recursivamente, y cuyas palabras tienen varios significados dependiendo del contexto (?)
+
 6. ¿Cuáles son las ventajas de abordar la comunicación desde el punto de vista del código?
 
-7. 
+7. ¿Por qué es necesario apelar a elementos extralinguísticos para explicar el proceso comunicativo?
+
+8. ¿Por qué la gramática no es suficiente para explicar los procesos comunicativos?
+
+La gramática no es suficiente porque existen **ambiguedades**
+
+9. ¿Por qué la interpretación de los mensajes no solo consiste en decodificar su contenido?
+
+10. ¿Es un requisito necesario la utilización de un código para que se lleve a cabo el proceso de comunicación?
+
+11. ¿A qué se refiere el autor cuando habla sobre deducciones e inferencias?
+
+12. ¿Cuáles son las razones que el autor sostiene sobre la función de la **intencionalidad** en el proceso comunicativo?
+
+13. ¿En qué se diferencia la comunicación humana de la comunicación animal?
+
+14. En qué consiste el concepto de "representación interna"?
+
+15. ¿Cuál es el propósito de la comunicación?
 
 ```
 
