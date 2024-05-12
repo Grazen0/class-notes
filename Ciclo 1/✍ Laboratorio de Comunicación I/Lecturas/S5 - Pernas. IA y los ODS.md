@@ -255,3 +255,4 @@ Los ODS requieren una interacción **colaborativa** entre las personas, las empr
 - Debe reflexionarse sobre la IA: límites, potencialidades y efectos éticos y jurídicos.
 - La IA tiene potencial **multidisciplinario**, y un **dinamismo** nunca antes visto.
 - Se necesita una **previsión legislativa** que proteja los derechos involucrados en el asunto, sobre todo la **privacidad**.
+- Se necesita considerar los usos de la IA para **alcanzar los ODS** de forma sostenible.
