@@ -54,9 +54,13 @@ La crítica que explica Escandell se basa en que el sistema clásico es demasiad
 
 6. ¿Cuáles son las ventajas de abordar la comunicación desde el punto de vista del código?
 
+Abordar la comunicación desde este punto de vista permite 
+
 7. ¿Por qué es necesario apelar a elementos extralinguísticos para explicar el proceso comunicativo?
 
-8. ¿Por qué la gramática no es suficiente para explicar los procesos comunicativos?
+Es necesario porque el código no es un componente suficiente por sí solo para el proceso comunicativo. Hay muchos aspectos de la comunicación (su emisión e interpretación) que dependen de factores externos al código linguístico: señas, actitudes, contexto, etc.
+
+9. ¿Por qué la gramática no es suficiente para explicar los procesos comunicativos?
 
 La gramática no es suficiente porque existen **ambiguedades** en las palabras que sólo se pueden resolver incluyendo un contexto que determine los significados de las palabras ambiguas.
 
