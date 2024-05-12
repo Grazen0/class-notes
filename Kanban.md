@@ -12,7 +12,6 @@ kanban-plugin: basic
 
 ## ☕ Tareas
 
-- [ ] **[[01 - Herramienta de blurring para videos]]**<br><br>Grabar un video de 1-4 mins explicando una herramienta para hacer blurring de videos.<br><br>[Página de la tarea](https://utec.instructure.com/courses/14316/assignments/240863)<br><br>@{13-05-2024}<br><br>#intro-cs #teo
 - [ ] **02 - Video sobre una herramienta de transcripción**<br><br>(y 03 - Transcripción del video)<br><br>@{20-05-2024}<br><br>#intro-cs #teo
 
 
@@ -37,6 +36,7 @@ kanban-plugin: basic
 ## 👍 Completado
 
 **Complete**
+- [x] **[[01 - Herramienta de blurring para videos]]**<br><br>Grabar un video de 1-4 mins explicando una herramienta para hacer blurring de videos.<br><br>[Página de la tarea](https://utec.instructure.com/courses/14316/assignments/240863)<br><br>@{13-05-2024}<br><br>#intro-cs #teo
 - [x] **[[S5 - Pernas. IA y los ODS]]**<br><br>- [x] Leído<br>- [x] Anotado<br><br>@{14-05-2024}<br>#comu #teo
 - [x] **Párrafos del patrimonio cultural**<br><br>Redactar los párrafos del problema de patrimonio cultural<br><br>@{15-05-2024}<br>#pi #lab #grupal
 
