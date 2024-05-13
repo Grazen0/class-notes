@@ -16,14 +16,6 @@
 	--text-error: #FF3030;
 }
 
-/* Idk what this does but it's there */
-.workspace-tab-header-container,
-.workspace-ribbon.mod-left:before,
-.mod-macos.is-hidden-frameless:not(.is-popout-window) 
-	.sidebar-toggle-button.mod-right {
-	background-color: inherit !important;
-}
-
 /* Table width fix */
 .cm-embed-block.markdown-rendered .block-language-dataview,
 .markdown-rendered table,

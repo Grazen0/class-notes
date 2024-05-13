@@ -1,9 +1,21 @@
 /* -------- FRONT MATTER ---------
 ** Theme: Obsidian Typewriter
-** Version number: 2.1.6
+** Version number: 2.1.9
 ** GitHub Repo: https://github.com/crashmoney/obsidian-typewriter
 ** Made by: crashmoney
 ----------------------------------- */
+
+/* +++ TOC
+|_ FONT FACES
+|_ COLOR VARIABLES
+|_ LIGHT MODE
+|_ DARK MODE
+|_ TYPOGRAPHY & FONTS
+|_ UI ELEMENTS
+|_ PLUGINS
+|_ STYLE SETTINGS
+|_ OBSIDIAN HUB
+*/
 
 /* +++ FONT FACES */
 
@@ -86,7 +98,7 @@ body {
   */
 }
 
-/* +++ LIGHT MDOE */
+/* +++ LIGHT MODE */
 .theme-light {
   --background-primary: hsl(
     calc(var(--base-h) + 44),
@@ -190,6 +202,8 @@ body {
 
   --icon-color: var(--text-muted);
   --icon-hex: 000;
+
+  --graph-line-color: #c0c9ce;
 }
 
 /* +++ DARK MODE */
@@ -242,7 +256,7 @@ body {
   --text-normal: rgb(197, 184, 161);
   --text-muted: hsl(var(--base-h), var(--base-s), calc(var(--base-d) + 45%));
   --text-faint: hsl(var(--base-h), var(--base-s), calc(var(--base-d) + 47%));
-  --text-error: #C00000;
+  --text-error: #800000;
   --text-error-hover: #990000;
 
   --text-highlight-bg: rgba(255, 177, 80, 0.3);
@@ -267,6 +281,8 @@ body {
   --scrollbar-bg: rgba(255, 255, 255, 0.05);
   --scrollbar-thumb-bg: rgba(255, 255, 255, 0.1);
   --highlight-mix-blend-mode: lighten;
+
+  --graph-line-color: #6f7577;
 }
 
 /* +++ TYPOGRAPHY & FONTS */
@@ -279,12 +295,12 @@ body {
 
   --metadata-input-font-size: var(--font-small);
 
-  --font-normal: 1em;
+  --font-normal-size: 1em;
   --font-small: 0.813em;
   --font-smaller: 0.688em;
   --font-smallest: 0.625em;
 
-  --code-size: var(--font-normal);
+  --code-size: var(--font-small);
   --code-normal: var(--blue);
 
   --h1: 1.8em;
@@ -357,6 +373,12 @@ body {
   font-size: var(--font-smaller) !important;
 }
 
+/* increase blockquote height */
+.markdown-source-view.mod-cm6.is-live-preview .HyperMD-quote {
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+
 /* HIGHLIGHT ACTIVE LINE */
 .active-line-highlight .markdown-source-view .CodeMirror-activeline,
 .active-line-highlight .markdown-source-view.mod-cm6 .cm-active.cm-line {
@@ -364,6 +386,7 @@ body {
   border-radius: 8px;
 }
 
+/* SIDEBAR NOTES */
 /* make sidebar notes' background var(--background-primary) */
 .mod-right-split .markdown-preview-view,
 .mod-left-split .markdown-preview-view,
@@ -473,6 +496,11 @@ body {
   margin-top: 0;
 }
 
+/* FIX: background color for titlebar buttons on Windows */
+div.titlebar-button-container.mod-right {
+  background-color: var(--background-primary) !important;
+}
+
 /* EDITOR: font-scalable edit-block-button */
 /* add header padding for button if last column is right-aligned */
 .markdown-source-view table th:last-child[align="right"] {
@@ -490,6 +518,23 @@ body {
 .markdown-source-view div.edit-block-button svg {
   width: 1.2em;
   height: 1em;
+}
+
+/* DARKEN GRAPH VIEW LINS */
+.graph-view.color-line {
+  color: var(--graph-line-color);
+}
+
+/* FOLD INDICATOR SPACING */
+/* prevent overlap with text */
+
+div.cm-fold-indicator {
+  margin-right: 0;
+}
+
+.markdown-source-view.mod-cm6 .cm-fold-indicator .collapse-indicator {
+  padding-right: 4px;
+  right: 0;
 }
 
 /* +++ PLUGINS */

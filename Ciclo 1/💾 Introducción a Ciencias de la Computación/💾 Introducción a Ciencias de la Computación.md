@@ -4,11 +4,13 @@
 
 %% Begin Waypoint %%
 - **Notas**
-	- [[Ciclo 1/💾 Introducción a Ciencias de la Computación/Notas/S1 - Introducción]]
+	- [[S1 - Introducción]]
 	- [[S2 - Más introducción]]
 	- [[S3 - Clustering]]
+	- [[S7 - Bases de datos]]
 - **Trabajos**
 	- [[01 - Herramienta de blurring para videos]]
+	- [[02 - Video sobre una herramienta de transcripción]]
 	- [[Análisis de un programa de doctorado]]
 
 %% End Waypoint %%
