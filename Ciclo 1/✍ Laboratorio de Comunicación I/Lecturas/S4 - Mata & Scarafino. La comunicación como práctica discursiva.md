@@ -29,7 +29,12 @@ Se empobreció porque se comenzó a concebir como **una mera transmisión de men
 
 4. ¿Qué es denotación y connotación?
 
+- Denotación: Significado **explícito**
+- Connotación: Significado **implícito**
+
 5. ¿Qué aspectos participan al momento de emitir un mensaje?
+
+
 
 6. ¿Qué relación hay entre cultura y comunicación?
 
