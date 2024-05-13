@@ -9,6 +9,7 @@
 	- [[S3 - Funciones trascendentales]]
 	- [[S4 - Límites]]
 	- [[S5 - Derivadas]]
+	- [[S7 - Optimización]]
 
 %% End Waypoint %%
 
