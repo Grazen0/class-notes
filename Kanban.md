@@ -17,13 +17,12 @@ kanban-plugin: basic
 
 ## 📚 Lecturas
 
-- [ ] **[[S10 - Steven Pinker. La tabla rasa (Cáp. 17)]]**<br><br>- [ ] Leído<br>- [ ] Anotado<br><br>@{17-05-2024}<br>#comu #lab
+- [ ] **[[S7 - Steven Pinker. La tabla rasa (Cáp. 17)]]**<br><br>Se viene examen!!!<br><br>@{17-05-2024}<br>#comu #lab
 
 
 ## 📄 Evaluaciones
 
 - [ ] **Control de lectura**<br><br>Temas:<br><br>- [[S2 - Harari. De animales a dioses (cáp. 2)|Harari. El árbol del saber]]<br>- [[S4 - Escandell. El esquema clásico de la comunicación y sus limitaciones (cáp. 1)|Escandell. El esquema clásico de la comunicación y sus limitaciones]]<br>- [[S4 - Mata & Scarafino. La comunicación como práctica discursiva|Mata y Scarafino]]<br>- [[S5 - Pernas. IA y los ODS|Pernas. IA y los ODS]]<br>- Boroditsky (TED Talk)<br>- Video sobre los prejuicios<br><br>@{14-05-2024}<br>#comu #teo
-- [ ] **[[Examen de redacción (La violencia)]]**<br><br>Leer "La tabla rasa", cáp. 17<br><br>@{17-05-2024}<br>#comu #lab
 - [ ] **[[S6 - Control de lectura (CL)|Control de lectura]]**<br><br>Temas:<br><br>- [[S2 - Vasen. Giro postcompetitivo en la política de CTI|Giro postcompetitivo]]<br>- [[S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS|Hojas de ruta ODS]]<br>- [[S5 - La Parra y Tortosa. Violencia estructural|Violencia estructural]]<br>- [[S4 - Teoría de sistemas|Teoría de sistemas]]<br>- [Ruta del Barroco Andino](https://www.youtube.com/watch?v=9FByimiScv8&pp=ygUabGEgcnV0YSBkZWwgYmFycm9jbyBhbmRpbm8%3D) (?)<br><br>@{22-05-2024}<br>#pi #teo
 - [ ] **Exposición de avance de investigación**<br><br>@{31-05-2024}<br>#comu #lab #grupal
 

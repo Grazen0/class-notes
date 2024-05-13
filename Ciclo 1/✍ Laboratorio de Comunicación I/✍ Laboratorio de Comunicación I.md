@@ -4,13 +4,12 @@
 
 %% Begin Waypoint %%
 - **Estudio**
-	- [[Examen de redacción (La violencia)]]
 - **Lecturas**
 	- [[S2 - Harari. De animales a dioses (cáp. 2)]]
 	- [[S4 - Escandell. El esquema clásico de la comunicación y sus limitaciones (cáp. 1)]]
 	- [[S4 - Mata & Scarafino. La comunicación como práctica discursiva]]
 	- [[S5 - Pernas. IA y los ODS]]
-	- [[S10 - Steven Pinker. La tabla rasa (Cáp. 17)]]
+	- [[S7 - Steven Pinker. La tabla rasa (Cáp. 17)]]
 	- [[S14 - Renwick. Escrituralidad y oralidad]]
 - **Notas**
 	- **Laboratorio**

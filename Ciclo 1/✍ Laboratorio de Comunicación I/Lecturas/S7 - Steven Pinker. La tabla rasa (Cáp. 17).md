@@ -1,3 +1,5 @@
+[[Steven Pinker. La tabla rasa.pdf]] | Págs. 440-484
+
 Se va a evaluar sobre todo la **estructura** sobre el contenido. Usar **conectores** apropiadamente y escribir **coherentemente**.
 
 Ver [[S6A - Redacción del párrafo]] y [[S5B - Redacción]].
@@ -8,5 +10,4 @@ Ver [[S6A - Redacción del párrafo]] y [[S5B - Redacción]].
 
 2. ¿A qué se refiere Pinker con la *trampa Hobbesiana*? Pon 2 ejemplos de la lectura.
 
-3. ¿Por qué el dilema del prisionero es similar a la situación del pacifista? Pon 2 ejemplos de la lectura.
-
+4. ¿Por qué el dilema del prisionero es similar a la situación del pacifista? Pon 2 ejemplos de la lectura.
