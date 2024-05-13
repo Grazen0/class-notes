@@ -1,4 +1,20 @@
 {
   "editor:delete-paragraph": [],
-  "workspace:close": []
+  "workspace:close": [],
+  "omnisearch:show-modal": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "O"
+    }
+  ],
+  "switcher:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ]
 }
