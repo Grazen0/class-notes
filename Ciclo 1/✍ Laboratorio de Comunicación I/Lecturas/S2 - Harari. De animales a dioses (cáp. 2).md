@@ -24,13 +24,19 @@ Los neandertales vencieron a los sapiens y los expulsaron del territorio, probab
 
 6. **¿Qué evidencia hay de que hace 70,000 años los sapiens modificaron su forma de actuar?**
 
+
+
 8. **Menciona tres avances de los sapiens entre los 70 y 30 mil años.**
 
-9. **Qué pasó con los sapiens en esa época.**
+- Los sapiens abandonaron África en una segunda oleada, y **expulsaron a los neandertales y demás especies** de la faz de la tierra.
+- **Cruzaron el mar** hacia Australia, un continente nuevo.
+- **Inventaron** barcas, lámparas de aceite, arcos y flechas, agujas, etc.
 
-10. **Menciona las tres teorías más fuertes sobre lo que les pasó a los sapiens.**
+10. **Qué pasó con los sapiens en esa época.**
 
-11. **¿Por qué es relevante la leyenda de Peugeot? Menciona dos ideas.**
+11. **Menciona las tres teorías más fuertes sobre lo que les pasó a los sapiens.**
+
+12. **¿Por qué es relevante la leyenda de Peugeot? Menciona dos ideas.**
 
 La "leyenda de Peugeot" demuestra cómo muchas de las cosas que creemos "reales" son sólo una imaginación del ser humano.
 

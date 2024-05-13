@@ -1,5 +1,14 @@
 {
-  "statusBar": [],
+  "statusBar": [
+    {
+      "prefix": "",
+      "suffix": " words",
+      "metric": {
+        "type": 0,
+        "counter": 0
+      }
+    }
+  ],
   "altBar": [
     {
       "prefix": "",

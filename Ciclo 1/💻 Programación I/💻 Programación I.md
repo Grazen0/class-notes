@@ -7,7 +7,6 @@
 	- **Laboratorio**
 		- [[S1A - Algoritmos]]
 		- [[S1B - Introducción a Python]]
-	- [[S6B - Funciones]]
 	- **Teoría**
 		- [[S1 - Introducción]]
 		- [[S2 - Elementos de un programa]]
@@ -15,6 +14,7 @@
 		- [[S4 - Bucles con while]]
 		- [[S5  - Bucles anidados]]
 		- [[S6A - Bucles con for]]
+		- [[S6B - Funciones]]
 
 %% End Waypoint %%
 
