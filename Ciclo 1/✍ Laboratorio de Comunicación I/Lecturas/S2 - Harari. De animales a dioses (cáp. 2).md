@@ -24,13 +24,17 @@ Los neandertales vencieron a los sapiens y los expulsaron del territorio, probab
 
 6. **¿Qué evidencia hay de que hace 70,000 años los sapiens modificaron su forma de actuar?**
 
-
+- Restos de lámparas de aceite, arcos y flechas, agujas y otros.
+- Arte, joyería
 
 8. **Menciona tres avances de los sapiens entre los 70 y 30 mil años.**
 
 - Los sapiens abandonaron África en una segunda oleada, y **expulsaron a los neandertales y demás especies** de la faz de la tierra.
 - **Cruzaron el mar** hacia Australia, un continente nuevo.
 - **Inventaron** barcas, lámparas de aceite, arcos y flechas, agujas, etc.
+
+- Surge el árbol del saber
+- 
 
 10. **Qué pasó con los sapiens en esa época.**
 
