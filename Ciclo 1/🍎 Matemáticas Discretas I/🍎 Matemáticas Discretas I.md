@@ -16,6 +16,7 @@
 		- [[S4 - Leyes lógicas]]
 		- [[S5 - Forma normal conjuntiva y disyuntiva]]
 		- [[S6 - Cuantificadores]]
+		- [[S7 - Inferencia]]
 
 %% End Waypoint %%
 
