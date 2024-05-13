@@ -40,9 +40,17 @@ Alternativamente:
 
 10. ¿Qué pasó con los sapiens en esa época?
 
-11. Menciona las tres teorías más fuertes sobre lo que les pasó a los sapiens.
+- Los sapiens abandonaron África en una segunda oleada, y **expulsaron a los neandertales y demás especies** de la faz de la tierra.
+- **Cruzaron el mar** hacia Australia, un continente nuevo.
+- **Inventaron** barcas, lámparas de aceite, arcos y flechas, agujas, etc.
 
-12. ¿Por qué es relevante la leyenda de Peugeot? Menciona dos ideas.
+12. Menciona las tres teorías más fuertes sobre lo que les pasó a los sapiens.
+
+- Mutaciones genéticas permitieron a los sapiens pensar de formas sin precedentes y desarrollar un nuevo **lenguaje**. ("Hay un león junto al río")
+- El lenguaje nació como un medio para compartir información sobre los humanos (**chismorreo**)
+- El lenguaje nació como un medio para hablar de cosas que no existen (**Leyenda de Peugeot**)
+
+13. ¿Por qué es relevante la leyenda de Peugeot? Menciona dos ideas.
 
 La "leyenda de Peugeot" demuestra cómo muchas de las cosas que creemos "reales" son sólo una imaginación del ser humano.
 
