@@ -13,8 +13,20 @@
       "path": "Kanban.md"
     },
     {
+      "basename": "S3 - Funciones",
+      "path": "Ciclo 1/💻 Programación I/Notas/Teoría/S3 - Funciones.md"
+    },
+    {
+      "basename": "💻 Programación I",
+      "path": "Ciclo 1/💻 Programación I/💻 Programación I.md"
+    },
+    {
       "basename": "S4 - Escandell. El esquema clásico de la comunicación y sus limitaciones (cáp. 1)",
       "path": "Ciclo 1/✍ Laboratorio de Comunicación I/Lecturas/S4 - Escandell. El esquema clásico de la comunicación y sus limitaciones (cáp. 1).md"
+    },
+    {
+      "basename": "Ciclo 1",
+      "path": "Ciclo 1/Ciclo 1.md"
     },
     {
       "basename": "Escandell. El esquema clásico de la comunicación y sus limitaciones",
@@ -25,20 +37,8 @@
       "path": "Ciclo 1/✍ Laboratorio de Comunicación I/✍ Laboratorio de Comunicación I.md"
     },
     {
-      "basename": "Ciclo 1",
-      "path": "Ciclo 1/Ciclo 1.md"
-    },
-    {
       "basename": "Examen de redacción (La violencia)",
       "path": "Ciclo 1/✍ Laboratorio de Comunicación I/Estudio/Examen de redacción (La violencia).md"
-    },
-    {
-      "basename": "Sílabo",
-      "path": "Ciclo 1/✍ Laboratorio de Comunicación I/Sílabo.pdf"
-    },
-    {
-      "basename": "🍎 Matemáticas Discretas I",
-      "path": "Ciclo 1/🍎 Matemáticas Discretas I/🍎 Matemáticas Discretas I.md"
     }
   ],
   "omittedPaths": [

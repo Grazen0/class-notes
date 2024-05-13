@@ -16,7 +16,6 @@
   "folder-note-plugin",
   "waypoint",
   "url-into-selection",
-  "execute-code",
-  "cm-editor-syntax-highlight-obsidian",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "code-styler"
 ]

@@ -19,19 +19,25 @@ title: Preguntas guía
 
 1. ¿Qué entienden los autores por comunicar?
 
-2. ¿Por qué se empobreció la noción de comunicación?
+- Ponerse en **contacto** con otro.
+- Entablar **relaciones**.
+- Compartir **nociones** y **sensaciones**.
 
-3. ¿Qué es denotación y connotación?
+3. ¿Por qué se empobreció la noción de comunicación?
 
-4. ¿Qué aspectos participan al momento de emitir un mensaje?
+Se empobreció porque se comenzó a concebir como **una mera transmisión de mensajes**. (Codificación $\to$ envío)
 
-5. ¿Qué relación hay entre cultura y comunicación?
+4. ¿Qué es denotación y connotación?
 
-6. ¿Qué es el sentido?
+5. ¿Qué aspectos participan al momento de emitir un mensaje?
 
-7. ¿A qué se refiere la lectura con discurso?
+6. ¿Qué relación hay entre cultura y comunicación?
 
-8. ¿A qué se refiere la lectura con negociación de sentido?
+7. ¿Qué es el sentido?
+
+8. ¿A qué se refiere la lectura con discurso?
+
+9. ¿A qué se refiere la lectura con negociación de sentido?
 
 ```
 
