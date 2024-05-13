@@ -91,6 +91,10 @@ La representación interna es el concepto **(imagen mental)** que cada persona t
 
 15. ¿Cuál es el propósito de la comunicación?
 
+El emisor quiere **lograr un objetivo**, tiene que ver con la **relación emisor-receptor**.
+
+El objetivo del emisor es **lograr un conjunto de representaciones** en el emisor.
+
 ```
 
 La definición, estudio y análisis de lo que conocemos como "comunicación" son asuntos **complejos**, cuyas respuestas no son evidentes a primera vista.

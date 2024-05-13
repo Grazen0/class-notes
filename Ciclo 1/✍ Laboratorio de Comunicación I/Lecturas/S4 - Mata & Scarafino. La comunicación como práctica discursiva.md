@@ -2,6 +2,7 @@
 
 ```ad-summary
 title: Resumen
+collapse: closed
 
 Contrario a la definición tradicional, la comunicación **no es un proceso lineal.**, ni existe un solo mensaje que se transmita a la vez.
 
@@ -12,6 +13,28 @@ En el caso del emisor, éste define el **ambiente contextual** en el que se emit
 Estos factores particulares de la comunicación hacen que un sólo "mensaje" en realidad tenga un **sinfín de formas de ser interpretado**.
 
 ```
+
+```ad-exercise
+title: Preguntas guía
+
+1. ¿Qué entienden los autores por comunicar?
+
+2. ¿Por qué se empobreció la noción de comunicación?
+
+3. ¿Qué es denotación y connotación?
+
+4. ¿Qué aspectos participan al momento de emitir un mensaje?
+
+5. ¿Qué relación hay entre cultura y comunicación?
+
+6. ¿Qué es el sentido?
+
+7. ¿A qué se refiere la lectura con discurso?
+
+8. ¿A qué se refiere la lectura con negociación de sentido?
+
+```
+
 
 ## 1. ¿Qué pasa cuando nos comunicamos?
 
