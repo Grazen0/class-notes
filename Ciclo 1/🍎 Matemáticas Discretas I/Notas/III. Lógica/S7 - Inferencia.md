@@ -198,7 +198,8 @@ $$
 \end{align}
 $$
 
-collapse: open
+```ad-proof
+collapse: closed
 
 Suponemos:
 
@@ -228,3 +229,15 @@ r : \T \quad (4)
 $$
 
 Y como $p$ es verdadero y $(4)$, entonces $p \to r$ (la conclusión) es verdadero.
+```
+
+### Modus tollens
+
+$$
+\begin{align}
+& p \to q \\
+& \neg q \\
+\hline
+\therefore\ & \neg p
+\end{align}
+$$
