@@ -14,7 +14,8 @@ Se le llama a $a$ un **punto crítico** de $f(x)$ cuando $f'(a) = 0$ o $f'(a)$ n
 
 ```
 
-## Condiciones para máximos y mínimos
+## Condiciones necesarias para máximos y mínimos
 
-- $a$ es máx. o mín. $\implies$ $a$ es punto crítico.
-- 
+Dado un máximo o mínimo $a$ en $f(x)$, se sabe:
+
+- $a$ es punto crítico.
