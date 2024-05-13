@@ -1,0 +1,18 @@
+{
+  "statusBar": [],
+  "altBar": [
+    {
+      "prefix": "",
+      "suffix": " files",
+      "metric": {
+        "type": 2,
+        "counter": 6
+      }
+    }
+  ],
+  "countComments": true,
+  "collectStats": true,
+  "displaySectionCounts": false,
+  "pageWords": 500,
+  "statsPath": ".obsidian/vault-stats.json"
+}

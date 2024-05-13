@@ -75,9 +75,9 @@ Es discurso:
 - Una persona que habla
 - Una persona que calla
 
-9. ¿A qué se refiere la lectura con negociación de sentido?
+9. ¿A qué se refiere la lectura con negociación de sentidos?
 
-
+La lectura concluye que **el discurso es un espacio de negociación de sentidos**, donde el emisor y el receptor entablan una relación en base a sus ideas, experiencias, etc mediante **estrategias de aceptación**.
 
 ```
 
