@@ -19,3 +19,9 @@ Se le llama a $a$ un **punto crítico** de $f(x)$ cuando $f'(a) = 0$ o $f'(a)$ n
 Dado un máximo o mínimo $a$ en $f(x)$, se sabe:
 
 - $a$ es punto crítico.
+
+## Otro criterio de crecimiento y decrecimiento
+
+Sabemos que una función $f(x)$ es **creciente** cuando $a < b \implies f(a) < f(b)$.
+
+Con las derivadas, encontramos que esto s equivalente a $f'(x) > 0$.
