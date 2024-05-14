@@ -31,4 +31,9 @@ Con las derivadas, encontramos que esto s equivalente a $f'(x) > 0$.
 - $f''(x) > 0$: cóncava hacia **arriba**.
 - $f''(x) < 0$: cóncava hacia **abajo**.
 - $f''(x) = 0$: punto de **inflexión**.
-- 
+
+## Cómo hallar máximos y mínimos
+
+1. Calcular la primera y segunda derivada
+2. Hallar puntos críticos
+3. Analizar el signo de la derivada alrededor de los puntos críticos
