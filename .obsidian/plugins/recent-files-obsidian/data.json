@@ -5,6 +5,10 @@
       "path": "Kanban.md"
     },
     {
+      "basename": "02 - Video sobre una herramienta de transcripción",
+      "path": "Ciclo 1/💾 Introducción a Ciencias de la Computación/Trabajos/02 - Video sobre una herramienta de transcripción.md"
+    },
+    {
       "basename": "S7 - Optimización",
       "path": "Ciclo 1/📈 Cálculo de Una Variable/Notas/S7 - Optimización.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "S7 - Bases de datos",
       "path": "Ciclo 1/💾 Introducción a Ciencias de la Computación/Notas/S7 - Bases de datos.md"
-    },
-    {
-      "basename": "02 - Video sobre una herramienta de transcripción",
-      "path": "Ciclo 1/💾 Introducción a Ciencias de la Computación/Trabajos/02 - Video sobre una herramienta de transcripción.md"
     }
   ],
   "omittedPaths": [
