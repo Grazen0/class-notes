@@ -13,4 +13,4 @@
 
 Hola, muy buenas a todos!
 
-En esta ocasión, les voy a explicar 
+Para este video, les voy a explicar cómo usar 
