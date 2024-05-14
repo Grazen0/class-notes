@@ -25,3 +25,10 @@ Dado un máximo o mínimo $a$ en $f(x)$, se sabe:
 Sabemos que una función $f(x)$ es **creciente** cuando $a < b \implies f(a) < f(b)$.
 
 Con las derivadas, encontramos que esto s equivalente a $f'(x) > 0$.
+
+## Segunda derivada
+
+- $f''(x) > 0$: cóncava hacia **arriba**.
+- $f''(x) < 0$: cóncava hacia **abajo**.
+- $f''(x) = 0$: punto de **inflexión**.
+- 
