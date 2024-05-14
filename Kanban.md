@@ -6,7 +6,7 @@ kanban-plugin: basic
 
 ## ☕ Tareas
 
-- [ ] **[[02 - Video sobre una herramienta de transcripción]]**<br><br>(y 03 - Transcripción del video)<br><br>@{20-05-2024}<br><br>#intro-cs #teo
+- [ ] **[[02 - Video sobre una herramienta de transcripción]]**<br><br>Adicionalmente:<br><br>03: transcripción de 01<br>04: transcripción de 02<br><br>@{20-05-2024}<br><br>#intro-cs #teo
 
 
 ## 📚 Lecturas
