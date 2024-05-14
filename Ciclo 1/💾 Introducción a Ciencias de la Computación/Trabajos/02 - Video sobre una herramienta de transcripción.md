@@ -13,4 +13,4 @@
 
 Hola, muy buenas a todos!
 
-Para este video, les voy a explicar cómo usar 
+Ya que en el video pasado les mostré cómo usar una herramienta de *blurring* para 
