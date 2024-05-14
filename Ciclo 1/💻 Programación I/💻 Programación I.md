@@ -15,6 +15,7 @@
 		- [[S5  - Bucles anidados]]
 		- [[S6A - Bucles con for]]
 		- [[S6B - Funciones]]
+		- [[S7 - Cadenas]]
 
 %% End Waypoint %%
 
