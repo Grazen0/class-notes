@@ -1,0 +1,22 @@
+{
+  "collapse-filter": false,
+  "search": "-tag:excalidraw -file:Kanban -file:README",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.24892933618844,
+  "lineSizeMultiplier": 0.997109207708779,
+  "collapse-forces": false,
+  "centerStrength": 0.748394004282655,
+  "repelStrength": 16.2241256245539,
+  "linkStrength": 1,
+  "linkDistance": 256,
+  "scale": 0.4140962303949535,
+  "close": false
+}

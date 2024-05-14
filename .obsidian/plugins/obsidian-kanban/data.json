@@ -1,0 +1,11 @@
+{
+  "new-note-folder": "Notas/Kanban",
+  "show-checkboxes": false,
+  "tag-colors": [],
+  "link-date-to-daily-note": false,
+  "new-line-trigger": "shift-enter",
+  "hide-tags-display": false,
+  "hide-tags-in-title": true,
+  "hide-date-in-title": true,
+  "show-relative-date": true
+}
