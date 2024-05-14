@@ -7,3 +7,10 @@
 - Leopardo (rápido, impreciso)
 - Delfín (balanceado)
 - **Ballena (lento, preciso)**
+
+
+---
+
+Hola, muy buenas a todos!
+
+En esta ocasión, les voy a explicar 
