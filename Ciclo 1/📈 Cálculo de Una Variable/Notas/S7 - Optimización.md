@@ -37,3 +37,7 @@ Con las derivadas, encontramos que esto s equivalente a $f'(x) > 0$.
 1. Calcular la primera y segunda derivada
 2. Hallar puntos críticos
 3. Analizar el signo de la derivada alrededor de los puntos críticos
+
+## Criterios finales
+
+- $f'(x)$ cambia de positivo a negativo en $x_{c}4 donde $f'(x_{c}) = 0$, entonces hay un **máximo local** en $x_{c}$.
