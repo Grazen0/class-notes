@@ -10,7 +10,7 @@ En otras palabras, para todo $c \in (f(a), f(b))$ existe un $x_{0} \in (a, b)$ t
 ```ad-definition
 title: Definición (punto crítico).
 
-Se le llama a $a$ un **punto crítico** de $f(x)$ cuando $f'(a) = 0$ o $f'(a)$ no está definido.
+$a$ es un **punto crítico** de $f(x)$ cuando $f'(a) = 0$ o $f'(a)$ no está definido.
 
 ```
 

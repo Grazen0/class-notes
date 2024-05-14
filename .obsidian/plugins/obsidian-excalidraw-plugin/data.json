@@ -6,6 +6,7 @@
   "templateFilePath": "Plantilla.excalidraw",
   "scriptFolderPath": "Excalidraw/Scripts",
   "compress": false,
+  "decompressForMDView": true,
   "autosave": true,
   "autosaveInterval": 15000,
   "autosaveIntervalDesktop": 15000,
@@ -85,7 +86,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.1.7",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.1.8",
     "libraryItems": [
       {
         "status": "unpublished",
@@ -12954,5 +12955,6 @@
   "slidingPanesSupport": false,
   "areaZoomLimit": 1,
   "longPressDesktop": 500,
-  "longPressMobile": 500
+  "longPressMobile": 500,
+  "isDebugMode": false
 }
