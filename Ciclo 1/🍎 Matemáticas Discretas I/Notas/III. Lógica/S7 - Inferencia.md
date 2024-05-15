@@ -272,7 +272,18 @@ $$
 
 donde $q$ es una proposición cualquiera.
 
-### Regla de silogismo disyuntivo
+### Regla de conjunción
+
+$$
+\begin{align}
+& p \\
+& q \\
+\hline
+\therefore\ & p \land q
+\end{align}
+$$
+
+### Silogismo disyuntivo
 
 $$
 \begin{align}
@@ -282,3 +293,91 @@ $$
 \therefore\ & q
 \end{align}
 $$
+
+### Prueba condicional
+
+$$
+\begin{align}
+& p \land q \\
+& p \to (q \to r) \\
+\hline
+\therefore\ & r
+\end{align}
+$$
+
+```ad-proof
+collapse: closed
+
+$$
+\begin{align}
+& p \land q & (1) \\
+& p \to (q \to r) & (2)
+\end{align}
+$$
+
+De $(1)$:
+
+$$
+\begin{align}
+p &\quad (3) \\
+q &\quad (4)
+\end{align}
+$$
+
+De $(3)$ y $(2)$:
+
+$$
+q \to r \quad (5)
+$$
+
+De $(4)$ y $(5)$:
+
+$$
+r
+$$
+
+```
+
+### Prueba por casos
+
+$$
+\begin{align}
+& p \to r \\
+& q \to r \\
+\hline
+\therefore\ & (p \lor q) \to r
+\end{align}
+$$
+
+### Dilema constructivo
+
+$$
+\begin{align}
+& p \to q \\
+& r \to s \\
+& p \lor r \\
+\hline
+\therefore\ & q \lor s
+\end{align}
+$$
+
+```ad-proof
+
+$$
+\begin{align}
+& p \to q & (1) \\
+& q \to s & (2) \\
+& p \lor r & (3) \\
+\end{align}
+$$
+
+Por $(1)$ y $(2)$:
+
+$$
+\begin{align}
+&(p \to q) \land (r \to s) \\
+&\equiv (p \lor r) \to (q \lor s)
+\end{align}
+$$
+
+```
