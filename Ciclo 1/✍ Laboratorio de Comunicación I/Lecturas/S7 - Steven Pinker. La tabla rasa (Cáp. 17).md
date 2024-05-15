@@ -21,9 +21,9 @@ Ver [[S6A - Redacción del párrafo]] y [[S5B - Redacción]].
 
 Los aspectos implicados en la violencia que Pinker explica son tres: la competencia, la inseguridad y la gloria.
 
-La competencia se describe como la necesidad de violencia entre los seres vivos para sobrevivir. Pinker afirma que esta lógica no es un concepto egoísta, para lo cual ofrece ejemplos históricos en los que se asumieron este tipo de pensamiento. Dos casos particulares que menciona son el canibalismo de los Wari con aquellos fuera de su tribu y las tácticas de deshumanización propagadas por el régimen Nazi.
+En el caso de la competencia, se explica este factor como la necesidad de violencia entre los seres vivos para sobrevivir. Pinker explica que ha sido parte histórica del proceso de selección natural. También afirma que esta lógica no es un concepto egoísta, ya que la moral que decide esto se ha demostrado maleable a lo largo de la historia.
 
-Por otro lado, Pinker describe el concepto de inseguridad 
+Por otro lado, Pinker describe el concepto de inseguridad
 
 ### 2. ¿A qué se refiere Pinker con la *trampa Hobbesiana*? Pon 2 ejemplos de la lectura
 
