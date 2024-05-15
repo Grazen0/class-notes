@@ -362,22 +362,35 @@ $$
 $$
 
 ```ad-proof
+collapse: closed
+
+Por contradicción:
 
 $$
 \begin{align}
 & p \to q & (1) \\
 & q \to s & (2) \\
 & p \lor r & (3) \\
+\hline
+& \neg(q \lor s) & (4)
 \end{align}
 $$
 
-Por $(1)$ y $(2)$:
+De $(4)$:
+
+$$
+\neg q \land \neg s
+$$
+
+entonces
 
 $$
 \begin{align}
-&(p \to q) \land (r \to s) \\
-&\equiv (p \lor r) \to (q \lor s)
+& \neg q & (5) \\
+& \neg s & (6)
 \end{align}
 $$
+
+(El resto es trivial)
 
 ```
