@@ -21,9 +21,11 @@ Ver [[S6A - Redacción del párrafo]] y [[S5B - Redacción]].
 
 Los aspectos implicados en la violencia que Pinker explica son tres: la competencia, la inseguridad y la gloria.
 
-En el caso de la competencia, se explica este factor como la necesidad de violencia entre los seres vivos para sobrevivir. Pinker explica que ha sido parte histórica del proceso de selección natural. También afirma que esta lógica no es un concepto egoísta, ya que la moral que la rige se ha demostrado maleable a lo largo de la historia, como evidencia con el ejemplo del canibalismo de la tribu Wari.
+En primer lugar, Pinker explica el factor de la competencia como la necesidad de violencia entre los seres vivos para sobrevivir. Pinker explica que ha sido parte histórica del proceso de selección natural. También afirma que esta lógica no es un concepto egoísta, ya que la moral que la rige se ha demostrado maleable a lo largo de la historia, como evidencia con el ejemplo del canibalismo de la tribu Wari.
 
-Por otro lado, Pinker aborda el concepto de la violencia por inseguridad mediante el concepto de "trampa Hobbesiana": las situaciones no violentas pueden escalar a la violencia simplemente por medio de la tensión y el miedo hacia otro individuo. Los procesos que llevan a la violencia de esta manera son un círculo vicioso de desconfianza que pueden llevar de leves fricciones a la guerra.
+En segundo lugar, Pinker aborda el concepto de la violencia por inseguridad mediante el concepto de "trampa Hobbesiana": las situaciones no violentas pueden escalar a la violencia simplemente por medio de la tensión y el miedo hacia otro individuo. Los procesos que llevan a la violencia de esta manera son un círculo vicioso de desconfianza que pueden llevar de leves fricciones a la guerra. Un ejemplo con el que se ilustra este proceso es las aldeas de yanomami, entre las cuales la violencia escalaba en base a ataques preventivos y respuestas a estos.
+
+Finalmente, 
 
 ### 2. ¿A qué se refiere Pinker con la *trampa Hobbesiana*? Pon 2 ejemplos de la lectura
 
