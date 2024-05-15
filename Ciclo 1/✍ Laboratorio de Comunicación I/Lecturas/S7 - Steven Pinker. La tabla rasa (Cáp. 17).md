@@ -23,10 +23,9 @@ Los aspectos implicados en la violencia que Pinker explica son tres: la competen
 
 En primer lugar, Pinker explica el factor de la competencia como la necesidad de violencia entre los seres vivos para sobrevivir. Pinker explica que ha sido parte histórica del proceso de selección natural. También afirma que esta lógica no es un concepto egoísta, ya que la moral que la rige se ha demostrado maleable a lo largo de la historia, como evidencia con el ejemplo del canibalismo de la tribu Wari.
 
-En segundo lugar, Pinker explica el concepto de la violencia por inseguridad mediante el concepto de "trampa Hobbesiana": las situaciones no violentas pueden escalar a la violencia simplemente por medio de la tensión y el miedo entre grupos e individuos. Los procesos que conducen a la violencia de esta forma son un círculo vicioso de desconfianza que puede llevar de leves fricciones a la guerra. Ejemplos conocidos de estas trampas Hobbesianas incluyen la Primera Guerra Mundial, la Guerra de los Seis Días y las guerras de Yugoslavia en los 90's. 
+En segundo lugar, Pinker explica el concepto de la violencia por inseguridad mediante el concepto de "trampa Hobbesiana": las situaciones no violentas pueden escalar a la violencia simplemente por medio de la tensión y el miedo entre grupos e individuos. Los procesos que conducen a la violencia de esta forma son un círculo vicioso de desconfianza que puede llevar de leves fricciones hacia la guerra. Ejemplos conocidos de estas trampas Hobbesianas incluyen la Primera Guerra Mundial, la Guerra de los Seis Días y las guerras de Yugoslavia en los 90's. 
 
-Finalmente, Pinker explica el factor de la "gloria" en sentido de "violencia por el honor": habla de países
-
+Finalmente, Pinker explica el factor de la "gloria" en sentido de la "violencia por el honor", un concepto social donde destaca como ejemplo la venganza en todos sus sentidos. Este concepto de gloria está ligado a lo que Pinker denomina "cultura de honor", que describe como 
 ### 2. ¿A qué se refiere Pinker con la *trampa Hobbesiana*? Pon 2 ejemplos de la lectura
 
 1. Situación de tensión donde dos individuos, grupos u organizaciones se ven tentadas a usar la violencia contra el otro de forma preventiva pese a no tener realmente la intención directa de hacer daño.
