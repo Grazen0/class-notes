@@ -9,7 +9,9 @@ Ver [[S6A - Redacción del párrafo]] y [[S5B - Redacción]].
 ### 1. ¿Qué aspectos según Pinker están implicados en la lógica de la violencia?
 
 1. La competencia
-	1. Proviene del proceso de evolución
+	1. Proviene del proceso de evolución (máquinas de supervivencia)
+	2. No es un concepto egoísta, si se habla en contexto de grupos sociales(Ejemplo de los Wari)
+	3. 
 2. Inseguridad
 3. Gloria
 
