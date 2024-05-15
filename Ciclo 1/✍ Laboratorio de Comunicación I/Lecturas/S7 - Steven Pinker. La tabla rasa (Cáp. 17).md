@@ -10,10 +10,16 @@ Ver [[S6A - Redacción del párrafo]] y [[S5B - Redacción]].
 
 1. La competencia
 	1. Proviene del proceso de evolución (máquinas de supervivencia)
-	2. No es un concepto egoísta, si se habla en contexto de grupos sociales(Ejemplo de los Wari)
-	3. 
+	3. No es un concepto egoísta, si se habla en contexto de grupos sociales (Ejemplo de los Wari)
+	4. Se puede facilitar el uso de violencia utilizando tácticas de deshumanización.
+	5. Se puede inhibir mediante el encuentro de puntos de intercambio, que justifiquen el bienestar común.
 2. Inseguridad
+	1. Se basa en la **trampa Hobbesiana**: una situación entre dos individuos no violenta inicialmente, pero de alta tensión.
+	2. Puede crear un círculo vicioso de incertidumbre
+	3. 
 3. Gloria
+
+Los aspectos implicados en la violencia que Pinker explica son tres: la competencia, la inseguridad y la gloria. La competencia se describe principalmente como un resultado del proceso evolutivo, el cual ha premiado el uso de la violencia entre los seres vivos para sobrevivir. Pinker afirma que esta lógica no es un concepto egoísta, para lo cual ofrece ejemplos históricos de formas en las que se asumen este tipo de pensamientos 
 
 ### 2. ¿A qué se refiere Pinker con la *trampa Hobbesiana*? Pon 2 ejemplos de la lectura
 
