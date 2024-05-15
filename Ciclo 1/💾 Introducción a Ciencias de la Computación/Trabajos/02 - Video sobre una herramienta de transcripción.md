@@ -36,3 +36,6 @@ Ahora sí, vamos a ver cómo se usa TurboScribe.
 	1. **Guepardo**: Más rápido, pero no tan preciso.
 	2. **Delfín:** Balanceado, más o menos rápido y más o menos preciso.
 	3. **Ballena:** Más lento, pero es el modo más preciso.
+6. Darle al botón de "transcribir".
+7. Esperara un rato
+8. 
