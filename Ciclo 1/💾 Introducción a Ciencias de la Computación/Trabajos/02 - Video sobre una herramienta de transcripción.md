@@ -26,3 +26,8 @@ Pero así como con **deface** en el video anterior, deberíamos ver por qué usa
 3. Tiene una interfaz súper limpia y sencilla.
 4. Ofrece una buena variedad de modos para transcribir, dependiendo de lo que necesites. 
 
+Ahora sí, vamos a ver cómo se usa TurboScribe.
+
+1. Entrar a TurboScribe con el link en la descripción
+2. Registrarnos con nuestra cuenta de Google
+3. Darle al botón enorme que dice "transcribir tu primer archivo"
