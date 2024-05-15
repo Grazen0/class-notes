@@ -37,5 +37,6 @@ Ahora sí, vamos a ver cómo se usa TurboScribe.
 	2. **Delfín:** Balanceado, más o menos rápido y más o menos preciso.
 	3. **Ballena:** Más lento, pero es el modo más preciso.
 6. Darle al botón de "transcribir".
-7. Esperara un rato
-8. 
+7. Esperar un rato
+8. Ver la transcripción
+9. 
