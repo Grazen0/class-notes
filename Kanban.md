@@ -16,7 +16,6 @@ kanban-plugin: basic
 
 ## 📄 Evaluaciones
 
-- [ ] **Control de lectura**<br><br>Temas:<br><br>- [[S2 - Harari. De animales a dioses (cáp. 2)|Harari. El árbol del saber]]<br>- [[S4 - Escandell. El esquema clásico de la comunicación y sus limitaciones (cáp. 1)|Escandell. El esquema clásico de la comunicación y sus limitaciones]]<br>- [[S4 - Mata & Scarafino. La comunicación como práctica discursiva|Mata y Scarafino]]<br>- [[S5 - Pernas. IA y los ODS|Pernas. IA y los ODS]]<br>- Boroditsky (TED Talk)<br>- Video sobre los prejuicios<br><br>@{14-05-2024}<br>#comu #teo
 - [ ] **Parcial PI**<br><br>40 preguntas para marcar<br><br>¡Viene todo!<br><br>@{20-05-2024}<br>#pi #teo
 - [ ] **[[S6 - Control de lectura (CL)|Control de lectura]]**<br><br>Temas:<br><br>- [[S2 - Vasen. Giro postcompetitivo en la política de CTI|Giro postcompetitivo]]<br>- [[S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS|Hojas de ruta ODS]]<br>- [[S5 - La Parra y Tortosa. Violencia estructural|Violencia estructural]]<br>- [[S4 - Teoría de sistemas|Teoría de sistemas]]<br>- [Ruta del Barroco Andino](https://www.youtube.com/watch?v=9FByimiScv8&pp=ygUabGEgcnV0YSBkZWwgYmFycm9jbyBhbmRpbm8%3D) (?)<br><br>@{22-05-2024}<br>#pi #teo
 - [ ] **Exposición de avance de investigación**<br><br>@{31-05-2024}<br>#comu #lab #grupal
@@ -37,9 +36,7 @@ kanban-plugin: basic
 ## 👍 Completado
 
 **Complete**
-- [x] **[[01 - Herramienta de blurring para videos]]**<br><br>Grabar un video de 1-4 mins explicando una herramienta para hacer blurring de videos.<br><br>[Página de la tarea](https://utec.instructure.com/courses/14316/assignments/240863)<br><br>@{13-05-2024}<br><br>#intro-cs #teo
-- [x] **[[S5 - Pernas. IA y los ODS]]**<br><br>- [x] Leído<br>- [x] Anotado<br><br>@{14-05-2024}<br>#comu #teo
-- [x] **Párrafos del patrimonio cultural**<br><br>Redactar los párrafos del problema de patrimonio cultural<br><br>@{15-05-2024}<br>#pi #lab #grupal
+- [x] **Control de lectura**<br><br>Temas:<br><br>- [[S2 - Harari. De animales a dioses (cáp. 2)|Harari. El árbol del saber]]<br>- [[S4 - Escandell. El esquema clásico de la comunicación y sus limitaciones (cáp. 1)|Escandell. El esquema clásico de la comunicación y sus limitaciones]]<br>- [[S4 - Mata & Scarafino. La comunicación como práctica discursiva|Mata y Scarafino]]<br>- [[S5 - Pernas. IA y los ODS|Pernas. IA y los ODS]]<br>- Boroditsky (TED Talk)<br>- Video sobre los prejuicios<br><br>@{14-05-2024}<br>#comu #teo
 
 
 ***
@@ -59,6 +56,9 @@ kanban-plugin: basic
 - [x] **[[S5 - La Parra y Tortosa. Violencia estructural]]**<br><br>@{29-04-2024}<br>#pi #teo
 - [x] **[[Características de la escritura formal]]**<br><br>Resolver ficha de trabajo<br><br>@{07-05-2024}<br><br>#comu #teo
 - [x] **[[S5,6 - Verdera. Enfoques sobre la pobreza]]**<br><br>- [x] Leído<br>- [x] Anotado<br><br>Evaluación en la próxima clase.<br><br>@{06-05-2024}<br>#pi #teo
+- [x] **[[01 - Herramienta de blurring para videos]]**<br><br>Grabar un video de 1-4 mins explicando una herramienta para hacer blurring de videos.<br><br>[Página de la tarea](https://utec.instructure.com/courses/14316/assignments/240863)<br><br>@{13-05-2024}<br><br>#intro-cs #teo
+- [x] **[[S5 - Pernas. IA y los ODS]]**<br><br>- [x] Leído<br>- [x] Anotado<br><br>@{14-05-2024}<br>#comu #teo
+- [x] **Párrafos del patrimonio cultural**<br><br>Redactar los párrafos del problema de patrimonio cultural<br><br>@{15-05-2024}<br>#pi #lab #grupal
 
 %% kanban:settings
 ```
