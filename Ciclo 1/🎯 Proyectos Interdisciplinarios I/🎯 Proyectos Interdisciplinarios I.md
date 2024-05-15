@@ -3,7 +3,7 @@
 ## Índice
 
 %% Begin Waypoint %%
-- **Estudio**
+- **[[Estudio]]**
 	- [[S6 - Control de lectura (CL)]]
 - **Lecturas**
 	- [[S2 - CCCTI. Acciones para el potenciamiento de la CTI en Perú]]
