@@ -31,3 +31,8 @@ Ahora sí, vamos a ver cómo se usa TurboScribe.
 1. Entrar a TurboScribe con el link en la descripción
 2. Registrarnos con nuestra cuenta de Google
 3. Darle al botón enorme que dice "transcribir tu primer archivo"
+4. "Browse files", seleccionar el archivo
+5. Seleccionar el modo de transcripción
+	1. **Guepardo**: Más rápido, pero no tan preciso.
+	2. **Delfín:** Balanceado, más o menos rápido y más o menos preciso.
+	3. **Ballena:** Más lento, pero es el modo más preciso.
