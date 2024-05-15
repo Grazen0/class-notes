@@ -22,5 +22,7 @@ Así que - hoy les voy a enseñar a cómo hacer transcripciones automáticas de 
 Pero así como con **deface** en el video anterior, deberíamos ver por qué usar **TurboScribe**, habiendo otras herramientas similares en línea.
 
 1. Es prácticamente gratis.
-2. Tiene una interfaz recontra sencilla.
-3. 
+2. No tiene anuncios.
+3. Tiene una interfaz súper limpia y sencilla.
+4. Ofrece una buena variedad de modos para transcribir, dependiendo de lo que necesites. 
+
