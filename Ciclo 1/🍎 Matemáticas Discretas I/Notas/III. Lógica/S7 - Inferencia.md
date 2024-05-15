@@ -137,7 +137,7 @@ $$
 $$
 \begin{align}
 (1) \quad & p \to r & : \T \\
-(2) \quad & \neg q \to r & : \T \\
+(2) \quad & \neg q \to p & : \T \\
 (3) \quad & \neg r & : \T \\
 \hline
 \therefore\ & q
@@ -239,5 +239,46 @@ $$
 & \neg q \\
 \hline
 \therefore\ & \neg p
+\end{align}
+$$
+
+### Simplificación conjuntiva
+
+$$
+\begin{align}
+& p \land q \\
+\hline
+\therefore\ & p
+\end{align}
+$$
+
+$$
+\begin{align}
+& p \land q \\
+\hline
+\therefore\ & q
+\end{align}
+$$
+
+### Amplificación disyuntiva
+
+$$
+\begin{align}
+& p \\
+\hline
+\therefore\ & p \lor q
+\end{align}
+$$
+
+donde $q$ es una proposición cualquiera.
+
+### Regla de silogismo disyuntivo
+
+$$
+\begin{align}
+& p \lor q \\
+& \neg p \\
+\hline
+\therefore\ & q
 \end{align}
 $$

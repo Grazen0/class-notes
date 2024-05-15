@@ -43,8 +43,8 @@ Tanto la nota de **teoría** como **laboratorio** deben ser **mayor o iguales a 
 
 | Tipo de evaluación  | Cód. |  Nota   | Semana | Fecha |
 | ------------------- | :--: | :-----: | :----: | :---: |
-| Práctica calificada | PC1  |   10%   |   4    | 26/04 |
-| Práctica calificada | PC2  |   10%   |   11   | 14/06 |
 | Evaluación continua | EC1  |   10%   |   -    |   -   |
 | Evaluación continua | EC2  |   10%   |   -    |   -   |
+| Práctica calificada | PC1  |   10%   |   4    | 26/04 |
+| Práctica calificada | PC2  |   10%   |   11   | 14/06 |
 |                     |      | **40%** |        |       |
