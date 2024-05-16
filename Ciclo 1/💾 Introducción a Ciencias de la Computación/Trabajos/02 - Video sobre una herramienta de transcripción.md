@@ -41,3 +41,6 @@ Ahora sí, vamos a ver cómo se usa TurboScribe.
 8. Ver la transcripción
 9. Si quieren, editar un poco
 
+Si quieres transcribir un video automáticamente, definitivamente te recomiendo TurboScribe. Como has podido ver, es muy fácil de usar, es versátil y es casi gratis. Sí existe la limitación en la cantidad de transcripciones al día, pero a mí personalmente, para la eficacia que tiene, me parece súper generoso y creo que vale completamente la pena. Además, como han visto, la precisión de las transcripciones es muy alta.
+
+Y pues nada, eso ha sido todo por este video. Espero que te haya servido de algo, y nos vemos en la próxima.
