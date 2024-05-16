@@ -34,4 +34,9 @@ Pinker describe a la trampa Hobbesiana como un dilema entre dos o varios grupos 
 
 ### 3. ¿Por qué el dilema del prisionero es similar a la situación del pacifista? Pon 2 ejemplos de la lectura
 
+1. Similitudes
+	1. 
+
 El dilema del prisionero y la situación del pacifista se refieren a situaciones con la misma estructura. En estas existe tensión entre dos grupos o individuos que pueden elegir bien o no "traicionar" al otro y perjudicarle. La solución que para un grupo parece mejor de forma individual (perjudicar al otro) resulta la menos óptima si ambos lados optan por ella. Sin embargo la mejor solución para ambos (optar ambos por el pacifismo) requiere de confianza mutua. Por un lado, en el dilema del prisionero, la solución óptima para ambos prisioneros es mantener el silencio y no inculpar al otro, pero esto no resulta una elección viable individualmente dado que ninguno tiene certeza de lo que el otro vaya a elegir. No obstante, si ambos prisioneros se inculpan mutuamente el resultado neto es peor. Por otro lado, la situación del pacifista tiene como resultado óptimo la elección del pacifismo por ambos lados, pero igualmente pone en juego la confianza entre las partes involucradas. Además, la elección de la violencia por ambos lados suele llevar a resultados catastróficos en el contexto internacional. 
+
+El primer ejemplo
