@@ -18,6 +18,7 @@ Una cadena (`str`) es una **secuencia de caracteres**, y se almacena secuencialm
 - `str.lower()`: Devuelve la cadena en minúsculas.
 - `str.strip()`: Elimina los espacios en blanco a los costados de la cadena.
 - `str.split(sep=<\s>)`: Devuelve una lista con la cadena separada por `sep`.
+- `str.join(list)`: Une una lista (u otra cadena) con el carácter especificado.
 
 ```python
 my_string = 'Hello!'
