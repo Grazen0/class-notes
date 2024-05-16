@@ -39,3 +39,5 @@ Ahora sí, vamos a ver cómo se usa TurboScribe.
 6. Darle al botón de "transcribir".
 7. Esperar un rato
 8. Ver la transcripción
+9. Si quieren, editar un poco
+

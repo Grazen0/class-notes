@@ -2,7 +2,7 @@
   "lastOpenLanguageTab": "python",
   "timeout": 10000,
   "allowInput": true,
-  "wslMode": true,
+  "wslMode": false,
   "shellWSLMode": false,
   "onlyCurrentBlock": false,
   "nodePath": "node",
