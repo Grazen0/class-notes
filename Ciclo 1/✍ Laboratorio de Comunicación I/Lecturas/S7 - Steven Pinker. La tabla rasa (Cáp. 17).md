@@ -34,3 +34,4 @@ Pinker describe a la trampa Hobbesiana como un dilema entre dos o varios grupos 
 
 ### 3. ¿Por qué el dilema del prisionero es similar a la situación del pacifista? Pon 2 ejemplos de la lectura
 
+En el texto de Pinker, tanto el dilema del prisionero como la situación del pacifista se refieren a una situación donde 
