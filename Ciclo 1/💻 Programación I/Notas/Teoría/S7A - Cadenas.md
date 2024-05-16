@@ -10,12 +10,14 @@ Una cadena (`str`) es una **secuencia de caracteres**, y se almacena secuencialm
 - `len(str)`: Devuelve la longitud de la cadena.
 - `*`: Repite una cadena.
 - `in`: Devuelve si existe un carácter en una cadena.
-- `str.capitalize()`: Capitaliza una cadena.
+- `str.capitalize()`: Convierte el primer carácter a mayúscula.
 - `str.count(char)`: Cuenta la cantidad de un carácter en una cadena.
-- `str.index(char)`: Devuelve el índice de un carácter en la cadena.
-- `str.find(char)`: 
+- `str.find(substr)`: Devuelve el índice de una subcadena, sino `-1`.
+- `str.index(char)`: Devuelve el índice de una subcadena, sino **error**.
 - `str.upper()`: Devuelve la cadena en mayúsculas.
 - `str.lower()`: Devuelve la cadena en minúsculas.
+- `str.strip()`: Elimina los espacios en blanco a los costados de la cadena.
+- `str.split(sep=<\s>)`: Devuelve una lista con la cadena separada por `sep`.
 
 ```python
 my_string = 'Hello!'
@@ -49,4 +51,18 @@ my_str = 'Hello, world!'
 print(my_str[1:5])   # ello
 print(my_str[3:8:2]) # l,wr
 print(my_str[::-1])  # !dlrow ,olleH
+```
+
+## Alineamiento con `format()`
+
+- Izquierda: `"{:n}".format(str)`
+- Centro: `"{:^n}".format(str)`
+- Derecha: `"{:>n}".format(str)`
+
+```python
+my_str = 'UTEC'
+
+print("|{my_str:10}|")  # |UTEC      |
+print("|{my_str:^10}|") # |   UTEC   |
+print("|{my_str:>10}|") # |      UTEC|
 ```
