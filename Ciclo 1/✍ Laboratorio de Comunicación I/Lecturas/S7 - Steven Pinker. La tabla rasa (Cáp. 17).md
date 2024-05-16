@@ -8,7 +8,7 @@ Ver [[S6A - Redacción del párrafo]] y [[S5B - Redacción]].
 
 ### 1. ¿Qué aspectos según Pinker están implicados en la lógica de la violencia?
 
-1. La competencia
+1. Competencia
 	1. Proviene del proceso de evolución (máquinas de supervivencia)
 	3. No es un concepto egoísta, si se habla en contexto de grupos sociales (Ejemplo de los Wari)
 	4. Se puede facilitar el uso de violencia utilizando tácticas de deshumanización.
@@ -19,21 +19,22 @@ Ver [[S6A - Redacción del párrafo]] y [[S5B - Redacción]].
 	3. 
 3. Gloria
 
-Los aspectos implicados en la violencia que Pinker explica son tres: la competencia, la inseguridad y la gloria.
-
-En primer lugar, Pinker explica el factor de la competencia como la necesidad de violencia entre los seres vivos para sobrevivir. Pinker explica que ha sido parte histórica del proceso de selección natural. También afirma que esta lógica no es un concepto egoísta, ya que la moral que la rige se ha demostrado maleable a lo largo de la historia, como evidencia con el ejemplo del canibalismo de la tribu Wari.
-
-En segundo lugar, Pinker explica el concepto de la violencia por inseguridad mediante el concepto de "trampa Hobbesiana": las situaciones no violentas pueden escalar a la violencia simplemente por medio de la tensión y el miedo entre grupos e individuos. Los procesos que conducen a la violencia de esta forma son un círculo vicioso de desconfianza que puede llevar de leves fricciones hacia la guerra. Ejemplos conocidos de estas trampas Hobbesianas incluyen la Primera Guerra Mundial, la Guerra de los Seis Días y las guerras de Yugoslavia en los 90's. 
-
-Finalmente, Pinker explica el factor de la "gloria" como un incentivo para la violencia por razones más allá de lo estrictamente "útil": honor, respeto, venganza, etc. Esta lógica predomina en lo que Pinker denomina "cultura de honor": realidades sociales donde el honor es factor crucial en la reputación de un individuo. 
+Los aspectos implicados en la violencia que Pinker explica son tres: la competencia, la inseguridad y la gloria. En primer lugar, Pinker explica el factor de la competencia como la necesidad de violencia entre los seres vivos para sobrevivir. Se explica que esta ha sido parte histórica del proceso de selección natural. También afirma que esta lógica no es un concepto egoísta, ya que la moral que la rige se ha demostrado maleable a lo largo de la historia, como evidencia con el ejemplo del canibalismo de la tribu Wari. En segundo lugar, Pinker explica el concepto de la violencia por inseguridad mediante el concepto de "trampa Hobbesiana": las situaciones no violentas pueden escalar a la violencia simplemente por medio de la tensión y el miedo entre grupos e individuos. Los procesos que conducen a la violencia de esta forma son un círculo vicioso de desconfianza que puede llevar de leves fricciones hacia la guerra. Ejemplos conocidos de estas trampas Hobbesianas incluyen la Primera Guerra Mundial, la Guerra de los Seis Días y las guerras de Yugoslavia en los 90's. Finalmente, Pinker explica el factor de la "gloria" como el incentivo caracterizado por ir más allá de lo estrictamente "útil": el honor, respeto, venganza, etc. Esta lógica predomina en lo que Pinker denomina la "cultura de honor": realidades sociales donde el honor es factor crucial en la reputación de un individuo. En este ámbito, Pinker usa como ejemplo a los barrios pobres de Estados Unidos. Dado que las personas en este sector no tienen la posibilidad de obtener reputación mediante los estudios, un buen trabajo y similares, una de las pocas opciones restantes es el honor por medio la "fama en la calle" por medio de la violencia.
 
 ### 2. ¿A qué se refiere Pinker con la *trampa Hobbesiana*? Pon 2 ejemplos de la lectura
 
-1. Situación de tensión donde dos individuos, grupos u organizaciones se ven tentadas a usar la violencia contra el otro de forma preventiva pese a no tener realmente la intención directa de hacer daño.
-2. Ejemplo 1: El dueño que entra a su hogar y encuentra a un ladrón
-3. Ejemplo 2: 
+1. Definición de trampa Hobbesiana
+	1. Causas de la trampa Hobbesiana
+	2. Crea un círculo vicioso
+	3. Ha desencadenado diversos conflictos a lo largo de la historia
+2. Ejemplos
+	1. El dueño que entra a su hogar y encuentra a un ladrón
 
-Pinker describe a la trampa Hobbesiana como un dilema entre dos individuos que se encuentran en una situación inicialmente no violenta, pero que por medio de la tensión e inseguridad mutua puede escalar a la violencia. 
+Pinker describe a la trampa Hobbesiana como un dilema entre dos o varios grupos o individuos que se encuentran en una situación inicialmente no violenta que, por medio de la tensión e inseguridad mutua, puede fácilmente escalar a la violencia. La trampa Hobbesiana crea un círculo vicioso de tensión: la inseguridad de un grupo puede llevar a preparar defensas o posibles ataques preventivos, lo cual incrementa la inseguridad de los otros grupos y los lleva a realizar lo mismo. En esta situación, basta que un solo grupo sucumba a realizar el primer ataque "preventivo" para introducir a la violencia directa en el ciclo de escalamiento.
+
+El ejemplo por excelencia que describe Pinker de la trampa Hobbesiana es la analogía de un propietario que descubre a un ladrón en su casa, estando armados tanto él como el ladrón. Aunque posiblemente no sería la intención de ninguno matar al otro, ambos sujetos están tentados a disparar primero por la inseguridad de la situación.
+
+Otro ejemplo adicional de la trampa Hobbesiana es el predicamento que viven las aldeas de yanomami. 
 
 ### 3. ¿Por qué el dilema del prisionero es similar a la situación del pacifista? Pon 2 ejemplos de la lectura
 
