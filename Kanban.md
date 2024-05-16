@@ -11,7 +11,7 @@ kanban-plugin: basic
 
 ## 📚 Lecturas
 
-- [ ] **[[S7 - Steven Pinker. La tabla rasa (Cáp. 17)]]**<br><br>Se viene examen!!!<br><br>- [ ] La lógica de la violencia<br>- [ ] Dos ejemplos de la trampa Hobessiana<br>- [ ] Dos ejemplos del dilema del prisionero + situación del pacifista<br><br>@{17-05-2024}<br>#comu #lab
+- [ ] **[[S7 - Steven Pinker. La tabla rasa (Cáp. 17)]]**<br><br>Se viene examen!!!<br><br>- [x] La lógica de la violencia<br>- [x] Dos ejemplos de la trampa Hobessiana<br>- [ ] Dos ejemplos del dilema del prisionero + situación del pacifista<br><br>@{17-05-2024}<br>#comu #lab
 
 
 ## 📄 Evaluaciones
