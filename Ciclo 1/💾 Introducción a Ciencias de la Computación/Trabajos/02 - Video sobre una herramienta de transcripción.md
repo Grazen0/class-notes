@@ -12,10 +12,10 @@ Así que - hoy les voy a enseñar a cómo hacer transcripciones automáticas de 
 
 Pero así como con **deface** en el video anterior, deberíamos ver por qué usar **TurboScribe**, habiendo otras herramientas similares en línea.
 
-1. Es prácticamente gratis.
+1. Es prácticamente gratis. (pero 3 usos por día)
 2. No tiene anuncios.
 3. Tiene una interfaz súper limpia y sencilla.
-4. Ofrece una buena variedad de modos para transcribir, dependiendo de lo que necesites. 
+4. Ofrece una buena variedad de modos para transcribir, dependiendo de lo que necesites.
 
 Ahora sí, vamos a ver cómo se usa TurboScribe.
 
@@ -33,5 +33,7 @@ Ahora sí, vamos a ver cómo se usa TurboScribe.
 9. Si quieren, editar un poco
 
 Si quieres transcribir un video automáticamente, definitivamente te recomiendo TurboScribe. Como has podido ver, es muy fácil de usar, es versátil y es casi gratis. Sí existe la limitación en la cantidad de transcripciones al día, pero a mí personalmente, para la eficacia que tiene, me parece súper generoso y creo que vale completamente la pena. Además, como han visto, la precisión de las transcripciones es muy alta.
+
+Recuerden que 
 
 Y pues nada, eso ha sido todo por este video. Espero que te haya servido de algo, y nos vemos en la próxima.
