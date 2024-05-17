@@ -8,4 +8,4 @@ La trampa Hobbesiana es un tipo de dilema formulado por Hobbes. Se trata de una 
 
 ## Pregunta 3
 
-Tanto el dilema del prisionero como la situación del pacifista encuadran situaciones similares. Ambos casos
+Tanto el dilema del prisionero como la situación del pacifista encuadran situaciones similares. Ambos casos hablan de un dilema donde dos grupos o individuos deben escoger entre perjudicar ("traicionar") al otro y la paz. En ambos casos ocurre que la mejor decisión desde el punto de vista individual (traicionar) es malo para el otro, pero si ambos optan por esa alternativa el resultado neto es peor. Sin embargo, el resultado óptimo (ambos rechazar el perjuicio al otro) es difícil de obtener porque requiere confianza entre ambas partes y seguridad de la decisión del otro. 
