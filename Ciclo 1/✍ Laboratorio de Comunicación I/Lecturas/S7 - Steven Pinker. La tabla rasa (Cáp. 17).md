@@ -21,7 +21,8 @@ Ver [[S6A - Redacción del párrafo]] y [[S5B - Redacción]].
 3. Gloria
 	1. Es en el sentido de "**honor**".
 	2. Crea violencia por conceptos internos del ser humano como **respeto**, **venganza**, **reputación**, etc.
-	3. Ejemplo: Los **barrios pobres de EEUU**.
+	3. "Culturas de honor"
+	4. Ejemplo: Los **barrios pobres de EEUU**.
 		1. No pueden demostrar orgullo honestamente, así que recurren a la violencia.
 
 #### Posible respuesta
@@ -35,6 +36,7 @@ Los aspectos implicados en la violencia que Pinker explica son tres: la competen
 1. Formulada por **Hobbes**
 	1. Situación inicialmente no violenta entre dos individuos donde...
 	2. Crea un **círculo vicioso**: defensas y contradefensas
+		1. Basta con un primer ataque para **desencadenar**...
 	3. Ha desencadenado diversos conflictos a lo largo de la historia
 3. Ejemplos
 	1. Las aldeas de los yanomami.
