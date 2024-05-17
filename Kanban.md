@@ -11,7 +11,6 @@ kanban-plugin: basic
 
 ## 📚 Lecturas
 
-- [ ] **[[S7 - Steven Pinker. La tabla rasa (Cáp. 17)]]**<br><br>Se viene examen!!!<br><br>- [x] La lógica de la violencia<br>- [x] Dos ejemplos de la trampa Hobessiana<br>- [ ] Dos ejemplos del dilema del prisionero + situación del pacifista<br><br>@{17-05-2024}<br>#comu #lab
 
 
 ## 📄 Evaluaciones
@@ -36,6 +35,7 @@ kanban-plugin: basic
 ## 👍 Completado
 
 **Complete**
+- [x] **[[S7 - Steven Pinker. La tabla rasa (Cáp. 17)]]**<br><br>Se viene examen!!!<br><br>- [x] La lógica de la violencia<br>- [x] Dos ejemplos de la trampa Hobessiana<br>- [ ] Dos ejemplos del dilema del prisionero + situación del pacifista<br><br>@{17-05-2024}<br>#comu #lab
 - [x] **Control de lectura**<br><br>Temas:<br><br>- [[S2 - Harari. De animales a dioses (cáp. 2)|Harari. El árbol del saber]]<br>- [[S4 - Escandell. El esquema clásico de la comunicación y sus limitaciones (cáp. 1)|Escandell. El esquema clásico de la comunicación y sus limitaciones]]<br>- [[S4 - Mata & Scarafino. La comunicación como práctica discursiva|Mata y Scarafino]]<br>- [[S5 - Pernas. IA y los ODS|Pernas. IA y los ODS]]<br>- Boroditsky (TED Talk)<br>- Video sobre los prejuicios<br><br>@{14-05-2024}<br>#comu #teo
 
 
