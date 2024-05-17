@@ -44,5 +44,6 @@ El dilema del prisionero y la situación del pacifista se refieren a situaciones
 
 Pinker ejemplifica una resolución del dilema del prisionero con las ocasionales treguas acordadas entre algunos soldados durante la Primera Guerra Mundial. Se trata de situaciones donde los participantes reconocieron que estaban en un dilema del prisionero, y bajo la confianza mutua pudieron escapar del dilema con un acuerdo entre ellos. 
 
-Pinker también ilustra la situación del pacifista con un episodio entre Estados Unidos y Cuba en 1962. Un hallazgo de misiles soviéticos en Cuba creó tensión con EEUU, pero ambos países reconocieron las posibles consecuencias catastróficas de continuar con aquella situación y optaron por acuerdos de paz.
+Pinker también ilustra una resolución de la situación del pacifista con un episodio entre Estados Unidos y Cuba en 1962. Un hallazgo de misiles soviéticos en Cuba creó tensión con EEUU, pero ambos países reconocieron las posibles consecuencias catastróficas de continuar con aquella situación y optaron por acuerdos de paz.
 
+Como se observa, existe en ambos casos una situación de tensión entre 
