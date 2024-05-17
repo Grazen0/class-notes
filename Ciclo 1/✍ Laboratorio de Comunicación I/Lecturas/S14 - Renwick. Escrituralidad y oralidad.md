@@ -1,6 +1,1 @@
-```ad-summary
-title: Resumen
-
-
-
-```
+[[Renwick. Escrituralidad y oralidad.pdf]]
