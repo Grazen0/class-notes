@@ -44,12 +44,15 @@ La trampa Hobbesiana, formulada por Hobbes, es un tipo de dilema entre dos o var
 **¿Por qué el dilema del prisionero es similar a la situación del pacifista? Pon 2 ejemplos de la lectura**
 
 1. Similitudes generales
+	1. Dos grupos que se quieren "traicionar"
+	2. El **resultado menos óptimo**
+	3. El **resultado más óptimo** depende de la confianza
 2. Ejemplos
 	1. EEUU y Cuba (Kennedy y Jruschev)
 	2. Soldados de la WWI
 3. Similitudes entre los ejemplos
 
-El dilema del prisionero y la situación del pacifista se refieren a situaciones con la misma estructura. En estas existe tensión entre dos grupos o individuos que pueden elegir bien o no "traicionar" al otro y perjudicarle. La solución que para un grupo parece mejor de forma individual (perjudicar al otro) resulta la menos óptima si ambos lados optan por ella. Sin embargo la mejor solución para ambos (optar ambos por el pacifismo) requiere de confianza mutua.
+El dilema del prisionero y la situación del pacifista se refieren a situaciones con la misma estructura. En estas, existe tensión entre dos grupos o individuos que pueden elegir bien o no "traicionar" al otro y perjudicarle. La solución que para un grupo parece mejor de forma individual (perjudicar al otro) resulta la menos óptima si ambos lados optan por ella. Sin embargo la mejor solución para ambos (optar ambos por el pacifismo) requiere de confianza mutua.
 
 ---
 
