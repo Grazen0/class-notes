@@ -11,8 +11,9 @@ Ver [[S6A - Redacción del párrafo]] y [[S5B - Redacción]].
 **¿Qué aspectos según Pinker están implicados en la lógica de la violencia?**
 
 1. Competencia
-	1. Proviene del proceso de evolución (máquinas de supervivencia)
-	2. No es un concepto egoísta: la moral que rige a esta lógica es relativa y ha cambiado a través del tiempo.
+	1. Proviene del **proceso evolutivo**
+	2. Analogía de **máquinas de supervivencia**
+	3. No es un concepto egoísta: la moral que rige a esta lógica es relativa y ha cambiado a través del tiempo.
 2. Inseguridad
 	1. Se basa en la **trampa Hobbesiana**: una situación entre dos individuos no violenta inicialmente, pero de alta tensión.
 	2. Puede crear un círculo vicioso de incertidumbre
@@ -23,21 +24,25 @@ Ver [[S6A - Redacción del párrafo]] y [[S5B - Redacción]].
 	3. Ejemplo: Los **barrios pobres de EEUU**.
 		1. No pueden demostrar orgullo honestamente, así que recurren a la violencia.
 
+#### Posible respuesta
+
 Los aspectos implicados en la violencia que Pinker explica son tres: la competencia, la inseguridad y la gloria. En primer lugar, Pinker explica el factor de la competencia como la necesidad histórica de violencia entre los seres vivos (y humanos) para sobrevivir. Se explica que esta ha sido parte siempre del proceso de selección natural. También afirma que esta lógica no es un concepto egoísta, ya que la moral que la rige se ha demostrado maleable a lo largo de la historia, como evidencia con el ejemplo del canibalismo de la tribu Wari. En segundo lugar, Pinker explica el concepto de la violencia por inseguridad mediante el concepto de "trampa Hobbesiana": las situaciones no violentas pueden escalar a la violencia simplemente por medio de la tensión y el miedo entre grupos e individuos. Los procesos que conducen a la violencia de esta forma son un círculo vicioso de desconfianza que puede llevar de leves fricciones hacia la guerra. Ejemplos conocidos de estas trampas Hobbesianas incluyen la Primera Guerra Mundial, la Guerra de los Seis Días y las guerras de Yugoslavia en los 90's. Finalmente, Pinker explica el factor de la "gloria" como el incentivo caracterizado por ir más allá de lo estrictamente "útil": el honor, respeto, venganza, etc. Esta lógica predomina en lo que Pinker denomina la "cultura de honor": realidades sociales donde el honor es factor crucial en la reputación de un individuo. En este ámbito, Pinker usa como ejemplo a los barrios pobres de Estados Unidos. Dado que las personas en este sector no tienen la posibilidad de obtener reputación mediante los estudios, un buen trabajo y similares, una de las pocas opciones restantes es el honor por medio la "fama en la calle" por medio de la violencia.
 
 ### Pregunta 2
 
 **¿A qué se refiere Pinker con la *trampa Hobbesiana*? Pon 2 ejemplos de la lectura**
 
-1. Definición de trampa Hobbesiana
-	1. Causas de la trampa Hobbesiana
-	2. Crea un círculo vicioso
+1. Formulada por **Hobbes**
+	1. Situación inicialmente no violenta entre dos individuos donde...
+	2. Crea un **círculo vicioso**: defensas y contradefensas
 	3. Ha desencadenado diversos conflictos a lo largo de la historia
-2. Ejemplos
+3. Ejemplos
 	1. Las aldeas de los yanomami.
 	2. EEUU vs Cuba (Kennedy y Jruschev)
 
-La trampa Hobbesiana, formulada por Hobbes, es un tipo de dilema entre dos o varios grupos o individuos. Pinker describe esta situación como inicialmente no violenta que, por medio de la tensión e inseguridad mutua, puede fácilmente escalar a la violencia. La trampa Hobbesiana crea un círculo vicioso de tensión: la inseguridad de un grupo puede llevar a preparar defensas o posibles ataques preventivos, lo cual incrementa la inseguridad de los otros grupos y los lleva a realizar lo mismo. En esta situación, basta que un solo grupo sucumba a realizar el primer ataque "preventivo" para introducir a la violencia directa en el ciclo de escalamiento. Un ejemplo la trampa Hobbesiana es el predicamento que viven las aldeas de los yanomami. De acuerdo con la explicación de Pinker, los pobladores de estas aldeas viven con una preocupación extrema a los ataques de otras aldeas. Por ello, los yanomami en ocasión sucumben a realizar ataques preventivos, desencadenando conflictos violentos con otros pueblos a partir de una situación inicialmente pacífica.
+#### Posible respuesta
+
+La trampa Hobbesiana es un tipo de dilema formulado por Hobbes. Se trata de una situación inicialmente no violenta entre dos individuos o grupos que, por medio de la tensión e inseguridad mutua, puede fácilmente escalar a la violencia. La trampa Hobbesiana crea un círculo vicioso de tensión: la inseguridad de un grupo puede llevar a preparar defensas o posibles ataques preventivos, lo cual incrementa la inseguridad de los otros grupos y los lleva a realizar lo mismo. En esta situación, basta que un solo grupo sucumba a realizar el primer ataque "preventivo" para introducir a la violencia directa en el ciclo de escalamiento. Un ejemplo de la trampa Hobbesiana es el predicamento que viven las aldeas de los yanomami. De acuerdo con la explicación de Pinker, los pobladores de estas aldeas viven con una preocupación extrema a los ataques de otras aldeas. Por ello, los yanomami en ocasión sucumben a realizar ataques preventivos, desencadenando conflictos violentos con otros pueblos a partir de una situación inicialmente pacífica.
 
 ### Pregunta 3
 
@@ -51,6 +56,8 @@ La trampa Hobbesiana, formulada por Hobbes, es un tipo de dilema entre dos o var
 	1. EEUU y Cuba (Kennedy y Jruschev)
 	2. Soldados de la WWI
 3. Similitudes entre los ejemplos
+
+#### Posible respuesta
 
 El dilema del prisionero y la situación del pacifista se refieren a situaciones con la misma estructura. En estas, existe tensión entre dos grupos o individuos que pueden elegir bien o no "traicionar" al otro y perjudicarle. La solución que para un grupo parece mejor de forma individual (perjudicar al otro) resulta la menos óptima si ambos lados optan por ella. Sin embargo la mejor solución para ambos (optar ambos por el pacifismo) requiere de confianza mutua.
 
