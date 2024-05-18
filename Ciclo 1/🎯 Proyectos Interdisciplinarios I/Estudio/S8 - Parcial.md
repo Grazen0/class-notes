@@ -8,6 +8,14 @@ Promedio de **5-6 preguntas por tema**.
 
 [**PPT de la semana**](https://utec.instructure.com/courses/14709/files/2936630)
 
+```ad-seealso
+title: Lecturas
+
+- [[S2 - Vasen. Giro postcompetitivo en la política de CTI]]
+- [[S2 - CCCTI. Acciones para el potenciamiento de la CTI en Perú]]
+
+```
+
 ### ¿Qué es CTI?
 
 - Políticas **públicas** sobre la dirección e inversión en ciencia y tecnología.
@@ -40,12 +48,26 @@ Promedio de **5-6 preguntas por tema**.
 #### 4. Tendencias actuales
 
 - **Desafían** el enfoque puramente económico.
-- Incluye **más actores**
+- Incluye **más actores** (Sociedad civil)
 
-### Lecturas
+### Enfoques del giro postcompetitivo
 
-- [[S2 - Vasen. Giro postcompetitivo en la política de CTI]]
-- [[S2 - CCCTI. Acciones para el potenciamiento de la CTI en Perú]]
+| Postulado tradicional                                                        | Postulado alternativo                                                    |                  Nuevo enfoque                  |
+| :--------------------------------------------------------------------------- | :----------------------------------------------------------------------- | :---------------------------------------------: |
+| El mercado es suficiente para abordar los intereses sociales y políticos.    | Hay desafíos sociales fundamentales ausentes del mercado.                |              **Grandes desafíos**               |
+| La adopción o rechazo de nuevas tecnologías se basa en criterios económicos. | La trayectoria de la CTI se debe regir por valores sociales y políticos. |           **Innovación responsable**            |
+| La CTI aporta a la inclusión por medio de la creación de empleos.            | Si no se arbitra bien la CTI, puede excluir antes que incluir.           | **Desarrollo inclusivo / tecnologías sociales** |
+
+#### Grandes desafíos
+
+- Innovación "orientada por la misión"
+- Mayor **alcance** e **impacto** (cambio climático, pandemias, etc)
+- **Colaboración** antes que competencia
+- Perspectiva **social** $>$ económica
+- La investigación debe ser **orientada**, y no dejarse llevar por el mercado
+- Debe ser acompañada de **innovación social** y **cambios culturales**
+
+#### Investigación e innovación responsable
 
 ## [[S3 - Desafíos globales y participación social]]
 
