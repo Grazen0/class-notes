@@ -69,6 +69,8 @@ title: Lecturas
 
 #### Investigación e innovación responsable
 
+- Es importante el **cómo se investiga**, no solo el qué.
+
 ## [[S3 - Desafíos globales y participación social]]
 
 [**PPT de la semana**](https://utec.instructure.com/courses/14709/files/2949062)
