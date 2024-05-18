@@ -17,7 +17,30 @@ Promedio de **5-6 preguntas por tema**.
 
 ### Evolución de la CTI
 
+#### 1. Post Guerra
 
+- Esquema **lineal**
+- Inversión en **ciencia básica.
+- Se suponía que "ciencia básica $\to$ tecnología $\to$ socio-economía".
+
+#### 2. 60's - 80's
+
+- Inclusión de **prioridades** y criterios **externos**.
+- Prioridad de los objetivos y políticas **nacionales**.
+
+#### 3. 80's - 2000's
+
+- Esquema **económico**
+- Se cree que "innovación $=$ desarrollo económico"
+- **Sistemas de invocación** (Estado, privados, academia)
+- Privilegio al **valor económico**
+- Dirigido por el **mercado**
+- Se cree que "crecimiento económico $\to$ bienestar"
+
+#### 4. Tendencias actuales
+
+- **Desafían** el enfoque puramente económico.
+- Incluye **más actores**
 
 ### Lecturas
 
