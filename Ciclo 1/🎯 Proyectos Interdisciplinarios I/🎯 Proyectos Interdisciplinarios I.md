@@ -3,8 +3,9 @@
 ## Índice
 
 %% Begin Waypoint %%
-- **[[Estudio]]**
+- **Estudio**
 	- [[S6 - Control de lectura (CL)]]
+	- [[S8 - Parcial]]
 - **Lecturas**
 	- [[S2 - CCCTI. Acciones para el potenciamiento de la CTI en Perú]]
 	- [[S2 - Vasen. Giro postcompetitivo en la política de CTI]]
