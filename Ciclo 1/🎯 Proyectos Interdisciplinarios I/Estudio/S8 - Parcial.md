@@ -8,6 +8,17 @@ Promedio de **5-6 preguntas por tema**.
 
 [**PPT de la semana**](https://utec.instructure.com/courses/14709/files/2936630)
 
+### ¿Qué es CTI?
+
+- Políticas **públicas** sobre la dirección e inversión en ciencia y tecnología.
+- Marco general de la **relación** entre la ciencia y la tecnología con la sociedad.
+- Sistemas institucionales de **promoción y desarrollo** de la ciencia y tecnología.
+- Refleja la **valoración y actitudes** de la sociedad frente a la innovación.
+
+### Evolución de la CTI
+
+
+
 ### Lecturas
 
 - [[S2 - Vasen. Giro postcompetitivo en la política de CTI]]
