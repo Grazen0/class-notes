@@ -1,3 +1,5 @@
+Promedio de **5-6 preguntas por tema**.
+
 ## S1 - Introducción
 
 [**PPT de la semana**](https://utec.instructure.com/courses/14709/files/2927991)
