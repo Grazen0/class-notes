@@ -269,9 +269,11 @@ El enfoque de la agenda 2030 es:
 3. **Capital**
 4. **Alcance**
 
-TODOS LOS PROBLEMAS ESTÁN INTERCONECTADOS
+Algunas características de la agenda 2030:
 
-
+- Es **a largo plazo**.
+- Todos los problemas están **interconectados**.
+- Requiere de la participación de **todos los sectores de la sociedad**.
 
 ## [[S5 - Enfoques sobre la pobreza]]
 

@@ -11,6 +11,7 @@
   "folderNoteType": "INSIDE_FOLDER",
   "ignorePaths": [
     "Recursos",
+    "Notas diarias",
     "PDF"
   ],
   "useSpaces": false,
