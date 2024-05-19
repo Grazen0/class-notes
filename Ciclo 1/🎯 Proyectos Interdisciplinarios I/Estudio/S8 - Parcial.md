@@ -88,8 +88,11 @@ title: Lecturas
 
 - La CONCYTEC **pone la CTI al servicio del desarrollo sostenible**.
 - **Fortalece el SINACTI** (Sistema Nacional de CTI).
-- 
+- Participa en la **cooperación internacional** de la CTI.
 
+### Ley SINACTI
+
+- Busca acceder a los **beneficios de la globalización** 
 
 ## [[S3 - Desafíos globales y participación social]]
 
