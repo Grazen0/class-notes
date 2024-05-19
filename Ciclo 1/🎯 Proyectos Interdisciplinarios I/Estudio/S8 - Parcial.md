@@ -1,4 +1,4 @@
-Promedio de **5-6 preguntas por tema**.
+Promedio de **6-7 preguntas por tema**.
 
 ## S1 - Introducción
 
@@ -58,7 +58,7 @@ title: Lecturas
 | La adopción o rechazo de nuevas tecnologías se basa en criterios económicos. | La trayectoria de la CTI se debe regir por valores sociales y políticos. |           **Innovación responsable**            |
 | La CTI aporta a la inclusión por medio de la creación de empleos.            | Si no se arbitra bien la CTI, puede excluir antes que incluir.           | **Desarrollo inclusivo / tecnologías sociales** |
 
-#### Grandes desafíos
+#### 1. Grandes desafíos
 
 - Innovación "orientada por la misión"
 - Mayor **alcance** e **impacto** (cambio climático, pandemias, etc)
@@ -67,9 +67,26 @@ title: Lecturas
 - La investigación debe ser **orientada**, y no dejarse llevar por el mercado
 - Debe ser acompañada de **innovación social** y **cambios culturales**
 
-#### Investigación e innovación responsable
+#### 2. Investigación e innovación responsable
 
 - Es importante el **cómo se investiga**, no solo el qué.
+- Necesitamos mecanismos para la **participación pública** en la innovación.
+- **Gobernanza** de las tecnologías emergentes y **evitar consecuencias** indeseadas.
+- Confiar en el mercado siempre que haya **evaluación y feedback** de la población.
+
+#### Inclusión social
+
+- **Vincular la investigación** directamente con la inclusión social
+- La gente no solo como consumidores, sino como **ciudadanos** e **innovadores**.
+- **Tecnologías sociales**
+	- Rediseño de los **sistemas socio-técnicos**
+- **Innovación para el desarrollo inclusivo**
+	- La CTI debe luchar contra la **desigualdad**
+- Enfoque no solo a las necesidades de las empresas, sino también a las **políticas sociales**
+
+### CONCYTEC en Perú
+
+
 
 ## [[S3 - Desafíos globales y participación social]]
 
