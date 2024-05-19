@@ -123,7 +123,7 @@ Entonces, la **innovación**:
 - Necesitamos **definiciones claras de los desafíos** (p. ej. ODS).
 - La investigación **necesita propósitos** (mejorar la calidad de vida)
 
-#### Innovación low-tech
+##### Innovación low-tech
 
 - Técnicas, prácticas, sistemas, estilos de vida y formas de pensar **sencillos y accesibles para todos**.
 - Es una **alternativa** a los **hábitos de consumo** actuales.
@@ -141,12 +141,25 @@ title: Bottom line
 
 ```
 
-### CTI al servicio de la sociedad
+#### CTI al servicio de la sociedad
 
 - Modelos de I+D **ya no basados en lo económico o evolutivo**.
 - Modelos de I+D pensados en la **interdependencia global**.
 - Énfasis en la **retroalimentación**.
 	- Interactuar con los usuarios para crear **aprendizaje interactivo**.
+
+De aquí concluimos:
+
+- Los grandes desafíos son **complejos y multidimensionales**.
+- La **interacción** es clave para la innovación.
+- Los problemas se deben afrontar desde un punto de vista **interdisciplinario**
+
+### Participación social y desigualdad
+
+Existe una enorme **necesidad de retroalimentación**.
+
+- Es necesario **considerar el contexto social y cultural** de los problemas.
+- Los problemas están inscritos en un **contexto cultural**, y sus resultados generan **impacto social y ambiental**.
 
 ## [[S4 - De los ODM a los ODS]]
 
