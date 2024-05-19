@@ -274,6 +274,16 @@ Algunas características de la agenda 2030:
 - Es **a largo plazo**.
 - Todos los problemas están **interconectados**.
 - Requiere de la participación de **todos los sectores de la sociedad**.
+- Ha sido adoptada por **países de LATAM**.
+
+#### Relación universidades - ODS
+
+Los ODS:
+
+- Proporcionan **definiciones** aceptadas y comprendidas de una "universidad responsable".
+- Ofrecen un **marco para evaluar el impacto** de la universidad.
+- Generan fuentes de **financiamiento**.
+- Fomentan la **colaboración** externa e interna.
 
 ## [[S5 - Enfoques sobre la pobreza]]
 
