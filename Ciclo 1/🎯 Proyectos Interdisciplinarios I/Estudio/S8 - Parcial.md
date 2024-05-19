@@ -1,5 +1,12 @@
 Promedio de **6-7 preguntas por tema**.
 
+```ad-seealso
+title: Lecturas adicionales
+
+- [[S5 - La Parra y Tortosa. Violencia estructural]]
+
+```
+
 ## S1 - Introducción
 
 [**PPT de la semana**](https://utec.instructure.com/courses/14709/files/2927991)
@@ -74,7 +81,7 @@ title: Lecturas
 - **Gobernanza** de las tecnologías emergentes y **evitar consecuencias** indeseadas.
 - Confiar en el mercado siempre que haya **evaluación y feedback** de la población.
 
-#### Inclusión social
+#### 3. Inclusión social
 
 - **Vincular la investigación** directamente con la inclusión social
 - La gente no solo como consumidores, sino como **ciudadanos** e **innovadores**.
@@ -90,11 +97,13 @@ title: Lecturas
 - **Fortalece el SINACTI** (Sistema Nacional de CTI).
 - Participa en la **cooperación internacional** de la CTI.
 
-### Ley SINACTI
+#### Ley SINACTI
 
 - Busca acceder a los **beneficios de la globalización** para la calidad de vida.
 - Privilegia el **fortalecimiento de las capacidades humanas**.
 - Se enfoca en la **demanda de los usuarios**.
+
+Sin embargo, esta ley **se debilita** debido a la presión popular. (P. ej. protestas de personas que creen que no hay que invertir en ciertos ámbitos)
 
 ## [[S3 - Desafíos globales y participación social]]
 
@@ -125,7 +134,7 @@ Entonces, la **innovación**:
 ```ad-summary
 title: Bottom line
 
-El énfasis cambia.
+**El énfasis cambia.**
 
 - Menos velocidad y más **calidad y dirección de desarrollo**.
 - Dirección hacia las **necesidades**, **desafíos** y **dificultades** comunes.
