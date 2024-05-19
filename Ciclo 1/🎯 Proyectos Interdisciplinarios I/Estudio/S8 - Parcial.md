@@ -143,7 +143,10 @@ title: Bottom line
 
 ### CTI al servicio de la sociedad
 
-
+- Modelos de I+D **ya no basados en lo económico o evolutivo**.
+- Modelos de I+D pensados en la **interdependencia global**.
+- Énfasis en la **retroalimentación**.
+	- Interactuar con los usuarios para crear **aprendizaje interactivo**.
 
 ## [[S4 - De los ODM a los ODS]]
 
