@@ -122,6 +122,16 @@ Entonces, la **innovación**:
 - **Construcción sencilla**: materiales abundantes, locales y naturales.
 - Soluciones técnicas **útiles**, **sostenibles** y **accesibles** para todos.
 
+```ad-summary
+title: Bottom line
+
+El énfasis cambia.
+
+- Menos velocidad y más **calidad y dirección de desarrollo**.
+- Dirección hacia las **necesidades**, **desafíos** y **dificultades** comunes.
+
+```
+
 ### CTI al servicio de la sociedad
 
 
