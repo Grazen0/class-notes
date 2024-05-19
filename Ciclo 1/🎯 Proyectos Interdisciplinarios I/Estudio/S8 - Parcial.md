@@ -199,7 +199,7 @@ El lema de los ODS es **"no dejar a nadie atrás"**.
 
 ### Introducción
 
-### Elementos clave de una hoja de ruta
+#### Elementos clave de una hoja de ruta
 
 - **Focalizada en los objetivos** en concordancia con la Agenda 2030.
 - **Basada en pruebas, experiencia y previsión**.
@@ -207,7 +207,7 @@ El lema de los ODS es **"no dejar a nadie atrás"**.
 - Es **coherente** y revisada por agentes clave y entidades interesadas.
 - Es **dinámica** y se puede prestar a correcciones en el curso de su ejecución.
 
-### Propósitos de los ODS y la agenda 2030
+#### Propósitos de los ODS y la agenda 2030
 
 - **Sostenibilidad** (económica, social, ambiental)
 - Identificar **brechas estructurales**
@@ -251,6 +251,27 @@ Deben participar una **gran variedad de interesados** en la creación de objetiv
 - Una agenda **exhaustiva**.
 - Realizado por **múltiples partes**
 - Enfoque **universal**
+
+#### Ejes de los objetivos de los ODS
+
+1. Personas
+2. Planeta
+3. Prosperidad
+4. Paz
+5. Asociaciones
+
+### La agenda 2030
+
+El enfoque de la agenda 2030 es:
+
+1. **Compromiso**
+2. **Sostenibilidad**
+3. **Capital**
+4. **Alcance**
+
+TODOS LOS PROBLEMAS ESTÁN INTERCONECTADOS
+
+
 
 ## [[S5 - Enfoques sobre la pobreza]]
 
