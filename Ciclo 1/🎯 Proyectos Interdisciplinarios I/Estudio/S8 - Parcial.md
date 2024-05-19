@@ -289,6 +289,51 @@ Los ODS:
 
 [**PPT de la semana**](https://utec.instructure.com/courses/14709/files/2992666)
 
+```ad-seealso
+title: Lecturas
+
+- [[S5 - Enfoques sobre la pobreza]]
+
+```
+
+**No existe una sola teoría para la pobreza**.
+
+```ad-definition
+title: Definición (activos).
+
+Los **recursos** que tienen una **relación en el mercado**.
+
+Tierra, ahorros, activos culturales y sociales (saberes y oficios), etc.
+
+```
+
+```ad-definition
+title: Definición (capital).
+
+La **posibilidad** de usar los activos para generar una relación con el mercado.
+
+El capital se incrementa en función de las condiciones alrededor. (p. ej. relaciones sociales que convierten los activos en capital)
+
+```
+
+```ad-definition
+title: Definición (capacidades).
+
+Son **rasgos** de la persona en relación a sus bienes. Son su capacidad de **usar sus bienes** para encontrar lo que valoramos. Es **libertad de hacer**.
+
+```
+
+### Principales enfoques de la pobreza
+
+1. **Activos** de los pobres
+2. Reconocimiento de sus **derechos** y **capacidades**
+3. Enfoque en la **exclusión social**
+4. Enfoque en la **pobreza estructural**
+5. Enfoque de **oportunidades** o de **crecimiento monetario**
+6. **Capital social**
+
+
+
 ## [[S6 - Índices para medir la pobreza]]
 
 [**PPT de la semana**](https://utec.instructure.com/courses/14709/files/2986366)
