@@ -116,7 +116,10 @@ Entonces, la **innovación**:
 
 #### Innovación low-tech
 
-
+- Técnicas, prácticas, sistemas, estilos de vida y formas de pensar **sencillos y accesibles para todos**.
+- Es una **alternativa** a los **hábitos de consumo** actuales.
+- Innovación desde un **ángulo diferente**. Sencillo e inclusivo.
+- 
 
 ## [[S4 - De los ODM a los ODS]]
 
