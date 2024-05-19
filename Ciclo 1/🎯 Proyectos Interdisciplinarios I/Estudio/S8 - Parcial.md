@@ -161,6 +161,29 @@ Existe una enorme **necesidad de retroalimentación**.
 - Es necesario **considerar el contexto social y cultural** de los problemas.
 - Los problemas están inscritos en un **contexto cultural**, y sus resultados generan **impacto social y ambiental**.
 
+#### Formas de integración (Citizen science)
+
+1. Interactuar con **estudiantes universitarios** para idear objetivos **ambiciosos**.
+2. Adoptar enfoques **innovadores**.
+3. **Involucrar roles diversos** en la ciencia.
+4. Crear una **currícula** que apoye la participación pública en la ciencia.
+5. **Apoyar a comunidades locales** que necesiten consejo científico.
+6. Abrir los proyectos a **inversionistas**.
+7. Crear **confianza** y **sostenibilidad**.
+8. Apoyar la **innovación abierta**.
+9. Dar apoyo de las universidades a la **transparencia financiera**.
+
+#### La escalera de la participación ciudadana
+
+![[Escalera de la participación ciudadana.excalidraw|width:80%]]
+
+#### Importancia de la comunicación para las políticas CTI
+
+- La información debe ir **de ida y vuelta**.
+- **Distinguir** agendas **sociales** de las **particulares**.
+- No hay una sola solución, realidad, ni perspectiva del problema.
+- Tomar en cuenta las **perspectivas** y **percepciones** al pensar en el desarrollo.
+
 ## [[S4 - De los ODM a los ODS]]
 
 [**PPT de la semana**](https://utec.instructure.com/courses/14709/files/2962479)

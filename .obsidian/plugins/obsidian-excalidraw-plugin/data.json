@@ -87,7 +87,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.1.8",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.2.0",
     "libraryItems": [
       {
         "status": "unpublished",
@@ -501,6 +501,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Select",
+            "autoResize": true,
             "lineHeight": 1.2478556469662738
           },
           {
@@ -656,6 +657,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Option 1",
+            "autoResize": true,
             "lineHeight": 1.2478556469662738
           },
           {
@@ -698,6 +700,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Option 2",
+            "autoResize": true,
             "lineHeight": 1.2478556469662738
           },
           {
@@ -740,6 +743,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Option 3",
+            "autoResize": true,
             "lineHeight": 1.2478556469662738
           }
         ],
@@ -1100,6 +1104,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "ON",
+            "autoResize": true,
             "lineHeight": 1.2783914917228643
           },
           {
@@ -1209,6 +1214,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "OFF",
+            "autoResize": true,
             "lineHeight": 1.2500000000000007
           },
           {
@@ -1488,6 +1494,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "ON",
+            "autoResize": true,
             "lineHeight": 1.2783914917228643
           }
         ],
@@ -1601,6 +1608,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "OFF",
+            "autoResize": true,
             "lineHeight": 1.2500000000000007
           }
         ],
@@ -1824,6 +1832,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "?",
+            "autoResize": true,
             "lineHeight": 1.2500000000000002
           },
           {
@@ -1863,6 +1872,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Help",
+            "autoResize": true,
             "lineHeight": 1.2500000000000004
           }
         ],
@@ -1942,6 +1952,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "?",
+            "autoResize": true,
             "lineHeight": 1.2500000000000002
           },
           {
@@ -1981,6 +1992,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Help",
+            "autoResize": true,
             "lineHeight": 1.2500000000000004
           }
         ],
@@ -2058,6 +2070,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "?",
+            "autoResize": true,
             "lineHeight": 1.2500000000000002
           }
         ],
@@ -2135,6 +2148,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "?",
+            "autoResize": true,
             "lineHeight": 1.2500000000000002
           }
         ],
@@ -2778,6 +2792,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Menu",
+            "autoResize": true,
             "lineHeight": 1.2499999999999996
           }
         ],
@@ -2825,6 +2840,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Menu",
+            "autoResize": true,
             "lineHeight": 1.2499999999999996
           },
           {
@@ -3449,6 +3465,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Button",
+            "autoResize": true,
             "lineHeight": 1.3083590942687764
           },
           {
@@ -3624,6 +3641,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Button",
+            "autoResize": true,
             "lineHeight": 1.3083590942687764
           },
           {
@@ -4622,6 +4640,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Modal",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -4697,6 +4716,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Button",
+            "autoResize": true,
             "lineHeight": 1.3083590942687764
           },
           {
@@ -4772,6 +4792,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Button",
+            "autoResize": true,
             "lineHeight": 1.3083590942687764
           },
           {
@@ -4811,6 +4832,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In iaculis \nlacinia tellus vel euismod. Aenean eget volutpat libero. Duis ac \naugue consequat, fringilla elit ut, ullamcorper quam. Vestibulum \nante ipsum primis in faucibus orci luctus et ultrices posuere cubilia \ncurae; Nam ut nisi accumsan, eleifend dolor a, fermentum dui.\nAenean non consequat neque. In ac tortor convallis mauris auctor \nmaximus.",
+            "autoResize": true,
             "lineHeight": 1.2298067371144559
           },
           {
@@ -5015,6 +5037,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Tooltip",
+            "autoResize": true,
             "lineHeight": 1.2500000000000007
           }
         ],
@@ -5127,6 +5150,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Tooltip",
+            "autoResize": true,
             "lineHeight": 1.2500000000000007
           }
         ],
@@ -5239,6 +5263,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Tooltip",
+            "autoResize": true,
             "lineHeight": 1.2500000000000007
           }
         ],
@@ -5351,6 +5376,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Tooltip",
+            "autoResize": true,
             "lineHeight": 1.2500000000000007
           }
         ],
@@ -5904,6 +5930,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Upload image",
+            "autoResize": true,
             "lineHeight": 1.3106339822604824
           }
         ],
@@ -6110,6 +6137,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Disabled checkbox",
+            "autoResize": true,
             "lineHeight": 1.3094006896816852
           }
         ],
@@ -6187,6 +6215,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Disabled selected",
+            "autoResize": true,
             "lineHeight": 1.3094006896816852
           },
           {
@@ -6313,6 +6342,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Selected checkbox",
+            "autoResize": true,
             "lineHeight": 1.3094006896816852
           },
           {
@@ -6439,6 +6469,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Checkbox",
+            "autoResize": true,
             "lineHeight": 1.3094006896816852
           }
         ],
@@ -6516,6 +6547,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Disabled selected",
+            "autoResize": true,
             "lineHeight": 1.3094006896816852
           },
           {
@@ -6623,6 +6655,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Disabled option",
+            "autoResize": true,
             "lineHeight": 1.3094006896816852
           }
         ],
@@ -6700,6 +6733,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Selected option",
+            "autoResize": true,
             "lineHeight": 1.3094006896816852
           },
           {
@@ -6807,6 +6841,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Option",
+            "autoResize": true,
             "lineHeight": 1.2500000000000004
           }
         ],
@@ -7425,6 +7460,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Button",
+            "autoResize": true,
             "lineHeight": 1.3106339822604824
           }
         ],
@@ -7506,6 +7542,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Button",
+            "autoResize": true,
             "lineHeight": 1.3106339822604824
           }
         ],
@@ -7587,6 +7624,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Button",
+            "autoResize": true,
             "lineHeight": 1.3106339822604824
           }
         ],
@@ -7668,6 +7706,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Button",
+            "autoResize": true,
             "lineHeight": 1.3106339822604824
           }
         ],
@@ -7847,6 +7886,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Placeholder",
+            "autoResize": true,
             "lineHeight": 1.2478556469662738
           },
           {
@@ -7986,6 +8026,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Select",
+            "autoResize": true,
             "lineHeight": 1.2478556469662738
           },
           {
@@ -8145,6 +8186,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Selected option",
+            "autoResize": true,
             "lineHeight": 1.2478556469662738
           },
           {
@@ -8304,6 +8346,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Select",
+            "autoResize": true,
             "lineHeight": 1.2478556469662738
           },
           {
@@ -8538,6 +8581,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Search",
+            "autoResize": true,
             "lineHeight": 1.2478556469662738
           }
         ],
@@ -8615,6 +8659,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Placeholder text",
+            "autoResize": true,
             "lineHeight": 1.2478556469662738
           }
         ],
@@ -8692,6 +8737,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Filled text",
+            "autoResize": true,
             "lineHeight": 1.2478556469662738
           }
         ],
@@ -8769,6 +8815,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Placeholder text",
+            "autoResize": true,
             "lineHeight": 1.2478556469662738
           }
         ],
@@ -8892,6 +8939,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Inicio / Fin",
+            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -8971,6 +9019,7 @@
             "verticalAlign": "middle",
             "containerId": "gJuu7YF2ZiQ5ur03Y_b12",
             "originalText": "Acción",
+            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -9050,6 +9099,7 @@
             "verticalAlign": "middle",
             "containerId": "m-ygvJDwTZyg5E0nbIkNU",
             "originalText": "Condición",
+            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -9171,6 +9221,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Entrada",
+            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -9304,6 +9355,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Salida",
+            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
