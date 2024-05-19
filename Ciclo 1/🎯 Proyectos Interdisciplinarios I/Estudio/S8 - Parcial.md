@@ -111,7 +111,12 @@ title: Lecturas
 Entonces, la **innovación**:
 
 - No debe estar orientada solamente a las empresas, sino también a las **necesidades de la sociedad**.
-- 
+- Necesitamos **definiciones claras de los desafíos** (p. ej. ODS).
+- La investigación **necesita propósitos** (mejorar la calidad de vida)
+
+#### Innovación low-tech
+
+
 
 ## [[S4 - De los ODM a los ODS]]
 
