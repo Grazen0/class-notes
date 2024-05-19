@@ -92,11 +92,17 @@ title: Lecturas
 
 ### Ley SINACTI
 
-- Busca acceder a los **beneficios de la globalización** 
+- Busca acceder a los **beneficios de la globalización** para la calidad de vida.
+- Privilegia el **fortalecimiento de las capacidades humanas**.
+- Se enfoca en la **demanda de los usuarios**.
 
 ## [[S3 - Desafíos globales y participación social]]
 
 [**PPT de la semana**](https://utec.instructure.com/courses/14709/files/2949062)
+
+### Desafíos globales
+
+#### Transformaciones en los últimos años
 
 ## [[S4 - De los ODM a los ODS]]
 
