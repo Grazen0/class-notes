@@ -104,6 +104,10 @@ title: Lecturas
 
 #### Transformaciones en los últimos años
 
+- Énfasis en la innovación **no high-tech**, e incluso **innovación no tecnológica**
+- Surge la necesidad de hacer I+D **involucrando los grandes desafíos sociales**.
+- 
+
 ## [[S4 - De los ODM a los ODS]]
 
 [**PPT de la semana**](https://utec.instructure.com/courses/14709/files/2962479)
