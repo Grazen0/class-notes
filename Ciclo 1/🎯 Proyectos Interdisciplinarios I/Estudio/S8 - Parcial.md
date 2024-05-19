@@ -86,7 +86,7 @@ title: Lecturas
 
 ### CONCYTEC en Perú
 
-
+La CONCYTEC (Consejo de CTI) es
 
 ## [[S3 - Desafíos globales y participación social]]
 
