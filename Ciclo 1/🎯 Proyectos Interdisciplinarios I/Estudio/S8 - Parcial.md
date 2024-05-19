@@ -84,9 +84,12 @@ title: Lecturas
 	- La CTI debe luchar contra la **desigualdad**
 - Enfoque no solo a las necesidades de las empresas, sino también a las **políticas sociales**
 
-### CONCYTEC en Perú
+### CONCYTEC (Consejo de CTI) en Perú
 
-La CONCYTEC (Consejo de CTI) es
+- La CONCYTEC **pone la CTI al servicio del desarrollo sostenible**.
+- **Fortalece el SINACTI** (Sistema Nacional de CTI).
+- 
+
 
 ## [[S3 - Desafíos globales y participación social]]
 
