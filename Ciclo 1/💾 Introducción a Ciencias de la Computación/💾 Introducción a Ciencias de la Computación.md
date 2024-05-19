@@ -21,7 +21,7 @@ Ian Paul Brossard Núñez
 
 ## Sistema de evaluación
 
-![[Ciclo 1/💾 Introducción a Ciencias de la Computación/Notas/Recursos/Sistema de evaluación.excalidraw|width:100%]]
+![[Ciclo 1/💾 Introducción a Ciencias de la Computación/Recursos/Sistema de evaluación.excalidraw|width:100%]]
 
 ### Teoría
 

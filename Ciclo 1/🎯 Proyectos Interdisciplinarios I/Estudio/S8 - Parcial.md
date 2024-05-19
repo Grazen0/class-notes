@@ -188,6 +188,32 @@ Existe una enorme **necesidad de retroalimentación**.
 
 [**PPT de la semana**](https://utec.instructure.com/courses/14709/files/2962479)
 
+```ad-seealso
+title: Lecturas
+
+- [[S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS]]
+
+```
+
+El lema de los ODS es **"no dejar a nadie atrás"**.
+
+### Elementos clave de una hoja de ruta
+
+- **Focalizada en los objetivos** en concordancia con la Agenda 2030.
+- **Basada en pruebas, experiencia y previsión**.
+- **Tiene en cuenta al contexto nacional**: Contextos comunitarios, territorio, financiación, capacidades de ejecución, etc.
+- Es **coherente** y revisada por agentes clave y entidades interesadas.
+- Es **dinámica** y se puede prestar a correcciones en el curso de su ejecución.
+
+#### Propósitos de los ODS y la agenda 2030
+
+- **Sostenibilidad** (económica, social, ambiental)
+- Identificar **brechas estructurales**
+- Ser un **punto de partida** para analizar y formular políticas.
+- Planificación y seguimiento
+- **Centrarse en la persona** (igualdad y dignidad)
+- **Contexto global** (sociedad, estado, academia, etc)
+
 ## [[S5 - Enfoques sobre la pobreza]]
 
 [**PPT de la semana**](https://utec.instructure.com/courses/14709/files/2992666)

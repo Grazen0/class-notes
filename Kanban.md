@@ -15,7 +15,7 @@ kanban-plugin: basic
 ## 📄 Evaluaciones
 
 - [ ] **[[S8 - Parcial|Parcial PI]]**<br><br>40 preguntas para marcar<br><br>¡Viene todo!<br><br>@{20-05-2024}<br>#pi #teo
-- [ ] **[[S6 - Control de lectura (CL)|Control de lectura]]**<br><br>Temas:<br><br>- [[S2 - Vasen. Giro postcompetitivo en la política de CTI|Giro postcompetitivo]]<br>- [[S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS|Hojas de ruta ODS]]<br>- [[S5 - La Parra y Tortosa. Violencia estructural|Violencia estructural]]<br>- [[S4 - Teoría de sistemas|Teoría de sistemas]]<br>- [Ruta del Barroco Andino](https://www.youtube.com/watch?v=9FByimiScv8&pp=ygUabGEgcnV0YSBkZWwgYmFycm9jbyBhbmRpbm8%3D) (?)<br><br>@{22-05-2024}<br>#pi #teo
+- [ ] **[[S6 - Control de lectura (CL)|Control de lectura]]**<br><br>Temas:<br><br>- [[S2 - Vasen. Giro postcompetitivo en la política de CTI|Giro postcompetitivo]]<br>- [[S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS|Hojas de ruta ODS]]<br>- [[S5 - La Parra y Tortosa. Violencia estructural|Violencia estructural]]<br>- [[S4 - Teoría de sistemas|Teoría de sistemas]]<br>- [Ruta del Barroco Andino](https://www.youtube.com/watch?v=9FByimiScv8&pp=ygUabGEgcnV0YSBkZWwgYmFycm9jbyBhbmRpbm8%3D) (?)<br><br>@{22-05-2024}<br>#pi #lab
 - [ ] **Exposición de avance de investigación**<br><br>@{31-05-2024}<br>#comu #lab #grupal
 
 
@@ -34,8 +34,6 @@ kanban-plugin: basic
 ## 👍 Completado
 
 **Complete**
-- [x] **[[02 - Video sobre una herramienta de transcripción]]**<br><br>Adicionalmente:<br><br>03: transcripción de 01<br>04: transcripción de 02<br><br>@{20-05-2024}<br><br>#intro-cs #teo
-- [x] **[[S7 - Steven Pinker. La tabla rasa (Cáp. 17)]]**<br><br>Se viene examen!!!<br><br>- [x] La lógica de la violencia<br>- [x] Dos ejemplos de la trampa Hobessiana<br>- [x] Dos ejemplos del dilema del prisionero + situación del pacifista<br><br>@{17-05-2024}<br>#comu #lab
 
 
 ***
@@ -59,6 +57,8 @@ kanban-plugin: basic
 - [x] **[[S5 - Pernas. IA y los ODS]]**<br><br>- [x] Leído<br>- [x] Anotado<br><br>@{14-05-2024}<br>#comu #teo
 - [x] **Párrafos del patrimonio cultural**<br><br>Redactar los párrafos del problema de patrimonio cultural<br><br>@{15-05-2024}<br>#pi #lab #grupal
 - [x] **Control de lectura**<br><br>Temas:<br><br>- [[S2 - Harari. De animales a dioses (cáp. 2)|Harari. El árbol del saber]]<br>- [[S4 - Escandell. El esquema clásico de la comunicación y sus limitaciones (cáp. 1)|Escandell. El esquema clásico de la comunicación y sus limitaciones]]<br>- [[S4 - Mata & Scarafino. La comunicación como práctica discursiva|Mata y Scarafino]]<br>- [[S5 - Pernas. IA y los ODS|Pernas. IA y los ODS]]<br>- Boroditsky (TED Talk)<br>- Video sobre los prejuicios<br><br>@{14-05-2024}<br>#comu #teo
+- [x] **[[02 - Video sobre una herramienta de transcripción]]**<br><br>Adicionalmente:<br><br>03: transcripción de 01<br>04: transcripción de 02<br><br>@{20-05-2024}<br><br>#intro-cs #teo
+- [x] **[[S7 - Steven Pinker. La tabla rasa (Cáp. 17)]]**<br><br>Se viene examen!!!<br><br>- [x] La lógica de la violencia<br>- [x] Dos ejemplos de la trampa Hobessiana<br>- [x] Dos ejemplos del dilema del prisionero + situación del pacifista<br><br>@{17-05-2024}<br>#comu #lab
 
 %% kanban:settings
 ```

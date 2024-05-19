@@ -35,7 +35,7 @@
 
 ## Sistema de evaluación
 
-![[Ciclo 1/🎯 Proyectos Interdisciplinarios I/Notas/Recursos/Sistema de evaluación.excalidraw|width:100%]]
+![[Ciclo 1/🎯 Proyectos Interdisciplinarios I/Recursos/Sistema de evaluación.excalidraw|width:100%]]
 
 ### Teoría
 

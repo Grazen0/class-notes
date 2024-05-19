@@ -3,7 +3,6 @@
 ## Índice
 
 %% Begin Waypoint %%
-- **Estudio**
 - **Lecturas**
 	- [[S2 - Harari. De animales a dioses (cáp. 2)]]
 	- [[S4 - Escandell. El esquema clásico de la comunicación y sus limitaciones (cáp. 1)]]
@@ -38,7 +37,7 @@
 
 ## Sistema de evaluación
 
-![[Ciclo 1/✍ Laboratorio de Comunicación I/Notas/Recursos/Sistema de evaluación.excalidraw|width:100%]]
+![[Ciclo 1/✍ Laboratorio de Comunicación I/Recursos/Sistema de evaluación.excalidraw|width:100%]]
 
 ### Teoría
 

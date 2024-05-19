@@ -26,7 +26,7 @@ Jorge Tipe (Oficina P1012)
 
 ## Sistema de evaluación
 
-![[Ciclo 1/🍎 Matemáticas Discretas I/Notas/Recursos/Sistema de evaluación.excalidraw|width:100%]]
+![[Ciclo 1/🍎 Matemáticas Discretas I/Recursos/Sistema de evaluación.excalidraw|width:100%]]
 
 Tanto la nota de **teoría** como **laboratorio** deben ser **mayor o iguales a 10.5** para aprobar el curso.
 

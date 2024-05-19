@@ -27,7 +27,7 @@
 
 ## Sistema de evaluación
 
-![[Ciclo 1/💻 Programación I/Notas/Recursos/Sistema de evaluación.excalidraw|width:100%]]
+![[Ciclo 1/💻 Programación I/Recursos/Sistema de evaluación.excalidraw|width:100%]]
 
 ### Teoría
 
