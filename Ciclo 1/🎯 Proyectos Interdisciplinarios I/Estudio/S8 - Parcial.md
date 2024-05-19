@@ -197,6 +197,8 @@ title: Lecturas
 
 El lema de los ODS es **"no dejar a nadie atrás"**.
 
+### Introducción
+
 ### Elementos clave de una hoja de ruta
 
 - **Focalizada en los objetivos** en concordancia con la Agenda 2030.
@@ -205,7 +207,7 @@ El lema de los ODS es **"no dejar a nadie atrás"**.
 - Es **coherente** y revisada por agentes clave y entidades interesadas.
 - Es **dinámica** y se puede prestar a correcciones en el curso de su ejecución.
 
-#### Propósitos de los ODS y la agenda 2030
+### Propósitos de los ODS y la agenda 2030
 
 - **Sostenibilidad** (económica, social, ambiental)
 - Identificar **brechas estructurales**
@@ -213,6 +215,42 @@ El lema de los ODS es **"no dejar a nadie atrás"**.
 - Planificación y seguimiento
 - **Centrarse en la persona** (igualdad y dignidad)
 - **Contexto global** (sociedad, estado, academia, etc)
+
+#### El enfoque
+
+- Poner a la **persona al centro**
+- Generar sinergias y alianzas **mundiales**
+- Replantear la **relación con el medio ambiente**
+- **Alinear** políticas, normativas, planteamientos e inversiones.
+
+### Los ODM
+
+- **Ocho** metas de desarrollo.
+- Pretendían acabar con los mayores agujeros de salud y pobreza
+
+#### Logros alcanzados
+
+- 50% menos de pobreza
+- x3 personas con más de $4 al día
+- 50% menos de nutrición insuficiente en regiones en desarrollo
+- ...
+
+**Sin embargo...**
+
+- No se incluyó a la población vulnerable.
+- Sólo se aplicaba en los **países desarrollados**.
+- Los resultados se veían en los **promedios**, no en los casos específicos.
+
+### De los ODM a los ODS
+
+Deben participar una **gran variedad de interesados** en la creación de objetivos.
+
+### Los ODS
+
+- **17 objetivos** que integran el planeta, prosperidad, paz y alianzas.
+- Una agenda **exhaustiva**.
+- Realizado por **múltiples partes**
+- Enfoque **universal**
 
 ## [[S5 - Enfoques sobre la pobreza]]
 
