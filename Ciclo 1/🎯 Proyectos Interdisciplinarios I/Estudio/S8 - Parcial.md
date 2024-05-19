@@ -119,7 +119,12 @@ Entonces, la **innovación**:
 - Técnicas, prácticas, sistemas, estilos de vida y formas de pensar **sencillos y accesibles para todos**.
 - Es una **alternativa** a los **hábitos de consumo** actuales.
 - Innovación desde un **ángulo diferente**. Sencillo e inclusivo.
-- 
+- **Construcción sencilla**: materiales abundantes, locales y naturales.
+- Soluciones técnicas **útiles**, **sostenibles** y **accesibles** para todos.
+
+### CTI al servicio de la sociedad
+
+
 
 ## [[S4 - De los ODM a los ODS]]
 
