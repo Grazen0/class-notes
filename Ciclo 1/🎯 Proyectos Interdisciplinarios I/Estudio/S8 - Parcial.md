@@ -106,6 +106,11 @@ title: Lecturas
 
 - Énfasis en la innovación **no high-tech**, e incluso **innovación no tecnológica**
 - Surge la necesidad de hacer I+D **involucrando los grandes desafíos sociales**.
+- **Cambiar el sistema** por sobre arreglar el sistema.
+
+Entonces, la **innovación**:
+
+- No debe estar orientada solamente a las empresas, sino también a las **necesidades de la sociedad**.
 - 
 
 ## [[S4 - De los ODM a los ODS]]
