@@ -50,9 +50,3 @@ $$
 2. Mientras que los datos agrupados sigan cambiando:
 	2.1. Agrupar cada dato al centroide más cercano.
 	2.2. Cambiar la distancia de cada centroide al promedio de sus datos.
-
-## Ejemplo práctico
-
-## Interpretación clusters
-
-## Normalización
