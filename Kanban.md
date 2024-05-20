@@ -6,7 +6,7 @@ kanban-plugin: basic
 
 ## ☕ Tareas
 
-- [ ] **05 - Artículo científico**<br><br>Escoger un artículo científico de CS y usar LitMaps para rastrear citas a dicho artículo.<br><br>Usar Google Académico<br><br>@{27-05-2024}<br>#intro-cs #teo
+- [ ] **[[05 - Artículo científico]]**<br><br>Escoger un artículo científico de CS y usar LitMaps para rastrear citas a dicho artículo.<br><br>Usar Google Académico<br><br>@{27-05-2024}<br>#intro-cs #teo
 
 
 ## 📚 Lecturas

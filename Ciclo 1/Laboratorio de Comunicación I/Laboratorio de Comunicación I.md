@@ -22,7 +22,7 @@
 		- [[S1 - La Comunicación]]
 		- [[S2 - El árbol del saber]]
 		- [[S3,4 - El proceso de la comunicación]]
-		- [[S5A - Informe de investigación]]
+		- [[S5A - Investigación académica]]
 		- [[S5B - Normativa APA]]
 		- [[S6A - Redacción del párrafo]]
 - **Trabajos**

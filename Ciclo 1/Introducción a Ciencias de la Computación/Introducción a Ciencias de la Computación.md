@@ -11,6 +11,7 @@
 - **Trabajos**
 	- [[01 - Herramienta de blurring para videos]]
 	- [[02 - Video sobre una herramienta de transcripción]]
+	- [[05 - Artículo científico]]
 	- [[Análisis de un programa de doctorado]]
 
 %% End Waypoint %%
