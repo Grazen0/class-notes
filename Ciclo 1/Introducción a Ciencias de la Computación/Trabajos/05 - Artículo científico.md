@@ -1,6 +1,5 @@
-**Nombre del artículo:** [Optimizing compilers for modern architectures: a dependence-based approach](https://dl.acm.org/doi/abs/10.5555/502981)
-
-**Autor:** Silas Boyd-Wickizer y demás.
+**Nombre del artículo:** [CAMP: Compiler and Allocator-based Heap Memory Protection](https://www.usenix.org/conference/usenixsecurity24/presentation/lin-zhenpeng)
+**Autor:** 
 
 **Abstract:** 
 
