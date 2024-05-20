@@ -1,6 +1,5 @@
 [
   "obsidian-admonition",
-  "table-editor-obsidian",
   "calendar",
   "obsidian-excalidraw-plugin",
   "obsidian-latex",
@@ -18,5 +17,6 @@
   "obsidian-kanban",
   "execute-code",
   "better-word-count",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "vim-yank-highlight"
 ]

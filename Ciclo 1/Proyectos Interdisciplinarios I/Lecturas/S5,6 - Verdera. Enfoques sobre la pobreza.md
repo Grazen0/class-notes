@@ -66,13 +66,6 @@ Se concluye que los pobres deben recibir **mejor distribución de activos** para
 
 ### c. Una aplicación para el Perú
 
-```ad-important
-title: Idea principal
-
-
-
-```
-
 De nuevo, el enfoque está en **modificar la distribución de activos**.
 
 Se busca reducir la pobreza mediante activos en cuya distribución puede intervenir el **estado**, y aumentando la **rentabilidad** de activos ya existentes.
@@ -129,7 +122,7 @@ Se propone un enfoque "**activos - vulnerabilidad - estructura de oportunidades*
 - Los activos están **desigualmente distribuidos**.
 	- Reducir pobreza implica una **mejor distribución de activos**. de forma más igualitaria.
 
-## 2.Las capacidades de los pobres
+## 2. Las capacidades de los pobres
 
 **Figura importante:** Amartya Sen
 

@@ -336,6 +336,40 @@ Son **rasgos** de la persona en relación a sus bienes. Son su capacidad de **us
 
 [**PPT de la semana**](https://utec.instructure.com/courses/14709/files/2986366)
 
+### Línea de pobreza
+
+- Define la pobreza por medio del **gasto mensual**.
+- Ta mal.
+
+### Índice de desarrollo humano
+
+Es el más usado internacionalmente. Mide el adelanto de un país en las **capacidades básicas**.
+
+- **Esperanza de vida** al nacer
+- Logro **educativo**
+- **Ingresos** monetarios
+
+### Indicador de necesidades básicas insatisfechas (NBI)
+
+Mide las **características de los hogares** relativo a las NB estructurales.
+
+- Hogares con **características físicas inadecuadas**
+- Hogares con **hacinamiento** (sobre-poblados)
+- Hogares **sin desagüe**.
+- Hogares con niños que **no van a la escuela**.
+- Hogares de alta **dependencia económica**.
+
+### Índice de pobreza multidimensional
+
+Combina la línea de pobreza y las NBI.
+
+Clasifica a la población en 4:
+
+1. Pobres **crónicos**
+2. Pobres **recientes**
+3. Pobres **inerciales** (medio pobres)
+4. **Integrados** socialmente (no pobres)
+
 ## S7 - Perfil de la pobreza en Perú
 
 **[PPT de la semana](https://utec.instructure.com/courses/14709/files/2992671)**
