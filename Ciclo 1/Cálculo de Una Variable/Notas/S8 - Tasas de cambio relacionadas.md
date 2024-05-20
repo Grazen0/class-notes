@@ -15,3 +15,8 @@ Mientras que la derivada es una tasa de cambio, el diferencial es una **variaci�
 
 ## Derivación implícita
 
+Una **función implícita** es una función que se relaciona con alguna variable **no visible** en la ecuación. Por ejemplo:
+
+$$
+x^{2} + y^{2} = 25 \quad \text{donde $y = f(x)$}
+$$
