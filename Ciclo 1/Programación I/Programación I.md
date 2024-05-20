@@ -1,4 +1,4 @@
-**[[Ciclo 1/💻 Programación I/Sílabo.pdf|Sílabo]]** | **[[Ciclo 1/💻 Programación I/Anexo (Teo).pdf|Anexo (Teo)]]** | **[[Ciclo 1/💻 Programación I/Anexo (Lab).pdf|Anexo (Lab)]]**
+**[[Ciclo 1/Programación I/Sílabo.pdf|Sílabo]]** | **[[Ciclo 1/Programación I/Anexo (Teo).pdf|Anexo (Teo)]]** | **[[Ciclo 1/Programación I/Anexo (Lab).pdf|Anexo (Lab)]]**
 
 ## Índice
 
@@ -27,7 +27,7 @@
 
 ## Sistema de evaluación
 
-![[Ciclo 1/💻 Programación I/Recursos/Sistema de evaluación.excalidraw|width:100%]]
+![[Ciclo 1/Programación I/Recursos/Sistema de evaluación.excalidraw|width:100%]]
 
 ### Teoría
 

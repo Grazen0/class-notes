@@ -1,4 +1,4 @@
-**[[Ciclo 1/🎯 Proyectos Interdisciplinarios I/Sílabo.pdf|Sílabo]]** | **[[Ciclo 1/🎯 Proyectos Interdisciplinarios I/Anexo.pdf|Anexo]]**
+**[[Ciclo 1/Proyectos Interdisciplinarios I/Sílabo.pdf|Sílabo]]** | **[[Ciclo 1/Proyectos Interdisciplinarios I/Anexo.pdf|Anexo]]**
 
 ## Índice
 
@@ -35,7 +35,7 @@
 
 ## Sistema de evaluación
 
-![[Ciclo 1/🎯 Proyectos Interdisciplinarios I/Recursos/Sistema de evaluación.excalidraw|width:100%]]
+![[Ciclo 1/Proyectos Interdisciplinarios I/Recursos/Sistema de evaluación.excalidraw|width:100%]]
 
 ### Teoría
 

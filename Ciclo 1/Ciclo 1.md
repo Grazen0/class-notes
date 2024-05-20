@@ -1,13 +1,11 @@
 ## Índice
 
 %% Begin Waypoint %%
-- **[[✍ Laboratorio de Comunicación I]]**
-- **[[🍎 Matemáticas Discretas I]]**
-- **[[🎯 Proyectos Interdisciplinarios I]]**
-- **[[💻 Programación I]]**
-- **[[💾 Introducción a Ciencias de la Computación]]**
-- **[[📈 Cálculo de Una Variable]]**
-- **[[🚀 CMA]]**
+- **[[Cálculo de Una Variable]]**
+- **[[CMA]]**
+- **[[Introducción a Ciencias de la Computación]]**
+- **[[Laboratorio de Comunicación I]]**
+- **[[Matemáticas Discretas I]]**
 - **Notas diarias**
 	- [[03-04-2024]]
 	- [[03-05-2024]]
@@ -35,5 +33,7 @@
 	- [[26-04-2024]]
 	- [[29-04-2024]]
 	- [[30-04-2024]]
+- **[[Programación I]]**
+- **[[Proyectos Interdisciplinarios I]]**
 
 %% End Waypoint %%
