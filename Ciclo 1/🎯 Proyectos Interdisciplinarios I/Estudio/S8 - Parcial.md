@@ -332,11 +332,6 @@ Son **rasgos** de la persona en relación a sus bienes. Son su capacidad de **us
 5. Enfoque de **oportunidades** o de **crecimiento monetario**
 6. **Capital social**
 
-#### Activos de los pobres
-
-- Se puede salir de la pobreza por la **posesión de activos**
-- 
-
 ## [[S6 - Índices para medir la pobreza]]
 
 [**PPT de la semana**](https://utec.instructure.com/courses/14709/files/2986366)
