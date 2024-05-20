@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"Ciclo 1/🍎 Matemáticas Discretas I\"  ",
@@ -60,6 +60,6 @@
   "repelStrength": 16.2241256245539,
   "linkStrength": 1,
   "linkDistance": 256,
-  "scale": 0.1037826000861876,
+  "scale": 0.31504333362605674,
   "close": false
 }

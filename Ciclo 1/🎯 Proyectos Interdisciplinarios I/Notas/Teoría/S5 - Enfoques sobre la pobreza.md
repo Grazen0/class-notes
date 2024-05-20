@@ -78,7 +78,7 @@ Se habla de "exclusión social" como la **exclusión del progreso** en la econom
 
 ### Pobreza estructural
 
-Es en el sentido de que la **sociedad** está **estructurada** de tal forma que la pobreza se repite en un ciclo vicioso, y es difícil romper este ciclo..
+Es en el sentido de que la **sociedad** está **estructurada** de tal forma que la pobreza se repite en un ciclo vicioso, y es difícil romper este ciclo.
 
 - Pobreza como resultado de la operación de **fuerzas sociales**
 - Círculo vicioso
