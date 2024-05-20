@@ -35,7 +35,7 @@ title: Lecturas
 #### 1. Post Guerra
 
 - Esquema **lineal**
-- Inversión en **ciencia básica.
+- Inversión en **ciencia básica**.
 - Se suponía que "ciencia básica $\to$ tecnología $\to$ socio-economía".
 
 #### 2. 60's - 80's

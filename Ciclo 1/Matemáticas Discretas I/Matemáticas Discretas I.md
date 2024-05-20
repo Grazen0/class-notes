@@ -3,7 +3,6 @@
 ## Índice
 
 %% Begin Waypoint %%
-- [[5 Matemáticas Discretas I]]
 - **Notas**
 	- **I. Introducción**
 		- [[S1A - Conjuntos numéricos]]
