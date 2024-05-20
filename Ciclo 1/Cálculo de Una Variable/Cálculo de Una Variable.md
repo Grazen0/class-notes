@@ -10,6 +10,7 @@
 	- [[S4 - Límites]]
 	- [[S5 - Derivadas]]
 	- [[S7 - Optimización]]
+	- [[S8 - Tasas de cambio relacionadas]]
 
 %% End Waypoint %%
 
