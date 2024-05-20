@@ -6,6 +6,7 @@ kanban-plugin: basic
 
 ## ☕ Tareas
 
+- [ ] **05 - Artículo científico**<br><br>Escoger un artículo científico de CS y usar LitMaps para rastrear citas a dicho artículo.<br><br>Usar Google Académico<br><br>@{27-05-2024}<br>#intro-cs #teo
 
 
 ## 📚 Lecturas
@@ -14,7 +15,6 @@ kanban-plugin: basic
 
 ## 📄 Evaluaciones
 
-- [ ] **[[S8 - Parcial|Parcial PI]]**<br><br>40 preguntas para marcar<br><br>¡Viene todo!<br><br>@{20-05-2024}<br>#pi #teo
 - [ ] **[[S6 - Control de lectura (CL)|Control de lectura]]**<br><br>Temas:<br><br>- [[S2 - Vasen. Giro postcompetitivo en la política de CTI|Giro postcompetitivo]]<br>- [[S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS|Hojas de ruta ODS]]<br>- [[S5 - La Parra y Tortosa. Violencia estructural|Violencia estructural]]<br>- [[S4 - Teoría de sistemas|Teoría de sistemas]]<br>- [Ruta del Barroco Andino](https://www.youtube.com/watch?v=9FByimiScv8&pp=ygUabGEgcnV0YSBkZWwgYmFycm9jbyBhbmRpbm8%3D) (?)<br><br>@{22-05-2024}<br>#pi #lab
 - [ ] **Exposición de avance de investigación**<br><br>@{31-05-2024}<br>#comu #lab #grupal
 
@@ -27,13 +27,13 @@ kanban-plugin: basic
 
 ## 🧊 On Freeze
 
-- [ ] **05 - Artículo científico**<br><br>Escoger un artículo científico de CS y usar LitMaps para rastrear citas a dicho artículo.<br><br>Usar Google Académico<br><br>@{27-05-2024}<br>#intro-cs #teo
 - [ ] **[[S14 - Renwick. Escrituralidad y oralidad]]**<br><br>@{02-07-2024}<br>#comu #teo
 
 
 ## 👍 Completado
 
 **Complete**
+- [x] **[[S8 - Parcial|Parcial PI]]**<br><br>40 preguntas para marcar<br><br>¡Viene todo!<br><br>@{20-05-2024}<br>#pi #teo
 
 
 ***
