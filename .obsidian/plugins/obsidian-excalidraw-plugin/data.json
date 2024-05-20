@@ -22,6 +22,7 @@
   "annotatePreserveSize": false,
   "previewImageType": "SVGIMG",
   "allowImageCache": true,
+  "allowImageCacheInScene": true,
   "displayExportedImageIfAvailable": false,
   "previewMatchObsidianTheme": false,
   "width": "400",
@@ -87,7 +88,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.2.0",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.2.2",
     "libraryItems": [
       {
         "status": "unpublished",

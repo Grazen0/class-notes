@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "-tag:excalidraw -file:Kanban -file:README",
   "showTags": false,
   "showAttachments": false,
@@ -8,42 +8,42 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:\"Ciclo 1/🍎 Matemáticas Discretas I\"  ",
+      "query": "path:\"Ciclo 1/Matemáticas Discretas I\"  ",
       "color": {
         "a": 1,
         "rgb": 12535109
       }
     },
     {
-      "query": "path:\"Ciclo 1/💾 Introducción a Ciencias de la Computación\"  ",
+      "query": "path:\"Ciclo 1/Introducción a Ciencias de la Computación\"  ",
       "color": {
         "a": 1,
         "rgb": 15587408
       }
     },
     {
-      "query": "path:\"Ciclo 1/🎯 Proyectos Interdisciplinarios I\"  ",
+      "query": "path:\"Ciclo 1/Proyectos Interdisciplinarios I\"  ",
       "color": {
         "a": 1,
         "rgb": 11657298
       }
     },
     {
-      "query": "path:\"Ciclo 1/📈 Cálculo de Una Variable\"  ",
+      "query": "path:\"Ciclo 1/Cálculo de Una Variable\"  ",
       "color": {
         "a": 1,
         "rgb": 16608621
       }
     },
     {
-      "query": "path:\"Ciclo 1/✍ Laboratorio de Comunicación I\"  ",
+      "query": "path:\"Ciclo 1/Laboratorio de Comunicación I\"  ",
       "color": {
         "a": 1,
         "rgb": 14777901
       }
     },
     {
-      "query": "path:\"Ciclo 1/💻 Programación I\"  ",
+      "query": "path:\"Ciclo 1/Programación I\"  ",
       "color": {
         "a": 1,
         "rgb": 5402336
@@ -60,6 +60,6 @@
   "repelStrength": 16.2241256245539,
   "linkStrength": 1,
   "linkDistance": 256,
-  "scale": 0.31504333362605674,
-  "close": false
+  "scale": 0.2175813724508213,
+  "close": true
 }
