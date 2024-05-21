@@ -19,12 +19,13 @@
 		- [[S5A - Tips de lectura]]
 		- [[S5B - Redacción]]
 	- **Teoría**
-		- [[S1 - La Comunicación]]
+		- [[S1 - La comunicación]]
 		- [[S2 - El árbol del saber]]
 		- [[S3,4 - El proceso de la comunicación]]
 		- [[S5A - Investigación académica]]
 		- [[S5B - Normativa APA]]
 		- [[S6A - Redacción del párrafo]]
+		- [[S8 - La comunicación intercultural]]
 - **Trabajos**
 	- [[Características de la escritura formal]]
 
