@@ -20,3 +20,16 @@ Una **función implícita** es una función que se relaciona con alguna variable
 $$
 x^{2} + y^{2} = 25 \quad \text{donde $y = f(x)$}
 $$
+
+```ad-important
+title: Datazo
+
+**Velocidad $\neq$ rapidez**!
+
+$$
+\text{rapidez} = \left| \text{velocidad} \right|
+$$
+
+```
+
+![[problema tasas de cambio relacionadas.png]]
