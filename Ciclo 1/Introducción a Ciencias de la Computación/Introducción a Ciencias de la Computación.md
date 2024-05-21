@@ -8,6 +8,7 @@
 	- [[S2 - Más introducción]]
 	- [[S3 - Clustering]]
 	- [[S7 - Bases de datos]]
+	- [[S8 - Algoritmo de KNN]]
 - **Trabajos**
 	- [[01 - Herramienta de blurring para videos]]
 	- [[02 - Video sobre una herramienta de transcripción]]
