@@ -19,3 +19,6 @@
 	- **Quetschlich**: Optimización de compiladores para computación cuántica usando aprendizaje de reforzamiento
 	- **He**: Machine learning para vectorización de decisiones en kernel de OpenCL y SYCL.
 	- **Navasca**: Prediciendo propiedades dinámicas de alocaciones de heap usando redes neuronales entrenadas en código estático: un abstracto intelectual.
+
+## Guión
+
