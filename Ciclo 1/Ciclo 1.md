@@ -1,6 +1,8 @@
 ## Índice
 
 %% Begin Waypoint %%
+- **✍ Laboratorio de Comunicación I**
+	- **Estudio**
 - **[[Cálculo de Una Variable]]**
 - **[[CMA]]**
 - **[[Introducción a Ciencias de la Computación]]**
