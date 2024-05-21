@@ -19,7 +19,7 @@
 		- [[S5A - Tips de lectura]]
 		- [[S5B - Redacción]]
 	- **Teoría**
-		- [[S1 - La comunicación]]
+		- [[S1 - La Comunicación]]
 		- [[S2 - El árbol del saber]]
 		- [[S3,4 - El proceso de la comunicación]]
 		- [[S5A - Investigación académica]]
