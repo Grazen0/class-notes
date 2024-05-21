@@ -8,3 +8,7 @@ Optimizations Framework](https://arxiv.org/abs/2101.04808)
 **Abstract:** El artículo...
 
 **Citaciones:** https://app.litmaps.com/preview/191046459
+
+- 27 referencias
+- 44 citaciones
+- 
