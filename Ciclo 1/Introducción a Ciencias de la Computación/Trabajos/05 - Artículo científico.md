@@ -1,6 +1,10 @@
-**Nombre del artículo:** [CAMP: Compiler and Allocator-based Heap Memory Protection](https://www.usenix.org/conference/usenixsecurity24/presentation/lin-zhenpeng)
-**Autor:** 
+**Nombre del artículo:** [MLGO: a Machine Learning Guided Compiler
+Optimizations Framework](https://arxiv.org/abs/2101.04808)
 
-**Abstract:** 
+**Autores:** Mircea Trofin, Yundi Qian, Eugene Brevdo, Zinan Lin, Krzysztof Choromanski, David Li
 
-**Año de publicación:** 2008
+**Año de publicación:** 2021
+
+**Abstract:** El artículo...
+
+**Citaciones:** https://app.litmaps.com/preview/191046459
