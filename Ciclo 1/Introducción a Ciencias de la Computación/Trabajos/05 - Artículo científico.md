@@ -20,5 +20,26 @@
 	- **He**: Machine learning para vectorización de decisiones en kernel de OpenCL y SYCL.
 	- **Navasca**: Prediciendo propiedades dinámicas de alocaciones de heap usando redes neuronales entrenadas en código estático: un abstracto intelectual.
 
-## Guión
+**Referencia más citada:** Silver. Mastering the game of Go with deep neural networks and tree search
 
+## Guion
+
+¡Muy buenas! La investigación académica es un ámbito de mucha importancia en cualquier rama de la ciencia, al fin y al cabo es lo que permite encontrar bases científicas para nuevos descubrimientos y la innovación. Y... la ciencia de la computación no se queda atrás. En este video, vamos a adentrarnos al mundo de los papers académicos en esta disciplina.
+
+El plan es tomar algún paper académico interesante y usar una herramienta llamada **LitMaps**, que nos permite evaluar su impacto mostrándonos un árbol con las citaciones y referencias hacia este documento.
+
+En mi caso, el documento que voy a investigar hoy será este: "MLGO: a Machine Learning Guided Compiler Optimizations Framework". Básicamente, el título dice "MLGO: Un framework de optimizaciones de compilador guiada por machine learning"
+
+Este paper tiene varios autores: Mircea Trofin, Yundi Qian, Eugene Brevdo, Zinan Lin, Krzysztof Choromanski, y David Li.
+
+Fue publicado en 2021, y hasta el momento tiene 27 referencias y 44 citaciones en otros papers subsiguientes.
+
+Viendo el **abstract** del paper podemos ver de qué trata. Verán, cuando uno crea un programa en un lenguaje compilado y lo va a correr, uno pasa el código por el **compilador**: un programa que convierte nuestro programa en dicho lenguaje a un código que puede correr la computadora.
+
+Los compiladores suelen hacer **optimizaciones** a la hora de compilar código, usualmente con el objetivo de maximizar la velocidad del programa en su ejecución.
+
+Este paper básicamente presenta un framework (un marco, una estructura) llamado MLGO que permite a los compiladores hacer estas optimizaciones usando **inteligencia artificial** en la forma de machine learning. Específicamente, permite hacerlo en lo que conocemos como LLVM, que es algo así como una "caja de herramientas": una infraestructura bastante en los compiladores de muchos lenguajes de programación.
+
+En el artículo se comparan métodos tradicionales de optimización con aquellos logrados con este sistema MLGO.
+
+También muestra dos posibilidades de algoritmos para machine learning para aplicar a este caso, que llaman "gradiente de política" y "estrategias de evolución".
