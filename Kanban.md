@@ -6,6 +6,10 @@ kanban-plugin: board
 
 ## ☕ Tareas
 
+- [ ] **Investigación de fuentes**
+	
+	@{25-05-2024} 
+	#comu #lab #grupal
 - [ ] **[[05 - Artículo científico]]**
 	
 	Escoger un artículo científico de CS y usar LitMaps para rastrear citas a dicho artículo.
@@ -16,37 +20,36 @@ kanban-plugin: board
 	#intro-cs #teo
 
 
-## 📚 Lecturas
-
-
-
 ## 📄 Evaluaciones
 
 - [ ] **Parcial ICC**
 	
+	Ver [[Introducción a Ciencias de la Computación|todos los apuntes de clase]] y grabaciones.
+	
 	@{27-05-2024}
 	#intro-cs #teo
-- [ ] **Exposición de avance de investigación**
-	
-	@{31-05-2024}
-	#comu #lab #grupal
 
 
 ## 🧱 Proyectos
 
-- [ ] **Proyecto Comu**
+- [ ] **Proyecto ICC**
 	
-	Desarrollo del oído absoluto
+	Ver enunciado en Canva.
 	
-	- [x] Definir característica
-	- [ ] Encontrar 3 fuentes
-	- [ ] Argumentos conductismo
-	- [ ] Argumentos innatismo
-	- [ ] Hacer esquema
+	@{30-05-2024}
+	#intro-cs #lab
+
+
+## 📚 Lecturas
+
+
+
+## 🧊 On Freeze
+
+- [ ] **[[S14 - Renwick. Escrituralidad y oralidad]]**
 	
-	@{31-05-2024}
-	
-	#comu #lab #grupal
+	@{02-07-2024} 
+	#comu #teo
 - [ ] **Patrimonio cultural**
 	
 	**Problema:** Es peligroso cruzar Abancay para gente con discapacidad, negando el acceso a la Iglesia San Pedro.
@@ -60,31 +63,24 @@ kanban-plugin: board
 	- [ ] Identificar niveles de poder
 	
 	#pi #lab #grupal
-
-
-## 🧊 On Freeze
-
-- [ ] **[[S14 - Renwick. Escrituralidad y oralidad]]**
+- [ ] **Proyecto Comu**
 	
-	@{02-07-2024} 
-	#comu #teo
+	Desarrollo del oído absoluto
+	
+	- [x] Definir característica
+	- [ ] Encontrar 3 fuentes
+	- [ ] Argumentos conductismo
+	- [ ] Argumentos innatismo
+	- [ ] Hacer esquema
+	
+	@{31-05-2024}
+	
+	#comu #lab #grupal
 
 
 ## 👍 Completado
 
 **Complete**
-- [x] **[[S6 - Control de lectura (CL)|Control de lectura]]**
-	
-	Temas:
-	
-	- [[S2 - Vasen. Giro postcompetitivo en la política de CTI|Giro postcompetitivo]]
-	- [[S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS|Hojas de ruta ODS]]
-	- [[S5 - La Parra y Tortosa. Violencia estructural|Violencia estructural]]
-	- [[S4 - Teoría de sistemas|Teoría de sistemas]]
-	- [Ruta del Barroco Andino](https://www.youtube.com/watch?v=9FByimiScv8&pp=ygUabGEgcnV0YSBkZWwgYmFycm9jbyBhbmRpbm8%3D) (?)
-	
-	@{22-05-2024}
-	#pi #lab
 
 
 ***
@@ -227,6 +223,18 @@ kanban-plugin: board
 	
 	@{20-05-2024}
 	#pi #teo
+- [x] **[[S6 - Control de lectura (CL)|Control de lectura]]**
+	
+	Temas:
+	
+	- [[S2 - Vasen. Giro postcompetitivo en la política de CTI|Giro postcompetitivo]]
+	- [[S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS|Hojas de ruta ODS]]
+	- [[S5 - La Parra y Tortosa. Violencia estructural|Violencia estructural]]
+	- [[S4 - Teoría de sistemas|Teoría de sistemas]]
+	- [Ruta del Barroco Andino](https://www.youtube.com/watch?v=9FByimiScv8&pp=ygUabGEgcnV0YSBkZWwgYmFycm9jbyBhbmRpbm8%3D) (?)
+	
+	@{22-05-2024}
+	#pi #lab
 
 %% kanban:settings
 ```
