@@ -1,6 +1,6 @@
 Ver [[S5A - Investigación académica#2. Búsqueda de fuentes]].
 
-## 1. [Veloso y Guimarães](https://www.scielo.br/j/pusf/a/DpM48FTvKyvPGfVMJRRwkbd/) (2013)
+## 1. [Veloso y Guimarães](https://www.scielo.br/j/pusf/a/DpM48FTvKyvPGfVMJRRwkbd/) (2013, p. 2-3)
 
 - [[Veloso y Guimarães. O Ouvido Absoluto - bases neurocognitivas e perspectivas.pdf]]
 - [[Veloso y Guimarães. O Ouvido Absoluto - bases neurocognitivas e perspectivas (ES).pdf]]
@@ -9,18 +9,18 @@ Aquí (p.3) también se plantea un enfoque **integrador** de ambos lados de la d
 
 ### A favor del innatismo
 
-- **Correlaciones con las condiciones de nacimiento** (p. 3)
+- **Correlaciones con las condiciones de nacimiento**
 	- País
 	- Gemelos monocigóticos más que dicigóticos
 	- Familiares con oído absoluto
 
 ### A favor del conductismo
 
-- **Correlación con la formación musical temprana** (p. 2-3)
+- **Correlación con la formación musical temprana**
 	- Está vinculado al desarrollo del lenguaje
 	- Iniciar más temprano $\implies$ más posibilidad de oído absoluto
 
-## 2. Arias (2007)
+## 2. Arias (2007, p. 42)
 
 - [[Arias. Música y neurología.pdf]]
 
@@ -31,12 +31,16 @@ Aquí (p.3) también se plantea un enfoque **integrador** de ambos lados de la d
 - Asociación a **dificultades en el aprendizaje**
 - Hay **más asociaciones con otras cosas** que con la formación musical
 
-## 3. Moyeda
+## 3. Moyeda (2007, p. 13)
 
 ### A favor del innatismo
 
-- "Componente heredado" (p. 13)
+- Componente **heredado**
+- **Gen** dominante autosómico
 
 ### A favor del conductismo
 
-- "Se requiere de un entrenamiento musical" (p. 13)
+- "Se requiere de un entrenamiento musical"
+- Exposición al medio cultural
+- Uso de método de enseñanza "do fijo"
+	- Momento crítico entre los 3 y 6 años
