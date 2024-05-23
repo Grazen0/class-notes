@@ -1,4 +1,4 @@
-[[1. Características de la escritura formal.pdf]]
+[[Características de la escritura formal.pdf]]
 
 ## Introducción
 
