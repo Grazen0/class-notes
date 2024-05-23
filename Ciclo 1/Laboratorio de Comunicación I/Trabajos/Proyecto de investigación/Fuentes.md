@@ -1,12 +1,9 @@
 Ver [[S5A - Investigación académica#2. Búsqueda de fuentes]].
 
-## 1. [Veloso y Guimarães]()
+## 1. [Veloso y Guimarães](https://www.scielo.br/j/pusf/a/DpM48FTvKyvPGfVMJRRwkbd/) (2013)
 
-**Año:** 2013
-
-- [Página web](https://www.scielo.br/j/pusf/a/DpM48FTvKyvPGfVMJRRwkbd/)
-- [[O Ouvido Absoluto - bases neurocognitivas e perspectivas.pdf]]
-- [[O Ouvido Absoluto - bases neurocognitivas e perspectivas (ES).pdf]]
+- [[Veloso y Guimarães. O Ouvido Absoluto - bases neurocognitivas e perspectivas.pdf]]
+- [[Veloso y Guimarães. O Ouvido Absoluto - bases neurocognitivas e perspectivas (ES).pdf]]
 
 Aquí (p.3) también se plantea un enfoque **integrador** de ambos lados de la discusión.
 
@@ -23,7 +20,7 @@ Aquí (p.3) también se plantea un enfoque **integrador** de ambos lados de la d
 	- Está vinculado al desarrollo del lenguaje
 	- Iniciar más temprano $\implies$ más posibilidad de oído absoluto
 
-## 2. Arias
+## 2. Arias (2007)
 
 - [[Arias. Música y neurología.pdf]]
 
@@ -34,4 +31,5 @@ Aquí (p.3) también se plantea un enfoque **integrador** de ambos lados de la d
 - Asociación a **dificultades en el aprendizaje**
 - Hay **más asociaciones con otras cosas** que con la formación musical
 
-### A favor del conductismo
+## 3. Moyeda
+
