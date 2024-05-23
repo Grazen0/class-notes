@@ -33,3 +33,10 @@ Aquí (p.3) también se plantea un enfoque **integrador** de ambos lados de la d
 
 ## 3. Moyeda
 
+### A favor del innatismo
+
+- "Componente heredado" (p. 13)
+
+### A favor del conductismo
+
+- "Se requiere de un entrenamiento musical" (p. 13)
