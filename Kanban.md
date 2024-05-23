@@ -6,7 +6,7 @@ kanban-plugin: board
 
 ## ☕ Tareas
 
-- [ ] **Investigación de fuentes**
+- [ ] **[[Fuentes|Investigación de fuentes]]**
 	
 	@{25-05-2024} 
 	#comu #lab #grupal
