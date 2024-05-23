@@ -52,3 +52,9 @@ Aquí (p.3) también se plantea un enfoque **integrador** de ambos lados de la d
 ## 5. [Miendlarzewska](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2013.00279/full) (2014)
 
 - [[Miendlarzewska. How musical training affects cognitive development.pdf]]
+
+## 6. Baharloo (1998)
+
+- [[Baharloo. Absolute Pitch - An Approach for Identification of Genetic and Nongenetic Components.pdf]]
+
+Este texto es fuerte **a favor del innatismo**, ya que evalúa la genética.
