@@ -47,6 +47,8 @@ Aquí (p.3) también se plantea un enfoque **integrador** de ambos lados de la d
 
 ## 4. [Reymore](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.560877/full) (2020)
 
-
+- [[Reymore. A Theory of Instrument-Specific Absolute Pitch.pdf]]
 
 ## 5. [Miendlarzewska](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2013.00279/full) (2014)
+
+- [[Miendlarzewska. How musical training affects cognitive development.pdf]]
