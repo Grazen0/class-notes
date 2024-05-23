@@ -22,18 +22,6 @@ kanban-plugin: board
 
 ## 📄 Evaluaciones
 
-- [ ] **[[S6 - Control de lectura (CL)|Control de lectura]]**
-	
-	Temas:
-	
-	- [[S2 - Vasen. Giro postcompetitivo en la política de CTI|Giro postcompetitivo]]
-	- [[S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS|Hojas de ruta ODS]]
-	- [[S5 - La Parra y Tortosa. Violencia estructural|Violencia estructural]]
-	- [[S4 - Teoría de sistemas|Teoría de sistemas]]
-	- [Ruta del Barroco Andino](https://www.youtube.com/watch?v=9FByimiScv8&pp=ygUabGEgcnV0YSBkZWwgYmFycm9jbyBhbmRpbm8%3D) (?)
-	
-	@{22-05-2024}
-	#pi #lab
 - [ ] **Parcial ICC**
 	
 	@{27-05-2024}
@@ -85,6 +73,18 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **[[S6 - Control de lectura (CL)|Control de lectura]]**
+	
+	Temas:
+	
+	- [[S2 - Vasen. Giro postcompetitivo en la política de CTI|Giro postcompetitivo]]
+	- [[S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS|Hojas de ruta ODS]]
+	- [[S5 - La Parra y Tortosa. Violencia estructural|Violencia estructural]]
+	- [[S4 - Teoría de sistemas|Teoría de sistemas]]
+	- [Ruta del Barroco Andino](https://www.youtube.com/watch?v=9FByimiScv8&pp=ygUabGEgcnV0YSBkZWwgYmFycm9jbyBhbmRpbm8%3D) (?)
+	
+	@{22-05-2024}
+	#pi #lab
 
 
 ***
