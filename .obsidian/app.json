@@ -8,7 +8,7 @@
   "vimMode": true,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "",
-  "showUnsupportedFiles": false,
+  "showUnsupportedFiles": true,
   "useTab": true,
   "pdfExportSettings": {
     "includeName": true,
