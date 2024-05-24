@@ -44,4 +44,4 @@ title: Propiedades.
 
 Se le llama **intersección de $A$ y $B$** ($A \sand B$) al conjunto conformado por todos los elementos que pertenecen a ambos conjuntos.
 
-![[Intersección de conjuntos.excalidraw]]
+![[Intersección de conjuntos.excalidraw|width:80%]]
