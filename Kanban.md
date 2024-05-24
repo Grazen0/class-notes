@@ -6,10 +6,6 @@ kanban-plugin: board
 
 ## ☕ Tareas
 
-- [ ] **[[Fuentes|Investigación de fuentes]]**
-	
-	@{25-05-2024} 
-	#comu #lab #grupal
 - [ ] **[[05 - Artículo científico]]**
 	
 	Escoger un artículo científico de CS y usar LitMaps para rastrear citas a dicho artículo.
@@ -81,6 +77,10 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **[[Fuentes|Investigación de fuentes]]**
+	
+	@{25-05-2024} 
+	#comu #lab #grupal
 
 
 ***
