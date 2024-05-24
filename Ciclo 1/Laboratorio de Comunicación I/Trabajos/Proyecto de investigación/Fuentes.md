@@ -30,8 +30,9 @@ Este ta potente.
 
 - Más frecuente en **mujeres**
 - Tendencia a ser **familiar**
-- Asociación a **dificultades en el aprendizaje**
+- Asociación a **dificultades en el aprendizaje** y **síndrome de Williams**
 - Hay **más asociaciones con otras cosas** que con la formación musical
+- Asociaciones con la **formación del cerebro** (ejemplo del violinista que tuvo un accidente y perdió el OA)
 
 ## 3. Moyeda (México, 2007, p. 13)
 
