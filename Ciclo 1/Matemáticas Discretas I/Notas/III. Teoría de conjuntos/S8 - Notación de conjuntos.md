@@ -63,3 +63,37 @@ A \subseteq A
 $$
 
 ```
+
+````ad-proposition
+title: Propiedad.
+
+$\varnothing \subseteq A$ para todo conjunto $A$.
+
+```ad-proof
+collapse: closed
+
+Por contradicción, supongamos que existe un conjunto $A$ tal que $\varnothing \nsubseteq A$. Entonces, existe un elemento $x$ tal que $x \in \varnothing$ y $x \notin A$.
+
+Sin embargo, esto es una contradicción porque $\varnothing$ no tiene elementos.
+$$\qed$$
+
+```
+
+````
+
+````ad-proposition
+title: Propiedad (transitividad).
+
+Sean $A, B, C$ conjuntos tales que $A \subseteq B$ y $B \subseteq C$, entonces $A \subseteq C$.
+
+```ad-proof
+collapse: closed
+
+Sean $A, B, C$ conjuntos tales que $A \subseteq B$ y $B \subseteq C$.
+
+Entonces, sea $x$ un elemento cualquiera de $A$. Como $A \subseteq B$, entonces $x \in B$. Sin embargo, como $B \subseteq C$, entonces además $x \in C$.
+$$\qed$$
+
+```
+
+````
