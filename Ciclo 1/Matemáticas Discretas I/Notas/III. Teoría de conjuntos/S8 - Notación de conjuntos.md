@@ -20,8 +20,10 @@ $$
 ### Por comprensión
 
 $$
-A = \left\{ a \lmid \text{$a$ verifica la propiedad $P$} \right\}
+A = \left\{ a \lmid P(a) \right\}
 $$
+
+para alguna función proposicional $P(x)$.
 
 ```ad-example
 title: Ejemplos
