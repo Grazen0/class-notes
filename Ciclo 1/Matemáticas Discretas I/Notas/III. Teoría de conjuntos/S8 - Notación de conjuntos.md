@@ -51,4 +51,15 @@ title: Ejemplos
 
 Dados dos conjuntos $A$ y $B$, decimos que **$A$ está incluido en $B$** si y solo si cada elemento de $A$ es un elemento de $B$. Ello se denota como $A \subseteq B$, y y se dice que **$A$ es subconjunto de $B$**.
 
-Si $A$ no es subconjunto de $B$, denotamos $A \nsubseteq B$.
+Si $A$ no es subconjunto de $B$, lo denotamos como $A \nsubseteq B$.
+
+```ad-proposition
+title: Propiedad.
+
+Cualquier conjunto es subconjunto de si mismo. Es decir, para todo conjunto $A$:
+
+$$
+A \subseteq A
+$$
+
+```
