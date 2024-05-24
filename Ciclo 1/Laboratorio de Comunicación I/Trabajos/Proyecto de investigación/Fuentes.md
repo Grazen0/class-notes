@@ -1,6 +1,6 @@
 Ver [[S5A - Investigación académica#2. Búsqueda de fuentes]].
 
-## 1. [Veloso y Guimarães](https://www.scielo.br/j/pusf/a/DpM48FTvKyvPGfVMJRRwkbd/) (2013, p. 2-3)
+## 1. [Veloso y Guimarães](https://www.scielo.br/j/pusf/a/DpM48FTvKyvPGfVMJRRwkbd/) (Brasil, 2013, p. 2-3)
 
 - [[Veloso y Guimarães. O Ouvido Absoluto - bases neurocognitivas e perspectivas.pdf]]
 - [[Veloso y Guimarães. O Ouvido Absoluto - bases neurocognitivas e perspectivas (ES).pdf]]
@@ -20,9 +20,11 @@ Aquí (p.3) también se plantea un enfoque **integrador** de ambos lados de la d
 	- Está vinculado al desarrollo del lenguaje
 	- Iniciar más temprano $\implies$ más posibilidad de oído absoluto
 
-## 2. Arias (2007, p. 42)
+## 2. Arias (España, 2007, p. 42)
 
 - [[Arias. Música y neurología.pdf]]
+
+Este ta potente.
 
 ### A favor del innatismo
 
@@ -31,7 +33,9 @@ Aquí (p.3) también se plantea un enfoque **integrador** de ambos lados de la d
 - Asociación a **dificultades en el aprendizaje**
 - Hay **más asociaciones con otras cosas** que con la formación musical
 
-## 3. Moyeda (2007, p. 13)
+## 3. Moyeda (México, 2007, p. 13)
+
+- [[Moyeda. Aspectos implicados en el talento y en la práctica de un instrumento musical.pdf]]
 
 ### A favor del innatismo
 
@@ -45,17 +49,17 @@ Aquí (p.3) también se plantea un enfoque **integrador** de ambos lados de la d
 - Uso de método de enseñanza "do fijo"
 	- Momento crítico entre los 3 y 6 años
 
-## 4. [Reymore](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.560877/full) (2020)
+## 4. [Reymore](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.560877/full) (USA, Canadá, Dinamarca, 2020)
 
 - [[Reymore. A Theory of Instrument-Specific Absolute Pitch.pdf]]
 
 Según ChatGPT, ofrece argumentos en ambos lados.
 
-## 5. [Miendlarzewska](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2013.00279/full) (2014)
+## 5. [Miendlarzewska](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2013.00279/full) (Suiza, 2014)
 
 - [[Miendlarzewska. How musical training affects cognitive development.pdf]]
 
-## 6. Baharloo (1998)
+## 6. Baharloo (USA, 1998)
 
 - [[Baharloo. Absolute Pitch - An Approach for Identification of Genetic and Nongenetic Components.pdf]]
 
