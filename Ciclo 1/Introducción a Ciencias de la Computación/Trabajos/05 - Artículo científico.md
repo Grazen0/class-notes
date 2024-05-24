@@ -43,3 +43,15 @@ Este paper básicamente presenta un framework (un marco, una estructura) llamado
 En el artículo se comparan métodos tradicionales de optimización con aquellos logrados con este sistema MLGO.
 
 También muestra dos posibilidades de algoritmos para machine learning para aplicar a este caso, que llaman "gradiente de política" y "estrategias de evolución".
+
+---
+
+- Mostrar las citas importantes
+	- Pese a ser más o menos reciente, ya tiene 44 citas en otros papers.
+- Mostrar citas de las citas
+- Como ya dije: es un artículo reciente, pero ya ha tenido un buen impacto en este tema, de optimizaciones de compilador.
+
+---
+
+- Mostrar la bibliografía
+- Litmaps de Silver (2016)
