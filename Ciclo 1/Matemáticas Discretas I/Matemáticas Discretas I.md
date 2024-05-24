@@ -17,7 +17,8 @@
 		- [[S6 - Cuantificadores]]
 		- [[S7 - Inferencia]]
 	- **III. Teoría de conjuntos**
-		- [[S8 - Notación de conjuntos]]
+		- [[S8A - Notación de conjuntos]]
+		- [[S8B - Diagramas de Venn]]
 
 %% End Waypoint %%
 
