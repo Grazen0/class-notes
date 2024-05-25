@@ -6,14 +6,6 @@ kanban-plugin: board
 
 ## ☕ Tareas
 
-- [ ] **[[05 - Artículo científico]]**
-	
-	Escoger un artículo científico de CS y usar LitMaps para rastrear citas a dicho artículo.
-	
-	Usar Google Académico
-	
-	@{27-05-2024} @@{12:00}  
-	#intro-cs #teo
 
 
 ## 📄 Evaluaciones
@@ -29,8 +21,6 @@ kanban-plugin: board
 ## 🧱 Proyectos
 
 - [ ] **Proyecto ICC**
-	
-	Ver enunciado en Canva.
 	
 	@{30-05-2024}
 	#intro-cs #lab
@@ -77,6 +67,14 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **[[05 - Artículo científico]]**
+	
+	Escoger un artículo científico de CS y usar LitMaps para rastrear citas a dicho artículo.
+	
+	Usar Google Académico
+	
+	@{27-05-2024} @@{12:00}  
+	#intro-cs #teo
 - [x] **[[Fuentes|Investigación de fuentes]]**
 	
 	@{25-05-2024} 
