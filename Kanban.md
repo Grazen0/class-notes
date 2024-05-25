@@ -54,7 +54,7 @@ kanban-plugin: board
 	Desarrollo del oído absoluto
 	
 	- [x] Definir característica
-	- [ ] Encontrar 3 fuentes
+	- [x] Encontrar 3 fuentes
 	- [ ] Argumentos conductismo
 	- [ ] Argumentos innatismo
 	- [ ] Hacer esquema
