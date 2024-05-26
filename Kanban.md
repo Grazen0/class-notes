@@ -6,6 +6,12 @@ kanban-plugin: board
 
 ## ☕ Tareas
 
+- [ ] **Evaluación virtual 2**
+	
+	Ver en [Gradescope](https://www.gradescope.com).
+	
+	@{31-05-2024} @@{12:00} 
+	#calculo #teo
 
 
 ## 📄 Evaluaciones
