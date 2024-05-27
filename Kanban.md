@@ -73,18 +73,6 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
-- [x] **[[05 - Artículo científico]]**
-	
-	Escoger un artículo científico de CS y usar LitMaps para rastrear citas a dicho artículo.
-	
-	Usar Google Académico
-	
-	@{27-05-2024} @@{12:00}  
-	#intro-cs #teo
-- [x] **[[Fuentes|Investigación de fuentes]]**
-	
-	@{25-05-2024} 
-	#comu #lab #grupal
 
 
 ***
@@ -239,6 +227,18 @@ kanban-plugin: board
 	
 	@{22-05-2024}
 	#pi #lab
+- [x] **[[05 - Artículo científico]]**
+	
+	Escoger un artículo científico de CS y usar LitMaps para rastrear citas a dicho artículo.
+	
+	Usar Google Académico
+	
+	@{27-05-2024} @@{12:00}  
+	#intro-cs #teo
+- [x] **[[Fuentes|Investigación de fuentes]]**
+	
+	@{25-05-2024} 
+	#comu #lab #grupal
 
 %% kanban:settings
 ```
