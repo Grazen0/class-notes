@@ -16,12 +16,6 @@ kanban-plugin: board
 
 ## 📄 Evaluaciones
 
-- [ ] **Parcial ICC**
-	
-	Ver [[Introducción a Ciencias de la Computación|todos los apuntes de clase]] y grabaciones.
-	
-	@{27-05-2024}
-	#intro-cs #teo
 
 
 ## 🧱 Proyectos
@@ -239,6 +233,12 @@ kanban-plugin: board
 	
 	@{25-05-2024} 
 	#comu #lab #grupal
+- [x] **Parcial ICC**
+	
+	Ver [[Introducción a Ciencias de la Computación|todos los apuntes de clase]] y grabaciones.
+	
+	@{27-05-2024}
+	#intro-cs #teo
 
 %% kanban:settings
 ```
