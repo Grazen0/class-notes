@@ -19,6 +19,7 @@
 	- **III. Teoría de conjuntos**
 		- [[S8A - Notación de conjuntos]]
 		- [[S8B - Diagramas de Venn]]
+		- [[S9 - Operaciones con conjuntos]]
 
 %% End Waypoint %%
 

@@ -41,13 +41,35 @@ title: Ejemplos
 **[[S1A - Conjuntos numéricos#Recordemos Intervalo|Ver en semana 1A]]**
 
 ## Terminología
+### Pertenencia
 
-- **Pertenencia:** Se dice que $x \in A$ si y solo si $x$ **pertenece** al conjunto $A$. Caso contrario, se escribe $x \notin A$.
-- **Igualdad:** Dos conjuntos $A$ y $B$ son **iguales** si y solo si poseen los mismos elementos. Esto se denota como $A = B$.
-- **Conjunto vacío:** Se asume la existencia del conjunto vacío ($\varnothing$), conjunto que no posee elementos.
+Se dice que $x \in A$ si y solo si $x$ **pertenece** al conjunto $A$. Caso contrario, se escribe $x \notin A$.
+
+### Igualdad
+
+Dos conjuntos $A$ y $B$ son **iguales** si y solo si poseen los mismos elementos. Esto se denota como $A = B$.
+
+Es posible demostrar igualdad por **inclusión mutua**:
+
+```ad-proposition
+title: Propiedad.
+
+Dos conjuntos $A$ y $B$ son iguales si y solo si $A \subseteq B$ y $B \subseteq A$.
+
+```
+
+### Existencia del conjunto vacío ($\varnothing$)
+
+Se asume la existencia del conjunto vacío ($\varnothing$), conjunto que no posee elementos.
+
+$$
+\forall x (x \notin \varnothing)
+$$
+
 - **Cardinal:** Dado un conjunto finito $A$, denotamos con $|A|$ la **cantidad de elementos** de $A$. Este es el **número cardinal** de $A$.
+- **Disjunción:** Dos conjuntos $A$ y $B$ son llamados **disjuntos** si y solo si $A \cap B = \varnothing$.
 
-## Inclusión / subconjunto
+### Inclusión ($\subseteq$)
 
 Dados dos conjuntos $A$ y $B$, decimos que **$A$ está incluido en $B$** si y solo si cada elemento de $A$ es un elemento de $B$. Ello se denota como $A \subseteq B$, y y se dice que **$A$ es subconjunto de $B$**.
 
