@@ -56,3 +56,5 @@ $$
 $$
 
 ```
+
+![[Complemento de un conjunto.excalidraw]]
