@@ -39,7 +39,7 @@ title: Advertencia
 ### Distancia euclidiana
 
 $$
-d_{E}(P,Q) = \sqrt{(p_{1} - q_{1})^{2} + (p_{2} - q_{2})^{2} + \ldots + (p_{n} - q_{n})^{2}} = \sqrt{\sum_{i=0}^{n}{(p_{i}-q_{i})^{2}}}
+D(P,Q) = \sqrt{(p_{1} - q_{1})^{2} + (p_{2} - q_{2})^{2} + \ldots + (p_{n} - q_{n})^{2}} = \sqrt{\sum_{i=0}^{n}{(p_{i}-q_{i})^{2}}}
 $$
 
 ### K-means
