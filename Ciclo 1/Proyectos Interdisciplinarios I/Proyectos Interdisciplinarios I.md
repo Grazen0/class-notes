@@ -17,6 +17,7 @@
 		- [[S1 - Los ODS y el patrimonio cultural]]
 		- [[S3 - Patrimonio cultural y el desarrollo sostenible]]
 		- [[S4 - Teoría de sistemas]]
+		- [[S9 - Design Thinking y mapeo de actores]]
 	- **Teoría**
 		- [[S2 - El giro postcompetitivo]]
 		- [[S3 - Desafíos globales y participación social]]

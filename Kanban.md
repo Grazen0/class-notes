@@ -10,20 +10,12 @@ kanban-plugin: board
 	
 	Ver en [Gradescope](https://www.gradescope.com).
 	
-	@{31-05-2024} @@{12:00} 
+	@{30-05-2024} 
 	#calculo #teo
 
 
 ## 📄 Evaluaciones
 
-
-
-## 🧱 Proyectos
-
-- [ ] **Proyecto ICC**
-	
-	@{30-05-2024}
-	#intro-cs #lab
 
 
 ## 📚 Lecturas
@@ -36,32 +28,6 @@ kanban-plugin: board
 	
 	@{02-07-2024} 
 	#comu #teo
-- [ ] **Patrimonio cultural**
-	
-	**Problema:** Es peligroso cruzar Abancay para gente con discapacidad, negando el acceso a la Iglesia San Pedro.
-	
-	- [x] Definir problema
-	- [x] Definir localidad
-	- [ ] Investigar y resumir
-	- [x] Relación con ODS
-	- [ ] Definir actores
-	- [ ] Analizar actores
-	- [ ] Identificar niveles de poder
-	
-	#pi #lab #grupal
-- [ ] **Proyecto Comu**
-	
-	Desarrollo del oído absoluto
-	
-	- [x] Definir característica
-	- [x] Encontrar 3 fuentes
-	- [ ] Argumentos conductismo
-	- [ ] Argumentos innatismo
-	- [ ] Hacer esquema
-	
-	@{31-05-2024}
-	
-	#comu #lab #grupal
 
 
 ## 👍 Completado
