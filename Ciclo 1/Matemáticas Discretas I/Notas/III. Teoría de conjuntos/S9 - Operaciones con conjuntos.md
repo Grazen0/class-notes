@@ -12,15 +12,15 @@ $$
 title: Propiedades.
 
 1. $A \subseteq (A \cup B)$
-2. $(A \sand B) \subseteq A$
-3. Si $A \subseteq B$ entonces $A \sand B = A$.
+2. $(A \cap B) \subseteq A$
+3. Si $A \subseteq B$ entonces $A \cap B = A$.
 4. Si $A \subseteq B$ entonces $A \cup B = B$.
 
 ```
 
 ## Intersección ($\cap$)
 
-Se le llama **intersección de $A$ y $B$** ($A \sand B$) al conjunto conformado por todos los elementos que pertenecen a ambos conjuntos.
+Se le llama **intersección de $A$ y $B$** ($A \cap B$) al conjunto conformado por todos los elementos que pertenecen a ambos conjuntos.
 
 $$
 A \cap B := \left\{ x \lmid x \in A \land x \in B \right\}
@@ -47,13 +47,13 @@ $$
 $$
 
 ```ad-proposition
-title: Propiedad
+title: Propiedades.
 
-El complemento de un conjunto $A$ es la diferencia del conjunto universal con $A$.
-
-$$
-\overline{A} = U - A
-$$
+- $\overline{A} = U - A$
+- $\overline{\overline{A}} = A$ (doble negativo)
+- $\overline{A \cup B} = \overline{A} \cap \overline{B}$ (Morgan #1)
+- $\overline{A \cap B} = \overline{A} \cup \overline{B}$ (Morgan #2)
+- Si $A \subseteq B$ entonces $\overline{B} \subseteq \overline{A}$ (contraposición)
 
 ```
 
