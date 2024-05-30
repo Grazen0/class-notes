@@ -10,8 +10,12 @@ kanban-plugin: board
 	
 	Ver en [Gradescope](https://www.gradescope.com).
 	
-	@{30-05-2024} 
+	@{01-06-2024} @@{12:00} 
 	#calculo #teo
+- [ ] **Proyecto 1**
+	
+	@{06-06-2024} 
+	#intro-cs #lab #grupal
 
 
 ## 📄 Evaluaciones
