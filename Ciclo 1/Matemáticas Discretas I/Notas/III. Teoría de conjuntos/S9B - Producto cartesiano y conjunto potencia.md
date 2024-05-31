@@ -1,4 +1,4 @@
-## Definición y propiedades
+## Producto cartesiano
 
 ```ad-definition
 
@@ -35,6 +35,18 @@ $$
 A \times B \times C := \left\{ (a, b, c) \lmid a \in A \land b \in B \land c \in C \right\}
 $$
 
-## Representación en el plano cartesiano
+### Representación en el plano cartesiano
  
 ![[Producto cartesiano en el plano.excalidraw|width:75%]]
+
+## Conjunto potencia
+
+```ad-definition
+
+Sea $A$ un conjunto. Se define el **conjunto potencia** de $A$ como el conjunto formado por todos los subconjuntos de $A$.
+
+$$
+\Ps(A) := \left\{ S : S \subseteq A \right\}
+$$
+
+```

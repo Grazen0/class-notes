@@ -20,7 +20,7 @@
 		- [[S8A - Notación de conjuntos]]
 		- [[S8B - Diagramas de Venn]]
 		- [[S9A - Operaciones con conjuntos]]
-		- [[S9B - Producto cartesiano]]
+		- [[S9B - Producto cartesiano y conjunto potencia]]
 
 %% End Waypoint %%
 
