@@ -50,3 +50,16 @@ $$
 $$
 
 ```
+
+Por ejemplo:
+
+$$
+\Ps(\left\{ 1, 2, 3 \right\}) = \left\{ \varnothing, \left\{ 1 \right\}, \left\{ 2 \right\}, \left\{ 3 \right\}, \left\{ 1, 2 \right\}, \left\{ 1, 3 \right\}, \left\{ 2, 3 \right\}, \left\{ 1, 2, 3 \right\} \right\}
+$$
+
+### Propiedades
+
+Sea $A$ un conjunto:
+
+1. $\varnothing \in \Ps(A)$
+2. $|\Ps(A)| = 2^{|A|}$
