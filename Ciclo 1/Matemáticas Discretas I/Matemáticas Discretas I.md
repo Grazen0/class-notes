@@ -19,7 +19,8 @@
 	- **III. Teoría de conjuntos**
 		- [[S8A - Notación de conjuntos]]
 		- [[S8B - Diagramas de Venn]]
-		- [[S9 - Operaciones con conjuntos]]
+		- [[S9A - Operaciones con conjuntos]]
+		- [[S9B - Producto cartesiano]]
 
 %% End Waypoint %%
 
