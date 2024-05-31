@@ -1,3 +1,5 @@
+## Definición y propiedades
+
 ```ad-definition
 
 Sean $A$ y $B$ dos conjuntos. Se le llama **producto cartesiano** de $A$ y $B$ al conjunto formado por todos los pares ordenados $(a, b)$ donde $a \in A$ y $b \in B$.
@@ -33,3 +35,6 @@ $$
 A \times B \times C := \left\{ (a, b, c) \lmid a \in A \land b \in B \land c \in C \right\}
 $$
 
+## Representación en el plano cartesiano
+ 
+![[Producto cartesiano en el plano.excalidraw|width:75%]]
