@@ -63,3 +63,16 @@ Sea $A$ un conjunto:
 
 1. $\varnothing \in \Ps(A)$
 2. $|\Ps(A)| = 2^{|A|}$
+3. $\Ps(\varnothing) = \left\{ \varnothing \right\}$
+4. $A \subseteq B \iff A \in \Ps(B)$
+
+```ad-note
+title: Notación adicional
+
+El conjunto potencia de $A$ también se escribe como:
+
+$$
+\Ps(A) = 2^{A} = P(A) = \mathbb{P}(A)
+$$
+
+```
