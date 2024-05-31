@@ -14,7 +14,7 @@ kanban-plugin: board
 	#calculo #teo
 - [ ] **Proyecto ICC**
 	
-	- [ ] Código
+	- [x] Código
 	- [ ] Informe
 	
 	@{06-06-2024} 
