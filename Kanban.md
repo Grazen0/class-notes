@@ -12,7 +12,10 @@ kanban-plugin: board
 	
 	@{01-06-2024} @@{12:00} 
 	#calculo #teo
-- [ ] **Proyecto 1**
+- [ ] **Proyecto ICC**
+	
+	- [ ] Código
+	- [ ] Informe
 	
 	@{06-06-2024} 
 	#intro-cs #lab #grupal
