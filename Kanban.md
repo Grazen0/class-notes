@@ -6,12 +6,6 @@ kanban-plugin: board
 
 ## ☕ Tareas
 
-- [ ] **Evaluación virtual 2**
-	
-	Ver en [Gradescope](https://www.gradescope.com).
-	
-	@{01-06-2024} @@{12:00} 
-	#calculo #teo
 - [ ] **Proyecto ICC**
 	
 	- [x] Código
@@ -40,6 +34,12 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **Evaluación virtual 2**
+	
+	Ver en [Gradescope](https://www.gradescope.com).
+	
+	@{01-06-2024} @@{12:00} 
+	#calculo #teo
 
 
 ***
