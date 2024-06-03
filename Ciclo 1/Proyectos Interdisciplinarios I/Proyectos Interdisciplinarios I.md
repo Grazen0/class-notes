@@ -24,6 +24,7 @@
 		- [[S4 - De los ODM a los ODS]]
 		- [[S5 - Enfoques sobre la pobreza]]
 		- [[S6 - Índices para medir la pobreza]]
+		- [[S10 - La educación como meta global]]
 - **Trabajos**
 	- [[El Problema como Sistema.excalidraw]]
 
