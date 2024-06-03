@@ -13,6 +13,12 @@ kanban-plugin: board
 	
 	@{06-06-2024} 
 	#intro-cs #lab #grupal
+- [ ] **Ficha de investigación**
+	
+	Descripción y utilidad de las fuentes, esquema.
+	
+	@{08-06-2024}
+	#comu #lab #grupal
 
 
 ## 📄 Evaluaciones
