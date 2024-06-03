@@ -16,12 +16,13 @@
 		- [[S5 - Forma normal conjuntiva y disyuntiva]]
 		- [[S6 - Cuantificadores]]
 		- [[S7 - Inferencia]]
-	- **III. Teoría de conjuntos**
+	- **III. Conjuntos y relaciones**
 		- [[S8A - Notación de conjuntos]]
 		- [[S8B - Diagramas de Venn]]
 		- [[S9A - Operaciones con conjuntos]]
 		- [[S9B - Producto cartesiano y conjunto potencia]]
-		- [[S10 - Cardinalidad de conjuntos finitos]]
+		- [[S10A - Cardinalidad de conjuntos finitos]]
+		- [[S10B - Relaciones sobre conjuntos]]
 
 %% End Waypoint %%
 
