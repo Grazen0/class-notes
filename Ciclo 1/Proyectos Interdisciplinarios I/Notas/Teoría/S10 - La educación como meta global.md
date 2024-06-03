@@ -77,4 +77,37 @@ El sistema está mal, la educación no cambia nada y es necesario cambiarlo.
 2. Las **relaciones** entre estos actores en el sistema educativo.
 3. Las **metodologías** 
 4. Escala de las concepciones, estrategias y políticas.
-5. 
+
+## Sin embargo...
+
+Las siguientes características:
+
+- **Disponibilidad**
+- **Accesibilidad**
+- **Aceptabilidad**
+- **Adaptabilidad**
+
+¿Podemos decir que se cumplen en el Perú?
+
+### Inequidades del sistema educativo peruano
+
+- En el Perú hay **8 millones de estudiantes en colegios** y más de **2 millones en educación técnica y universitaria**.
+
+### Causas de la brecha educativa en Perú
+
+La desigualdad educativa está más allá de las causas estructurales o de las políticas públicas educativas particulares.
+
+- Educación **pública** vs. **privada**
+- Brechas **socioeconómicas**
+- Espacio **urbano** vs. **rural**
+- **Etnia**
+- Brechas de **género**
+
+### Algunos retos al corto plazo en la educación del Perú.
+
+1. Reducir el **analfabetismo**.
+2. Aumentar la **inversión** en educación.
+3. Niveles de comprensión **lectora** y **matemáticas**.
+4. Acceso a la **educación superior**.
+5. Fortalecer la **SUNEDU**.
+6. Mejorar la **calidad de enseñanza en aula** (capital humano).
