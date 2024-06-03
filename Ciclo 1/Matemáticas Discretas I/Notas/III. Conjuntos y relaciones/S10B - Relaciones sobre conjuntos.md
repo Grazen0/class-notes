@@ -31,3 +31,9 @@ R_{4} &= \left\{ (x,y) \in A \times B \lmid x + y = 8 \right\} \\
 &= \varnothing
 \end{align}
 $$
+
+## Representación visual
+
+Si tenemos $A = \left\{ x, y \right\}$, $B = \left\{ m, n, p \right\}$ y la relación entre $A$ y $B$ $R = \left\{ (x, m), (x, n), (y, n), (y, p) \right\}$, entonces se puede graficar lo siguiente:
+
+![[Representación visual de relación.excalidraw|width:30%]]
