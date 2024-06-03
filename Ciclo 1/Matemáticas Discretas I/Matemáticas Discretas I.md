@@ -21,6 +21,7 @@
 		- [[S8B - Diagramas de Venn]]
 		- [[S9A - Operaciones con conjuntos]]
 		- [[S9B - Producto cartesiano y conjunto potencia]]
+		- [[S10 - Cardinalidad de conjuntos finitos]]
 
 %% End Waypoint %%
 
