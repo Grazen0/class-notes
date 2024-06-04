@@ -9,6 +9,7 @@
 	- [[S4 - Mata & Scarafino. La comunicación como práctica discursiva]]
 	- [[S5 - Pernas. IA y los ODS]]
 	- [[S7 - Steven Pinker. La tabla rasa (Cáp. 17)]]
+	- [[S11 - Maraza. Análisis de YouTube como herramienta de investigación]]
 	- [[S14 - Renwick. Escrituralidad y oralidad]]
 - **Notas**
 	- **Laboratorio**

@@ -27,6 +27,10 @@ kanban-plugin: board
 
 ## 📚 Lecturas
 
+- [ ] **[[Maraza. Análisis de YouTube como herramienta de investigación.pdf]]**
+	
+	@{11-06-2024}
+	#comu #teo
 - [ ] **[[S14 - Renwick. Escrituralidad y oralidad]]**
 	
 	@{02-07-2024} 
