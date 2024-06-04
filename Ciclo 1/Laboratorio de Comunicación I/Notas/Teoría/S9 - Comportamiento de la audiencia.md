@@ -38,4 +38,4 @@ Es una **combinación de la simple y de masas**. Ocurre debido al surgimiento de
 
 ## Teorías de los efectos en las audiencias
 
-	Buscan conocer los **efectos** de los medios sobre las audiencia s
+Buscan conocer los **efectos** de los medios sobre las audiencias.
