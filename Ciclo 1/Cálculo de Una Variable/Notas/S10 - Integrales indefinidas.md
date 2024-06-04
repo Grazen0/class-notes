@@ -17,6 +17,13 @@ $$
 ## Reglas de integración
 
 $$
+\begin{align}
+\int f(x) + g(x) \, dx &= \int f(x) \, dx + \int g(x) \, dx \\
+\int cf(x) \, dx &= c\int f(x) \, dx
+\end{align}
+$$
+
+$$
 \int x^{n} \, dx = \frac{x^{n + 1}}{n + 1} + C \quad \text{para $n \neq -1$}
 $$
 
@@ -29,9 +36,8 @@ $$
 $$
 
 $$
-\int \sin(x) \, dx = -\cos(x) + C
-$$
-
-$$
-\int \cos(x) \, dx = \sin(x) + C
+\begin{align}
+\int \sin(x) \, dx &= -\cos(x) + C \\
+\int \cos(x) \, dx &= \sin(x) + C
+\end{align}
 $$
