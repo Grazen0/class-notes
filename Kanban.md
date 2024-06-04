@@ -27,7 +27,7 @@ kanban-plugin: board
 
 ## 📚 Lecturas
 
-- [ ] **[[Maraza. Análisis de YouTube como herramienta de investigación.pdf]]**
+- [ ] **[[S11 - Maraza. Análisis de YouTube como herramienta de investigación]]**
 	
 	@{11-06-2024}
 	#comu #teo
