@@ -28,6 +28,7 @@
 		- [[S6A - Redacción del párrafo]]
 		- [[S8 - La comunicación intercultural]]
 		- [[S9 - Comportamiento de la audiencia]]
+		- [[S10 - Proyecto audiovisual de YouTube]]
 - **Trabajos**
 	- [[Características de la escritura formal]]
 	- **Proyecto de investigación**

@@ -17,7 +17,7 @@
 		- [[S6B - Funciones]]
 		- [[S7A - Cadenas]]
 		- [[S7B - Listas]]
-		- [[S11 - Imágenes]]
+		- [[S10 - Imágenes]]
 
 %% End Waypoint %%
 
