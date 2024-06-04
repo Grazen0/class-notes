@@ -27,25 +27,19 @@ kanban-plugin: board
 
 ## 📚 Lecturas
 
-
-
-## 🧊 On Freeze
-
 - [ ] **[[S14 - Renwick. Escrituralidad y oralidad]]**
 	
 	@{02-07-2024} 
 	#comu #teo
 
 
+## 🧊 On Freeze
+
+
+
 ## 👍 Completado
 
 **Complete**
-- [x] **Evaluación virtual 2**
-	
-	Ver en [Gradescope](https://www.gradescope.com).
-	
-	@{01-06-2024} @@{12:00} 
-	#calculo #teo
 
 
 ***
@@ -218,6 +212,12 @@ kanban-plugin: board
 	
 	@{27-05-2024}
 	#intro-cs #teo
+- [x] **Evaluación virtual 2**
+	
+	Ver en [Gradescope](https://www.gradescope.com).
+	
+	@{01-06-2024} @@{12:00} 
+	#calculo #teo
 
 %% kanban:settings
 ```
