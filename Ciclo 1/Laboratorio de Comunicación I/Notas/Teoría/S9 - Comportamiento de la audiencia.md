@@ -39,3 +39,23 @@ Es una **combinación de la simple y de masas**. Ocurre debido al surgimiento de
 ## Teorías de los efectos en las audiencias
 
 Buscan conocer los **efectos** de los medios sobre las audiencias.
+
+### Efectos omnipotentes
+
+Habla del poder que los medios de comunicación tienen para **introducir ideas en la audiencia**, y que dichas ideas sean fácilmente aceptadas.
+
+#### Teoría de la omnipotencia de los medios
+
+Es la idea de que los medios tienen el poder de **insertar ideas en la audiencia sin ser cuestionados**, y con un alcance masivo.
+
+```ad-example
+title: Ejemplo
+
+En la noche del 30 de octubre de 1938, millares de estadounidense fueron aterrorizados por una emisión de radio de la CBS que describía la **invasión de los marcianos**. Su artífice era Orson Welles, quien escenificaba "La Guerra de los Mundos" de H.G. Wells.
+
+```
+
+
+### Efectos limitados
+
+La audiencia no absorbe siempre la información. Puede elegir entre **aceptar o no aceptar**.
