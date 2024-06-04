@@ -31,4 +31,11 @@ Se caracteriza por la existencia de una **falta de interacción directa** entre 
 
 ### Audiencia difusa
 
-Es una **combinación de la simple y de masas**. Ocurre debido a la implemn
+Es una **combinación de la simple y de masas**. Ocurre debido al surgimiento de tecnologías y medios para **interactuar en tiempo real con el fenómeno**.
+
+- P. ej. cuando **reaccionamos a un noticiero en Twitter**.
+- **Encuestas** en programas de televisión.
+
+## Teorías de los efectos en las audiencias
+
+	Buscan conocer los **efectos** de los medios sobre las audiencia s
