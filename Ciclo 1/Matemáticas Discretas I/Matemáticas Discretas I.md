@@ -23,11 +23,6 @@
 		- [[S9B - Producto cartesiano y conjunto potencia]]
 		- [[S10A - Cardinalidad de conjuntos finitos]]
 		- [[S10B - Relaciones sobre conjuntos]]
-	- **III. Teoría de conjuntos**
-		- [[S8A - Notación de conjuntos]]
-		- [[S8B - Diagramas de Venn]]
-		- [[S9A - Operaciones con conjuntos]]
-		- [[S9B - Producto cartesiano y conjunto potencia]]
 
 %% End Waypoint %%
 
