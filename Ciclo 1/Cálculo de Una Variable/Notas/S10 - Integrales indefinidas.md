@@ -41,3 +41,9 @@ $$
 \int \cos(x) \, dx &= \sin(x) + C
 \end{align}
 $$
+
+## Método de sustitución
+
+$$
+\int f(g(x))g'(x) \, dx = \int f(u) \, du \quad \text{donde $u = g(x)$}
+$$
