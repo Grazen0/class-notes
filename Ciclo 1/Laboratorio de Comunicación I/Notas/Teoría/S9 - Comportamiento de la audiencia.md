@@ -58,8 +58,16 @@ Fue en parte una coincidencia:
 1. La gente intentó entrar a un programa de humor, pero en ese momento se estaba reproduciendo música.
 2. Hubo un cambio de canal en masa, y casualmente en uno de los canales adyacentes se estaba escenificando "La Guerra de los Mundos"
 
+Según el análisis del sociólogo Hadley Cantril:
+
+- Este acontecimiento permitió por primera vez hacer una prueba de tamaño natural sobre las **condiciones de sugestión, del recíproco contagio sobre el pánico** (psicosis colectiva).
+- Los medios lograron producir **actos irreflexivos** e **incitaciones gregarias**.
+
 ```
 
+#### Teoría de la bala mágica
+
+Establece que los medios tienen el poder de **"inyectar" ideas directamente a la audiencia**. Según esta teoría, la información es "disparada" como una bala al espectador para luego **producir o guiar una acción**
 
 ### Efectos limitados
 
