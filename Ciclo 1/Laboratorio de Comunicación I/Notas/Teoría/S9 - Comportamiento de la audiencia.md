@@ -53,6 +53,11 @@ title: Ejemplo
 
 En la noche del 30 de octubre de 1938, millares de estadounidense fueron aterrorizados por una emisión de radio de la CBS que describía la **invasión de los marcianos**. Su artífice era Orson Welles, quien escenificaba "La Guerra de los Mundos" de H.G. Wells.
 
+Fue en parte una coincidencia:
+
+1. La gente intentó entrar a un programa de humor, pero en ese momento se estaba reproduciendo música.
+2. Hubo un cambio de canal en masa, y casualmente en uno de los canales adyacentes se estaba escenificando "La Guerra de los Mundos"
+
 ```
 
 
