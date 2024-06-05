@@ -23,13 +23,26 @@ kanban-plugin: board
 
 ## 📄 Evaluaciones
 
+- [ ] **PC1 de LabCom**
+	
+	Temas:
+	
+	- [[S1 - La Comunicación|Concepto de comunicación]]
+	- [[S5B - Normativa APA|Normativa APA]]
+	- [[S9 - Comportamiento de la audiencia|Comportamiento de la audiencia]]
+	- [[S11 - Maraza. Análisis de YouTube como herramienta de investigación|Análisis de YouTube como herramienta de investigación]]
+	
+	@{11-06-2024} 
+	#comu #teo
 
 
 ## 📚 Lecturas
 
 - [ ] **[[S11 - Maraza. Análisis de YouTube como herramienta de investigación]]**
 	
-	@{11-06-2024}
+	Viene para la PC1.
+	
+	@{11-06-2024} 
 	#comu #teo
 - [ ] **[[S14 - Renwick. Escrituralidad y oralidad]]**
 	
