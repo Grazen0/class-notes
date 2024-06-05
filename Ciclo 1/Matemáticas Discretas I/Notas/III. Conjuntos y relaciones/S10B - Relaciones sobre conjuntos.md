@@ -10,7 +10,7 @@ $$
 
 Es decir, una relación es formalmente un subconjunto del producto cartesiano.
 
-Si $(a, b) \in R$, decimos que **$a$ está relacionado con $b$ con respecto a $R$**, o en $R$.
+Si $(a, b) \in R$, decimos que **$a$ está relacionado con $b$ con respecto a $R$**, o en $R$. Esto se suele escribir también como $a \mathop{R} b$.
 
 Por ejemplo, si tenemos $A = \left\{ 1, 2 \right\}$ y $B = \left\{ 1, 3 \right\}$:
 
@@ -37,3 +37,13 @@ $$
 Si tenemos $A = \left\{ x, y \right\}$, $B = \left\{ m, n, p \right\}$ y la relación entre $A$ y $B$ $R = \left\{ (x, m), (x, n), (y, n), (y, p) \right\}$, entonces se puede graficar lo siguiente:
 
 ![[Representación visual de relación.excalidraw|width:30%]]
+
+## Relaciones en $A \times A$
+
+Se le llama simplemente una **relación en $A$**.
+
+Al graficar, se utiliza un **grafo dirigido** para indicar el orden de cada par ordenado.
+
+Por ejemplo, para $A = \left\{ 1, 2, 3 \right\}$ y la relación en $A$ $R = \left\{ (1, 2), (2, 2), (2,3) \right\}$
+
+![[Relación en AxA.excalidraw|width:25%]]
