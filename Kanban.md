@@ -10,7 +10,7 @@ kanban-plugin: board
 	
 	Descripción y utilidad de las fuentes, esquema.
 	
-	@{08-06-2024}
+	@{15-06-2024} 
 	#comu #lab #grupal
 
 
