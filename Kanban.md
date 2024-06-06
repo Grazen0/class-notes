@@ -6,13 +6,6 @@ kanban-plugin: board
 
 ## ☕ Tareas
 
-- [ ] **Proyecto ICC**
-	
-	- [x] Código
-	- [ ] Informe
-	
-	@{06-06-2024} 
-	#intro-cs #lab #grupal
 - [ ] **Ficha de investigación**
 	
 	Descripción y utilidad de las fuentes, esquema.
@@ -57,6 +50,13 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **Proyecto ICC**
+	
+	- [x] Código
+	- [x] Informe
+	
+	@{06-06-2024} 
+	#intro-cs #lab #grupal
 
 
 ***
