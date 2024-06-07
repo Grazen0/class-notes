@@ -50,13 +50,6 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
-- [x] **Proyecto ICC**
-	
-	- [x] Código
-	- [x] Informe
-	
-	@{06-06-2024} 
-	#intro-cs #lab #grupal
 
 
 ***
@@ -235,6 +228,13 @@ kanban-plugin: board
 	
 	@{01-06-2024} @@{12:00} 
 	#calculo #teo
+- [x] **Proyecto ICC**
+	
+	- [x] Código
+	- [x] Informe
+	
+	@{06-06-2024} 
+	#intro-cs #lab #grupal
 
 %% kanban:settings
 ```
