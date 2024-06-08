@@ -48,3 +48,12 @@ El contenido videográfico es un escenario **interactivo** que posibilita la **m
 
 ### YouTube como herramienta para investigación documental
 
+En general, los elementos **multimedia** son uno de los materiales **más usados** para la fase exploratoria, especialmente los videos.
+
+Las mayores ventajas de los videos son:
+
+- Presentación flexible
+- Feedback inmediato
+
+### Posibilidades del uso educativo con YouTube
+
