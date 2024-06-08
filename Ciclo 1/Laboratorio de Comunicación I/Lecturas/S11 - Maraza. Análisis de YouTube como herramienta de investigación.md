@@ -60,7 +60,6 @@ Las mayores ventajas de los videos son:
 - YouTube es un **punto de encuentro** para exhibir y ver videos.
 	- Esto favorece la **enseñanza** y **aprendizaje**.
 
-
 Argumento: Las **continuas innovaciones de YouTube** crean un **ambiente perfecto** para descubrir, observar y compartir videos educativos.
 
 ### Factores de contribución investigativa de YouTube
