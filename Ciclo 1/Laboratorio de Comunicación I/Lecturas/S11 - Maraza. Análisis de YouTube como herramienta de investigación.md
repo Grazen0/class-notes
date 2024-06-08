@@ -44,4 +44,7 @@ Se recurre a una **gama amplia de contenidos**:
 
 Los contenidos se clasifican po su **confiabilidad**, **eficacia** y **forma de presentación**. En general, **se prefieren artículos de revistas científicas** por evaluados previo a publicarse.
 
-El contenido videográfico 
+El contenido videográfico es un escenario **interactivo** que posibilita la **modelación** y **renovación** colectiva de la información digital.
+
+### YouTube como herramienta para investigación documental
+
