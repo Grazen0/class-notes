@@ -37,14 +37,14 @@ kanban-plugin: board
 	
 	@{11-06-2024} 
 	#comu #teo
-- [ ] **[[S14 - Renwick. Escrituralidad y oralidad]]**
-	
-	@{02-07-2024} 
-	#comu #teo
 
 
 ## 🧊 On Freeze
 
+- [ ] **[[S14 - Renwick. Escrituralidad y oralidad]]**
+	
+	@{02-07-2024} 
+	#comu #teo
 
 
 ## 👍 Completado
