@@ -69,4 +69,5 @@ Argumento: Las **continuas innovaciones de YouTube** crean un **ambiente perfect
 - **Hipertextual** (hipervínculos a más sitios de información)
 - **Independiente geográfica y temporalmente**
 - **Actualizada** (48 horas de video subidas por minuto)
-- **Interactiva** ()
+- **Interactiva** (volumen, búsqueda, playlists, suscripción, comentarios, etc)
+## Metodología
