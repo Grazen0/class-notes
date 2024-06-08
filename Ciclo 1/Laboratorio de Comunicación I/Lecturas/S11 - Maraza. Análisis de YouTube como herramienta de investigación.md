@@ -14,3 +14,22 @@ Todo el asunto del texto se respalda en la **teoría del conectivismo** de Sieme
 
 ## Estado del arte
 
+### YouTube
+
+- Es el **20% del tráfico HTTP** y casi el **10% de todo el tráfico de internet**.
+- Razones de su éxito:
+	- Fácil de usar
+	- Accesible
+	- Posibilidad de comentar (pseudo red social)
+- Usa **metadatos** para facilitar la búsqueda de videos
+
+### Investigación documental
+
+Es la **familiarización de conocimientos preexistentes.
+
+- Búsqueda y selección de **fuentes de información**.
+- Es un paso de la **indagación**.
+
+### Elementos utilizados en la investigación documental
+
+
