@@ -11,7 +11,5 @@ Todo el asunto del texto se respalda en la **teoría del conectivismo** de Sieme
 - Redes
 - Complejidad
 - Auto-organización
-
-Es
 ## Estado del arte
 
