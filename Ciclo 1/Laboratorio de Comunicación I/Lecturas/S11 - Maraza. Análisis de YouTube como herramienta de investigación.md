@@ -32,4 +32,16 @@ Es la **familiarización de conocimientos preexistentes.
 
 ### Elementos utilizados en la investigación documental
 
+Se recurre a una **gama amplia de contenidos**:
 
+- Bibliográfica
+- Hemerográfica
+- Escrita
+- Audiográfica
+- Videográfica
+- Iconográfica
+- Información digital (dispositivos magnéticos)
+
+Los contenidos se clasifican po su **confiabilidad**, **eficacia** y **forma de presentación**. En general, **se prefieren artículos de revistas científicas** por evaluados previo a publicarse.
+
+El contenido videográfico 
