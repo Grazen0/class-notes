@@ -15,7 +15,6 @@ La lectura se basa en esta propuesta.
 - Desarrollo de las **competencias de búsqueda**.
 - El conocimiento reside en la base de datos conectada a **personas** (nodos) en diversos contextos académicos.
 - Formación de **redes** $\to$ transmitir **conocimientos**
-- 
 
 ```
 
