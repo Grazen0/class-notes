@@ -76,6 +76,10 @@ Argumento: Las **continuas innovaciones de YouTube** crean un **ambiente perfect
 - **Actualizada** (48 horas de video subidas por minuto)
 - **Interactiva** (volumen, búsqueda, playlists, suscripción, comentarios, etc
 
+## Criterios para evaluar un video
+
+
+
 ```ad-note
 title: Ventajas y desventajas de YouTube
 
@@ -83,8 +87,16 @@ title: Ventajas y desventajas de YouTube
 
 - Contenido **variado**
 - Reproducción ilimitada
-- 
+- Casi como una **red social**
+- Contenido de **calidad**
+- Aspecto **motivacional**
+
+**Desventajas:**
+
+- Brecha digital
+- **(No) integridad de la información**
+- Dificultad para **comparar** y **contrastar** información
+- **Distracciones**
+- **Problemas de salud** ergonómica y visual
 
 ```
-
-
