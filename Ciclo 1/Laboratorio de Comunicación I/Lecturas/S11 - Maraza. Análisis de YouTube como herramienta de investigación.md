@@ -31,7 +31,7 @@ La lectura se basa en esta propuesta.
 
 ### Investigación documental
 
-Es la **familiarización de conocimientos preexistentes.
+Es la **familiarización de conocimientos preexistentes**.
 
 - Búsqueda y selección de **fuentes de información**.
 - Es un paso de la **indagación**.
