@@ -21,6 +21,7 @@ kanban-plugin: board
 	Temas:
 	
 	- [[S1 - La Comunicación|Concepto de comunicación]]
+	- [[S3,4 - El proceso de la comunicación|El proceso de la comunicación]]
 	- [[S5B - Normativa APA|Normativa APA]]
 	- [[S9 - Comportamiento de la audiencia|Comportamiento de la audiencia]]
 	- [[S11 - Maraza. Análisis de YouTube como herramienta de investigación|Análisis de YouTube como herramienta de investigación]]
