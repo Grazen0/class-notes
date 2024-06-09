@@ -32,12 +32,6 @@ kanban-plugin: board
 
 ## 📚 Lecturas
 
-- [ ] **[[S11 - Maraza. Análisis de YouTube como herramienta de investigación]]**
-	
-	Viene para la PC1.
-	
-	@{11-06-2024} 
-	#comu #teo
 
 
 ## 🧊 On Freeze
@@ -51,6 +45,12 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **[[S11 - Maraza. Análisis de YouTube como herramienta de investigación]]**
+	
+	Viene para la PC1.
+	
+	@{11-06-2024} 
+	#comu #teo
 
 
 ***
