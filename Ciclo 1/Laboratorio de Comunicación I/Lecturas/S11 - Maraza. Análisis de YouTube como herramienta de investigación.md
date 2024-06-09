@@ -5,12 +5,15 @@
 - YouTube es una herramienta de aprendizaje **motivadora y didáctica**.
 - En particular, facilita la **fase exploratoria** de la investigación.
 
-Todo el asunto del texto se respalda en la **teoría del conectivismo** de Siemens: YouTube es un mundo de integración con principios de:
+```ad-info
+title: Teoría del conectivismo
 
-- Caos
-- Redes
-- Complejidad
-- Auto-organización
+- La conectividad favorece a la fase exploratoria.
+- La integración del conocimiento se basa en los principios exploratorios del **caos** y las posibles conexiones.
+- Desarrollo de las **competencias de búsqueda**.
+- 
+
+```
 
 ## Estado del arte
 
@@ -68,6 +71,5 @@ Argumento: Las **continuas innovaciones de YouTube** crean un **ambiente perfect
 - **Hipertextual** (hipervínculos a más sitios de información)
 - **Independiente geográfica y temporalmente**
 - **Actualizada** (48 horas de video subidas por minuto)
-- **Interactiva** (volumen, búsqueda, playlists, suscripción, comentarios, etc)
+- **Interactiva** (volumen, búsqueda, playlists, suscripción, comentarios, etc
 
-## Metodología
