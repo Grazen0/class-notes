@@ -76,27 +76,36 @@ Argumento: Las **continuas innovaciones de YouTube** crean un **ambiente perfect
 - **Actualizada** (48 horas de video subidas por minuto)
 - **Interactiva** (volumen, búsqueda, playlists, suscripción, comentarios, etc
 
-## Criterios para evaluar un video
+## Confiabilidad de YouTube
 
+- **Calidad técnica**: 74% / 26%
+- **Exactitud**: 60% / 40%
+- **Confiabilidad**: 57% / 43%
 
+### Criterios para evaluar un video
 
-```ad-note
-title: Ventajas y desventajas de YouTube
+- **Duración**: Se ajusta al tiempo establecido.
+- **Originalidad**: No está basado en ideas existentes.
+- **Audio**: Sonido claro, volumen adecuado y entendible.
+- **Calidad de la imagen**: Clara, suficiente luz y edición apropiada.
+- **Función empática y problematización**: Involucra al espectador en situaciones.
+- **Finalidad**: Fortalece conocimientos previos y favorece el aprendizaje.
 
-**Ventajas:**
+## Discusión del impacto social y ético
 
-- Contenido **variado**
+### Ventajas
+
+- Contenido **variado** (diversos lugares, idiomas, POVs, etc)
 - Reproducción ilimitada
-- Casi como una **red social**
-- Contenido de **calidad**
-- Aspecto **motivacional**
+- Casi como una **red social** (participación activa, interacción)
+- Contenido de **calidad** (contenido de organizaciones, especialistas, etc)
+- Aspecto **motivacional** (sonido, imagen, texto, video)
 
-**Desventajas:**
+### Desventajas
 
-- Brecha digital
-- **(No) integridad de la información**
+- Brecha digital (inaccesibilidad para algunos)
+- **Problemas de integridad** (falta de confiabilidad)
 - Dificultad para **comparar** y **contrastar** información
 - **Distracciones**
+- Riesgo a exponerse a **contenido sensible**
 - **Problemas de salud** ergonómica y visual
-
-```
