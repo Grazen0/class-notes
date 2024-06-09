@@ -8,9 +8,13 @@
 ```ad-info
 title: Teoría del conectivismo
 
+La lectura se basa en esta propuesta.
+
 - La conectividad favorece a la fase exploratoria.
 - La integración del conocimiento se basa en los principios exploratorios del **caos** y las posibles conexiones.
 - Desarrollo de las **competencias de búsqueda**.
+- El conocimiento reside en la base de datos conectada a **personas** (nodos) en diversos contextos académicos.
+- Formación de **redes** $\to$ transmitir **conocimientos**
 - 
 
 ```
