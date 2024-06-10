@@ -22,11 +22,11 @@
 	- **Teoría**
 		- [[S1 - La Comunicación]]
 		- [[S2 - El árbol del saber]]
-		- [[S3,4 - El proceso de la comunicación]]
+		- [[S3,4 - Proceso de la comunicación]]
 		- [[S5A - Investigación académica]]
 		- [[S5B - Normativa APA]]
 		- [[S6A - Redacción del párrafo]]
-		- [[S8 - La comunicación intercultural]]
+		- [[S8 - Comunicación intercultural]]
 		- [[S9 - Comportamiento de la audiencia]]
 		- [[S10 - Proyecto audiovisual de YouTube]]
 - **Trabajos**
