@@ -102,3 +102,18 @@ La audiencia **no es una masa homogénea**. La conducta de cada individuo es dif
 Si una persona tiene dos elementos cognitivos **incompatibles** entre sí, experimentará un estado emocional llamado **disonancia cognitiva**.
 
 Cuando dos cosas que creemos, pensamos o hacemos entran en conflicto entre sí, nos produce una incongruencia incómoda que nos empuja a resolverla **alterando a alguna de las dos cosas**. Sin embargo, en general **se suele priorizar a las creencias por sobre los hechos**.
+
+```ad-example
+title: Ejemplo
+
+**"Fumar mata" vs. "me gusta fumar"**
+
+En este caso, uno puede poner excusas como:
+
+- "Igual me moriré de un paro cardíaco, toda mi familia también le ha pasado"
+- "Igual me puede atropellar un carro"
+
+```
+
+#### Usos y gratificaciones
+
