@@ -63,7 +63,7 @@ Al ubicar una relación simétrica en el plano cartesiano, existirá una simetr�
 
 ### Observaciones
 
-1. Puede ocurrir que 
+1. Puede ocurrir en la definición que $a = b$. No se asume necesariamente que $a \neq b$.
 2. Al trazar la digráfica de una relación simétrica, si se traza $a \to b$ entonces también se traza $b \to a$.
 3. Si $R = \varnothing$, entonces $R$ es simétrica por defecto.
 
