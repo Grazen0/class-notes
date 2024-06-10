@@ -67,8 +67,16 @@ Según el análisis del sociólogo Hadley Cantril:
 
 #### Teoría de la bala mágica
 
-Establece que los medios tienen el poder de **"inyectar" ideas directamente a la audiencia**. Según esta teoría, la información es "disparada" como una bala al espectador para luego **producir o guiar una acción**
+"Los medios disparan información para causar acciones ya preparadas en la audiencia"
 
-### Efectos limitados
+Establece que los medios tienen el poder de **"inyectar" ideas directamente a la audiencia**. Según esta teoría, la información es "disparada" como una bala al espectador para luego **producir o guiar una acción**.
 
-La audiencia no absorbe siempre la información. Puede elegir entre **aceptar o no aceptar**.
+#### Efectos limitados
+
+Los efectos de los medios en la audiencia **varían según el tiempo**.
+
+| Audiencia en los '20 | Audiencia en los '40    |       | Modelos explicativos de los efectos limitados        |
+| -------------------- | ----------------------- | ----- | ---------------------------------------------------- |
+| Homogénea            | Heterogénea             | $\to$ | - Diferencias individuales<br>- Disonancia cognitiva |
+| Aislada              | Socialmente relacionada | $\to$ | - Dos pasos<br>- Categorías sociales                 |
+| Pasiva               | Activa                  | $\to$ | - Usos y gratificaciones                             |
