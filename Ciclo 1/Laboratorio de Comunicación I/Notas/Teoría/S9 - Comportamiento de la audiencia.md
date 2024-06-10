@@ -98,3 +98,7 @@ La audiencia **no es una masa homogénea**. La conducta de cada individuo es dif
 ![[Teoria de los dos pasos.excalidraw|width:80%]]
 
 #### Disonancia cognitiva
+
+Si una persona tiene dos elementos cognitivos **incompatibles** entre sí, experimentará un estado emocional llamado **disonancia cognitiva**.
+
+Cuando dos cosas que creemos, pensamos o hacemos entran en conflicto entre sí, nos produce una incongruencia incómoda que nos empuja a resolverla **alterando a alguna de las dos cosas**. Sin embargo, en general **se suele priorizar a las creencias por sobre los hechos**.
