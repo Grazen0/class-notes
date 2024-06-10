@@ -23,6 +23,7 @@
 		- [[S9B - Producto cartesiano y conjunto potencia]]
 		- [[S10A - Cardinalidad de conjuntos finitos]]
 		- [[S10B - Relaciones sobre conjuntos]]
+		- [[S11 - Tipos de relaciones]]
 
 %% End Waypoint %%
 
