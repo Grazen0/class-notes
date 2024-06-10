@@ -117,3 +117,61 @@ En este caso, uno puede poner excusas como:
 
 #### Usos y gratificaciones
 
+Reconoce el poder de la audiencia de **filtrar la información**, decidir a qué le hace caso y a qué no.
+
+- Pone en juego conceptos de **actividad**.
+- Determina a qué punto la audiencia selecciona:
+	- Los **contenidos mediáticos**.
+	- La **intensidad** en la exposición.
+	- La **motivación** que predomina al usar un medio de comunicación específico.
+
+Algunos ejemplos de usos para acceder a los medios son:
+
+- **Informarse** (nec. *cognitiva*)
+	- Información sobre el entorno
+	- Consejo sobre decisiones prácticas
+	- Curiosidad
+	- Autoaprendizaje
+	- Seguridad a través del conocimiento
+- **Identificarse** (nec. *intrapsicológicas*)
+	- Reafirmación de *convicciones*.
+	- Buscar modelos de *conducta*.
+	- *Identificarse* con otros.
+	- Autoconocimiento
+- **Integrarse** (nec. *interpsicológicas*)
+	- Desarrollar *empatía*
+	- Sentido de *pertenencia*.
+	- Intercambio social
+	- Reemplazo de compañía genuina
+	- Modelos para *desempañar roles*
+- **Entretenerse** (nec. *evasivas*)
+	- Olvido de problemas
+	- Descanso
+	- Placer estético / cultural
+	- Ocupación del tiempo libre
+	- *Liberación* emocional
+	- Estimulación sexual
+
+#### Construcción de agenda (agenda setting)
+
+Los medios cubren acontecimientos actuales mediante un **temario preconfigurado**. Es decir, los medios de comunicación **plantean la agenda**, que tendrá un impacto en lo que la audiencia esté interesada.
+
+Es decir, **los medios proponen la agenda**.
+
+Por ejemplo:
+
+- Noticias sobre vuelta a clase
+- Noticias sobre eventos **relevantes** en el momento (Ucrania, narcos, etc)
+
+#### Mayoría intimidatoria (espiral del silencio)
+
+Propone que la audiencia tiene un temor latente a "**ser cancelados**" por dar opiniones controversiales. Los grupos sociales **castigan** a sus miembros por **no saber adaptarse**.
+
+Básicamente, **el medio a ser *funado***.
+
+```ad-example
+title: Ejemplo
+
+Tú y tus 5 amigos quieren salir de vacaciones. Ellos dicen que quieren ir a la playa, pero a ti no te parece eso. Sin embargo, te parece que sería muy aguafiestas dar la contraria, y crees que podrías ser apartado de tus amigos.
+
+```
