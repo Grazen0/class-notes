@@ -91,3 +91,10 @@ Los efectos de los medios en las audiencias **varían debido a las diferencias i
 - Cultura
 - Etc...
 
+La audiencia **no es una masa homogénea**. La conducta de cada individuo es diferente.
+
+#### Categorías sociales y dos pasos
+
+![[Teoria de los dos pasos.excalidraw|width:80%]]
+
+####
