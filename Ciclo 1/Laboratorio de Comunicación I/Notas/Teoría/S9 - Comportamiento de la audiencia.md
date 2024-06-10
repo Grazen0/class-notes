@@ -97,4 +97,4 @@ La audiencia **no es una masa homogénea**. La conducta de cada individuo es dif
 
 ![[Teoria de los dos pasos.excalidraw|width:80%]]
 
-####
+#### Disonancia cognitiva
