@@ -107,4 +107,3 @@ Hay algunas razones por las que la adopción de la televisión haya tardado tant
 
 - Se necesita **infraestructura a nivel global**.
 - El producto debe ser **accesible**.
-
