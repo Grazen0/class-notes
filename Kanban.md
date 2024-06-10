@@ -21,6 +21,7 @@ kanban-plugin: board
 	Temas:
 	
 	- [[S1 - La Comunicación|Concepto de comunicación]]
+	- [[S3,4 - El proceso de la comunicación|El proceso de la comunicación]]
 	- [[S5B - Normativa APA|Normativa APA]]
 	- [[S9 - Comportamiento de la audiencia|Comportamiento de la audiencia]]
 	- [[S11 - Maraza. Análisis de YouTube como herramienta de investigación|Análisis de YouTube como herramienta de investigación]]
@@ -31,32 +32,25 @@ kanban-plugin: board
 
 ## 📚 Lecturas
 
-- [ ] **[[S11 - Maraza. Análisis de YouTube como herramienta de investigación]]**
-	
-	Viene para la PC1.
-	
-	@{11-06-2024} 
-	#comu #teo
+
+
+## 🧊 On Freeze
+
 - [ ] **[[S14 - Renwick. Escrituralidad y oralidad]]**
 	
 	@{02-07-2024} 
 	#comu #teo
 
 
-## 🧊 On Freeze
-
-
-
 ## 👍 Completado
 
 **Complete**
-- [x] **Proyecto ICC**
+- [x] **[[S11 - Maraza. Análisis de YouTube como herramienta de investigación]]**
 	
-	- [x] Código
-	- [x] Informe
+	Viene para la PC1.
 	
-	@{06-06-2024} 
-	#intro-cs #lab #grupal
+	@{11-06-2024} 
+	#comu #teo
 
 
 ***
@@ -235,6 +229,13 @@ kanban-plugin: board
 	
 	@{01-06-2024} @@{12:00} 
 	#calculo #teo
+- [x] **Proyecto ICC**
+	
+	- [x] Código
+	- [x] Informe
+	
+	@{06-06-2024} 
+	#intro-cs #lab #grupal
 
 %% kanban:settings
 ```

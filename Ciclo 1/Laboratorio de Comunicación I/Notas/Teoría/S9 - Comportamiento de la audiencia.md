@@ -40,11 +40,11 @@ Es una **combinación de la simple y de masas**. Ocurre debido al surgimiento de
 
 Buscan conocer los **efectos** de los medios sobre las audiencias.
 
-### Efectos omnipotentes
+### Teorías de los efectos omnipotentes
 
 Habla del poder que los medios de comunicación tienen para **introducir ideas en la audiencia**, y que dichas ideas sean fácilmente aceptadas.
 
-#### Teoría de la omnipotencia de los medios
+#### La omnipotencia de los medios
 
 Es la idea de que los medios tienen el poder de **insertar ideas en la audiencia sin ser cuestionados**, y con un alcance masivo.
 
@@ -65,10 +65,55 @@ Según el análisis del sociólogo Hadley Cantril:
 
 ```
 
-#### Teoría de la bala mágica
+#### La bala mágica
 
-Establece que los medios tienen el poder de **"inyectar" ideas directamente a la audiencia**. Según esta teoría, la información es "disparada" como una bala al espectador para luego **producir o guiar una acción**
+"Los medios disparan información para causar acciones ya preparadas en la audiencia"
 
-### Efectos limitados
+Establece que los medios tienen el poder de **"inyectar" ideas directamente a la audiencia**. Según esta teoría, la información es "disparada" como una bala al espectador para luego **producir o guiar una acción**.
 
-La audiencia no absorbe siempre la información. Puede elegir entre **aceptar o no aceptar**.
+### Teorías de los efectos limitados
+
+Los efectos de los medios en la audiencia **varían según el tiempo**. Además, estas teorías apoyan que los medios **no tienen control total** sobre las audiencias.
+
+| Audiencia en los '20 | Audiencia en los '40    |       | Modelos explicativos de los efectos limitados        |
+| -------------------- | ----------------------- | ----- | ---------------------------------------------------- |
+| Homogénea            | Heterogénea             | $\to$ | - Diferencias individuales<br>- Disonancia cognitiva |
+| Aislada              | Socialmente relacionada | $\to$ | - Dos pasos<br>- Categorías sociales                 |
+| Pasiva               | Activa                  | $\to$ | - Usos y gratificaciones                             |
+
+#### Diferencias individuales
+
+Los efectos de los medios en las audiencias **varían debido a las diferencias individuales de las personas**.
+
+- Lugar
+- Espacio
+- Creencias
+- Cultura
+- Etc...
+
+La audiencia **no es una masa homogénea**. La conducta de cada individuo es diferente.
+
+#### Categorías sociales y dos pasos
+
+![[Teoria de los dos pasos.excalidraw|width:80%]]
+
+#### Disonancia cognitiva
+
+Si una persona tiene dos elementos cognitivos **incompatibles** entre sí, experimentará un estado emocional llamado **disonancia cognitiva**.
+
+Cuando dos cosas que creemos, pensamos o hacemos entran en conflicto entre sí, nos produce una incongruencia incómoda que nos empuja a resolverla **alterando a alguna de las dos cosas**. Sin embargo, en general **se suele priorizar a las creencias por sobre los hechos**.
+
+```ad-example
+title: Ejemplo
+
+**"Fumar mata" vs. "me gusta fumar"**
+
+En este caso, uno puede poner excusas como:
+
+- "Igual me moriré de un paro cardíaco, toda mi familia también le ha pasado"
+- "Igual me puede atropellar un carro"
+
+```
+
+#### Usos y gratificaciones
+
