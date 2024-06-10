@@ -12,6 +12,10 @@ kanban-plugin: board
 	
 	@{15-06-2024} 
 	#comu #lab #grupal
+- [ ] **Participación activa 6**
+	
+	@{14-06-2024}
+	#pi #teo #grupal
 
 
 ## 📄 Evaluaciones
