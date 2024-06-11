@@ -19,6 +19,3 @@ John Fiske: Es la forma de peinarse, la forma de actuar, de pensar.
 - Categorías sociales y los dos pasos
 - Disonancia cognitiva
 - Agenda setting
-
-### Usos y gratificaciones
-
