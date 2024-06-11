@@ -48,7 +48,7 @@ Se recurre a una **gama amplia de contenidos**:
 - Iconográfica
 - Información digital (dispositivos magnéticos)
 
-Los contenidos se clasifican po su **confiabilidad**, **eficacia** y **forma de presentación**. En general, **se prefieren artículos de revistas científicas** por evaluados previo a publicarse.
+Los contenidos se clasifican por su **confiabilidad**, **eficacia** y **forma de presentación**. En general, **se prefieren artículos de revistas científicas** por evaluados previo a publicarse.
 
 El contenido videográfico es un escenario **interactivo** que posibilita la **modelación** y **renovación** colectiva de la información digital.
 
