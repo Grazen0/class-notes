@@ -16,22 +16,14 @@ kanban-plugin: board
 	
 	@{14-06-2024}
 	#pi #teo #grupal
+- [ ] **Proyecto final de programación**
+	
+	@{23-06-2024} 
+	#progra #lab #grupal
 
 
 ## 📄 Evaluaciones
 
-- [ ] **PC1 de LabCom**
-	
-	Temas:
-	
-	- [[S1 - La Comunicación|Concepto de comunicación]]
-	- [[S3,4 - Proceso de la comunicación|El proceso de la comunicación]]
-	- [[S5B - Normativa APA|Normativa APA]]
-	- [[S9 - Comportamiento de la audiencia|Comportamiento de la audiencia]]
-	- [[S11 - Maraza. Análisis de YouTube como herramienta de investigación|Análisis de YouTube como herramienta de investigación]]
-	
-	@{11-06-2024} 
-	#comu #teo
 
 
 ## 📚 Lecturas
@@ -49,6 +41,18 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **PC1 de LabCom**
+	
+	Temas:
+	
+	- [[S1 - La Comunicación|Concepto de comunicación]]
+	- [[S3,4 - Proceso de la comunicación|El proceso de la comunicación]]
+	- [[S5B - Normativa APA|Normativa APA]]
+	- [[S9 - Comportamiento de la audiencia|Comportamiento de la audiencia]]
+	- [[S11 - Maraza. Análisis de YouTube como herramienta de investigación|Análisis de YouTube como herramienta de investigación]]
+	
+	@{11-06-2024} 
+	#comu #teo
 - [x] **[[S11 - Maraza. Análisis de YouTube como herramienta de investigación]]**
 	
 	Viene para la PC1.
