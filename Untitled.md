@@ -4,7 +4,7 @@ Aristóteles: reconoce los 3 elementos de la comunicación, "retórica"
 
 Antonio Pasquali: ley de bivalencia, el emisor puede tomar el rol de receptor y viceversa
 
-John Fikse: 
+John Fiske: Es la forma de peinarse, la forma de actuar, de pensar.
 
 ## Comportamiento de la audiencia
 
