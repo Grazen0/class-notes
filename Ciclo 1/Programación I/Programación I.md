@@ -18,6 +18,7 @@
 		- [[S7A - Cadenas]]
 		- [[S7B - Listas]]
 		- [[S10 - Imágenes]]
+		- [[S11 - Diccionarios]]
 
 %% End Waypoint %%
 
