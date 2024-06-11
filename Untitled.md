@@ -8,3 +8,14 @@ John Fikse:
 
 ## Comportamiento de la audiencia
 
+### Teorías de la omnipotencia
+
+- Omnipotencia de los medios
+- Bala de plata
+
+### Teorías de los efectos limitados
+
+- Diferencias individuales
+- Categorías sociales y los dos pasos
+- Disonancia cognitiva
+- Agenda setting
