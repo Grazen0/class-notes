@@ -47,3 +47,11 @@ $$
 $$
 \int f(g(x))g'(x) \, dx = \int f(u) \, du \quad \text{donde $u = g(x)$}
 $$
+
+## Integración por partes
+
+"**U**n **D**ía **V**i **U**na **V**aca **V**estida **D**e **U**niforme 🐮"
+
+$$
+\int u \, dv = uv - \int v \, du
+$$

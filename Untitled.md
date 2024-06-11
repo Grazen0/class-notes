@@ -19,3 +19,5 @@ John Fikse:
 - Categorías sociales y los dos pasos
 - Disonancia cognitiva
 - Agenda setting
+
+### Usos y gratificaciones
