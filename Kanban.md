@@ -6,17 +6,25 @@ kanban-plugin: board
 
 ## ☕ Tareas
 
+- [ ] **Participación activa 6**
+	
+	@{14-06-2024}
+	#pi #teo #grupal
 - [ ] **Ficha de investigación**
 	
 	Descripción y utilidad de las fuentes, esquema.
 	
 	@{15-06-2024} 
 	#comu #lab #grupal
-- [ ] **Participación activa 6**
+- [ ] **Mapeo de actores**
 	
-	@{14-06-2024}
-	#pi #teo #grupal
+	Lo haremos el sábado.
+	
+	@{19-06-2024}
+	#pi #lab #grupal
 - [ ] **Proyecto final de programación**
+	
+	Lo haremos el sábado.
 	
 	@{23-06-2024} 
 	#progra #lab #grupal
@@ -41,24 +49,6 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
-- [x] **PC1 de LabCom**
-	
-	Temas:
-	
-	- [[S1 - La Comunicación|Concepto de comunicación]]
-	- [[S3,4 - Proceso de la comunicación|El proceso de la comunicación]]
-	- [[S5B - Normativa APA|Normativa APA]]
-	- [[S9 - Comportamiento de la audiencia|Comportamiento de la audiencia]]
-	- [[S11 - Maraza. Análisis de YouTube como herramienta de investigación|Análisis de YouTube como herramienta de investigación]]
-	
-	@{11-06-2024} 
-	#comu #teo
-- [x] **[[S11 - Maraza. Análisis de YouTube como herramienta de investigación]]**
-	
-	Viene para la PC1.
-	
-	@{11-06-2024} 
-	#comu #teo
 
 
 ***
@@ -244,6 +234,24 @@ kanban-plugin: board
 	
 	@{06-06-2024} 
 	#intro-cs #lab #grupal
+- [x] **PC1 de LabCom**
+	
+	Temas:
+	
+	- [[S1 - La Comunicación|Concepto de comunicación]]
+	- [[S3,4 - Proceso de la comunicación|El proceso de la comunicación]]
+	- [[S5B - Normativa APA|Normativa APA]]
+	- [[S9 - Comportamiento de la audiencia|Comportamiento de la audiencia]]
+	- [[S11 - Maraza. Análisis de YouTube como herramienta de investigación|Análisis de YouTube como herramienta de investigación]]
+	
+	@{11-06-2024} 
+	#comu #teo
+- [x] **[[S11 - Maraza. Análisis de YouTube como herramienta de investigación]]**
+	
+	Viene para la PC1.
+	
+	@{11-06-2024} 
+	#comu #teo
 
 %% kanban:settings
 ```
