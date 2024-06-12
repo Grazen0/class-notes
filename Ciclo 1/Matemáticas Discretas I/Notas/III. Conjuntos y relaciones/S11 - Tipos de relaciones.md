@@ -84,3 +84,14 @@ $$
 .$$
 
 ```
+
+Por ejemplo: $R_{1 \ldots 3}$ son relaciones transitivas, y $R_{4}$ no es transitiva.
+
+$$
+\begin{align}
+R_{1} &= \left\{ (1, 2), (3, 3), (2, 4), (1, 4) \right\} \\
+R_{2} &= \left\{ (3, 5) \right\} \\
+R_{3} &= \left\{ (3, 6), (2, 4) \right\} \\
+R_{4} &= \left\{ (2, 3), (2, 2), (3, 2) \right\}
+\end{align}
+$$
