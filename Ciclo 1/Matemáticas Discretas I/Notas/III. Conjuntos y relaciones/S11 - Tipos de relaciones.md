@@ -95,3 +95,12 @@ R_{3} &= \left\{ (3, 6), (2, 4) \right\} \\
 R_{4} &= \left\{ (2, 3), (2, 2), (3, 2) \right\}
 \end{align}
 $$
+
+```ad-hint
+title: Observación
+
+Al analizar la transitividad de una relación, **podemos ignorar los pares ordenados de componentes iguales (de la forma $(a,a)$)**.
+
+Es decir, cualquier elemento $(a, a) \in R$ emparejado con cualquier otro cumple automáticamente la propiedad de transitividad.
+
+```
