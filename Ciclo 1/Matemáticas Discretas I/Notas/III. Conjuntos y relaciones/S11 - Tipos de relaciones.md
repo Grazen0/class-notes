@@ -68,3 +68,19 @@ Al ubicar una relación simétrica en el plano cartesiano, existirá una simetr�
 3. Si $R = \varnothing$, entonces $R$ es simétrica por defecto.
 
 ## Relación transitiva
+
+```ad-definition
+
+Sea $A$ un conjunto y $R$ una relación en $A$. Entonces, $R$ es **transitiva** si y solo si
+
+$$
+\forall a,b,c \in A : \left( (a, b) \in R \land (b, c) \in R \right) \implies (a, c) \in R
+.$$
+
+O de la misma manera
+
+$$
+\forall a,b,c \in A : (a \mathbin{R} b \land b \mathbin{R} c) \implies a \mathbin{R} c
+.$$
+
+```
