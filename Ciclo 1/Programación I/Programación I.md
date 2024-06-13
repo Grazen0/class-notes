@@ -7,6 +7,7 @@
 	- **Laboratorio**
 		- [[S1A - Algoritmos]]
 		- [[S1B - Introducción a Python]]
+		- [[S11 - Archivos]]
 	- **Teoría**
 		- [[S1 - Introducción]]
 		- [[S2 - Elementos de un programa]]
