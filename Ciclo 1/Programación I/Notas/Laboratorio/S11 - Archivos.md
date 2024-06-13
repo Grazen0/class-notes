@@ -1,14 +1,14 @@
 ```python
 my_file = open('file.txt', 'r')
 
+# Iterar con for
+for line in my_file:
+	print(line, end='') # La línea incluye ya el \n
+
+# Obtener una lista de todas las líneas
 lines = my_file.readlines()
 
-line = my_file.readline()
-
-while line != '':
-	print(line)
-	line = my_file.readline()
-
+# Cerrar el archivo
 my_file.close()
 ```
 
