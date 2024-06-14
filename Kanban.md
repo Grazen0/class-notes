@@ -6,10 +6,6 @@ kanban-plugin: board
 
 ## ☕ Tareas
 
-- [ ] **Participación activa 6**
-	
-	@{14-06-2024}
-	#pi #teo #grupal
 - [ ] **Ficha de investigación**
 	
 	Descripción y utilidad de las fuentes, esquema.
@@ -49,6 +45,10 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **Participación activa 6**
+	
+	@{14-06-2024}
+	#pi #teo #grupal
 
 
 ***
