@@ -82,6 +82,7 @@
   "experimentalEnableFourthFont": true,
   "experimantalFourthFont": "cmunrm.ttf",
   "addDummyTextElement": false,
+  "zoteroCompatibility": false,
   "fieldSuggester": true,
   "compatibilityMode": false,
   "drawingOpenCount": 0,
@@ -89,7 +90,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.2.5",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.2.6",
     "libraryItems": [
       {
         "status": "unpublished",

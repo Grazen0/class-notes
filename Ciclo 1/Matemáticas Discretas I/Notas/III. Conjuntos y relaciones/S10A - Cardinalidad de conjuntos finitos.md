@@ -10,7 +10,7 @@ title: Propiedades
 Sean $A$ y $B$ conjuntos finitos.
 
 1. $|A| \in \Z^{+}_{0}$.
-2. Si $A \subseteq B$ entonces $|A| < |B|$.
+2. Si $A \subseteq B$ entonces $|A| \leq |B|$.
 3. Si $A \subseteq B$ y $A \neq B$ entonces $|A| < |B|$.
 4. Si $A$ y $B$ son disjuntos entonces $|A \cup B| = |A| + |B|$.
 5. En general, $|A \cup B| = |A| + |B| - |A \cap B|$ (principio de inclusión-exclusión).
