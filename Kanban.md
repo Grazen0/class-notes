@@ -45,10 +45,6 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
-- [x] **Participación activa 6**
-	
-	@{14-06-2024}
-	#pi #teo #grupal
 
 
 ***
@@ -252,6 +248,10 @@ kanban-plugin: board
 	
 	@{11-06-2024} 
 	#comu #teo
+- [x] **Participación activa 6**
+	
+	@{14-06-2024}
+	#pi #teo #grupal
 
 %% kanban:settings
 ```
