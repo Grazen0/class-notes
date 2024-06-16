@@ -16,7 +16,7 @@ kanban-plugin: board
 	
 	Lo haremos el sábado.
 	
-	@{19-06-2024}
+	@{16-06-2024} 
 	#pi #lab #grupal
 - [ ] **Proyecto final de programación**
 	
