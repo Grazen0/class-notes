@@ -6,12 +6,6 @@ kanban-plugin: board
 
 ## ☕ Tareas
 
-- [ ] **Ficha de investigación**
-	
-	Descripción y utilidad de las fuentes, esquema.
-	
-	@{14-06-2024} 
-	#comu #lab #grupal
 - [ ] **Mapeo de actores**
 	
 	Lo haremos el sábado.
@@ -45,6 +39,12 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **Ficha de investigación**
+	
+	Descripción y utilidad de las fuentes, esquema.
+	
+	@{14-06-2024} 
+	#comu #lab #grupal
 
 
 ***
