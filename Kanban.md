@@ -6,12 +6,6 @@ kanban-plugin: board
 
 ## ☕ Tareas
 
-- [ ] **Mapeo de actores**
-	
-	Lo haremos el sábado.
-	
-	@{16-06-2024} 
-	#pi #lab #grupal
 - [ ] **Proyecto final de programación**
 	
 	Lo haremos el sábado.
@@ -39,6 +33,12 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **Mapeo de actores**
+	
+	Lo haremos el sábado.
+	
+	@{16-06-2024} 
+	#pi #lab #grupal
 - [x] **Ficha de investigación**
 	
 	Descripción y utilidad de las fuentes, esquema.
