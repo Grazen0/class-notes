@@ -31,7 +31,18 @@ O de la misma manera:
 
 $$
 \forall a,b \in A : (a \mathbin{R} b \land a \neq b) \implies b \mathbin{\not R} a
+.$$
+
+Otra definición equivalente es
+
 $$
+\forall a,b \in A : ((a,b) \in R \land (b,a) \in R) \implies a = b
+,$$
+
+es decir
+
+$$
+\forall a,b \in A : (a \mathbin{R} b \land b \mathbin{R} a) \implies a = b
+.$$
 
 ```
-	
