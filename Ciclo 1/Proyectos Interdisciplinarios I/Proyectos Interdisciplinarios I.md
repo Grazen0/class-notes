@@ -25,6 +25,7 @@
 		- [[S5 - Enfoques sobre la pobreza]]
 		- [[S6 - Índices para medir la pobreza]]
 		- [[S10 - La educación como meta global]]
+		- [[S12 - Desafíos de la salud en Perú]]
 - **Trabajos**
 	- [[El Problema como Sistema.excalidraw]]
 
