@@ -24,6 +24,7 @@
 		- [[S10A - Cardinalidad de conjuntos finitos]]
 		- [[S10B - Relaciones sobre conjuntos]]
 		- [[S11 - Tipos de relaciones]]
+		- [[S12 - Relaciones de equivalencia y buen orden]]
 
 %% End Waypoint %%
 
