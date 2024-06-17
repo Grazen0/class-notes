@@ -20,14 +20,14 @@ kanban-plugin: board
 
 ## 📚 Lecturas
 
-
-
-## 🧊 On Freeze
-
 - [ ] **[[S14 - Renwick. Escrituralidad y oralidad]]**
 	
 	@{02-07-2024} 
 	#comu #teo
+
+
+## 🧊 On Freeze
+
 
 
 ## 👍 Completado
