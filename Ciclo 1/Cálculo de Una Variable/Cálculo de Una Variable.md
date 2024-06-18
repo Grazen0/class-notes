@@ -12,7 +12,7 @@
 	- [[S7 - Optimización]]
 	- [[S8 - Tasas de cambio relacionadas]]
 	- [[S10 - Integrales indefinidas]]
-	- [[S12 -]]
+	- [[S12 - Suma de Riemann]]
 
 %% End Waypoint %%
 
