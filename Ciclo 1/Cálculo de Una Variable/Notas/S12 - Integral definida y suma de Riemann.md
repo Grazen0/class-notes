@@ -1,5 +1,3 @@
-## Integral definida
-
 ```ad-definition
 
 Definimos la **integral definida** de la siguiente manera:
@@ -39,14 +37,30 @@ f(c) = \frac{1}{b - a} \int_{b}^{a} f(x) \, dx
 
 ### Teoremas fundamentales del cálculo
 
-Primer teorema fundamental:
+```ad-theorem
+title: Teorema (TFC #1).
 
 $$
 \frac{d}{dx} \int_{a}^{x} f(t) \, dt = f(x)
 $$
+```
 
-Segundo teorema fundamental:
+```ad-theorem
+title: Teorema (TFC #2).
+
+Sea $f$ una función continua en $[a, b]$. Entonces
 
 $$
-\int_{a}^{b} f(x) \, dx = F(b) - F(a) \quad \text{donde $F'(x) = f(x)$}
+\int_{a}^{b} f(x) \, dx = F(b) - F(a)
+$$
+donde $F(x)$ es cualquier antiderivada de $f(x)$.
+
+```
+
+## Sustitución con integral definida
+
+Para hacer sustituciones, tenemos que cambiar los **límites de integración**.
+
+$$
+\int_{a}^{b} f(g(x))g'(x) \, dx = \int_{g(a)}^{g(b)} f(u) \, du
 $$
