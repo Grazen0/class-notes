@@ -16,5 +16,6 @@
   "cssTheme": "Typewriter",
   "theme": "obsidian",
   "interfaceFontFamily": "",
-  "monospaceFontFamily": ""
+  "monospaceFontFamily": "",
+  "showViewHeader": true
 }
