@@ -46,3 +46,5 @@ $$
 .$$
 
 ```
+
+En la digráfica de una relación antisimétrica, **no existen puntos unidos en ambas direcciones**.
