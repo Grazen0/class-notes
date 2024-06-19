@@ -104,3 +104,36 @@ Al analizar la transitividad de una relación, **podemos ignorar los pares orden
 Es decir, cualquier elemento $(a, a) \in R$ emparejado con cualquier otro cumple automáticamente la propiedad de transitividad.
 
 ```
+
+## Relación antisimétrica
+
+```ad-definition
+title: Definición.
+
+Sea $A$ un conjunto y $R$ una relación en $A$. Entonces, $R$ es una **relación antisimétrica** si y solo si:
+
+$$
+\forall a, b \in A : ((a, b) \in R \land a \neq b) \implies (b, a) \notin R
+.$$
+
+O de la misma manera:
+
+$$
+\forall a,b \in A : (a \mathbin{R} b \land a \neq b) \implies b \mathbin{\not R} a
+.$$
+
+Otra definición equivalente es
+
+$$
+\forall a,b \in A : ((a,b) \in R \land (b,a) \in R) \implies a = b
+,$$
+
+es decir
+
+$$
+\forall a,b \in A : (a \mathbin{R} b \land b \mathbin{R} a) \implies a = b
+.$$
+
+```
+
+En la digráfica de una relación antisimétrica, **no existen puntos unidos en ambas direcciones**.
