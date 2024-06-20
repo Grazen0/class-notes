@@ -19,30 +19,27 @@ Las relaciones de equivalencia forman **grupos** dentro del dominio, donde los e
 ## Relaciones de orden
 
 ```ad-definition
-title: Definición (relación antisimétrica).
+title: Definición (orden parcial).
 
-Sea $A$ un conjunto y $R$ una relación en $A$. Entonces, $R$ es una **relación antisimétrica** si y solo si:
+Sea $A$ un conjunto y $R$ una relación en $A$. Entonces, $R$ es una **relación de orden parcial** si y solo si
 
-$$
-\forall a, b \in A : ((a, b) \in R \land a \neq b) \implies (b, a) \notin R
-.$$
+1. $R$ es **reflexiva**.
+2. $R$ es **antisimétrica**.
+3. $R$ es **transitiva**.
 
-O de la misma manera:
+```
 
-$$
-\forall a,b \in A : (a \mathbin{R} b \land a \neq b) \implies b \mathbin{\not R} a
-.$$
+(Pro tip: **RAT 🐭**)
 
-Otra definición equivalente es
+En un orden parcial, existen elementos que no son comparables.
 
-$$
-\forall a,b \in A : ((a,b) \in R \land (b,a) \in R) \implies a = b
-,$$
+```ad-definition
+title: Definición (CPO).
 
-es decir
+Sea $A$ un conjunto y $R$ una relación de orden parcial en $A$. Entonces, $(A, R)$ se denomina un **conjunto parcialmente ordenado**, y se define de la siguiente manera:
 
 $$
-\forall a,b \in A : (a \mathbin{R} b \land b \mathbin{R} a) \implies a = b
+(A, R) := \left\{ (x,y) \in A \times A \lmid x \mathbin{R} y \right\}
 .$$
 
 ```
