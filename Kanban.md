@@ -8,7 +8,8 @@ kanban-plugin: board
 
 - [ ] **Proyecto final de programación**
 	
-	Lo haremos el sábado.
+	- [x] Código
+	- [ ] Informe
 	
 	@{23-06-2024} 
 	#progra #lab #grupal
