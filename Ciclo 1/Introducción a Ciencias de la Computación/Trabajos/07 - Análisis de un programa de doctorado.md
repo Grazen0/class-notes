@@ -2,10 +2,11 @@
 
 nuh uh, https://phd.northeastern.edu/program/cybersecurity-2/
 
-**Universidad:** Northeastern University
-**Posición en rankings internacionales:** 
-**Programa:** PhD Program: Cybersecurity
-**Tipo:** PhD
+**Nombre de la universidad:** Northeastern University
+**Posición en rankings internacionales:** #175 internacional en CS (según QS)
+**Nombre del programa:** PhD Program: Cybersecurity
+**Página de postulación:** https://enroll.northeastern.edu/apply/
+**Fecha de postulación:** Las postulaciones se evalúan anualmente para ingreso al *ciclo de Otoño* (15 de diciembre)
 
 [**Requisitos:**](https://www.comp.nus.edu.sg/programmes/pg/mai/admissions/)
 
