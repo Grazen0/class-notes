@@ -1,5 +1,7 @@
 ## Parte 1: Investigación sobre un doctorado
 
+nuh uh, https://phd.northeastern.edu/program/cybersecurity-2/
+
 **Universidad:** National University of Singapore (NUS)
 **Programa:** [Master of Computing - Artificial Intelligence Specialisation](https://www.comp.nus.edu.sg/programmes/pg/mai/)
 **Tipo:** PHD
