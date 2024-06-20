@@ -3,8 +3,9 @@
 nuh uh, https://phd.northeastern.edu/program/cybersecurity-2/
 
 **Universidad:** Northeastern University
+**Posición en rankings internacionales:** 
 **Programa:** PhD Program: Cybersecurity
-**Tipo:** PHD
+**Tipo:** PhD
 
 [**Requisitos:**](https://www.comp.nus.edu.sg/programmes/pg/mai/admissions/)
 
