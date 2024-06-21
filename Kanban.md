@@ -15,7 +15,7 @@ kanban-plugin: board
 	#progra #lab #grupal
 - [ ] **[[07 - Análisis de un programa de doctorado|Programa doctoral de CS]]**
 	
-	@{23-06-2024}
+	@{24-06-2024}
 	#intro-cs #teo
 
 
