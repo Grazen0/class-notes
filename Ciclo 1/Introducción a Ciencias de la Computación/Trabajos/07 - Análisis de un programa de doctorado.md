@@ -8,16 +8,16 @@ nuh uh, https://phd.northeastern.edu/program/cybersecurity-2/
 **Página de postulación:** https://enroll.northeastern.edu/apply/
 **Fecha de postulación:** Las postulaciones se evalúan anualmente para ingreso al *ciclo de Otoño* (15 de diciembre)
 
-[**Requisitos:**](https://www.comp.nus.edu.sg/programmes/pg/mai/admissions/)
+[**Requisitos:**](https://catalog.northeastern.edu/graduate/computer-information-science/cybersecurity/cybersecurity-bachelors-degree-entrance-phd/#programrequirementstext)
 
-Alguno de los siguientes:
-
-- Matrícula de honor en computación.
-- Matrícula de honor en una disciplina relacionada con 2 años de experiencia en TI.
-- Grado de bachiller en computación con 2 años de experiencia en TI.
-- Grado de bachiller u honores en una disciplina de negocios con 2 años de experiencia en TI.
-
-Además, se toman en cuenta resultados de exámenes GRE/GMAT y TOEFL/IELTS.
+- Nota de B o mayor en los siguientes cursos:
+	- Ley cibernética: Privacidad, ética y seguridad
+	- Vulnerabilidades y seguridad del software
+	- Introducción a la seguridad del software
+	- Seguridad en redes
+	- Hardware de computadora y seguridad del sistema
+- Mínimo de 48 horas de semestre
+- Mínimo de 3.000 GPA
 
 **[Cursos del programa:](https://www.comp.nus.edu.sg/wp-content/uploads/2023/10/Annex_A_specialisations_AI_Jan2020-Rev_June2023_.pdf)**
 
