@@ -38,12 +38,6 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
-- [x] **Mapeo de actores**
-	
-	Lo haremos el sábado.
-	
-	@{16-06-2024} 
-	#pi #lab #grupal
 
 
 ***
@@ -257,6 +251,12 @@ kanban-plugin: board
 	
 	@{14-06-2024} 
 	#comu #lab #grupal
+- [x] **Mapeo de actores**
+	
+	Lo haremos el sábado.
+	
+	@{16-06-2024} 
+	#pi #lab #grupal
 
 %% kanban:settings
 ```
