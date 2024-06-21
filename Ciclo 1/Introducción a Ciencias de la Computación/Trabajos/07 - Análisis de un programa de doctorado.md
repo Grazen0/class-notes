@@ -10,14 +10,7 @@ nuh uh, https://phd.northeastern.edu/program/cybersecurity-2/
 
 [**Requisitos:**](https://catalog.northeastern.edu/graduate/computer-information-science/cybersecurity/cybersecurity-bachelors-degree-entrance-phd/#programrequirementstext)
 
-- Nota de B o mayor en los siguientes cursos:
-	- Ley cibernética: Privacidad, ética y seguridad
-	- Vulnerabilidades y seguridad del software
-	- Introducción a la seguridad del software
-	- Seguridad en redes
-	- Hardware de computadora y seguridad del sistema
-- Mínimo de 48 horas de semestre
-- Mínimo de 3.000 GPA
+- 48 
 
 **[Cursos del programa:](https://www.comp.nus.edu.sg/wp-content/uploads/2023/10/Annex_A_specialisations_AI_Jan2020-Rev_June2023_.pdf)**
 
