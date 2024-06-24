@@ -6,13 +6,6 @@ kanban-plugin: board
 
 ## ☕ Tareas
 
-- [ ] **Proyecto final de programación**
-	
-	- [x] Código
-	- [ ] Informe
-	
-	@{23-06-2024} 
-	#progra #lab #grupal
 - [ ] **[[07 - Análisis de un programa de doctorado|Programa doctoral de CS]]**
 	
 	@{24-06-2024}
@@ -38,6 +31,13 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **Proyecto final de programación**
+	
+	- [x] Código
+	- [x] Informe
+	
+	@{23-06-2024} 
+	#progra #lab #grupal
 
 
 ***
