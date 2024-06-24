@@ -16,9 +16,11 @@ $$
 
 Para diferenciar, a $B$ se le llama **conjunto de llegada**.
 
-Un ejemplo gráfico:
+Un ejemplo gráfico con $A = \left\{  a, b, c\right\}$ y $B = \left\{ x, y, z \right\}$:
 
 ![[Dominio y rango.excalidraw|width:75%]]
+
+Aquí, $\ran(f) = \left\{ x, z \right\}$.
 
 ```ad-proposition
 title: Observación
