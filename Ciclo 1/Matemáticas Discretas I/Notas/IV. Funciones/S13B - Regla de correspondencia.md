@@ -2,7 +2,6 @@
 title: Definiciones.
 
 Sea $f: A \to B$ una función. Entonces, $(x,y) \in f$ se puede escribir como
-
 $$
 y = f(x)
 .$$
@@ -18,3 +17,10 @@ Además, sea $x \in A$ un elemento particular del dominio. Entonces se le llama 
 Por ejemplo, podemos decir:
 
 "Sea $f: \R \to \R$ la función definida por $f(x) = 2x$."
+
+```ad-note
+title: "Demostración" de rango
+
+En este curso, podemos argumentar el rango de una función mediante su **gráfica**. De todas maneras, no es una demostración formal.
+
+```
