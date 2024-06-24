@@ -30,3 +30,14 @@ $$
 $$
 
 ```
+
+Por ejemplo, sea $f = \left\{ (x,y) \in \R^{2} \lmid y = x^{2}\right\}$. Entonces
+
+$$
+\begin{align}
+\dom(f) &= \R \\
+\ran(f) &= [0, +\infty)
+\end{align}
+$$
+
+y el conjunto de llegada de $f$ es $\R$.
