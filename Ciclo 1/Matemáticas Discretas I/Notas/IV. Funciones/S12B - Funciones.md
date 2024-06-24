@@ -1,6 +1,6 @@
 ```ad-definition
 
-Sean $A$ y $B$ conjuntos. Entoncs, una **función de $A$ en $B$**, denotada por $f : A \to B$ es una relación que cumple lo siguiente:
+Sean $A$ y $B$ conjuntos. Entonces, una **función de $A$ en $B$**, denotada por $f : A \to B$ es una relación que cumple lo siguiente:
 
 Para todo $a \in A$ existe un *único* $b \in B$ tal que $(a, b)$ pertenece a la relación.
 
