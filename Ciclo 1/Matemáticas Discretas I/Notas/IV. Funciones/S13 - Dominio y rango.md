@@ -1,0 +1,32 @@
+```ad-definition
+
+Sea $f: A \to B$ una función de $A$ en $B$. Entonces se define al **dominio de $f$** como
+
+$$
+\dom(f) = A
+,$$
+
+y al **rango de $f$** como
+
+$$
+\ran(f) = \left\{ y \in B \lmid \exists x \in A : (x, y) \in f \right\}
+$$
+
+```
+
+Para diferenciar, a $B$ se le llama **conjunto de llegada**.
+
+Un ejemplo gráfico:
+
+![[Dominio y rango.excalidraw|width:75%]]
+
+```ad-proposition
+title: Observación
+
+En general, se cumple que 
+
+$$
+\ran(f) \subseteq B
+$$
+
+```

@@ -27,6 +27,7 @@
 		- [[S12A - Relaciones de equivalencia y orden]]
 	- **IV. Funciones**
 		- [[S12B - Funciones]]
+		- [[S13 - Dominio y rango]]
 
 %% End Waypoint %%
 
