@@ -6,10 +6,6 @@ kanban-plugin: board
 
 ## ☕ Tareas
 
-- [ ] **[[07 - Análisis de un programa de doctorado|Programa doctoral de CS]]**
-	
-	@{24-06-2024}
-	#intro-cs #teo
 
 
 ## 📄 Evaluaciones
@@ -31,6 +27,10 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **[[07 - Análisis de un programa de doctorado|Programa doctoral de CS]]**
+	
+	@{24-06-2024}
+	#intro-cs #teo
 - [x] **Proyecto final de programación**
 	
 	- [x] Código
