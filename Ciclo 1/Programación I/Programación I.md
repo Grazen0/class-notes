@@ -20,6 +20,7 @@
 		- [[S7B - Listas]]
 		- [[S10 - Imágenes]]
 		- [[S11 - Diccionarios]]
+		- [[S13 - Búsqueda y complejidad algorítmica]]
 
 %% End Waypoint %%
 
