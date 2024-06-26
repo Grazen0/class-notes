@@ -29,6 +29,7 @@
 		- [[S12B - Funciones]]
 		- [[S13A - Dominio y rango]]
 		- [[S13B - Regla de correspondencia]]
+		- [[S13C - Función inyectiva]]
 
 %% End Waypoint %%
 
