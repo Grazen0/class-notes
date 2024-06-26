@@ -1,3 +1,5 @@
+## Función inyectiva
+
 ```ad-definition
 
 Sea $f: A \to B$. Entonces, $f$ es **inyectiva** si y solo si
@@ -36,3 +38,27 @@ Para demostrar que una función $f: A \to B$ no es inyectiva, basta con encontra
 $$
 x \neq y \land f(x) = f(y)
 .$$
+
+### Gráfica de una función inyectiva
+
+![[Funcion inyectiva.excalidraw]]
+
+Cualquier recta horizontal intersecta con la función en a lo mucho **un solo punto**.
+
+## Función sobreyectiva
+
+```ad-definition
+
+Sea $f: A \to B$. Entonces, $f$ es **sobreyectiva** si y solo si
+
+$$
+\ran(f) = B
+$$
+
+o equivalentemente
+
+$$
+\forall y \in B, \exists x \in A : (x,y) \in f
+.$$
+
+```
