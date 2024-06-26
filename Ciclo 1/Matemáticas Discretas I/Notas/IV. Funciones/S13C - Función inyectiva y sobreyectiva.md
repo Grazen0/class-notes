@@ -58,6 +58,12 @@ $$
 o equivalentemente
 
 $$
+B \subseteq \ran(f)
+$$
+
+que es lo mismo que
+
+$$
 \forall y \in B, \exists x \in A : (x,y) \in f
 .$$
 
