@@ -2,6 +2,4 @@
 
 ### Búsqueda lineal
 
-
-
 ### Búsqueda binaria
