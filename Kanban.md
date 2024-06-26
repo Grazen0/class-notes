@@ -10,10 +10,19 @@ kanban-plugin: board
 	
 	@{27-06-2024}
 	#calculo #teo
-- [ ] **Video 1**
+- [ ] **Carta de compromiso para entrevistas**
 	
-	@{28-06-2024} 
-	#comu #lab #grupal
+	- Podemos usar ChatGPT.
+	- Incluir firmas
+	
+	@{03-07-2024}
+	#pi #lab #grupal
+- [ ] **Una entrevista**
+	
+	- Transcripción con puntos importantes subrayados.
+	
+	@{03-07-2024} 
+	#pi #lab #grupal
 
 
 ## 📄 Evaluaciones
@@ -265,6 +274,10 @@ kanban-plugin: board
 	
 	@{23-06-2024} 
 	#progra #lab #grupal
+- [x] **Video 1**
+	
+	@{28-06-2024} 
+	#comu #lab #grupal
 
 %% kanban:settings
 ```
