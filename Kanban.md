@@ -27,6 +27,10 @@ kanban-plugin: board
 
 ## 📄 Evaluaciones
 
+- [ ] **ICC Proyecto 2**
+	
+	@{11-07-2024}
+	#intro-cs #lab #grupal
 
 
 ## 📚 Lecturas
