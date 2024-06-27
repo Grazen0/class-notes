@@ -31,6 +31,10 @@ kanban-plugin: board
 	
 	@{11-07-2024}
 	#intro-cs #lab #grupal
+- [ ] **Progra parte 2**
+	
+	@{07-07-2024} @@{08:00}
+	#progra #lab #grupal
 
 
 ## 📚 Lecturas
