@@ -6,10 +6,6 @@ kanban-plugin: board
 
 ## ☕ Tareas
 
-- [ ] **Evaluación virtual 3**
-	
-	@{27-06-2024}
-	#calculo #teo
 - [ ] **Carta de compromiso para entrevistas**
 	
 	- Podemos usar ChatGPT.
@@ -52,6 +48,10 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **Evaluación virtual 3**
+	
+	@{27-06-2024}
+	#calculo #teo
 
 
 ***
