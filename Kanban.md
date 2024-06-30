@@ -11,13 +11,7 @@ kanban-plugin: board
 	- Podemos usar ChatGPT.
 	- Incluir firmas
 	
-	@{03-07-2024}
-	#pi #lab #grupal
-- [ ] **Una entrevista**
-	
-	- Transcripción con puntos importantes subrayados.
-	
-	@{03-07-2024} 
+	@{30-06-2024} 
 	#pi #lab #grupal
 
 
@@ -37,7 +31,7 @@ kanban-plugin: board
 
 - [ ] **[[S14 - Renwick. Escrituralidad y oralidad]]**
 	
-	@{02-07-2024} 
+	@{09-07-2024} 
 	#comu #teo
 
 
