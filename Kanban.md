@@ -42,10 +42,6 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
-- [x] **Evaluación virtual 3**
-	
-	@{27-06-2024}
-	#calculo #teo
 
 
 ***
@@ -280,6 +276,10 @@ kanban-plugin: board
 	
 	@{28-06-2024} 
 	#comu #lab #grupal
+- [x] **Evaluación virtual 3**
+	
+	@{27-06-2024}
+	#calculo #teo
 
 %% kanban:settings
 ```
