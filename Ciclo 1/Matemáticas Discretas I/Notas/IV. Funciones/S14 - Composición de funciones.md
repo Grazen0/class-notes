@@ -38,3 +38,9 @@ f \circ g = \left\{ (1, 2), (2, 3), (3, 1) \right\} \\
 g \circ f = \left\{ (1, 3), (2, 1), (3, 2) \right\}.
 \end{align}
 $$
+
+```ad-theorem
+
+Si $f: A \to B$ y $g: B \to C$ son inyectivas, entonces $g \circ f: A \to C$ es inyectiva también.
+
+```
