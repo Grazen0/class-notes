@@ -29,8 +29,8 @@
 		- [[S12B - Funciones]]
 		- [[S13A - Dominio y rango]]
 		- [[S13B - Regla de correspondencia]]
-		- [[S13C - Función inyectiva y sobreyectiva]]
-		- [[S14 - Función biyectiva]]
+		- [[S13C - Función inyectiva, sobreyectiva y biyectiva]]
+		- [[S14 - Composición de funciones]]
 
 %% End Waypoint %%
 
