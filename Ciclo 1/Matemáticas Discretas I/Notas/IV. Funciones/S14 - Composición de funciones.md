@@ -19,3 +19,21 @@ title: Observaciones
 2. Para que exista $f \circ g$ se debe cumplir que $\ran(g) \subseteq \dom(f)$.
 
 ```
+
+Por ejemplo, sean $A = \left\{ 1, 2, 3 \right\}$ y las siguientes funciones en $A$:
+
+$$
+\begin{align}
+f = \left\{ (1, 1), (2, 3), (3, 2) \right\} \\
+g = \left\{ (1, 3), (2, 2), (3, 1) \right\}.
+\end{align}
+$$
+
+Entonces
+
+$$
+\begin{align}
+f \circ g = \left\{ (1, 2), (2, 3), (3, 1) \right\} \\
+g \circ f = \left\{ (1, 3), (2, 1), (3, 2) \right\}.
+\end{align}
+$$
