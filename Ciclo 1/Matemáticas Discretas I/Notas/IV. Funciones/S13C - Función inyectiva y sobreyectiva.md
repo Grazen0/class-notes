@@ -68,3 +68,11 @@ $$
 .$$
 
 ```
+
+## Función biyectiva
+
+```ad-definition
+
+Sea $f: A \to B$. Entonces, $f$ es **biyectiva** si y solo si es **inyectiva y sobreyectiva** a la vez.
+
+```
