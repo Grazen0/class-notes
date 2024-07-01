@@ -41,6 +41,12 @@ $$
 
 ```ad-theorem
 
-Si $f: A \to B$ y $g: B \to C$ son inyectivas, entonces $g \circ f: A \to C$ es inyectiva también.
+Si $f: A \to B$ y $g: B \to C$ son inyectivas, entonces $g \circ f: A \to C$ es inyectiva.
+
+```
+
+```ad-theorem
+
+Si $f: A \to B$ y $g: B \to C$ son sobreyectivas, entonces $g \circ f: A \to C$ es sobreyectiva.
 
 ```
