@@ -6,13 +6,6 @@ kanban-plugin: board
 
 ## ☕ Tareas
 
-- [ ] **Carta de compromiso para entrevistas**
-	
-	- Podemos usar ChatGPT.
-	- Incluir firmas
-	
-	@{30-06-2024} 
-	#pi #lab #grupal
 
 
 ## 📄 Evaluaciones
@@ -42,6 +35,13 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **Carta de compromiso para entrevistas**
+	
+	- Podemos usar ChatGPT.
+	- Incluir firmas
+	
+	@{30-06-2024} 
+	#pi #lab #grupal
 
 
 ***
