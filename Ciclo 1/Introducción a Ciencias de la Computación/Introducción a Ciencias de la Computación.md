@@ -9,6 +9,7 @@
 	- [[S3 - Clustering]]
 	- [[S7 - Bases de datos]]
 	- [[S8 - Algoritmo de KNN]]
+	- [[S14 - Git y GitHub]]
 - **Trabajos**
 	- [[01 - Herramienta de blurring para videos]]
 	- [[02 - Video sobre una herramienta de transcripción]]
