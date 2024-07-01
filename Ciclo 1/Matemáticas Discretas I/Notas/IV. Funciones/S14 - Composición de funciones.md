@@ -1,14 +1,12 @@
-$$
-x \to g(x) \to f(g(x))
-$$
-
 ![[Composicion de funciones.excalidraw]]
 
 ```ad-definition
 
+Sean $f: B \to C$ y $g: A \to B$ funciones. Entonces, la **composición de $f$ y $g$**, denotado por $f \circ g$ se define como
+
 $$
 f \circ g := f(g(x))
-$$
+.$$
 
 ```
 
