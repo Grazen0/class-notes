@@ -17,6 +17,7 @@ title: Observaciones
 
 1. $\dom(f \circ g) = \left\{ x \in \dom(g) \lmid g(x) \in \dom(f) \right\}$
 2. Para que exista $f \circ g$ se debe cumplir que $\ran(g) \subseteq \dom(f)$.
+3. En general, se cumple que $f \circ g \neq g \circ f$.
 
 ```
 
