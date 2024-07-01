@@ -35,13 +35,6 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
-- [x] **Carta de compromiso para entrevistas**
-	
-	- Podemos usar ChatGPT.
-	- Incluir firmas
-	
-	@{30-06-2024} 
-	#pi #lab #grupal
 
 
 ***
@@ -280,6 +273,13 @@ kanban-plugin: board
 	
 	@{27-06-2024}
 	#calculo #teo
+- [x] **Carta de compromiso para entrevistas**
+	
+	- Podemos usar ChatGPT.
+	- Incluir firmas
+	
+	@{30-06-2024} 
+	#pi #lab #grupal
 
 %% kanban:settings
 ```

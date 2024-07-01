@@ -13,6 +13,7 @@
 	- [[S8 - Tasas de cambio relacionadas]]
 	- [[S10 - Integrales indefinidas]]
 	- [[S12 - Integral definida y suma de Riemann]]
+	- [[S14 - Aplicaciones de la integral definida]]
 
 %% End Waypoint %%
 
