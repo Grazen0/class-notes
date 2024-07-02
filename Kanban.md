@@ -26,7 +26,7 @@ kanban-plugin: board
 	- Renwick
 	- Convergencia digital
 	- Comunicación transmedia
-	- Postverdad
+	- Posverdad
 	- Desinformación
 	- Diglosia
 	
