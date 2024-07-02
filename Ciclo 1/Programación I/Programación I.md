@@ -21,6 +21,7 @@
 		- [[S10 - Imágenes]]
 		- [[S11 - Diccionarios]]
 		- [[S13 - Búsqueda y complejidad algorítmica]]
+		- [[S14 - Algoritmos de ordenamiento]]
 
 %% End Waypoint %%
 
