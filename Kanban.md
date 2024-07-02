@@ -16,22 +16,30 @@ kanban-plugin: board
 
 ## 📄 Evaluaciones
 
-- [ ] **ICC Proyecto 2**
-	
-	@{11-07-2024}
-	#intro-cs #lab #grupal
 - [ ] **Progra parte 2**
 	
 	@{07-07-2024} @@{08:00}
 	#progra #lab #grupal
+- [ ] **Comunicación PC2**
+	
+	- Storytelling
+	- Renwick
+	- Convergencia digital
+	- Comunicación transmedia
+	- Postverdad
+	- Desinformación
+	- Diglosia
+	
+	@{09-07-2024}
+	#comu #teo
+- [ ] **ICC Proyecto 2**
+	
+	@{11-07-2024}
+	#intro-cs #lab #grupal
 
 
 ## 📚 Lecturas
 
-- [ ] **[[S14 - Renwick. Escrituralidad y oralidad]]**
-	
-	@{09-07-2024} 
-	#comu #teo
 
 
 ## 🧊 On Freeze
@@ -41,6 +49,10 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **[[S14 - Renwick. Escrituralidad y oralidad]]**
+	
+	@{09-07-2024} 
+	#comu #teo
 
 
 ***
