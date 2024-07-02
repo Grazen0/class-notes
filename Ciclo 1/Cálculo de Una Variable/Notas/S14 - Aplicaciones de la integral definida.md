@@ -9,3 +9,9 @@ $$
 $$
 P  = \frac{1}{b-a}\int_{a}^{b} f(x) \, dx
 $$
+
+## Volúmenes
+
+$$
+V = \pi \int_{a}^{b} (f(x))^{2} \, dx
+$$
