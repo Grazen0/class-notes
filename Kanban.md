@@ -6,6 +6,12 @@ kanban-plugin: board
 
 ## ☕ Tareas
 
+- [ ] **ICC - Tarea 09**
+	
+	Uso de la terminal
+	
+	@{08-07-2024}
+	#intro-cs #teo
 
 
 ## 📄 Evaluaciones
