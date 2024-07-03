@@ -6,20 +6,36 @@ kanban-plugin: board
 
 ## ☕ Tareas
 
+- [ ] **Progra parte 2**
+	
+	@{07-07-2024} @@{08:00}
+	#progra #lab #grupal
 - [ ] **ICC - Tarea 09**
 	
 	Uso de la terminal
 	
 	@{08-07-2024}
 	#intro-cs #teo
+- [ ] **ICC Proyecto 2**
+	
+	@{11-07-2024}
+	#intro-cs #lab #grupal
+- [ ] **PI - Árbol de problemas**
+	
+	Efectos
+	| |
+	**Problema**
+	| |
+	Causas
+	| | |
+	Causitas
+	
+	@{17-07-2024}
+	#pi #lab #grupal
 
 
 ## 📄 Evaluaciones
 
-- [ ] **Progra parte 2**
-	
-	@{07-07-2024} @@{08:00}
-	#progra #lab #grupal
 - [ ] **Comunicación PC2**
 	
 	- Storytelling
@@ -32,10 +48,6 @@ kanban-plugin: board
 	
 	@{09-07-2024}
 	#comu #teo
-- [ ] **ICC Proyecto 2**
-	
-	@{11-07-2024}
-	#intro-cs #lab #grupal
 
 
 ## 📚 Lecturas
