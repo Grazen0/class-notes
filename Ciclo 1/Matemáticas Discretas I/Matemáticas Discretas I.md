@@ -30,7 +30,8 @@
 		- [[S13A - Dominio y rango]]
 		- [[S13B - Regla de correspondencia]]
 		- [[S13C - Función inyectiva, sobreyectiva y biyectiva]]
-		- [[S14 - Composición de funciones]]
+		- [[S14A - Composición de funciones]]
+		- [[S14B - Función inversa]]
 
 %% End Waypoint %%
 
