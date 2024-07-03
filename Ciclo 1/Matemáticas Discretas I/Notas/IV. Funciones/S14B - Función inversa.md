@@ -7,3 +7,5 @@ f(x) = y \iff f^{-1}(y) = x
 $$
 
 ```
+
+Para que una función tenga inversa, tiene que ser **inyectiva** y **sobreyectiva**.
