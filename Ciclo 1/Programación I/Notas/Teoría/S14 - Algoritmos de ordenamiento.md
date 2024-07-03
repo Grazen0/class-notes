@@ -19,6 +19,8 @@ print(my_list)
 
 ## Merge sort
 
+Complejidad: $O(n\log(n))$ ($n\log_{2}(n)$ operaciones)
+
 ```python
 def merge_sort(arr: list[int]) -> list[int]:
 	if len(arr) <= 1:
