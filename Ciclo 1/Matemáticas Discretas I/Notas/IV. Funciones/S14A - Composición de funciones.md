@@ -10,6 +10,14 @@ f \circ g := f(g(x))
 
 ```
 
+```ad-important
+title: IMPORTANTE
+
+
+
+```
+
+
 ```ad-proposition
 title: Observaciones
 
