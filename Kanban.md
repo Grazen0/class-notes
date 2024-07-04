@@ -42,7 +42,7 @@ kanban-plugin: board
 	- [[S13B - Renwick. Escrituralidad y oralidad|Renwick]]
 	- [[S13C - Comunicación transmedia y convergencia digital|Comunicación transmedia y convergencia digital]]
 	- [[S13A - La diglosia y actitudes lingüísticas|Diglosia y actitudes lingüísticas]]
-	- Desinformación
+	- [[S14 - La desinformación|Desinformación]]
 	- Posverdad
 	
 	@{09-07-2024}
