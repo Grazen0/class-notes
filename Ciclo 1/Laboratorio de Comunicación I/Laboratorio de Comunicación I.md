@@ -29,6 +29,7 @@
 		- [[S8 - Comunicación intercultural]]
 		- [[S9 - Comportamiento de la audiencia]]
 		- [[S10 - Proyecto audiovisual de YouTube]]
+		- [[S12 - Storytelling]]
 - **Trabajos**
 	- [[Características de la escritura formal]]
 	- **Proyecto de investigación**
