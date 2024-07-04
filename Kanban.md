@@ -38,13 +38,12 @@ kanban-plugin: board
 
 - [ ] **Comunicación PC2**
 	
-	- Storytelling
-	- Renwick
-	- Convergencia digital
-	- Comunicación transmedia
-	- Posverdad
+	- [[S12 - Storytelling|Storytelling]]
+	- [[S13B - Renwick. Escrituralidad y oralidad|Renwick]]
+	- [[S13C - Comunicación transmedia y convergencia digital|Comunicación transmedia y convergencia digital]]
+	- [[S13A - La diglosia y actitudes lingüísticas|Diglosia y actitudes lingüísticas]]
 	- Desinformación
-	- Diglosia
+	- Posverdad
 	
 	@{09-07-2024}
 	#comu #teo

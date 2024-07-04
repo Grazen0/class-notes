@@ -1,46 +1,3 @@
-## Laboratorio de comunicación
-
-Temas de la PC2:
-
-- Storytelling
-- Comunicación transmedia
-- Convergencia digital
-- Renwick
-- La diglosia
-- Presentación de hoy de Tania
-- La posverdad
-
-### La comunicación transmedia
-
-La información y las historias **no se limitan a un solo medio**. Por ejemplo, la historia de una película puede extenderse mediante libros, series, juegos, etc.
-
-- La comunicación transmedia habla de **personajes ficticios**.
-- Se realiza sistemáticamente a través de **múltiples medios** que *complementan* y hacen una *contribución* al desarrollo de la historia.
-
-#### Un ejemplo: La marca Perú
-
-En 2015, la marca Perú hizo una campaña publicitaria: personajes peruanos importantes viajaron a Perú, Nebraska y Loreto, Italia. La experiencia se complementó con los medios digitales y las redes sociales.
-
-#### Otras características de la narrativa transmedia
-
-- Cuenta una historia a través de múltiples medios.
-
-El concepto de narrativa transmedia fue creado por el investigador del MIT **Henry Jenkins**. Insiste que son *historias contadas a través de múltiples medios*.
-
-#### Los 7 principios del transmedia
-
-1. Expansión
-2. Continuidad
-3. Inmersión
-4. Construcción de mundos (worldbuilding)
-5. Serialidad
-6. Subjetividad
-7. Realización (performance)
-
-### La desinformación
-
-- Leer artículo en Canvas!
-
 La **desinformación** se refiere a informar erróneamente *intencionalmente*. **¡No se trata de lo no intencional!**
 
 **Democracia:** La toma de decisiones se basa en el grupo mayoritario.
@@ -104,4 +61,3 @@ La IA no se está usando de forma ética.
 - La desinformación es latente en LATAM.
 - Tenemos la oportunidad de combatirla con la IA, usada de forma *ética*.
 
-- [x] Queda por leer la posverdad, en semana 14 de Canvas.

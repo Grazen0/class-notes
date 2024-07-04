@@ -30,6 +30,10 @@
 		- [[S9 - Comportamiento de la audiencia]]
 		- [[S10 - Proyecto audiovisual de YouTube]]
 		- [[S12 - Storytelling]]
+		- [[S13A - La diglosia y actitudes lingüísticas]]
+		- [[S13B - Renwick. Escrituralidad y oralidad]]
+		- [[S13C - Comunicación transmedia y convergencia digital]]
+		- [[S14 - La desinformación]]
 - **Trabajos**
 	- [[Características de la escritura formal]]
 	- **Proyecto de investigación**
