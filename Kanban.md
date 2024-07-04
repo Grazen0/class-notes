@@ -8,7 +8,7 @@ kanban-plugin: board
 
 - [ ] **Progra parte 2**
 	
-	@{07-07-2024} @@{08:00}
+	@{10-07-2024} @@{08:00}
 	#progra #lab #grupal
 - [ ] **ICC Proyecto 2**
 	
