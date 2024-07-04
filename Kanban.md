@@ -60,10 +60,6 @@ kanban-plugin: board
 	
 	@{08-07-2024}
 	#intro-cs #teo
-- [x] **[[S14 - Renwick. Escrituralidad y oralidad]]**
-	
-	@{09-07-2024} 
-	#comu #teo
 
 
 ***
@@ -309,6 +305,10 @@ kanban-plugin: board
 	
 	@{30-06-2024} 
 	#pi #lab #grupal
+- [x] **[[S14 - Renwick. Escrituralidad y oralidad]]**
+	
+	@{09-07-2024} 
+	#comu #teo
 
 %% kanban:settings
 ```
