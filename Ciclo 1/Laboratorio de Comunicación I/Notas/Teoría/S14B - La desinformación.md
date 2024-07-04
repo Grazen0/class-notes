@@ -1,3 +1,5 @@
+- [PPT](https://utec.instructure.com/courses/14373/files/2828048)
+
 La **desinformación** se refiere a informar erróneamente *intencionalmente*. **¡No se trata de lo no intencional!**
 
 **Democracia:** La toma de decisiones se basa en el grupo mayoritario.

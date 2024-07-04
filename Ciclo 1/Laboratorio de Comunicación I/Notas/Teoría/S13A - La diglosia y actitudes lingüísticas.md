@@ -1,4 +1,7 @@
-- La lengua es una forma de **comportamiento social**.
+- [PPT](https://utec.instructure.com/courses/14373/files/2828245)
+
+La lengua es una forma de **comportamiento social**.
+
 - El uso de la lengua es un **rasgo de identificación** de una cultura o comunidad.
 	- Por lo tanto, afecta a la **percepción** de estos grupos.
 

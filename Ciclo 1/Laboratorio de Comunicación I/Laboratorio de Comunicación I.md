@@ -32,8 +32,9 @@
 		- [[S12 - Storytelling]]
 		- [[S13A - La diglosia y actitudes lingüísticas]]
 		- [[S13B - Renwick. Escrituralidad y oralidad]]
-		- [[S13C - Comunicación transmedia y convergencia digital]]
-		- [[S14 - La desinformación]]
+		- [[S13C - Convergencia digital]]
+		- [[S14A - La comunicación transmedia]]
+		- [[S14B - La desinformación]]
 - **Trabajos**
 	- [[Características de la escritura formal]]
 	- **Proyecto de investigación**
