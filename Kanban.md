@@ -10,12 +10,6 @@ kanban-plugin: board
 	
 	@{07-07-2024} @@{08:00}
 	#progra #lab #grupal
-- [ ] **ICC - Tarea 09**
-	
-	Uso de la terminal
-	
-	@{08-07-2024}
-	#intro-cs #teo
 - [ ] **ICC Proyecto 2**
 	
 	@{11-07-2024}
@@ -60,6 +54,12 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **ICC - Tarea 09**
+	
+	Uso de la terminal
+	
+	@{08-07-2024}
+	#intro-cs #teo
 - [x] **[[S14 - Renwick. Escrituralidad y oralidad]]**
 	
 	@{09-07-2024} 
