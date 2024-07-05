@@ -33,6 +33,7 @@
 		- [[S14A - Composición de funciones]]
 		- [[S14B - Función inversa]]
 	- **V. Técnicas de demostración**
+		- [[S14C - Conceptos]]
 
 %% End Waypoint %%
 
