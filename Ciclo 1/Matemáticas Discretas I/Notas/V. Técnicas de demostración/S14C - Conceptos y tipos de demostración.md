@@ -16,6 +16,7 @@ Un **teorema** es una *afirmación* matemática demostrable a partir de axiomas 
 
 Un **corolario** es un resultado demostrable como *consecuencia, aplicación o caso particular* de un teorema.
 
+
 ## Tipos de demostraciones
 
 ### Demostración  directa
@@ -24,12 +25,4 @@ Sigue la lógica de la expresión
 
 $$
 p \to q
-.$$
-
-### Demostración indirecta
-
-Sigue la lógica de la expresión
-
-$$
-\neg q \to \neg p
 .$$
