@@ -10,3 +10,6 @@ Una **hipótesis** es una *suposición* o dato que, junto a los axiomas, nos ayu
 Un **teorema** es una *afirmación* matemática demostrable a partir de axiomas o de proposiciones previamente demostradas.
 
 - E.j: Sean $A$ y $B$ conjuntos no vacíos. Entonces, $A \times B$ es un conjunto no vacío.
+- Cuando un resultado no es tan importante, se usan *lemas* y *proposiciones*.
+
+Un **corolario** es un resultado demostrable como *consecuencia, aplicación o caso particular* de un teorema.
