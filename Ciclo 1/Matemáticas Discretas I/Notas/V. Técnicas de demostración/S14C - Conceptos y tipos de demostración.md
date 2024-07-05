@@ -33,18 +33,3 @@ Sigue la lógica de la expresión
 $$
 \neg q \to \neg p
 .$$
-
-```ad-example
-title: Ejemplo
-
-
-
-```
-
-Si $a$ es un número real diferente de $1$ y $n$ es un entero positivo, entonces
-
-$$
-1 + a + a^{2} + \ldots + a^{n} = \frac{a^{n + 1} - 1}{a - 1}
-$$
-
-**Demostración:**
