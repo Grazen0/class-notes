@@ -32,6 +32,7 @@
 		- [[S13C - Función inyectiva, sobreyectiva y biyectiva]]
 		- [[S14A - Composición de funciones]]
 		- [[S14B - Función inversa]]
+	- **V. Técnicas de demostración**
 
 %% End Waypoint %%
 
