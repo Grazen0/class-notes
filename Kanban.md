@@ -6,6 +6,10 @@ kanban-plugin: board
 
 ## ☕ Tareas
 
+- [ ] **Cálculo EV4**
+	
+	@{08-07-2024}
+	#calculo #lab #grupal
 - [ ] **Progra parte 2**
 	
 	@{10-07-2024} @@{08:00}
@@ -54,12 +58,6 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
-- [x] **ICC - Tarea 09**
-	
-	Uso de la terminal
-	
-	@{08-07-2024}
-	#intro-cs #teo
 
 
 ***
@@ -309,6 +307,12 @@ kanban-plugin: board
 	
 	@{09-07-2024} 
 	#comu #teo
+- [x] **ICC - Tarea 09**
+	
+	Uso de la terminal
+	
+	@{08-07-2024}
+	#intro-cs #teo
 
 %% kanban:settings
 ```
