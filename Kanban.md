@@ -8,7 +8,7 @@ kanban-plugin: board
 
 - [ ] **Cálculo EV4**
 	
-	@{08-07-2024}
+	@{08-07-2024} 
 	#calculo #lab #grupal
 - [ ] **Progra parte 2**
 	
