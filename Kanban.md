@@ -6,10 +6,6 @@ kanban-plugin: board
 
 ## ☕ Tareas
 
-- [ ] **Cálculo EV4**
-	
-	@{08-07-2024} 
-	#calculo #lab #grupal
 - [ ] **Progra parte 2**
 	
 	@{10-07-2024} @@{08:00}
@@ -34,6 +30,10 @@ kanban-plugin: board
 
 ## 📄 Evaluaciones
 
+- [ ] **Parcial 2 ICC**
+	
+	@{08-07-2024} 
+	#icc #teo
 - [ ] **Comunicación PC2**
 	
 	- [[S12 - Storytelling|Storytelling]]
@@ -46,10 +46,6 @@ kanban-plugin: board
 	
 	@{09-07-2024}
 	#comu #teo
-- [ ] **Parcial 2 ICC**
-	
-	@{08-07-2024} 
-	#icc #teo
 
 
 ## 📚 Lecturas
@@ -63,6 +59,10 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **Cálculo EV4**
+	
+	@{08-07-2024} 
+	#calculo #lab #grupal
 
 
 ***
