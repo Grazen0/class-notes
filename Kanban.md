@@ -30,10 +30,6 @@ kanban-plugin: board
 
 ## 📄 Evaluaciones
 
-- [ ] **Parcial 2 ICC**
-	
-	@{08-07-2024} 
-	#icc #teo
 - [ ] **Comunicación PC2**
 	
 	- [[S12 - Storytelling|Storytelling]]
@@ -46,6 +42,10 @@ kanban-plugin: board
 	
 	@{09-07-2024}
 	#comu #teo
+- [ ] **Parcial 2 ICC**
+	
+	@{11-07-2024}
+	#icc #teo
 
 
 ## 📚 Lecturas
