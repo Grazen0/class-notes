@@ -29,8 +29,13 @@
 		- [[S8 - Comunicación intercultural]]
 		- [[S9 - Comportamiento de la audiencia]]
 		- [[S10 - Proyecto audiovisual de YouTube]]
+		- [[S12 - Storytelling]]
+		- [[S13A - La diglosia y actitudes lingüísticas]]
+		- [[S13B - Renwick. Escrituralidad y oralidad]]
+		- [[S13C - Convergencia digital]]
 		- [[S14A - La comunicación transmedia]]
 		- [[S14B - La desinformación]]
+		- [[S15 - La posverdad]]
 - **Trabajos**
 	- [[Características de la escritura formal]]
 	- **Proyecto de investigación**
