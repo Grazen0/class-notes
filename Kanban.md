@@ -59,10 +59,6 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
-- [x] **Cálculo EV4**
-	
-	@{08-07-2024} 
-	#calculo #lab #grupal
 
 
 ***
@@ -318,6 +314,10 @@ kanban-plugin: board
 	
 	@{08-07-2024}
 	#intro-cs #teo
+- [x] **Cálculo EV4**
+	
+	@{08-07-2024} 
+	#calculo #lab #grupal
 
 %% kanban:settings
 ```
