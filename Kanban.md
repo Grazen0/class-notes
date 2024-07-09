@@ -30,18 +30,6 @@ kanban-plugin: board
 
 ## 📄 Evaluaciones
 
-- [ ] **Comunicación PC2**
-	
-	- [[S12 - Storytelling|Storytelling]]
-	- [[S13B - Renwick. Escrituralidad y oralidad|Renwick]]
-	- [[S13C - Convergencia digital|Convergencia digital]]
-	- [[S14A - La comunicación transmedia|Comunicación transmedia]]
-	- [[S13A - La diglosia y actitudes lingüísticas|Diglosia y actitudes lingüísticas]]
-	- [[S14B - La desinformación|Desinformación]]
-	- [[S15 - La posverdad|Posverdad]]
-	
-	@{09-07-2024}
-	#comu #teo
 - [ ] **Parcial 2 ICC**
 	
 	@{11-07-2024}
@@ -59,6 +47,18 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **Comunicación PC2**
+	
+	- [[S12 - Storytelling|Storytelling]]
+	- [[S13B - Renwick. Escrituralidad y oralidad|Renwick]]
+	- [[S13C - Convergencia digital|Convergencia digital]]
+	- [[S14A - La comunicación transmedia|Comunicación transmedia]]
+	- [[S13A - La diglosia y actitudes lingüísticas|Diglosia y actitudes lingüísticas]]
+	- [[S14B - La desinformación|Desinformación]]
+	- [[S15 - La posverdad|Posverdad]]
+	
+	@{09-07-2024}
+	#comu #teo
 
 
 ***
