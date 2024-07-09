@@ -38,7 +38,7 @@ kanban-plugin: board
 	- [[S14A - La comunicación transmedia|Comunicación transmedia]]
 	- [[S13A - La diglosia y actitudes lingüísticas|Diglosia y actitudes lingüísticas]]
 	- [[S14B - La desinformación|Desinformación]]
-	- Posverdad
+	- [[S15 - La posverdad|Posverdad]]
 	
 	@{09-07-2024}
 	#comu #teo

@@ -28,6 +28,10 @@
 	- **IV. Funciones**
 		- [[S12B - Funciones]]
 		- [[S13A - Dominio y rango]]
+		- [[S13B - Regla de correspondencia]]
+		- [[S13C - Función inyectiva, sobreyectiva y biyectiva]]
+		- [[S14A - Composición de funciones]]
+		- [[S14B - Función inversa]]
 	- **V. Técnicas de demostración**
 		- [[S14C - Conceptos y tipos de demostración]]
 
