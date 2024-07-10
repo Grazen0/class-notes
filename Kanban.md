@@ -10,20 +10,21 @@ kanban-plugin: board
 	
 	@{11-07-2024}
 	#intro-cs #lab #grupal
-- [ ] **PI - Árbol de problemas**
+- [ ] **PI - Informe final**
 	
-	- Resumen del proyecto
-	- Relación con ODS
+	- Título del problema
+	- Integrantes
+	- Resumen del problema (1/2 pág)
+	- Relación con ODS (1/2 pág)
 	- Mapeo de actores
-	- Entrevistas y puntos claves
+	- Abstract de cada entrevista
+	- Árbol de problemas
+	- Causas (1/2 pág)
+	- Efectos (1/2 pág)
+	- Anexos (transcripciones, links a los videos)
+	- Bibliografía
 	
-	Efectos
-	| |
-	**Problema**
-	| |
-	Causas
-	| | |
-	Causitas
+	Subir en PDF.
 	
 	@{17-07-2024}
 	#pi #lab #grupal
