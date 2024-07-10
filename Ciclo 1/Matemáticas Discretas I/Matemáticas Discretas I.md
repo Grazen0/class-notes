@@ -34,6 +34,7 @@
 		- [[S14B - Función inversa]]
 	- **V. Técnicas de demostración**
 		- [[S14C - Conceptos y tipos de demostración]]
+		- [[S14D - Métodos de demostración]]
 
 %% End Waypoint %%
 

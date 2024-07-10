@@ -1,5 +1,3 @@
-## Conceptos iniciales
-
 Una **definición** expresa y delimita, mediante una condición, el objeto a estudiar. Debe considerarse que el lenguaje usado sea *consistente*.
 
 Un **axioma**, dentro de un tema o teoría, es una proposición que es *tomada como cierta*. Es decir, que no necesita una demostración.
@@ -15,24 +13,3 @@ Un **teorema** es una *afirmación* matemática demostrable a partir de axiomas 
 - Cuando un resultado no es tan importante, se usan *lemas* y *proposiciones*.
 
 Un **corolario** es un resultado demostrable como *consecuencia, aplicación o caso particular* de un teorema.
-
-
-## Tipos de demostraciones
-
-### Demostración  directa
-
-Sigue la lógica de la expresión
-
-$$
-p \to q
-.$$
-
-También incluye demostraciones por casos.
-
-### Demostración indirecta
-
-#### Contrarecíproca (contrapositiva)
-
-$$
-p \to q \equiv \neg q \to \neg p
-$$
