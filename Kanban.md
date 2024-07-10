@@ -37,10 +37,6 @@ kanban-plugin: board
 
 
 
-## 🧊 On Freeze
-
-
-
 ## 👍 Completado
 
 **Complete**
