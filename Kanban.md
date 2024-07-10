@@ -12,6 +12,11 @@ kanban-plugin: board
 	#intro-cs #lab #grupal
 - [ ] **PI - Árbol de problemas**
 	
+	- Resumen del proyecto
+	- Relación con ODS
+	- Mapeo de actores
+	- Entrevistas y puntos claves
+	
 	Efectos
 	| |
 	**Problema**
