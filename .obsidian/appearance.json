@@ -5,15 +5,11 @@
   "enabledCssSnippets": [
     "style",
     "typwriter-fix",
-    "headings",
-    "images",
-    "li-spacing",
-    "mathjax",
-    "typewriter-fix"
+    "images"
   ],
   "nativeMenus": false,
   "textFontFamily": "",
-  "cssTheme": "Typewriter",
+  "cssTheme": "Kanagawa",
   "theme": "obsidian",
   "interfaceFontFamily": "",
   "monospaceFontFamily": "",
