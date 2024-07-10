@@ -6,10 +6,6 @@ kanban-plugin: board
 
 ## ☕ Tareas
 
-- [ ] **Progra parte 2**
-	
-	@{10-07-2024} @@{20:00} 
-	#progra #lab #grupal
 - [ ] **ICC Proyecto 2**
 	
 	@{11-07-2024}
@@ -30,10 +26,6 @@ kanban-plugin: board
 
 ## 📄 Evaluaciones
 
-- [ ] **Parcial 2 ICC**
-	
-	@{11-07-2024}
-	#icc #teo
 
 
 ## 📚 Lecturas
@@ -47,6 +39,14 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **Progra parte 2**
+	
+	@{10-07-2024} @@{20:00} 
+	#progra #lab #grupal
+- [x] **Parcial 2 ICC**
+	
+	@{11-07-2024}
+	#icc #teo
 - [x] **Comunicación PC2**
 	
 	- [[S12 - Storytelling|Storytelling]]
