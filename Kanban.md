@@ -41,10 +41,6 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
-- [x] **ICC Proyecto 2**
-	
-	@{11-07-2024}
-	#intro-cs #lab #grupal
 
 
 ***
@@ -324,6 +320,10 @@ kanban-plugin: board
 	
 	@{09-07-2024}
 	#comu #teo
+- [x] **ICC Proyecto 2**
+	
+	@{11-07-2024}
+	#intro-cs #lab #grupal
 
 %% kanban:settings
 ```
