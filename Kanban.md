@@ -30,7 +30,7 @@ kanban-plugin: board
 
 - [ ] **☠️ Final de cálculo ☠️**
 	
-	@{15-07-2024}
+	@{15-07-2024} @@{18:00} 
 	#calculo #teo
 
 
