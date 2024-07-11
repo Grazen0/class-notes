@@ -6,10 +6,6 @@ kanban-plugin: board
 
 ## ☕ Tareas
 
-- [ ] **ICC Proyecto 2**
-	
-	@{11-07-2024}
-	#intro-cs #lab #grupal
 - [ ] **PI - Informe final**
 	
 	- Título del problema
@@ -45,6 +41,10 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **ICC Proyecto 2**
+	
+	@{11-07-2024}
+	#intro-cs #lab #grupal
 
 
 ***
