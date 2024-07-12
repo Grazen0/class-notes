@@ -1,3 +1,9 @@
+---
+id: S13C - Función inyectiva, sobreyectiva y biyectiva
+aliases: []
+tags: []
+---
+
 ## Función inyectiva
 
 ```ad-definition
@@ -37,7 +43,8 @@ Para demostrar que una función $f: A \to B$ no es inyectiva, basta con encontra
 
 $$
 x \neq y \land f(x) = f(y)
-.$$
+.
+$$
 
 ### Gráfica de una función inyectiva
 
@@ -81,7 +88,8 @@ Por ejemplo, sea $A = \left\{ 1, 2, 3, 4 \right\}$ y $f$ una función en $A$ def
 
 $$
 f = \left\{ (1, 2), (2, 1), (3, 4), (4, 3) \right\}
-.$$
+.
+$$
 
 Entonces, $f$ es una función biyectiva.
 
