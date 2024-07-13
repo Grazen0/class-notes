@@ -27,6 +27,7 @@
 		- [[S10 - La educación como meta global]]
 		- [[S12 - Desafíos de la salud en Perú]]
 - **Trabajos**
+	- [[Árbol de problemas.excalidraw]]
 	- [[El Problema como Sistema.excalidraw]]
 
 %% End Waypoint %%
