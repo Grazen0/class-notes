@@ -26,7 +26,6 @@
 		- [[S11 - Tipos de relaciones]]
 		- [[S12A - Relaciones de equivalencia y orden]]
 	- **IV. Funciones**
-		- [[1720752001-VFWI]]
 		- [[S12B - Funciones]]
 		- [[S13A - Dominio y rango]]
 		- [[S13B - Regla de correspondencia]]
