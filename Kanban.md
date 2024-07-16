@@ -28,6 +28,14 @@ kanban-plugin: board
 
 ## 📄 Evaluaciones
 
+- [ ] **Comu - Entrevista**
+	
+	@{19-07-2024} @@{09:00}
+	#comu #lab
+- [ ] **Discretas Examen 3**
+	
+	@{19-07-2024} @@{11:00}
+	#discretas #teo
 
 
 ## 📚 Lecturas
@@ -327,6 +335,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","tag-colors":[{"tagKey":"#comu","color":"rgba(233, 192, 158, 1)","backgroundColor":"rgba(250, 173, 72, 0.14)"},{"tagKey":"#pi","color":"rgba(137, 250, 142, 1)","backgroundColor":"rgba(123, 245, 93, 0.1)"},{"tagKey":"#progra","color":"rgba(137, 182, 250, 1)","backgroundColor":"rgba(93, 108, 245, 0.1)"},{"tagKey":"#calculo","color":"rgba(250, 137, 137, 1)","backgroundColor":"rgba(245, 93, 93, 0.1)"},{"tagKey":"#discretas","color":"rgba(255, 117, 117, 1)","backgroundColor":"rgba(255, 46, 46, 0.1)"},{"tagKey":"#intro-cs","color":"rgba(250, 239, 137, 1)","backgroundColor":"rgba(245, 230, 93, 0.1)"},{"tagKey":"#lab","color":"rgba(137, 240, 250, 1)","backgroundColor":"rgba(93, 223, 245, 0.1)"},{"tagKey":"#teo","color":"rgba(244, 137, 250, 1)","backgroundColor":"rgba(228, 93, 245, 0.1)"},{"tagKey":"#grupal","color":"rgba(200, 250, 137, 1)","backgroundColor":"rgba(183, 245, 93, 0.1)"},{"tagKey":"#cpc","color":"rgba(255, 181, 234, 1)","backgroundColor":"rgba(255, 46, 141, 0.15)"},{"tagKey":"#cma","color":"rgba(137, 250, 172, 1)","backgroundColor":"rgba(93, 245, 244, 0.11)"}],"date-colors":[{"isToday":false,"distance":1,"unit":"days","direction":"after","backgroundColor":"rgba(177, 34, 34, 0.36)","color":"rgba(253, 203, 203, 1)"},{"isToday":false,"distance":7,"unit":"days","direction":"after","backgroundColor":"rgba(253, 139, 26, 0.29)","color":"rgba(255, 229, 199, 1)"}],"link-date-to-daily-note":false,"hide-tags-display":false,"tag-action":"kanban","list-collapse":[null,false],"hide-card-count":true,"move-dates":true,"move-tags":false}
+{"kanban-plugin":"board","tag-colors":[],"date-colors":[{"isToday":false,"distance":1,"unit":"days","direction":"after","backgroundColor":"rgba(177, 34, 34, 0.36)","color":"rgba(253, 203, 203, 1)"},{"isToday":false,"distance":7,"unit":"days","direction":"after","backgroundColor":"rgba(253, 139, 26, 0.29)","color":"rgba(255, 229, 199, 1)"}],"link-date-to-daily-note":false,"hide-tags-display":false,"tag-action":"kanban","list-collapse":[null,false],"hide-card-count":true,"move-dates":true,"move-tags":false}
 ```
 %%
