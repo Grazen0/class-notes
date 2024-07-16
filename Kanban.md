@@ -28,10 +28,6 @@ kanban-plugin: board
 
 ## 📄 Evaluaciones
 
-- [ ] **☠️ Final de cálculo ☠️**
-	
-	@{15-07-2024} @@{18:00} 
-	#calculo #teo
 
 
 ## 📚 Lecturas
@@ -324,6 +320,10 @@ kanban-plugin: board
 	
 	@{11-07-2024}
 	#intro-cs #lab #grupal
+- [x] **☠️ Final de cálculo ☠️**
+	
+	@{15-07-2024} @@{18:00} 
+	#calculo #teo
 
 %% kanban:settings
 ```
