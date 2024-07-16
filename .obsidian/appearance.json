@@ -5,7 +5,8 @@
   "enabledCssSnippets": [
     "style",
     "typwriter-fix",
-    "images"
+    "images",
+    "mathjax"
   ],
   "nativeMenus": false,
   "textFontFamily": "",
