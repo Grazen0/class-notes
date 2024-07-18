@@ -27,24 +27,6 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
-- [x] **PI - Informe final**
-	
-	- Título del problema
-	- Integrantes
-	- Resumen del problema (1/2 pág)
-	- Relación con ODS (1/2 pág)
-	- Mapeo de actores
-	- Abstract de cada entrevista
-	- Árbol de problemas
-	- Causas (1/2 pág)
-	- Efectos (1/2 pág)
-	- Anexos (transcripciones, links a los videos)
-	- Bibliografía
-	
-	Subir en PDF.
-	
-	@{17-07-2024}
-	#pi #lab #grupal
 
 
 ***
@@ -332,6 +314,24 @@ kanban-plugin: board
 	
 	@{15-07-2024} @@{18:00} 
 	#calculo #teo
+- [x] **PI - Informe final**
+	
+	- Título del problema
+	- Integrantes
+	- Resumen del problema (1/2 pág)
+	- Relación con ODS (1/2 pág)
+	- Mapeo de actores
+	- Abstract de cada entrevista
+	- Árbol de problemas
+	- Causas (1/2 pág)
+	- Efectos (1/2 pág)
+	- Anexos (transcripciones, links a los videos)
+	- Bibliografía
+	
+	Subir en PDF.
+	
+	@{17-07-2024}
+	#pi #lab #grupal
 
 %% kanban:settings
 ```
