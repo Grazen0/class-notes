@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🌊",
+      "💡",
+      "✍",
       "💾",
-      "💻",
-      "🍎",
-      "🎯",
-      "📈"
+      "💻"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -38,5 +38,10 @@
   "Ciclo 1/CMA": "🚀",
   "Ciclo 1/Cálculo de Una Variable": "📈",
   "Ciclo 1/Proyectos Interdisciplinarios I": "🎯",
-  "Ciclo 1/Programación I": "💻"
+  "Ciclo 1/Programación I": "💻",
+  "Ciclo 2/Cálculo vectorial": "📈",
+  "Ciclo 2/Programación II": "💻",
+  "Ciclo 2/Matemáticas discretas II": "🍎",
+  "Ciclo 2/Laboratorio de comunicación II": "✍",
+  "Ciclo 2/Óptica y ondas": "🌊"
 }
