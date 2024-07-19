@@ -10,9 +10,9 @@
   ],
   "nativeMenus": false,
   "textFontFamily": "",
-  "cssTheme": "Kanagawa",
+  "cssTheme": "",
   "theme": "obsidian",
   "interfaceFontFamily": "",
-  "monospaceFontFamily": "",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font",
   "showViewHeader": true
 }
