@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "📐",
       "🌊",
       "💡",
       "✍",
-      "💾",
-      "💻"
+      "💾"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -43,5 +43,6 @@
   "Ciclo 2/Programación II": "💻",
   "Ciclo 2/Matemáticas discretas II": "🍎",
   "Ciclo 2/Laboratorio de comunicación II": "✍",
-  "Ciclo 2/Óptica y ondas": "🌊"
+  "Ciclo 2/Óptica y ondas": "🌊",
+  "Ciclo 2/Álgebra lineal": "📐"
 }
