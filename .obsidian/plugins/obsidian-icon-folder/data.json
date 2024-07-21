@@ -30,7 +30,8 @@
     "iconsInNotesEnabled": true,
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
-    "debugMode": false
+    "debugMode": false,
+    "lucideIconPackType": "native"
   },
   "Ciclo 1/Introducción a Ciencias de la Computación": "💾",
   "Ciclo 1/Matemáticas Discretas I": "🍎",

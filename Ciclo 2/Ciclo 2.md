@@ -3,9 +3,7 @@
 %% Begin Waypoint %%
 - **[[Álgebra lineal]]**
 - **[[Cálculo vectorial]]**
-- **Laboratorio de comunicación II**
-	- **Laboratorio**
-	- **Teoría**
+- **[[Laboratorio de comunicación II]]**
 - **[[Matemáticas discretas II]]**
 - **Notas diarias**
 - **[[Óptica y ondas]]**
