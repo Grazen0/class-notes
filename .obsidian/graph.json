@@ -6,50 +6,7 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [
-    {
-      "query": "path:\"Ciclo 1/Matemáticas Discretas I\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 12535109
-      }
-    },
-    {
-      "query": "path:\"Ciclo 1/Introducción a Ciencias de la Computación\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 15587408
-      }
-    },
-    {
-      "query": "path:\"Ciclo 1/Proyectos Interdisciplinarios I\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "path:\"Ciclo 1/Cálculo de Una Variable\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 16608621
-      }
-    },
-    {
-      "query": "path:\"Ciclo 1/Laboratorio de Comunicación I\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14777901
-      }
-    },
-    {
-      "query": "path:\"Ciclo 1/Programación I\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 5402336
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -60,6 +17,6 @@
   "repelStrength": 16.2241256245539,
   "linkStrength": 1,
   "linkDistance": 256,
-  "scale": 0.44168536580210166,
-  "close": true
+  "scale": 0.2944569105347344,
+  "close": false
 }
