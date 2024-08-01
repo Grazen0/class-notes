@@ -8,6 +8,7 @@
   "compress": true,
   "decompressForMDView": true,
   "onceOffCompressFlagReset": true,
+  "onceOffGPTVersionReset": false,
   "autosave": true,
   "autosaveIntervalDesktop": 15000,
   "autosaveIntervalMobile": 10000,
@@ -12719,7 +12720,7 @@
   "startupScriptPath": "",
   "openAIAPIToken": "",
   "openAIDefaultTextModel": "gpt-3.5-turbo-1106",
-  "openAIDefaultVisionModel": "gpt-4-vision-preview",
+  "openAIDefaultVisionModel": "gpt-4o",
   "openAIDefaultImageGenerationModel": "dall-e-3",
   "openAIURL": "https://api.openai.com/v1/chat/completions",
   "openAIImageGenerationURL": "https://api.openai.com/v1/images/generations",
@@ -13014,5 +13015,6 @@
   "longPressDesktop": 500,
   "longPressMobile": 500,
   "isDebugMode": false,
+  "rank": "Bronze",
   "autosaveInterval": 15000
 }
