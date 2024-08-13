@@ -228,9 +228,9 @@ body {
   --input-height: 32px;
   --header-height: 40px;
 
-  --yellow: #e6c384;
-  --green: #98bb6c;
-  --orange: #ff9e3b;
+  --yellow: var(--carpYellow);
+  --green: var(--springGreen);
+  --orange: var(--surimiOrange);
   --purple: #957fb8;
   --pink: #d27e99;
   --blue: #7e9cd8;
@@ -260,7 +260,6 @@ thead {
 
 .markdown-preview-section pre code,
 .markdown-preview-section code {
-  font-size: 0.9em !important;
   background-color: var(--pre-code) !important;
 }
 
@@ -324,9 +323,11 @@ thead {
 .metadata-container {
   --input-height: 2rem;
 }
+
 .markdown-source-view .metadata-container {
   transform: translateX(-4px);
 }
+
 .is-phone {
   --metadata-label-font-size: var(--font-adaptive-smaller);
   --metadata-input-font-size: var(--font-adaptive-smaller);
