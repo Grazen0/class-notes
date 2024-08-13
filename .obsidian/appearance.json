@@ -8,7 +8,8 @@
     "images",
     "mathjax",
     "typewriter",
-    "kangawa-writer"
+    "kangawa-writer",
+    "kanagawa-writer"
   ],
   "nativeMenus": false,
   "textFontFamily": "",

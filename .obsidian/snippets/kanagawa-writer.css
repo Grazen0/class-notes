@@ -238,6 +238,36 @@ body {
   line-height: var(--line-height);
 }
 
+.theme-dark code[class*="language-"],
+.theme-dark pre[class*="language-"] {
+  text-shadow: none !important;
+  background-color: var(--pre-code) !important;
+}
+
+tr:nth-child(even) {
+  background-color: var(--table-row-even);
+}
+tr:nth-child(odd) {
+  background-color: var(--table-row-odd);
+}
+tr:hover {
+  background-color: var(--table-hover);
+}
+
+thead {
+  border-bottom: 2px solid var(--background-modifier-border) !important;
+}
+
+.markdown-preview-section pre code,
+.markdown-preview-section code {
+  font-size: 0.9em !important;
+  background-color: var(--pre-code) !important;
+}
+
+.HyperMD-codeblock-bg {
+  background-color: var(--pre-code) !important;
+}
+
 /* source mode */
 .markdown-source-view {
   font-family: var(--font-text-theme);
