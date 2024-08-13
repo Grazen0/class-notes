@@ -6,11 +6,12 @@
     "style",
     "typwriter-fix",
     "images",
-    "mathjax"
+    "mathjax",
+    "typewriter"
   ],
   "nativeMenus": false,
   "textFontFamily": "",
-  "cssTheme": "Typewriter",
+  "cssTheme": "",
   "theme": "obsidian",
   "interfaceFontFamily": "",
   "monospaceFontFamily": "JetBrainsMono Nerd Font",
