@@ -214,9 +214,9 @@ body {
 
   --normal-weight: 500;
   --bold-weight: 620;
-  --line-width: 40rem; /* Maximum characters per line */
+  --line-width: 40rem;
   --line-height: 1.5;
-  --max-width: 88%; /* Amount of padding around the text, use 90% for narrower padding */
+  --max-width: 88%;
   --icon-muted: 0.5;
   --border-width: 1px;
   --border-width-alt: 1px;
@@ -231,9 +231,9 @@ body {
   --yellow: var(--carpYellow);
   --green: var(--springGreen);
   --orange: var(--surimiOrange);
-  --purple: #957fb8;
-  --pink: #d27e99;
-  --blue: #7e9cd8;
+  --purple: var(--oniViolet);
+  --pink: var(--sakuraPink);
+  --blue: var(--crystalBlue);
 
   line-height: var(--line-height);
 }
@@ -265,6 +265,10 @@ thead {
 
 .HyperMD-codeblock-bg {
   background-color: var(--pre-code) !important;
+}
+
+.HyperMD-codeblock {
+  color: var(--code-block) !important;
 }
 
 /* source mode */
