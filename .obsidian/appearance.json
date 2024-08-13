@@ -7,7 +7,8 @@
     "typwriter-fix",
     "images",
     "mathjax",
-    "typewriter"
+    "typewriter",
+    "kangawa-writer"
   ],
   "nativeMenus": false,
   "textFontFamily": "",

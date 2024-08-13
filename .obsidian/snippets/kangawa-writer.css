@@ -79,212 +79,98 @@
   font-display: swap;
 }
 
+:root {
+  --sumiInk0: #16161d;
+  --sumiInk1b: #181820;
+  --sumiInk1: #1f1f28;
+  --sumiInk2: #2a2a37;
+  --sumiInk3: #363646;
+  --sumiInk4: #54546d;
+
+  /* Popup and Floats*/
+  --waveBlue1: #223249;
+  --waveBlue2: #2d4f67;
+
+  /* Diff and Git*/
+  --winterGreen: #2b3328;
+  --winterYellow: #49443c;
+  --winterRed: #43242b;
+  --winterBlue: #252535;
+  --autumnGreen: #76946a;
+  --autumnRed: #c34043;
+  --autumnYellow: #dca561;
+
+  /* Diag*/
+  --samuraiRed: #e82424;
+  --roninYellow: #ff9e3b;
+  --waveAqua1: #6a9589;
+  --dragonBlue: #658594;
+
+  /* Fg and Comments*/
+  --oldWhite: #c8c093;
+  --fujiWhite: #dcd7ba;
+  --fujiGray: #727169;
+  --springViolet1: #938aa9;
+
+  --oniViolet: #957fb8;
+  --crystalBlue: #7e9cd8;
+  --springViolet2: #9cabca;
+  --springBlue: #7fb4ca;
+  --lightBlue: #a3d4d5; /* unused yet*/
+  --waveAqua2: #7aa89f; /* improve lightness: desaturated greenish Aqua*/
+
+  --springGreen: #98bb6c;
+  --boatYellow1: #938056;
+  --boatYellow2: #c0a36e;
+  --carpYellow: #e6c384;
+
+  --sakuraPink: #d27e99;
+  --waveRed: #e46876;
+  --peachRed: #ff5d62;
+  --surimiOrange: #ffa066;
+  --katanaGray: #717c7c;
+}
+
 /* +++ COLOR VARIABLES */
 body {
-  --base-h: 0;
-  --base-s: 0%;
-  --base-d: 15%; /* base lightness for dark mode. 0 is black */
-  --base-l: 96%; /* base lightness for light mode. 100 is white */
+  --background-primary: var(--sumiInk1);
+  --background-primary-alt: var(--sumiInk1);
+  --background-secondary: var(--sumiInk1b);
+  --background-secondary-alt: var(--sumiInk2);
+  --text-normal: var(--fujiWhite);
+  --text-faint: var(--fujiGray);
+  --text-title-h1: var(--neutral-red);
+  --text-title-h2: var(--neutral-orange);
+  --text-title-h3: var(--neutral-yellow);
+  --text-title-h4: var(--neutral-green);
+  --text-title-h5: var(--neutral-aqua);
+  --text-title-h6: var(--neutral-blue);
+  --text-link: var(--springBlue);
+  --text-a: var(--dragonBlue);
+  --text-a-hover: var(--peachRed);
+  --text-a-url: var(--dragonBlue);
+  --text-mark: rgba(34, 50, 73, 0.4); /* waveBlue1 */
+  --pre-code: var(--sumiInk0);
+  --text-highlight-bg: var(--waveBlue1);
+  --interactive-accent: var(--dragonBlue);
+  --interactive-before: var(--sumiInk4);
+  --background-modifier-border: var(--dragonBlue);
+  --text-accent: var(--autumnGreen);
+  --interactive-accent-rgb: var(--springGreen);
+  --inline-code: var(--springGreen);
+  --code-block: var(--fujiGray);
+  --vim-cursor-background: var(--fujiWhite);
+  --vim-cursor-color: var(--sumiInk1);
+  --text-selection: rgba(34, 50, 73, 0.5); /* waveBlue1 */
+  --text-tag: var(--springViolet1);
+  --task-checkbox: var(--sumiInk4);
+  --table-header: hsl(0, 0%, 14%);
+  --table-row-even: hsl(0, 0%, 17%);
+  --table-row-odd: hsl(0, 0%, 20%);
+  --table-hover: var(--sumiInk2);
+  --bold-color: var(--light1);
 
-  /* rgb: 81, 157, 92 */
-  --theme-accent-h: 129;
-  --theme-accent-s: 31.9%;
-  --theme-accent-l: 46.7%;
-  --theme-accent-d: 46.7%;
-
-  /* WIP - working with relative HSL values
-  --theme-accent-h: calc(var(--accent-h) - 125);
-  --theme-accent-d: calc(var(--accent-d) - 21.3%);
-  --theme-accent-l: calc(var(--accent-l) - 21.3%);
-  --theme-accent-s: calc(var(--accent-s) - 48.1%);
-  */
-}
-
-/* +++ LIGHT MODE */
-.theme-light {
-  --background-primary: hsl(
-    calc(var(--base-h) + 44),
-    calc(var(--base-s) + 79%),
-    calc(var(--base-l) - 2%)
-  );
-  --background-primary-alt: #fcf5e4;
-  --background-secondary: hsl(
-    calc(var(--base-h) + 42),
-    calc(var(--base-s) + 34%),
-    calc(var(--base-l) - 12%)
-  );
-  --background-secondary-alt: #fcf5e4;
-  --background-transparent: hsla(
-    var(--base-h),
-    var(--base-s),
-    var(--base-l),
-    0
-  );
-  --background-translucent: rgba(255, 255, 255, 0.85);
-  --background-modifier-border: hsl(
-    var(--base-h),
-    var(--base-s),
-    calc(var(--base-l) - 6%)
-  );
-  --background-modifier-border-hover: hsl(
-    var(--base-h),
-    var(--base-s),
-    calc(var(--base-l) - 12%)
-  );
-  --background-modifier-border-focus: hsl(
-    var(--base-h),
-    var(--base-s),
-    calc(var(--base-l) - 20%)
-  );
-  --background-modifier-form-field: hsl(
-    var(--base-h),
-    var(--base-s),
-    calc(var(--base-l) + 6%)
-  );
-  --background-modifier-form-field-highlighted: hsl(
-    var(--base-h),
-    var(--base-s),
-    calc(var(--base-l) + 8%)
-  );
-
-  --color-accent: hsl(
-    var(--theme-accent-h),
-    var(--theme-accent-s),
-    var(--theme-accent-l)
-  );
-  --background-modifier-accent: hsl(
-    var(--theme-accent-h),
-    var(--theme-accent-s),
-    calc(var(--theme-accent-l) + 10%)
-  );
-  --vim-cursor: hsla(
-    var(--theme-accent-h),
-    var(--theme-accent-s),
-    var(--theme-accent-l),
-    0.8
-  );
-  --text-accent: hsl(
-    var(--theme-accent-h),
-    var(--theme-accent-s),
-    var(--theme-accent-l)
-  );
-  --text-accent-hover: hsl(
-    var(--theme-accent-h),
-    var(--theme-accent-s),
-    calc(var(--theme-accent-l) - 10%)
-  );
-  --text-normal: hsl(var(--base-h), var(--base-s), var(--base-d));
-  --text-muted: hsl(var(--base-h), var(--base-s), calc(var(--base-d) + 20%));
-  --text-faint: hsl(var(--base-h), var(--base-s), calc(var(--base-d) + 47%));
-
-  --text-highlight-bg: hsla(53, 100%, 50%, 0.5);
-  --text-highlight-bg-active: rgba(255, 128, 0, 0.4);
-  --text-selection: rgba(204, 230, 255, 0.99);
-  --text-on-accent: #f2f2f2;
-
-  --interactive-normal: #f2f3f5;
-  --interactive-hover: #e9e9e9;
-  --interactive-accent: hsl(
-    var(--theme-accent-h),
-    var(--theme-accent-s),
-    calc(var(--theme-accent-l) + 10%)
-  );
-  --interactive-accent-hover: hsl(
-    var(--theme-accent-h),
-    var(--theme-accent-s),
-    calc(var(--theme-accent-l) - 0%)
-  );
-  --interactive-accent-rgb: 123, 108, 217;
-  --interactive-success: #197300;
-
-  --scrollbar-active-thumb-bg: rgba(0, 0, 0, 0.2);
-  --scrollbar-bg: rgba(0, 0, 0, 0.05);
-  --scrollbar-thumb-bg: rgba(0, 0, 0, 0.1);
-  --highlight-mix-blend-mode: darken;
-
-  --icon-color: var(--text-muted);
-  --icon-hex: 000;
-
-  --graph-line-color: #c0c9ce;
-}
-
-/* +++ DARK MODE */
-.theme-dark {
-  --background-primary: hsl(var(--base-h), var(--base-s), var(--base-d));
-  --background-primary-alt: #202020;
-  --background-secondary: hsl(
-    calc(var(--base-h) + 30),
-    calc(var(--base-s) + 11.5%),
-    calc(var(--base-l) - 75.6%)
-  );
-  --background-secondary-alt: #000000;
-  --background-modifier-border: #1f1f28;
-  --background-modifier-border-hover: rgb(94, 94, 94);
-  --background-modifier-border-focus: hsl(
-    var(--base-h),
-    var(--base-s),
-    calc(var(--base-l) - 60%)
-  );
-  --background-modifier-accent: hsl(
-    var(--accent-h),
-    var(--accent-s),
-    var(--accent-d)
-  );
-  --background-modifier-form-field: rgba(0, 0, 0, 0.3);
-  --background-modifier-form-field-highlighted: rgba(0, 0, 0, 0.22);
-  --background-modifier-box-shadow: rgba(0, 0, 0, 0.3);
-  --background-modifier-success: #76946a;
-  --background-modifier-error: #e82424;
-  --background-modifier-error-rgb: 61, 0, 0;
-  --background-modifier-error-hover: #e82424; /* Done */
-  --background-modifier-cover: rgba(0, 0, 0, 0.8);
-
-  --vim-cursor: hsla(
-    var(--theme-accent-h),
-    var(--theme-accent-s),
-    var(--theme-accent-d),
-    0.8
-  );
-  --color-accent: hsl(
-    var(--theme-accent-h),
-    var(--theme-accent-s),
-    var(--theme-accent-d)
-  );
-  --text-accent-hover: hsl(
-    var(--theme-accent-h),
-    var(--theme-accent-s),
-    calc(var(--theme-accent-d) - 10%)
-  );
-  --text-normal: rgb(197, 184, 161);
-  --text-muted: hsl(var(--base-h), var(--base-s), calc(var(--base-d) + 45%));
-  --text-faint: hsl(var(--base-h), var(--base-s), calc(var(--base-d) + 47%));
-  --text-error: #e82424; /* Done */
-  --text-error-hover: #e82424;
-
-  --text-highlight-bg: rgba(255, 177, 80, 0.3);
-  --text-highlight-bg-active: rgba(255, 128, 0, 0.4);
-  --text-selection: rgba(23, 48, 77, 0.99);
-  --text-on-accent: #dcd7ba; /* Done */
-  --interactive-normal: #2a2a2a;
-  --interactive-hover: #303030;
-  --interactive-accent: hsl(
-    var(--theme-accent-h),
-    var(--theme-accent-s),
-    calc(var(--theme-accent-d) + 10%)
-  );
-  --interactive-accent-hover: hsl(
-    var(--theme-accent-h),
-    var(--theme-accent-s),
-    calc(var(--theme-accent-l) - 0%)
-  );
-  --interactive-accent-rgb: 72, 54, 153;
-  --interactive-success: #76946a; /* Done */
-  --scrollbar-active-thumb-bg: rgba(255, 255, 255, 0.2);
-  --scrollbar-bg: rgba(255, 255, 255, 0.05);
-  --scrollbar-thumb-bg: rgba(255, 255, 255, 0.1);
-  --highlight-mix-blend-mode: lighten;
-
-  --graph-line-color: #a89984; /* Done */
+  --graph-line-color: var(--sumiInk4);
 }
 
 /* +++ TYPOGRAPHY & FONTS */
@@ -342,7 +228,6 @@ body {
   --input-height: 32px;
   --header-height: 40px;
 
-  /* Done */
   --yellow: #e6c384;
   --green: #98bb6c;
   --orange: #ff9e3b;
@@ -426,7 +311,7 @@ body {
 .cm-fat-cursor-mark,
 .cm-fat-cursor .CodeMirror-cursor {
   width: inherit;
-  background-color: var(--vim-cursor) !important;
+  background-color: var(--vim-cursor-background) !important;
 }
 
 /* blur background when pop-ups are active 
@@ -555,7 +440,7 @@ div.cm-fold-indicator {
 /* OBSIDIAN TODO by @larslockefeer */
 div.todo-item-view-item span.due-date {
   background-color: var(--yellow);
-  color: white; /* makes due dates legible */
+  color: var(--fujiWhite); /* makes due dates legible */
 }
 
 div.todo-item-view-item span.due-date.overdue {
@@ -571,69 +456,3 @@ div.todo-item-view-toolbar-item svg {
 div.todo-item-view-toolbar-item.active svg {
   fill: var(--text-accent);
 }
-
-/* +++ STYLE SETTINGS by @mgmeyers */
-
-/* @settings
-
-name: Typewriter
-id: obsidian-typewriter
-settings:
-    -
-        id: typewriter-editor
-        title: Editor
-        type: heading
-        level: 2
-    -
-        id: shrink-formatting
-        title: Shrink & fade Markdown formatting symbols
-        type: class-toggle
-        default: on
-    -
-        id: active-line-highlight
-        title: Highlight the active line
-        type: class-toggle
-        default: on
-
-*/
-
-/* +++ OBSIDIAN HUB */
-/* @plugins
-core:
-- audio-recorder
-- backlink
-- command-palette
-- daily-notes
-- file-explorer
-- global-search
-- graph
-- note-composer
-- open-with-default-app
-- outgoing-links
-- outline
-- page-preview
-- random-note
-- slash-commands
-- switcher
-- tag-pane
-- templates
-- word-count
-- workspaces
-- zk-prefixer
-
-community:
-- calendar
-- obsidian-kanban
-- sliding-panes-obsidian
-- tag-wrangler
-- cm-typewriter-scroll-obsidian
-- better-word-count
-- obsidian-day-planner
-- workbench-obsidian
-- obsidian-citation-plugin
-- obsidian-journey-plugin
-- obsidian-banners
-- obsidian-dataview
-- obsidian-style-settings
-- obsidian-plugin-todo
-*/
