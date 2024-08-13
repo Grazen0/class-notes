@@ -7,6 +7,7 @@
 - **[[Matemáticas discretas II]]**
 - **Notas diarias**
 	- [[12-08-2024]]
+	- [[13-08-2024]]
 - **[[Óptica y ondas]]**
 - **[[Programación II]]**
 
