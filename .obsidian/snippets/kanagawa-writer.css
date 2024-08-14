@@ -60,7 +60,7 @@
   font-display: swap;
 }
 
-:root {
+root {
   /* DARK THEME */
   /* Kanagawa from https://github.com/rebelot/kanagawa.nvim */
   /* Bg Shades*/
@@ -156,22 +156,131 @@
   --faded-purple: #8f3f71;
   --faded-aqua: #427b58;
   --faded-orange: #af3a03;
+
+  /* LIGHT THEME */
+  /* Called Kanagawa Lotus - Colors */
+  --lotusInk1: #545464;
+  --lotusInk2: #43436c;
+  --lotusGray: #dcd7ba;
+  --lotusGray2: #716e61;
+  --lotusGray3: #8a8980;
+  --lotusWhite0: #d5cea3;
+  --lotusWhite1: #dcd5ac;
+  --lotusWhite2: #e5ddb0;
+  --lotusWhite3: #f2ecbc;
+  --lotusWhite4: #e7dba0;
+  --lotusWhite5: #e4d794;
+  --lotusViolet1: #a09cac;
+  --lotusViolet2: #766b90;
+  --lotusViolet3: #c9cbd1;
+  --lotusViolet4: #624c83;
+  --lotusBlue1: #c7d7e0;
+  --lotusBlue2: #b5cbd2;
+  --lotusBlue3: #9fb5c9;
+  --lotusBlue4: #4d699b;
+  --lotusBlue5: #5d57a3;
+  --lotusGreen: #6f894e;
+  --lotusGreen2: #6e915f;
+  --lotusGreen3: #b7d0ae;
+  --lotusPink: #b35b79;
+  --lotusOrange: #cc6d00;
+  --lotusOrange2: #e98a00;
+  --lotusYellow: #77713f;
+  --lotusYellow2: #836f4a;
+  --lotusYellow3: #de9800;
+  --lotusYellow4: #f9d791;
+  --lotusRed: #c84053;
+  --lotusRed2: #d7474b;
+  --lotusRed3: #e82424;
+  --lotusRed4: #d9a594;
+  --lotusAqua: #597b75;
+  --lotusAqua2: #5e857a;
+  --lotusTeal1: #4e8ca2;
+  --lotusTeal2: #6693bf;
+  --lotusTeal3: #5a7785;
+  --lotusCyan: #d7e3d8;
 }
 
-/* +++ COLOR VARIABLES */
-body {
-  --base-h: 0;
-  --base-s: 0%;
-  --base-d: 15%;
-  --base-l: 96%;
+.theme-dark {
+  --background-primary: var(--sumiInk1);
+  --background-primary-alt: var(--sumiInk1);
+  --background-secondary: var(--sumiInk1b);
+  --background-secondary-alt: var(--sumiInk2);
+  --text-normal: var(--fujiWhite);
+  --text-faint: var(--fujiGray);
+  --text-title-h1: var(--neutral-red);
+  --text-title-h2: var(--neutral-orange);
+  --text-title-h3: var(--neutral-yellow);
+  --text-title-h4: var(--neutral-green);
+  --text-title-h5: var(--neutral-aqua);
+  --text-title-h6: var(--neutral-blue);
+  --text-link: var(--springBlue);
+  --text-a: var(--dragonBlue);
+  --text-a-hover: var(--peachRed);
+  --text-a-url: var(
+    --dragonBlue
+  ); /*hover internal link, graph view link and standalone links*. External Links no*/
+  --text-mark: rgba(34, 50, 73, 0.4); /* waveBlue1 */
+  --pre-code: var(--sumiInk0);
+  --text-highlight-bg: var(--waveBlue1);
+  --interactive-accent: var(
+    --dragonBlue
+  ); /* vim cursor background AND highilight on right*/
+  --interactive-before: var(--sumiInk4);
+  --background-modifier-border: var(--dragonBlue);
+  --text-accent: var(--autumnGreen);
+  --interactive-accent-rgb: var(--springGreen);
+  --inline-code: var(--springGreen);
+  --code-block: var(--fujiGray);
+  --vim-cursor-backgroung: var(--fujiWhite);
+  --vim-cursor-color: var(--sumiInk1);
+  --text-selection: rgba(34, 50, 73, 0.5); /* waveBlue1 */
+  --text-tag: var(--springViolet1);
+  --task-checkbox: var(--sumiInk4);
+  --table-header: hsl(0, 0%, 14%);
+  --table-row-even: hsl(0, 0%, 17%);
+  --table-row-odd: hsl(0, 0%, 20%);
+  --table-hover: var(--sumiInk2);
+  --bold-color: var(--light1);
+}
 
-  /* rgb: 81, 157, 92 */
-  --theme-accent-h: 129;
-  --theme-accent-s: 31.9%;
-  --theme-accent-l: 46.7%;
-  --theme-accent-d: 46.7%;
+  --interactive-normal: #f2f3f5;
+  --interactive-hover: #e9e9e9;
+  --interactive-accent: hsl(
+    var(--theme-accent-h),
+    var(--theme-accent-s),
+    calc(var(--theme-accent-l) + 10%)
+  );
+  --interactive-accent-hover: hsl(
+    var(--theme-accent-h),
+    var(--theme-accent-s),
+    calc(var(--theme-accent-l) - 0%)
+  );
+  --interactive-accent-rgb: 123, 108, 217;
+  --interactive-success: #197300;
 
-  /* Dark mode colors */
+  --scrollbar-active-thumb-bg: rgba(0, 0, 0, 0.2);
+  --scrollbar-bg: rgba(0, 0, 0, 0.05);
+  --scrollbar-thumb-bg: rgba(0, 0, 0, 0.1);
+  --highlight-mix-blend-mode: darken;
+
+  --icon-color: var(--text-muted);
+  --icon-hex: 000;
+
+  --graph-line-color: #c0c9ce;
+}
+
+/* +++ DARK MODE */
+.theme-dark {
+  --background-primary: hsl(var(--base-h), var(--base-s), var(--base-d));
+  --background-primary-alt: #202020;
+  --background-secondary: hsl(
+    calc(var(--base-h) + 30),
+    calc(var(--base-s) + 11.5%),
+    calc(var(--base-l) - 75.6%)
+  );
+  --background-secondary-alt: #000000;
+  --background-modifier-border: #333;
   --background-modifier-border-hover: rgb(94, 94, 94);
   --background-modifier-border-focus: hsl(
     var(--base-h),
@@ -192,6 +301,12 @@ body {
   --background-modifier-error-hover: #470000;
   --background-modifier-cover: rgba(0, 0, 0, 0.8);
 
+  --vim-cursor: hsla(
+    var(--theme-accent-h),
+    var(--theme-accent-s),
+    var(--theme-accent-d),
+    0.8
+  );
   --color-accent: hsl(
     var(--theme-accent-h),
     var(--theme-accent-s),
@@ -202,19 +317,29 @@ body {
     var(--theme-accent-s),
     calc(var(--theme-accent-d) - 10%)
   );
+  --text-normal: rgb(197, 184, 161);
   --text-muted: hsl(var(--base-h), var(--base-s), calc(var(--base-d) + 45%));
+  --text-faint: hsl(var(--base-h), var(--base-s), calc(var(--base-d) + 47%));
   --text-error: #800000;
   --text-error-hover: #990000;
 
+  --text-highlight-bg: rgba(255, 177, 80, 0.3);
   --text-highlight-bg-active: rgba(255, 128, 0, 0.4);
+  --text-selection: rgba(23, 48, 77, 0.99);
   --text-on-accent: #dcddde;
   --interactive-normal: #2a2a2a;
   --interactive-hover: #303030;
+  --interactive-accent: hsl(
+    var(--theme-accent-h),
+    var(--theme-accent-s),
+    calc(var(--theme-accent-d) + 10%)
+  );
   --interactive-accent-hover: hsl(
     var(--theme-accent-h),
     var(--theme-accent-s),
     calc(var(--theme-accent-l) - 0%)
   );
+  --interactive-accent-rgb: 72, 54, 153;
   --interactive-success: #197300;
   --scrollbar-active-thumb-bg: rgba(255, 255, 255, 0.2);
   --scrollbar-bg: rgba(255, 255, 255, 0.05);
@@ -222,45 +347,10 @@ body {
   --highlight-mix-blend-mode: lighten;
 
   --graph-line-color: #6f7577;
+}
 
-  --background-primary: var(--sumiInk1);
-  --background-primary-alt: var(--sumiInk1);
-  --background-secondary: var(--sumiInk1b);
-  --background-secondary-alt: var(--sumiInk2);
-  --text-normal: var(--fujiWhite);
-  --text-faint: var(--fujiGray);
-  --text-title-h1: var(--neutral-red);
-  --text-title-h2: var(--neutral-orange);
-  --text-title-h3: var(--neutral-yellow);
-  --text-title-h4: var(--neutral-green);
-  --text-title-h5: var(--neutral-aqua);
-  --text-title-h6: var(--neutral-blue);
-  --text-link: var(--springBlue);
-  --text-a: var(--dragonBlue);
-  --text-a-hover: var(--peachRed);
-  --text-a-url: var(--dragonBlue);
-  --text-mark: rgba(34, 50, 73, 0.4); /* waveBlue1 */
-  --pre-code: var(--sumiInk0);
-  --text-highlight-bg: var(--waveBlue1);
-  --interactive-accent: var(--dragonBlue);
-  --interactive-before: var(--sumiInk4);
-  --background-modifier-border: var(--dragonBlue);
-  --text-accent: var(--autumnGreen);
-  --interactive-accent-rgb: var(--springGreen);
-  --inline-code: var(--springGreen);
-  --code-block: var(--fujiGray);
-  --vim-cursor-background: var(--fujiWhite);
-  --vim-cursor-color: var(--sumiInk1);
-  --text-selection: rgba(34, 50, 73, 0.5); /* waveBlue1 */
-  --text-tag: var(--springViolet1);
-  --task-checkbox: var(--sumiInk4);
-  --table-header: hsl(0, 0%, 14%);
-  --table-row-even: hsl(0, 0%, 17%);
-  --table-row-odd: hsl(0, 0%, 20%);
-  --table-hover: var(--sumiInk2);
-  --bold-color: var(--light1);
-
-  /* +++ TYPOGRAPHY & FONTS */
+/* +++ TYPOGRAPHY & FONTS */
+body {
   --font-text-theme: "iA Writer Quattro S";
   --font-interface-theme: var(--font-text-theme);
   --font-editor-theme: "iA Writer Mono V", var(--font-text-theme),
@@ -390,15 +480,14 @@ body {
 
 /* make cursor accent color */
 .CodeMirror-cursor {
-  background-color: red;
+  background-color: var(--color-accent);
 }
-/* make cursor accent color */
+
+/* make Vim cursor transluscent and accent color */
 .cm-fat-cursor-mark,
 .cm-fat-cursor .CodeMirror-cursor {
   width: inherit;
-  background-color: red !important;
-  color: red !important;
-  opacity: 60% !important;
+  background-color: var(--vim-cursor) !important;
 }
 
 /* blur background when pop-ups are active 
@@ -411,7 +500,6 @@ body .modal .prompt-results {
   padding: calc((1rem * 2) * 1);
 }
 body .modal-bg {
-  /* backdrop-filter: blur(8px); */ /* causes slowdowns */
   background-color: rgb(8, 8, 8);
 }
 
@@ -542,376 +630,4 @@ div.todo-item-view-toolbar-item svg {
 /* make focused toolbar item follow the theme accent */
 div.todo-item-view-toolbar-item.active svg {
   fill: var(--text-accent);
-}
-
-/* KANAGAWAAAA */
-
-body {
-  background-color: var(--background-primary);
-  color: var(--text-normal);
-}
-
-code[class*="language-"],
-pre[class*="language-"] {
-  text-shadow: none !important;
-  background-color: var(--pre-code) !important;
-}
-
-.graph-view.color-circle,
-.graph-view.color-fill-highlight,
-.graph-view.color-line-highlight {
-  color: var(--interactive-accent-rgb) !important;
-}
-.graph-view.color-text {
-  color: var(--text-a-url) !important;
-}
-
-a,
-.cm-hmd-internal-link {
-  color: var(--text-a) !important;
-  text-decoration: none !important;
-}
-
-a:hover,
-.cm-hmd-internal-link:hover,
-.cm-url {
-  color: var(--text-a-url) !important;
-  text-decoration: none !important;
-}
-
-a.tag,
-a.tag:hover {
-  color: var(--text-tag) !important;
-  background-color: var(--background-secondary-alt);
-  /*padding: 2px 4px;*/
-  /*border-radius: 4px;*/
-}
-
-a.tag:hover {
-  text-decoration: underline !important;
-}
-
-mark {
-  background-color: var(--text-mark);
-}
-
-.titlebar {
-  background-color: var(--background-secondary-alt);
-}
-
-.titlebar-inner {
-  color: var(--text-normal);
-}
-
-.view-actions a {
-  color: var(--text-normal) !important;
-}
-
-.view-actions a:hover {
-  color: var(--text-a) !important;
-}
-
-.HyperMD-codeblock-bg {
-  background-color: var(--pre-code) !important;
-}
-
-.HyperMD-codeblock {
-  /*line-height: 1.4em !important;*/
-  color: var(--code-block) !important;
-}
-
-/*.HyperMD-codeblock-begin {*/
-/*  border-top-left-radius: 4px !important;*/
-/*  border-top-right-radius: 4px !important;*/
-/*}*/
-
-/*.HyperMD-codeblock-end {*/
-/*  border-bottom-left-radius: 4px !important;*/
-/*  border-bottom-right-radius: 4px !important;*/
-/*}*/
-
-table {
-  border: 1px solid var(--background-secondary) !important;
-  border-collapse: collapse;
-}
-
-th {
-  /*font-weight: 600 !important;*/
-  /*border: 0px !important;*/
-  /*text-align: left;*/
-  background-color: var(--table-header);
-  color: var(--neutral-green);
-}
-
-td {
-  /*border-left: 0px !important;*/
-  /*border-right: 0px !important;*/
-  border-bottom: 1px solid var(--background-secondary) !important;
-}
-
-tr:nth-child(even) {
-  background-color: var(--table-row-even);
-}
-tr:nth-child(odd) {
-  background-color: var(--table-row-odd);
-}
-tr:hover {
-  background-color: var(--table-hover);
-}
-
-thead {
-  border-bottom: 2px solid var(--background-modifier-border) !important;
-}
-
-/*.HyperMD-table-row {*/
-/*line-height: normal !important;*/
-/*padding-left: 4px !important;*/
-/*padding-right: 4px !important;*/
-/*}*/
-
-.CodeMirror-foldgutter-folded,
-.is-collapsed .nav-folder-collapse-indicator {
-  color: var(--text-a) !important;
-}
-
-.nav-file-tag {
-  color: var(--text-a) !important;
-}
-
-.is-active .nav-file-title {
-  color: var(--text-a) !important;
-  background-color: var(--background-primary-alt) !important;
-}
-
-/*.nav-file-title {*/
-/*  border-bottom-left-radius: 0 !important;*/
-/*  border-bottom-right-radius: 0 !important;*/
-/*  border-top-left-radius: 0 !important;*/
-/*  border-top-right-radius: 0 !important;*/
-/*}*/
-
-/*.HyperMD-list-line {*/
-/*  padding-top: 0 !important;*/
-/*}*/
-
-.cm-hashtag-begin {
-  color: var(--text-tag) !important;
-  background-color: var(--background-secondary-alt);
-  /*padding: 2px 0 2px 4px;*/
-  /*border-top-left-radius: 4px;*/
-  /*border-bottom-left-radius: 4px;*/
-  text-decoration: none !important;
-}
-
-.cm-hashtag-end {
-  color: var(--text-tag) !important;
-  background-color: var(--background-secondary-alt);
-  /*padding: 2px 4px 2px 0;*/
-  /*border-top-right-radius: 4px;*/
-  /*border-bottom-right-radius: 4px;*/
-  text-decoration: none !important;
-}
-
-.cm-hashtag-begin:hover,
-.cm-hashtag-end:hover {
-  text-decoration: underline !important;
-}
-
-.markdown-preview-section pre code,
-.markdown-preview-section code {
-  /*font-size: 0.9em !important;*/
-  background-color: var(--pre-code) !important;
-}
-
-.markdown-preview-section pre code {
-  /*padding: 4px !important;*/
-  /*line-height: 1.4em !important;*/
-  /*display: block !important;*/
-  color: var(--code-block) !important;
-}
-
-.markdown-preview-section code {
-  color: var(--inline-code) !important;
-}
-
-.cm-s-obsidian,
-.cm-inline-code {
-  -webkit-font-smoothing: auto !important;
-}
-
-.cm-inline-code {
-  color: var(--inline-code) !important;
-  background-color: var(--pre-code) !important;
-  /*padding: 1px !important;*/
-}
-
-/*.side-dock-title {*/
-/*  padding-top: 15px !important;*/
-/*}*/
-
-.side-dock-ribbon-tab:hover,
-.side-dock-ribbon-action:hover,
-.side-dock-ribbon-action.is-active:hover,
-.nav-action-button:hover,
-.side-dock-collapse-btn:hover {
-  color: var(--text-a);
-}
-
-/*.side-dock {*/
-/*  border-right: 0 !important;*/
-/*}*/
-
-/* vertical resize-handle */
-.workspace-split.mod-vertical > * > .workspace-leaf-resize-handle,
-.workspace-split.mod-left-split > .workspace-leaf-resize-handle,
-.workspace-split.mod-right-split > .workspace-leaf-resize-handle {
-  /*width: 1px !important;*/
-  background-color: var(--background-secondary-alt);
-}
-
-/* horizontal resize-handle */
-.workspace-split.mod-horizontal > * > .workspace-leaf-resize-handle {
-  /*height: 1px !important;*/
-  background-color: var(--background-secondary-alt);
-}
-
-/* Remove vertical split padding */
-/*.workspace-split.mod-root .workspace-split.mod-vertical .workspace-leaf-content,*/
-/*.workspace-split.mod-vertical > .workspace-split,*/
-/*.workspace-split.mod-vertical > .workspace-leaf,*/
-/*.workspace-tabs {*/
-/*  padding-right: 0px;*/
-/*}*/
-
-/*.markdown-embed {*/
-/*  padding-left: 10px !important;*/
-/*  padding-right: 10px !important;*/
-/*  margin-left: 10px !important;*/
-/*  margin-right: 10px !important;*/
-/*}*/
-
-.cm-header-1.cm-link,
-h1 a {
-  color: var(--text-title-h1) !important;
-}
-
-.cm-header-2.cm-link,
-h2 a {
-  color: var(--text-title-h2) !important;
-}
-
-.cm-header-3.cm-link,
-h3 a {
-  color: var(--text-title-h3) !important;
-}
-.cm-header-4.cm-link,
-h4 a {
-  color: var(--text-title-h4) !important;
-}
-.cm-header-5.cm-link,
-h5 a {
-  color: var(--text-title-h5) !important;
-}
-.cm-header-6.cm-link,
-h6 a {
-  color: var(--text-title-h6) !important;
-}
-
-.HyperMD-header-1,
-.markdown-preview-section h1 {
-  /*font-weight: 500 !important;*/
-  /*font-size: 2.2em !important;*/
-  color: var(--text-title-h1) !important;
-}
-
-.HyperMD-header-2,
-.markdown-preview-section h2 {
-  /*font-weight: 500 !important;*/
-  /*font-size: 2em !important;*/
-  color: var(--text-title-h2) !important;
-}
-
-.HyperMD-header-3,
-.markdown-preview-section h3 {
-  /*font-weight: 500 !important;*/
-  /*font-size: 1.8em !important;*/
-  color: var(--text-title-h3) !important;
-}
-
-.HyperMD-header-4,
-.markdown-preview-section h4 {
-  /*font-weight: 500 !important;*/
-  /*font-size: 1.6em !important;*/
-  color: var(--text-title-h4) !important;
-}
-
-.HyperMD-header-5,
-.markdown-preview-section h5 {
-  /*font-weight: 500 !important;*/
-  /*font-size: 1.4em !important;*/
-  color: var(--text-title-h5) !important;
-}
-
-.HyperMD-header-6,
-.markdown-preview-section h6 {
-  /*font-weight: 500 !important;*/
-  /*font-size: 1.2em !important;*/
-  color: var(--text-title-h6) !important;
-}
-
-.suggestion-item.is-selected {
-  background-color: var(--background-secondary);
-}
-
-.empty-state-action:hover {
-  color: var(--interactive-accent);
-}
-
-.empty-state-action:hover {
-  color: var(--interactive-accent);
-}
-
-.checkbox-container {
-  background-color: var(--interactive-before);
-}
-
-.checkbox-container:after {
-  background-color: var(--background-secondary-alt);
-}
-
-.mod-cta {
-  color: var(--background-secondary-alt) !important;
-  /*font-weight: 600 !important;*/
-}
-
-.mod-cta a {
-  color: var(--background-secondary-alt) !important;
-  /*font-weight: 600 !important;*/
-}
-
-.mod-cta:hover {
-  background-color: var(--interactive-before) !important;
-  /*font-weight: 600 !important;*/
-}
-
-input.task-list-item-checkbox {
-  border: 1px solid var(--task-checkbox);
-  appearance: none;
-  -webkit-appearance: none;
-}
-
-input.task-list-item-checkbox:checked {
-  background-color: var(--task-checkbox);
-  box-shadow: inset 0 0 0 2px var(--background-primary);
-}
-
-::selection {
-  background-color: var(--text-selection) !important;
-}
-
-.mermaid .note {
-  fill: var(--dark3) !important;
-}
-.cm-line .cm-strong {
-  color: var(--bold-color) !important;
 }

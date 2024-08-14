@@ -1,7 +1,7 @@
 {
   "accentColor": "",
   "baseFontSizeAction": true,
-  "baseFontSize": 16,
+  "baseFontSize": 13,
   "enabledCssSnippets": [
     "style",
     "typwriter-fix",
