@@ -60,7 +60,7 @@
   font-display: swap;
 }
 
-root {
+:root {
   /* DARK THEME */
   /* Kanagawa from https://github.com/rebelot/kanagawa.nvim */
   /* Bg Shades*/
@@ -217,22 +217,18 @@ root {
   --text-link: var(--springBlue);
   --text-a: var(--dragonBlue);
   --text-a-hover: var(--peachRed);
-  --text-a-url: var(
-    --dragonBlue
-  ); /*hover internal link, graph view link and standalone links*. External Links no*/
+  --text-a-url: var(--dragonBlue);
   --text-mark: rgba(34, 50, 73, 0.4); /* waveBlue1 */
   --pre-code: var(--sumiInk0);
   --text-highlight-bg: var(--waveBlue1);
-  --interactive-accent: var(
-    --dragonBlue
-  ); /* vim cursor background AND highilight on right*/
+  --interactive-accent: var(--dragonBlue);
   --interactive-before: var(--sumiInk4);
   --background-modifier-border: var(--dragonBlue);
   --text-accent: var(--autumnGreen);
   --interactive-accent-rgb: var(--springGreen);
   --inline-code: var(--springGreen);
   --code-block: var(--fujiGray);
-  --vim-cursor-backgroung: var(--fujiWhite);
+  --vim-cursor-background: var(--fujiWhite);
   --vim-cursor-color: var(--sumiInk1);
   --text-selection: rgba(34, 50, 73, 0.5); /* waveBlue1 */
   --text-tag: var(--springViolet1);
@@ -244,43 +240,8 @@ root {
   --bold-color: var(--light1);
 }
 
-  --interactive-normal: #f2f3f5;
-  --interactive-hover: #e9e9e9;
-  --interactive-accent: hsl(
-    var(--theme-accent-h),
-    var(--theme-accent-s),
-    calc(var(--theme-accent-l) + 10%)
-  );
-  --interactive-accent-hover: hsl(
-    var(--theme-accent-h),
-    var(--theme-accent-s),
-    calc(var(--theme-accent-l) - 0%)
-  );
-  --interactive-accent-rgb: 123, 108, 217;
-  --interactive-success: #197300;
-
-  --scrollbar-active-thumb-bg: rgba(0, 0, 0, 0.2);
-  --scrollbar-bg: rgba(0, 0, 0, 0.05);
-  --scrollbar-thumb-bg: rgba(0, 0, 0, 0.1);
-  --highlight-mix-blend-mode: darken;
-
-  --icon-color: var(--text-muted);
-  --icon-hex: 000;
-
-  --graph-line-color: #c0c9ce;
-}
-
 /* +++ DARK MODE */
 .theme-dark {
-  --background-primary: hsl(var(--base-h), var(--base-s), var(--base-d));
-  --background-primary-alt: #202020;
-  --background-secondary: hsl(
-    calc(var(--base-h) + 30),
-    calc(var(--base-s) + 11.5%),
-    calc(var(--base-l) - 75.6%)
-  );
-  --background-secondary-alt: #000000;
-  --background-modifier-border: #333;
   --background-modifier-border-hover: rgb(94, 94, 94);
   --background-modifier-border-focus: hsl(
     var(--base-h),
@@ -301,12 +262,7 @@ root {
   --background-modifier-error-hover: #470000;
   --background-modifier-cover: rgba(0, 0, 0, 0.8);
 
-  --vim-cursor: hsla(
-    var(--theme-accent-h),
-    var(--theme-accent-s),
-    var(--theme-accent-d),
-    0.8
-  );
+  --vim-cursor: var(--sumiInk1);
   --color-accent: hsl(
     var(--theme-accent-h),
     var(--theme-accent-s),
@@ -317,29 +273,19 @@ root {
     var(--theme-accent-s),
     calc(var(--theme-accent-d) - 10%)
   );
-  --text-normal: rgb(197, 184, 161);
   --text-muted: hsl(var(--base-h), var(--base-s), calc(var(--base-d) + 45%));
-  --text-faint: hsl(var(--base-h), var(--base-s), calc(var(--base-d) + 47%));
   --text-error: #800000;
   --text-error-hover: #990000;
 
-  --text-highlight-bg: rgba(255, 177, 80, 0.3);
   --text-highlight-bg-active: rgba(255, 128, 0, 0.4);
-  --text-selection: rgba(23, 48, 77, 0.99);
   --text-on-accent: #dcddde;
   --interactive-normal: #2a2a2a;
   --interactive-hover: #303030;
-  --interactive-accent: hsl(
-    var(--theme-accent-h),
-    var(--theme-accent-s),
-    calc(var(--theme-accent-d) + 10%)
-  );
   --interactive-accent-hover: hsl(
     var(--theme-accent-h),
     var(--theme-accent-s),
     calc(var(--theme-accent-l) - 0%)
   );
-  --interactive-accent-rgb: 72, 54, 153;
   --interactive-success: #197300;
   --scrollbar-active-thumb-bg: rgba(255, 255, 255, 0.2);
   --scrollbar-bg: rgba(255, 255, 255, 0.05);
