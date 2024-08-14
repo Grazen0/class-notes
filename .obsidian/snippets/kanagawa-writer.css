@@ -129,6 +129,49 @@
   --peachRed: #ff5d62;
   --surimiOrange: #ffa066;
   --katanaGray: #717c7c;
+
+  /* Gruvbox from https://github.com/insanum/obsidian_gruvbox */
+  --dark0-hard: #1d2021;
+  --dark0: #282828;
+  --dark0-soft: #32302f;
+  --dark1: #3c3836;
+  --dark2: #504945;
+  --dark3: #665c54;
+  --dark4: #7c6f64;
+
+  --gray: #928374;
+
+  --light0-hard: #f9f5d7;
+  --light0: #fbf1c7;
+  --light0-soft: #f2e5bc;
+  --light1: #ebdbb2;
+  --light2: #d5c4a1;
+  --light3: #bdae93;
+  --light4: #a89984;
+
+  --bright-red: #fb4934;
+  --bright-green: #b8bb26;
+  --bright-yellow: #fabd2f;
+  --bright-blue: #83a598;
+  --bright-purple: #d3869b;
+  --bright-aqua: #8ec07c;
+  --bright-orange: #fe8019;
+
+  --neutral-red: #cc241d;
+  --neutral-green: #98971a;
+  --neutral-yellow: #d79921;
+  --neutral-blue: #458588;
+  --neutral-purple: #b16286;
+  --neutral-aqua: #689d6a;
+  --neutral-orange: #d65d0e;
+
+  --faded-red: #9d0006;
+  --faded-green: #79740e;
+  --faded-yellow: #b57614;
+  --faded-blue: #076678;
+  --faded-purple: #8f3f71;
+  --faded-aqua: #427b58;
+  --faded-orange: #af3a03;
 }
 
 /* +++ COLOR VARIABLES */
@@ -164,9 +207,9 @@ body {
   --text-selection: rgba(34, 50, 73, 0.5); /* waveBlue1 */
   --text-tag: var(--springViolet1);
   --task-checkbox: var(--sumiInk4);
-  --table-header: hsl(0, 0%, 14%);
-  --table-row-even: hsl(0, 0%, 17%);
-  --table-row-odd: hsl(0, 0%, 0%);
+  --table-header: var(--sumiInk2);
+  --table-row-even: var(--sumiInk1);
+  --table-row-odd: var(--sumiInk0);
   --table-hover: var(--sumiInk2);
   --bold-color: var(--light1);
 
@@ -238,10 +281,140 @@ body {
   line-height: var(--line-height);
 }
 
+.cm-header-1.cm-link,
+h1 a {
+  color: var(--text-title-h1) !important;
+}
+
+.cm-header-2.cm-link,
+h2 a {
+  color: var(--text-title-h2) !important;
+}
+
+.cm-header-3.cm-link,
+h3 a {
+  color: var(--text-title-h3) !important;
+}
+.cm-header-4.cm-link,
+h4 a {
+  color: var(--text-title-h4) !important;
+}
+.cm-header-5.cm-link,
+h5 a {
+  color: var(--text-title-h5) !important;
+}
+.cm-header-6.cm-link,
+h6 a {
+  color: var(--text-title-h6) !important;
+}
+
+.HyperMD-header-1,
+.markdown-preview-section h1 {
+  color: var(--text-title-h1) !important;
+}
+
+.HyperMD-header-2,
+.markdown-preview-section h2 {
+  color: var(--text-title-h2) !important;
+  /* text-transform: uppercase; */
+}
+
+.HyperMD-header-3,
+.markdown-preview-section h3 {
+  color: var(--text-title-h3) !important;
+}
+
+.HyperMD-header-4,
+.markdown-preview-section h4 {
+  color: var(--text-title-h4) !important;
+}
+
+.HyperMD-header-5,
+.markdown-preview-section h5 {
+  color: var(--text-title-h5) !important;
+}
+
+.HyperMD-header-6,
+.markdown-preview-section h6 {
+  color: var(--text-title-h6) !important;
+}
+
 .theme-dark code[class*="language-"],
 .theme-dark pre[class*="language-"] {
   text-shadow: none !important;
   background-color: var(--pre-code) !important;
+}
+
+.suggestion-item.is-selected {
+  background-color: var(--background-secondary);
+}
+
+.empty-state-action:hover {
+  color: var(--interactive-accent);
+}
+
+.empty-state-action:hover {
+  color: var(--interactive-accent);
+}
+
+.checkbox-container {
+  background-color: var(--interactive-before);
+}
+
+.checkbox-container:after {
+  background-color: var(--background-secondary-alt);
+}
+
+.mod-cta {
+  color: var(--background-secondary-alt) !important;
+}
+
+.mod-cta a {
+  color: var(--background-secondary-alt) !important;
+}
+
+.mod-cta:hover {
+  background-color: var(--interactive-before) !important;
+}
+
+.CodeMirror-cursor {
+  background-color: var(--vim-cursor-background) !important;
+  color: var(--vim-cursor-color) !important;
+  opacity: 60% !important;
+}
+
+.CodeMirror-cursor {
+  background-color: var(--vim-cursor-background) !important;
+  color: var(--vim-cursor-color) !important;
+  opacity: 60% !important;
+}
+
+input.task-list-item-checkbox {
+  border: 1px solid var(--task-checkbox);
+  appearance: none;
+  -webkit-appearance: none;
+}
+
+input.task-list-item-checkbox:checked {
+  background-color: var(--task-checkbox);
+  box-shadow: inset 0 0 0 2px var(--background-primary);
+}
+
+::selection {
+  background-color: var(--text-selection) !important;
+}
+
+.mermaid .note {
+  fill: var(--dark3) !important;
+}
+.cm-line .cm-strong {
+  color: var(--bold-color) !important;
+}
+
+th {
+  border: 0px !important;
+  background-color: var(--table-header);
+  color: var(--neutral-green);
 }
 
 tr:nth-child(even) {
