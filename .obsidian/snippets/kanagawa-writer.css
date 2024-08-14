@@ -166,7 +166,7 @@ body {
   --task-checkbox: var(--sumiInk4);
   --table-header: hsl(0, 0%, 14%);
   --table-row-even: hsl(0, 0%, 17%);
-  --table-row-odd: hsl(0, 0%, 20%);
+  --table-row-odd: hsl(0, 0%, 0%);
   --table-hover: var(--sumiInk2);
   --bold-color: var(--light1);
 
