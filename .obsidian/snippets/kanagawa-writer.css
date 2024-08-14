@@ -192,12 +192,6 @@ body {
   --background-modifier-error-hover: #470000;
   --background-modifier-cover: rgba(0, 0, 0, 0.8);
 
-  --vim-cursor: hsla(
-    var(--theme-accent-h),
-    var(--theme-accent-s),
-    var(--theme-accent-d),
-    0.8
-  );
   --color-accent: hsl(
     var(--theme-accent-h),
     var(--theme-accent-s),
@@ -244,22 +238,18 @@ body {
   --text-link: var(--springBlue);
   --text-a: var(--dragonBlue);
   --text-a-hover: var(--peachRed);
-  --text-a-url: var(
-    --dragonBlue
-  ); /*hover internal link, graph view link and standalone links*. External Links no*/
+  --text-a-url: var(--dragonBlue);
   --text-mark: rgba(34, 50, 73, 0.4); /* waveBlue1 */
   --pre-code: var(--sumiInk0);
   --text-highlight-bg: var(--waveBlue1);
-  --interactive-accent: var(
-    --dragonBlue
-  ); /* vim cursor background AND highilight on right*/
+  --interactive-accent: var(--dragonBlue);
   --interactive-before: var(--sumiInk4);
   --background-modifier-border: var(--dragonBlue);
   --text-accent: var(--autumnGreen);
   --interactive-accent-rgb: var(--springGreen);
   --inline-code: var(--springGreen);
   --code-block: var(--fujiGray);
-  --vim-cursor-backgroung: var(--fujiWhite);
+  --vim-cursor-background: var(--fujiWhite);
   --vim-cursor-color: var(--sumiInk1);
   --text-selection: rgba(34, 50, 73, 0.5); /* waveBlue1 */
   --text-tag: var(--springViolet1);
@@ -400,14 +390,15 @@ body {
 
 /* make cursor accent color */
 .CodeMirror-cursor {
-  background-color: var(--color-accent);
+  background-color: red;
 }
-
-/* make Vim cursor transluscent and accent color */
+/* make cursor accent color */
 .cm-fat-cursor-mark,
 .cm-fat-cursor .CodeMirror-cursor {
   width: inherit;
-  background-color: var(--vim-cursor) !important;
+  background-color: red !important;
+  color: red !important;
+  opacity: 60% !important;
 }
 
 /* blur background when pop-ups are active 
@@ -555,20 +546,13 @@ div.todo-item-view-toolbar-item.active svg {
 
 /* KANAGAWAAAA */
 
-body.theme-dark {
+body {
   background-color: var(--background-primary);
   color: var(--text-normal);
 }
 
-body.theme-light {
-  background-color: var(--background-primary);
-  color: var(--text-normal);
-}
-
-.theme-dark code[class*="language-"],
-.theme-dark pre[class*="language-"],
-.theme-light code[class*="language-"],
-.theme-light pre[class*="language-"] {
+code[class*="language-"],
+pre[class*="language-"] {
   text-shadow: none !important;
   background-color: var(--pre-code) !important;
 }
@@ -581,10 +565,6 @@ body.theme-light {
 .graph-view.color-text {
   color: var(--text-a-url) !important;
 }
-
-/*strong {*/
-/*  font-weight: 600 !important;*/
-/*}*/
 
 a,
 .cm-hmd-internal-link {
@@ -765,13 +745,8 @@ thead {
   /*padding: 1px !important;*/
 }
 
-/*.workspace-leaf-header-title {*/
-/*  font-weight: 600 !important;*/
-/*}*/
-
 /*.side-dock-title {*/
 /*  padding-top: 15px !important;*/
-/*  font-size: 20px !important;*/
 /*}*/
 
 .side-dock-ribbon-tab:hover,
@@ -808,10 +783,6 @@ thead {
 /*  padding-right: 0px;*/
 /*}*/
 
-/*.markdown-embed-title {*/
-/*  font-weight: 600 !important;*/
-/*}*/
-
 /*.markdown-embed {*/
 /*  padding-left: 10px !important;*/
 /*  padding-right: 10px !important;*/
@@ -845,10 +816,6 @@ h5 a {
 h6 a {
   color: var(--text-title-h6) !important;
 }
-
-/*.cm-header {*/
-/*  font-weight: 500 !important;*/
-/*}*/
 
 .HyperMD-header-1,
 .markdown-preview-section h1 {
@@ -925,12 +892,6 @@ h6 a {
 .mod-cta:hover {
   background-color: var(--interactive-before) !important;
   /*font-weight: 600 !important;*/
-}
-
-.CodeMirror-cursor {
-  background-color: var(--vim-cursor-background) !important;
-  color: var(--vim-cursor-color) !important;
-  opacity: 60% !important;
 }
 
 input.task-list-item-checkbox {
