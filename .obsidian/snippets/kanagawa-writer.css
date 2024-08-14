@@ -379,7 +379,6 @@ body {
 /* fade formatting tags out */
 .shrink-formatting .CodeMirror-line span.cm-formatting:not(.cm-s-obsidian span.cm-link, .cm-s-obsidian span.cm-hmd-internal-link, .cm-s-obsidian span.cm-url, .cm-s-obsidian span.cm-attribute, .cm-s-obsidian span.cm-quote, span.cm-hashtag.cm-hashtag-begin, .cm-s-obsidian span.cm-formatting-list), /* legacy editor */
 .shrink-formatting .markdown-source-view.mod-cm6 .cm-line span.cm-formatting:not(.cm-s-obsidian span.cm-link, .cm-s-obsidian span.cm-hmd-internal-link, .cm-s-obsidian span.cm-url, .cm-s-obsidian span.cm-attribute, .cm-s-obsidian span.cm-quote, span.cm-hashtag.cm-hashtag-begin, .cm-s-obsidian span.cm-formatting-list) /* CM6 editor */ {
-  color: var(--text-faint);
   font-size: var(--font-smaller) !important;
 }
 
@@ -392,17 +391,7 @@ body {
 /* HIGHLIGHT ACTIVE LINE */
 .active-line-highlight .markdown-source-view .CodeMirror-activeline,
 .active-line-highlight .markdown-source-view.mod-cm6 .cm-active.cm-line {
-  background: var(--background-secondary);
   border-radius: 8px;
-}
-
-/* SIDEBAR NOTES */
-/* make sidebar notes' background var(--background-primary) */
-.mod-right-split .markdown-preview-view,
-.mod-left-split .markdown-preview-view,
-.mod-right-split .markdown-source-view.mod-cm6 .cm-scroller,
-.mod-left-split .markdown-source-view.mod-cm6 .cm-scroller {
-  background-color: var(--background-primary);
 }
 
 /* +++ UI ELEMENTS */
@@ -424,16 +413,10 @@ body {
   --metadata-input-font-size: var(--font-adaptive-smaller);
 }
 
-/* make cursor accent color */
-.CodeMirror-cursor {
-  background-color: var(--color-accent);
-}
-
 /* make Vim cursor transluscent and accent color */
 .cm-fat-cursor-mark,
 .cm-fat-cursor .CodeMirror-cursor {
   width: inherit;
-  background-color: var(--vim-cursor) !important;
 }
 
 /* blur background when pop-ups are active 
@@ -444,17 +427,6 @@ body .modal {
 }
 body .modal .prompt-results {
   padding: calc((1rem * 2) * 1);
-}
-body .modal-bg {
-  background-color: rgb(8, 8, 8);
-}
-
-/* make workspace frameless */
-.workspace-tab-header-container,
-.workspace-ribbon.mod-left:before,
-.mod-macos.is-hidden-frameless:not(.is-popout-window)
-  .sidebar-toggle-button.mod-right {
-  background-color: var(--background-primary);
 }
 
 /* remove note-to-note link underline */
@@ -505,11 +477,6 @@ body {
   margin-top: 0;
 }
 
-/* FIX: background color for titlebar buttons on Windows */
-div.titlebar-button-container.mod-right {
-  background-color: var(--background-primary) !important;
-}
-
 /* EDITOR: font-scalable edit-block-button */
 /* add header padding for button if last column is right-aligned */
 .markdown-source-view table th:last-child[align="right"] {
@@ -529,11 +496,6 @@ div.titlebar-button-container.mod-right {
   height: 1em;
 }
 
-/* DARKEN GRAPH VIEW LINS */
-.graph-view.color-line {
-  color: var(--graph-line-color);
-}
-
 /* FOLD INDICATOR SPACING */
 /* prevent overlap with text */
 
@@ -551,31 +513,6 @@ div.cm-fold-indicator {
 /* ZOOM by @vslinko */
 .zoom-plugin-header {
   font-family: var(--font-interface-theme);
-}
-
-/* KANBAN by @mgmeyers */
-.kanban-plugin__grow-wrap > textarea {
-  background-color: var(--background-primary);
-}
-
-/* OBSIDIAN TODO by @larslockefeer */
-div.todo-item-view-item span.due-date {
-  background-color: var(--yellow);
-  color: white; /* makes due dates legible */
-}
-
-div.todo-item-view-item span.due-date.overdue {
-  background-color: var(--orange);
-}
-
-/* make toolbar items more legible */
-div.todo-item-view-item-link svg,
-div.todo-item-view-toolbar-item svg {
-  fill: var(--text-faint);
-}
-/* make focused toolbar item follow the theme accent */
-div.todo-item-view-toolbar-item.active svg {
-  fill: var(--text-accent);
 }
 
 /* KANAGAWAAAAA */
