@@ -5,11 +5,6 @@
 - **[[Cálculo vectorial]]**
 - **[[Laboratorio de comunicación II]]**
 - **[[Matemáticas discretas II]]**
-- **Notas diarias**
-	- [[12-08-2024]]
-	- [[13-08-2024]]
-	- [[14-08-2024]]
-	- [[16-08-2024]]
 - **[[Óptica y ondas]]**
 - **[[Programación II]]**
 
