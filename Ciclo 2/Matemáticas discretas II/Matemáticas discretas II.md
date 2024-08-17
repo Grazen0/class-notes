@@ -4,7 +4,3 @@
 
 
 %% End Waypoint %%
-
-## Profesores
-
-Jorge Tipe 
