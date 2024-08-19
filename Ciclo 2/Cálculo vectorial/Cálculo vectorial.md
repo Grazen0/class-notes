@@ -3,7 +3,8 @@
 ## Índice
 
 %% Begin Waypoint %%
-
+- **Notas**
+	- [[S1 - Vectores en 2D]]
 
 %% End Waypoint %%
 
@@ -18,6 +19,13 @@
 
 ## Sistema de evaluación
 
-| Tipo | Nota |
-| ---- | ---- |
-|      |      |
+| Tipo           | Cód. | Tipo | Semana | Fecha |
+| -------------- | :--: | :--: | :----: | :---: |
+| Examen parcial |  EP  | 15%  |   10   |       |
+| Examen final   |  EF  | 35%  |   16   |       |
+| Tarea          | TA1  | 20%  |        |       |
+| Tarea          | TA2  | 20%  |        |       |
+| Proyecto       |  P   | 10%  |   10   |       |
+|                |      | 100% |        |       |
+
+Además, todas las clases tienen actividades previas que darán **puntos bonus**.

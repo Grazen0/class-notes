@@ -6,12 +6,11 @@
     "style",
     "typwriter-fix",
     "images",
-    "mathjax",
-    "kanagawa-writer"
+    "mathjax"
   ],
   "nativeMenus": false,
   "textFontFamily": "",
-  "cssTheme": "",
+  "cssTheme": "Kanagawa",
   "theme": "obsidian",
   "interfaceFontFamily": "",
   "monospaceFontFamily": "JetBrainsMono Nerd Font",
