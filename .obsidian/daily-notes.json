@@ -1,4 +1,4 @@
 {
-  "format": "YYYY/MM (MMM)/DD-MM-YYYY",
+  "format": "YYYY/MM - MMM/DD-MM-YYYY",
   "folder": "Notas diarias"
 }
