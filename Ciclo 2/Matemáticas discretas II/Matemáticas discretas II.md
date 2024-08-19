@@ -1,6 +1,7 @@
 ## Índice
 
-%% Begin Waypoint %%
+%% 
+Begin Waypoint %%
 
 
 %% End Waypoint %%
