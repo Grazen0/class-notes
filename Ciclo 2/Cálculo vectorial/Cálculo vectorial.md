@@ -15,3 +15,9 @@
 	- cc1104@utec.edu.pe / jsilva@utec.edu.pe
 
 **Laboratorio:** Patricia Reynoso
+
+## Sistema de evaluación
+
+| Tipo | Nota |
+| ---- | ---- |
+|      |      |
