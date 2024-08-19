@@ -82,6 +82,19 @@ $$
 A^{T} = (a_{ji})
 .$$
 
+Por ejemplo:
+
+$$
+\begin{bmatrix}
+1 & 3 & -2 \\
+2 & -4 & 7
+\end{bmatrix}^{T} = \begin{bmatrix}
+1 & 2 \\
+3 & -4 \\
+-2 & 7
+\end{bmatrix}
+$$
+
 ## Matrices especiales
 
 ### Matriz cero
