@@ -4,5 +4,11 @@
   "displayVimMode": true,
   "fixedNormalModeLayout": false,
   "capturedKeyboardMap": {},
-  "supportJsCommands": false
+  "supportJsCommands": false,
+  "vimStatusPromptMap": {
+    "normal": "🟢",
+    "insert": "🟠",
+    "visual": "🟡",
+    "replace": "🔴"
+  }
 }
