@@ -21,7 +21,7 @@ La primera condición es llamada **caso inicial**, **caso base** o **base de la 
 
 La segunda condición es llamada **paso inductivo**.
 
-## Ejemplo de inducción
+## Ejemplo de demostración por inducción
 
 Sea $n$ un entero positivo. Entonces
 
@@ -31,7 +31,7 @@ $$
 
 **Demostración**: Notemos primero que la proposición cumple para $n = 1$, ya que $1 = \frac{1(1+1)}{2}$.
 
-Ahora, supongamos que la proposición se cumple para algún entero positivo $k$. Entonces
+Ahora, supongamos que la proposición se cumple para algún entero positivo $n = k$. Entonces
 
 $$
 \begin{align}
@@ -43,4 +43,6 @@ $$
 1 + 2 + 3 + \ldots + k + (k + 1) &= \frac{(k + 1)((k + 1) + 1)}{2}
 \end{align}
 $$
+
+Entonces, hemos demostrado que la proposición se cumple para $n = k + 1$.
 $$\qed$$
