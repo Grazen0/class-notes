@@ -1,32 +1,17 @@
-
 ```ad-definition
 
 Una **matriz** de $m \times n$ es un arreglo de elementos distribuidos en $m$ filas y $n$ columnas.
 
 $$
 A = \begin{bmatrix}
-a_{11} & a_{12} \\
-a_{21} \\
-\vdots \\
-a_{m1}
+a_{11} & a_{12} & \dots & a_{1n} \\
+a_{21} & a_{22} & \dots & a_{2n} \\
+\vdots & \vdots & \ddots & \vdots \\
+a_{m1} & a_{m_{2}} & \dots & a_{mn}
 \end{bmatrix}_{m \times n}
 $$
 
-También se escribe
-
-$$
-A = (a_{ij})
-,$$
-
-donde
-
-$$
-\begin{align}
-i &= 1,2, \ldots, m \\
-j &= 1,2, \ldots, n
-.\end{align}
-$$
-
+También se denota como $A = (a_{ij}) \in M_{m \times n}$.
 ```
 
 ## Igualdad de matrices
@@ -62,9 +47,19 @@ La resta es análoga a la suma.
 
 ### Multiplicación de matrices
 
-#### Vector fila por vector columna
+Sean las matrices $A = (a_{ij}) \in M_{m \times n}$ y $B = (b_{ij}) \in M_{n \times p}$. Entonces $AB = (c_{ij}) \in M_{m \times p}$, donde
 
-Sean las matrices $A = (a_{ij}) \in M_{1 \times n}$ y $B = (b_{ij}) \in M_{n \times 1}$. Entonces
+$$
+c_{ij} = \sum_{k=1}^{n} a_{ik}b_{kj}
+$$
+
+```ad-info
+title: Vector fila por vector columna
+collapse: closed
+
+Aparentemente, en este curso se define el resultado de un vector fila por un vector columna *no como una matriz de $1 \times 1$*, sino como el componente mismo de dicha matriz.
+
+Entonces, dadas las matrices $A = (a_{ij}) \in M_{1 \times n}$ y $B = (b_{ij}) \in M_{n \times 1}$, se define su producto como
 
 $$
 AB = \begin{bmatrix}
@@ -77,13 +72,7 @@ b_{n_{1}}
 \end{bmatrix} = a_{11}b_{11} + a_{12}b_{21} + \dots + a_{1n}b_{n_{1}}
 .$$
 
-#### Caso general
-
-Sean las matrices $A = (a_{ij}) \in M_{m \times n}$ y $B = (b_{ij}) \in M_{n \times p}$. Entonces $AB = (c_{ij}) \in M_{m \times p}$, donde
-
-$$
-c_{ij} = \sum_{k=1}^{n} a_{ik}b_{kj}
-$$
+```
 
 ### Transposición
 
@@ -99,15 +88,59 @@ A^{T} = (a_{ji})
 
 Es una matriz cuyos elementos son todos $0$.
 
+$$
+\begin{bmatrix}
+0 & 0 \\
+0 & 0
+\end{bmatrix},\
+\begin{bmatrix}
+0 & 0 & 0 \\
+0 & 0 & 0 \\
+\end{bmatrix},\
+\begin{bmatrix}
+0 & 0
+\end{bmatrix}
+$$
+
 ### Matriz cuadrada
 
 Una matriz $A \in M_{m \times n}$ es cuadrada si y solo si $m = n$.
 
 Cuando hablamos de matrices cuadradas, $m$ (o $n$) es el **orden de $A$**.
 
+$$
+\begin{bmatrix}
+2 & 3 \\
+-1 & 7
+\end{bmatrix},\
+\begin{bmatrix}
+3 & 9 & -2 \\
+-10 & 1 & 0 \\
+-8 & 5 & 7
+\end{bmatrix}
+$$
+
 ### Matriz identidad
 
 Es una matriz de elementos $0$ excepto en su diagonal, donde son $1$.
+
+$$
+\begin{bmatrix}
+1 & 0 \\
+0 & 1
+\end{bmatrix},\
+\begin{bmatrix}
+1 & 0 & 0 \\
+0 & 1 & 0 \\
+0 & 0 & 1
+\end{bmatrix},\
+\begin{bmatrix}
+1 & 0 & 0 & 0\\
+0 & 1 & 0 & 0 \\
+0 & 0 & 1 & 0 \\
+0 & 0 & 0 & 1
+\end{bmatrix}
+$$
 
 ### Matriz triangular
 
@@ -115,8 +148,46 @@ Es una matriz de elementos $0$ excepto en su diagonal, donde son $1$.
 
 Una matriz cuadrada de orden $n$ es **triangular superior** si y solo si todos los componentes por debajo de la diagonal principal son $0$.
 
+$$
+\begin{bmatrix}
+3 & 0 & 2 \\
+0 & 2 & -4 \\
+0 & 0 & 7
+\end{bmatrix}
+$$
+
 #### Triangular inferior
+
+Análogo a la matriz triangular superior
+
+$$
+\begin{bmatrix}
+8 & 0 & 0 \\
+2 & 3 & 0 \\
+1 & 2 & 5
+\end{bmatrix}
+$$
 
 ### Matriz simétrica
 
+Una matriz cuadrada $A = (a_{ij})$ de orden $n$ es simétrica si y solo si $a_{ij} = a_{ji}$ para todo $i, j \in \left\{ 1,2, \ldots n \right\}$
+
+$$
+\begin{bmatrix}
+2 & 9 & 3 \\
+9 & -1 & 4 \\
+3 & 4 & 0
+\end{bmatrix}
+$$
+
 ### Matriz antisimétrica
+
+Una matriz cuadrada $A = (a_{ij})$ de orden $n$ es antisimétrica si y solo si $a_{ij} = -a_{ji}$ para todo $i,j \in \left\{ 1,2,\ldots,n \right\}$
+
+$$
+\begin{bmatrix}
+3 & 2 & -4 \\
+-2 & 1 & 8 \\
+4 & -8 & 5
+\end{bmatrix}
+$$
