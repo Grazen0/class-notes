@@ -6,3 +6,10 @@
 
 
 %% End Waypoint %%
+
+## Profesores
+
+**Teoría:** Bridiga Molina
+
+## Sistema de evaluación
+

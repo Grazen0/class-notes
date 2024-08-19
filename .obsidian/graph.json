@@ -1,11 +1,11 @@
 {
   "collapse-filter": false,
-  "search": "-tag:excalidraw -file:Kanban -file:README",
+  "search": "-tag:excalidraw -file:Kanban -file:README -path:\"Notas diarias\"  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [],
   "collapse-display": true,
   "showArrow": false,
@@ -17,6 +17,6 @@
   "repelStrength": 16.2241256245539,
   "linkStrength": 1,
   "linkDistance": 256,
-  "scale": 0.11192245199619412,
-  "close": false
+  "scale": 0.20561467747880918,
+  "close": true
 }
