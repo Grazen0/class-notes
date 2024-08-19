@@ -19,13 +19,16 @@
 
 ## Sistema de evaluación
 
-| Tipo           | Cód. | Tipo | Semana | Fecha |
-| -------------- | :--: | :--: | :----: | :---: |
-| Examen parcial |  EP  | 15%  |   10   |       |
-| Examen final   |  EF  | 35%  |   16   |       |
-| Tarea          | TA1  | 20%  |        |       |
-| Tarea          | TA2  | 20%  |        |       |
-| Proyecto       |  P   | 10%  |   10   |       |
-|                |      | 100% |        |       |
+| Tipo               | Cód. | Tipo  | Semana | Fecha |
+| ------------------ | :--: | :---: | :----: | :---: |
+| Tarea semanal      | TS0  | 1.5%  |   1    |       |
+| Tarea semanal      | TS1  | 1.5%  |   2    |       |
+| Evaluación en aula | EA1  | 4.66% |   2    |       |
+| Tarea semanal      | TS2  | 1.5%  |   4    |       |
+| Tarea semanal      | TS3  | 1.5%  |   6    |       |
+| Proyecto           |  P   |  10%  |   10   |       |
+| Examen parcial     |  EP  |  15%  |   10   |       |
+| Examen final       |  EF  |  35%  |   16   |       |
+|                    |      |       |        |       |
 
 Además, todas las clases tienen actividades previas que darán **puntos bonus**.
