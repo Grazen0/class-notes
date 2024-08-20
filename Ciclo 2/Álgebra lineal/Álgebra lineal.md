@@ -12,6 +12,9 @@
 
 **Teoría:** Bridiga Molina
 
+**Laboratorio:** Xyoby Chávez
+- xchavez@utec.edu.pe
+
 ## Sistema de evaluación
 
 | Tipo                        |  Cód.   | Nota | Semana | Fecha |
