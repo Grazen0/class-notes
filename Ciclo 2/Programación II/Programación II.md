@@ -4,7 +4,7 @@
 
 %% Begin Waypoint %%
 - **Notas**
-	- [[S1 - Hola, mundo!]]
+	- [[S1 - ¡Hola, mundo!]]
 
 %% End Waypoint %%
 
