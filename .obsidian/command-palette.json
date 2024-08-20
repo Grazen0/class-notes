@@ -1,6 +1,7 @@
 {
   "pinned": [
     "obsidian-excalidraw-plugin:insert-LaTeX-symbol",
+    "daily-notes",
     "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-new-tab"
   ]
 }
