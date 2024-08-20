@@ -155,6 +155,18 @@ $$
 \end{bmatrix}
 $$
 
+### Matriz diagonal
+
+Es una matriz de componentes $0$ excepto en su diagonal. donde pueden ser cualquier número.
+
+$$
+\begin{bmatrix}
+2 & 0 & 0 \\
+0 & -3 & 0 \\
+0 & 0 & 1
+\end{bmatrix}
+$$
+
 ### Matriz triangular
 
 #### Triangular superior
