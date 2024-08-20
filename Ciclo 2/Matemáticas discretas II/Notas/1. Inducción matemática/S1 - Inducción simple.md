@@ -29,7 +29,7 @@ $$
 1 + 2 + 3 + \ldots + n = \frac{n(n+1)}{2}
 $$
 
-**Demostración**: Notemos primero que la proposición cumple para $n = 1$, ya que $1 = \frac{1(1+1)}{2}$.
+**Demostración**: Nótese que la proposición cumple para $n = 1$, ya que $1 = \frac{1(1+1)}{2}$.
 
 Ahora, supongamos que la proposición se cumple para algún entero positivo $n = k$. Entonces
 
@@ -41,7 +41,7 @@ $$
 &= \frac{k^{2} + 3k + 2}{2} \\
 &= \frac{(k + 2)(k + 1)}{2} \\
 1 + 2 + 3 + \ldots + k + (k + 1) &= \frac{(k + 1)((k + 1) + 1)}{2}
-\end{align}
+.\end{align}
 $$
 
 Entonces, hemos demostrado que la proposición se cumple para $n = k + 1$.
