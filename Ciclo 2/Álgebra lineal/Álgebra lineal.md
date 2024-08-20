@@ -14,3 +14,7 @@
 
 ## Sistema de evaluación
 
+| Tipo | Cód. | Nota | Semana | Fecha |
+| ---- | :--: | :--: | :----: | :---: |
+|      |      |      |        |       |
+|      |      |      |        |       |
