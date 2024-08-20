@@ -34,3 +34,8 @@
 | Proyecto B             |  PB  | 12.5% |   15   | 26/11 |
 
 ### Laboratorio (65%)
+
+| Tipo                | Cód. | Nota   | Semana | Fecha |
+| ------------------- | ---- | ------ | ------ | ----- |
+| Práctica calificada | PC1  | 23.08% |        |       |
+| Proyecto            | P1   | 15.38% |        |       |
