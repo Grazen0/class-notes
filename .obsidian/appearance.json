@@ -6,13 +6,16 @@
     "style",
     "typwriter-fix",
     "images",
-    "mathjax"
+    "mathjax",
+    "kanagawa-font-fix",
+    "image-alignment",
+    "mathjax-font-size"
   ],
   "nativeMenus": false,
   "textFontFamily": "",
   "cssTheme": "Kanagawa",
   "theme": "obsidian",
   "interfaceFontFamily": "",
-  "monospaceFontFamily": "JetBrainsMono Nerd Font",
+  "monospaceFontFamily": "",
   "showViewHeader": true
 }

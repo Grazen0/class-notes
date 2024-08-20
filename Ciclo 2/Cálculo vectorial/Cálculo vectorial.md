@@ -23,9 +23,9 @@
 | ------------------ | :--: | :---: | :----: | :---: |
 | Tarea semanal      | TS0  | 1.5%  |   1    |       |
 | Tarea semanal      | TS1  | 1.5%  |   2    |       |
-| Evaluación en aula | EA1  | 4.66% |   2    |       |
 | Tarea semanal      | TS2  | 1.5%  |   4    |       |
 | Tarea semanal      | TS3  | 1.5%  |   6    |       |
+| Evaluación en aula | EA1  | 4.66% |   2    |       |
 | Proyecto           |  P   |  10%  |   10   |       |
 | Examen parcial     |  EP  |  15%  |   10   |       |
 | Examen final       |  EF  |  35%  |   16   |       |
