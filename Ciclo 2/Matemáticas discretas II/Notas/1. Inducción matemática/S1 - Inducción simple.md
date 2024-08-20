@@ -152,3 +152,38 @@ con lo que la inducción está completa.
 ```
 
 ````
+
+````ad-exercise
+
+Sea $S$ un conjunto de $n$ elementos. Entonces
+
+$$
+|S| = 2^{n}
+.$$
+
+```ad-proof
+collapse: closed
+
+Nótese que la proposición es cierta para un conjunto de $1$ elemento, porque cualquier conjunto de un elemento $\left\{ x \right\}$ tiene $2^{1}$ subconjuntos: $\varnothing$ y $\left\{ x \right\}$.
+
+Ahora, supongamos que la proposición es cierta para cualquier conjunto de $k$ elementos. Esto es: supongamos que cualquier conjunto de $k$ elementos tiene $2^{k}$ elementos.
+
+Ahora, sea $S$ un conjunto de $k+1$ elementos, que denotaremos en la forma
+
+$$
+S = \left\{ x_{1}, x_{2}, \ldots, x_{k}, x_{k+1} \right\} 
+.$$
+
+Aquí definimos dos clases de subconjuntos de $S$:
+
+- Subconjuntos que no contienen a $x_{k+1}$.
+	- Estos son $2^{k}$ subconjuntos, por la hipótesis inductiva.
+- Subconjuntos que sí contienen a $x_{x+1}$.
+	- Son de la forma $\left\{ x_{x+1} \right\} \cup A$, donde $A$ es subconjunto de $\left\{ x_{1},x_{2},\ldots,x_{k} \right\}$.
+	- También son $2^{k}$ subconjuntos, por la hipótesis inductiva.
+
+De esta forma, $S$ tiene $2^{k} + 2^{k} = 2^{k+1}$ subconjuntos en total.
+
+```
+
+````
