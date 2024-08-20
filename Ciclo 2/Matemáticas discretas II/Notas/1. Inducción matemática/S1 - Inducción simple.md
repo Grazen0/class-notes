@@ -155,11 +155,7 @@ con lo que la inducción está completa.
 
 ````ad-exercise
 
-Sea $S$ un conjunto de $n$ elementos. Entonces
-
-$$
-|S| = 2^{n}
-.$$
+Sea $S$ un conjunto de $n$ elementos, entonces $|S| = 2^{n}$.
 
 ```ad-proof
 collapse: closed
