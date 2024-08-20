@@ -105,7 +105,7 @@ k + 1 &\leq 2^{k} \\
 .\end{align}
 $$
 
-Sin embargo, $k + 2 < 2k + 2$ ya que $k$ es positivo. Por lo tanto,
+Sin embargo, $k + 2 \leq 2k + 2$ ya que $k$ es positivo. Por lo tanto,
 
 $$
 k + 2 \leq 2^{k+1}
@@ -114,6 +114,41 @@ k + 2 \leq 2^{k+1}
 con lo cual la inducción está completa.
 
 $$\qed$$
+```
+
+````
+
+````ad-exercise
+
+Sea $n$ un entero positivo. Entonces
+
+$$
+2n + 1 \leq 3^{n}
+.$$
+
+```ad-proof
+collapse: closed
+
+Nótese que la proposición es verdadera para $n = 1$, ya que $2(1) + 1 \leq 3^{1}$.
+
+Ahora, supongamos que la proposición es cierta para algún entero positivo $k$. Entonces
+
+$$
+\begin{align}
+2k + 1 \leq 3^{k} \\
+3(2k + 1) \leq 3(3^{k}) \\
+6k + 3 \leq 3^{k+1}
+.\end{align}
+$$
+
+Sin embargo, como $k$ es positivo, entonces $2k + 3 \leq 6k + 3$. Por lo tanto,
+
+$$
+2k + 3 \leq 3^{k+1}
+,$$
+
+con lo que la inducción está completa.
+
 ```
 
 ````
