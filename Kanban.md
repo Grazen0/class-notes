@@ -12,12 +12,10 @@ kanban-plugin: board
 	#calculo
 - [ ] **MATLAB Onramp**
 	
+	Curso de MATLAB facilito.
+	
 	#lineal
 	@{26-08-2024}
-
-
-## 📄 Evaluaciones
-
 
 
 ## 📚 Lecturas
@@ -28,6 +26,10 @@ kanban-plugin: board
 	
 	#comu
 	@{03-10-2024}
+
+
+## 📄 Evaluaciones
+
 
 
 ## 👍 Completado
@@ -349,6 +351,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","tag-colors":[],"date-colors":[{"isToday":false,"distance":1,"unit":"days","direction":"after","backgroundColor":"rgba(177, 34, 34, 0.36)","color":"rgba(253, 203, 203, 1)"},{"isToday":false,"distance":7,"unit":"days","direction":"after","backgroundColor":"rgba(253, 139, 26, 0.29)","color":"rgba(255, 229, 199, 1)"}],"link-date-to-daily-note":false,"hide-tags-display":false,"tag-action":"kanban","list-collapse":[null,false],"hide-card-count":true,"move-dates":true,"move-tags":false,"date-format":"DD-MM-YYYY"}
+{"kanban-plugin":"board","tag-colors":[],"date-colors":[{"isToday":false,"distance":1,"unit":"days","direction":"after","backgroundColor":"rgba(177, 34, 34, 0.36)","color":"rgba(253, 203, 203, 1)"},{"isToday":false,"distance":7,"unit":"days","direction":"after","backgroundColor":"rgba(253, 139, 26, 0.29)","color":"rgba(255, 229, 199, 1)"}],"link-date-to-daily-note":false,"hide-tags-display":false,"tag-action":"kanban","list-collapse":[null,null,false],"hide-card-count":true,"move-dates":true,"move-tags":false,"date-format":"DD-MM-YYYY"}
 ```
 %%
