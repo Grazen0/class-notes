@@ -19,5 +19,6 @@
   "better-word-count",
   "obsidian-icon-folder",
   "vim-yank-highlight",
-  "persistent-graph"
+  "persistent-graph",
+  "obsidian-reminder-plugin"
 ]
