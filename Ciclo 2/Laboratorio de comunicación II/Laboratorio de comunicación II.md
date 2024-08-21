@@ -51,4 +51,5 @@ Las evaluaciones continuas serán **exposiciones**.
 #### Exámenes (E)
 
 1. **Examen de opción múltiple de puntuación**
-2. 
+2. **Redacción, un ensayo**
+	- Nos darán fuentes, las reglas APA y el ensayo tendrá que incluir la bibliografía y citas correctamente. 
