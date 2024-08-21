@@ -34,6 +34,12 @@ $$
 
 donde $\theta$ es el ángulo que **parte en sentido horario desde el eje X**.
 
+### Magnitud y orientación
+
+**Magnitud:** $\lVert \vec{A} \rVert = \sqrt{(A_{x})^{2} + (A_{y})^{2}}$
+
+**Orientación:** $\theta = \tan^{-1}\left( \frac{A_{y}}{A_{x}} \right) \qquad (-90° < \theta < 90°)$
+
 ### Ángulos relativos
 
 ```ad-note
@@ -64,12 +70,6 @@ A_{y} &= \pm r\cos(\theta)
 $$
 
 En cualquiera de los casos, los signos $\pm$ dependen del cuadrante donde se encuentre el vector.
-
-## Magnitud y orientación
-
-**Magnitud:** $\lVert \vec{A} \rVert = \sqrt{(A_{x})^{2} + (A_{y})^{2}}$
-
-**Orientación:** $\theta = \tan^{-1}\left( \frac{A_{y}}{A_{x}} \right) \qquad (-90° < \theta < 90°)$
 
 ```ad-exercise
 title: Ejercicio de conversión de coordenadas
@@ -102,6 +102,14 @@ $$
 
 ## Vectores unitarios
 
+```ad-note
+title: Nota
+
+En este curso, los vecto
+
+```
+
+
 Tienen un módulo igual a $1$. Son las **bases** del sistema cartesiano. Cualquier vector $\vec{A}$ se puede representar de la forma
 
 $$
@@ -129,3 +137,38 @@ $$
 $$
 
 Para 3 dimensiones, las operaciones son análogas.
+
+## Producto punto/escalar
+
+El producto escalar del vector $\vec{A}$ con el vector $\vec{B}$ es la proyección de $\vec{A}$ sobre $\vec{B}$ multiplicado por 
+
+$$
+\begin{align}
+\vec{A} \cdot \vec{B} &= \lVert A \rVert \lVert B \rVert \cos(\theta) \\
+&= A_{x}B_{x} + A_{y}B_{y} + A_{z}B_{z}
+\end{align}
+$$
+
+## Producto cruz/vectorial
+
+El producto cruz de $\vec{A}$ y $\vec{B}$ es un vector ortogonal (perpendicular) a $\vec{A}$ y $\vec{B}$, cuyo largo es el área que forman el paralelogramo de ambos vectores.
+
+$$
+\vec{A} \times \vec{B} &= (A_{y}B_{z} - A_{z}B_{y}, )
+$$
+
+No está definido para vectores de dos dimensiones o menos.
+
+Además, **no es conmutativo**. De hecho,
+
+$$
+\vec{A} \times \vec{B} = -\vec{A} \times \vec{B}
+.$$
+
+### Productos cruz de vectores unitarios
+
+$$
+\begin{align}
+\hat{\mathbf{i}} \times \hat{\mathbf{i}} = \hat{\mathbf{j}} \times \hat{\mathbf{j}} = \hat{\mathbf{k}} \times \hat{\mathbf{k}} = 0
+\end{align}
+$$
