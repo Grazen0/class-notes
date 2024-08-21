@@ -4,6 +4,7 @@
 
 %% Begin Waypoint %%
 - **Notas**
+	- [[S1 - Vectores]]
 
 %% End Waypoint %%
 
@@ -12,7 +13,7 @@
 **Teoría:** Carla Arce
 - cc1123@utec.edu.pe (correo oficial del curso)
 
-**Laboratorio:** 
+**Laboratorio:** Eduardo Castillo
 
 ## Sistema de evaluación
 
