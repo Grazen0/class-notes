@@ -5,6 +5,17 @@
       "pluginId": "omnisearch",
       "pluginRepoPath": "scambier/obsidian-omnisearch",
       "dismissedVersions": []
+    },
+    "homepage": {
+      "pluginId": "homepage",
+      "pluginRepoPath": "mirnovov/obsidian-homepage",
+      "dismissedVersions": [
+        {
+          "versionNumber": "4.0.4",
+          "versionName": "4.0.4",
+          "publishedAt": "2024-08-21T02:38:50Z"
+        }
+      ]
     }
   },
   "showIconOnMobile": true,
