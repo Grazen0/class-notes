@@ -18,8 +18,8 @@ Ejemplos de **vectores**:
 
 Un vector se puede representar de dos formas:
 
-- Coordenadas **cartesianas** ($\theta, r$).
-- Coordenadas **polares** ($A_{x}, A_{y}, A_{z}$).
+- Coordenadas **cartesianas** $(r, \theta)$.
+- Coordenadas **polares** $(A_{x}, A_{y}, A_{z})$.
 
 ## Descomposición de un vector
 
