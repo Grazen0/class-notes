@@ -5,7 +5,6 @@
 %% Begin Waypoint %%
 - **Notas**
 	- [[S1 - Vectores]]
-	- [[S1B - Fuerzas]]
 
 %% End Waypoint %%
 
