@@ -21,7 +21,7 @@ Un vector se puede representar de dos formas:
 - Coordenadas **cartesianas** $(r, \theta)$.
 - Coordenadas **polares** $(A_{x}, A_{y}, A_{z})$.
 
-## Descomposición de un vector
+## Coordenadas polares
 
 Las coordenadas cartesianas se pueden obtener a partir de las polares con
 
@@ -32,10 +32,100 @@ A_{y} &= r \sin(\theta)
 ,\end{align}
 $$
 
-donde $\theta$ es el ángulo de orientación de donde parte el vector.
+donde $\theta$ es el ángulo que **parte en sentido horario desde el eje X**.
+
+### Ángulos relativos
+
+```ad-note
+title: Nota
+
+Para mí no es muy importante esto, pero lo hicimos en clase y probablemente sea bueno tenerlo en mente para algún examen.
+
+```
+
+Si el ángulo de un vector no parte del eje X o tiene un sentido antihorario, se puede evitar tener que convertir el ángulo.
+
+Si el ángulo tiene sentido **antihorario**:
+
+$$
+\begin{align}
+A_{x} &= \pm r\cos(\theta) \\
+A_{y} &= \pm r\sin(\theta)
+\end{align}
+$$
+
+Y si tiene sentido **horario**:
+
+$$
+\begin{align}
+A_{x} &= \pm r\sin(\theta) \\
+A_{y} &= \pm r\cos(\theta)
+,\end{align}
+$$
+
+En cualquiera de los casos, los signos $\pm$ dependen del cuadrante donde se encuentre el vector.
 
 ## Magnitud y orientación
 
 **Magnitud:** $\lVert \vec{A} \rVert = \sqrt{(A_{x})^{2} + (A_{y})^{2}}$
 
-**Orientación:** $\theta = \tan^{-1}\left( \frac{A_{y}}{A_{x}} \right)$
+**Orientación:** $\theta = \tan^{-1}\left( \frac{A_{y}}{A_{x}} \right) \qquad (-90° < \theta < 90°)$
+
+```ad-exercise
+title: Ejercicio de conversión de coordenadas
+
+- [ ] Copiar diagrama del PPT
+
+Con el primer método, obtenemos
+
+$$
+\begin{align}
+\vec{A} &= (0, -8)\,\text{m} \\
+\vec{B} &= (15\sin(30°), 15\cos(30°))\,\text{m} \\
+\vec{C} &= (-12\sin(25°), -12\cos(25°))\,\text{m} \\
+\vec{D} &= (-10\cos(53°), 10\sin(53°))\,\text{m}
+\end{align}
+$$
+
+y con el segundo método,
+
+$$
+\begin{align}
+\vec{A} &= (0, -8) \, \text{m} \\
+\vec{B} &= (15 \cos(60°), 15\sin(60°))\, \text{m} \\
+\vec{C} &= (12 \cos(205°), 12\sin(205°)) \, \text{m} \\
+\vec{D} &= (10 \cos(143°), 10\sin(143°)) \, \text{m}
+.\end{align}
+$$
+
+```
+
+## Vectores unitarios
+
+Tienen un módulo igual a $1$. Son las **bases** del sistema cartesiano. Cualquier vector $\vec{A}$ se puede representar de la forma
+
+$$
+\vec{A} = A_{x}\hat{i} + B_{x}\hat{j}
+.$$
+
+## Vector resultante
+
+Literalmente significa **"suma"**. Usualmente denotamos este resultante como $\vec{R}$.
+
+$$
+\begin{align}
+\vec{R} = \vec{A} + \vec{B} &= (A_{x} + B_{x}, A_{y} + B_{y}) \\
+&= (A_{x} + B_{x})\hat{i} + (A_{y} + B_{y})\hat{j}
+\end{align}
+$$
+
+Además, trivialmente
+
+$$
+\begin{align}
+\theta_{\vec{R}} &= \tan^{-1}\left( \frac{A_{y} + B_{y}}{A_{x} + A_{y}}  \right) & (-90° < \theta < 90°) \\
+\lVert \vec{R} \rVert &= \sqrt{(A_{x} + B_{x})^{2} + (A_{y} + B_{y})^{2}}
+.\end{align}
+$$
+
+Para 3 dimensiones, las operaciones son análogas.
