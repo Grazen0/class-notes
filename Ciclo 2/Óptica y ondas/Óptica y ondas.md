@@ -15,3 +15,11 @@
 **Laboratorio:** 
 
 ## Sistema de evaluación
+
+| Tipo                     | Cód. | Nota  | Semana | Fecha |
+| ------------------------ | :--: | :---: | :----: | :---: |
+| Evaluación continua      |  C   |  25%  |   ?    |   ?   |
+| Actividad de laboratorio |  L1  | 12.5% |  7-8   |   ?   |
+| Examen parcial           |  EP  |  20%  |   10   |   ?   |
+| Actividad de laboratorio |  L2  | 12.5% | 13-14  |   ?   |
+| Examen final             |  EF  |  30%  |   16   |   ?   |
