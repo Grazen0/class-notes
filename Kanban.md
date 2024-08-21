@@ -22,6 +22,12 @@ kanban-plugin: board
 
 ## 📚 Lecturas
 
+- [ ] **Solaris**
+	
+	Stanislaw Lem
+	
+	#comu
+	@{03-10-2024}
 
 
 ## 👍 Completado
