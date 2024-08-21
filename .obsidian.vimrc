@@ -16,6 +16,7 @@ nnoremap A g$a
 exmap wq obcommand workspace:close
 exmap q obcommand workspace:close
 
+" Surround commands
 exmap surround_wiki surround [[ ]]
 exmap surround_double_quotes surround " "
 exmap surround_single_quotes surround ' '
