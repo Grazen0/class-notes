@@ -1,4 +1,4 @@
-**[[Ciclo 2/Álgebra lineal/Sílabo.pdf|Sílabo]]** | **[[Ciclo 2/Álgebra lineal/Anexo (Teo).pdf|Anexo]]**
+**[[Ciclo 2/Álgebra lineal/Sílabo.pdf|Sílabo]]** | **[[Ciclo 2/Álgebra lineal/Anexo (Teo).pdf|Anexo (Teo)]]** | **[[Ciclo 2/Álgebra lineal/Anexo (Lab).pdf|Anexo (Lab)]]**
 
 ## Índice
 

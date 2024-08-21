@@ -1,3 +1,5 @@
+**[[Ciclo 2/Laboratorio de comunicación II/Sílabo.pdf|Sílabo]]** | **[[Ciclo 2/Laboratorio de comunicación II/Anexo.pdf|Anexo]]**
+
 ## Índice
 
 %% Begin Waypoint %%
