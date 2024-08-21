@@ -29,7 +29,13 @@ $$
 \begin{align}
 A_{x} &= r \cos(\theta) \\
 A_{y} &= r \sin(\theta)
-\end{align}
+,\end{align}
 $$
 
 donde $\theta$ es el ángulo de orientación de donde parte el vector.
+
+## Magnitud y orientación
+
+**Magnitud:** $\lVert \vec{A} \rVert = \sqrt{(A_{x})^{2} + (A_{y})^{2}}$
+
+**Orientación:** $\theta = \tan^{-1}\left( \frac{A_{y}}{A_{x}} \right)$
