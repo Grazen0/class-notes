@@ -26,6 +26,10 @@ kanban-plugin: board
 	
 	#comu
 	@{03-10-2024}
+- [ ] **Pierre Menard, autor del Quijote**
+	
+	#comu
+	@{28-08-2024}
 
 
 ## 📄 Evaluaciones
