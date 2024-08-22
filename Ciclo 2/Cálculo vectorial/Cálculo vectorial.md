@@ -5,6 +5,8 @@
 %% Begin Waypoint %%
 - **Notas**
 	- [[S1 - Vectores en 2D]]
+- **Trabajos**
+	- [[Cuaderno de trabajo]]
 
 %% End Waypoint %%
 
