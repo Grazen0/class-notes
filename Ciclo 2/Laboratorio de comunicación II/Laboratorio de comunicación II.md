@@ -3,6 +3,8 @@
 ## Índice
 
 %% Begin Waypoint %%
+- **Lecturas**
+	- [[Lem, Stanislaw. Solaris]]
 - **Notas**
 
 %% End Waypoint %%
