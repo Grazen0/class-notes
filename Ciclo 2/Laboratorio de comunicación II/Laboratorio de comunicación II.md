@@ -6,6 +6,7 @@
 - **Lecturas**
 	- [[Lem, Stanislaw. Solaris]]
 - **Notas**
+	- [[S1 - Cómo hacer cosas con textos]]
 
 %% End Waypoint %%
 
