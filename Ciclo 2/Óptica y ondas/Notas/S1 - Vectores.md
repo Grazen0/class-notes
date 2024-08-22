@@ -157,7 +157,16 @@ El producto cruz de $\vec{A}$ y $\vec{B}$ es un vector ortogonal (perpendicular)
 
 $$
 \begin{align}
-\vec{A} \times \vec{B} &=
+\vec{A} \times \vec{B} &= \left(\begin{vmatrix}
+A_{y} & A_{z} \\
+B_{y} & B_{z}
+\end{vmatrix}, \begin{vmatrix}
+A_{z} & A_{x} \\
+B_{z} & B_{x}
+\end{vmatrix}, \begin{vmatrix}
+A_{x} & A_{y} \\
+B_{x} & B_{y}
+\end{vmatrix}\right)
 \end{align}
 $$
 
