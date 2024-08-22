@@ -32,7 +32,7 @@ $$
 \vec{R} = \vec{v} \pm \vec{u} = \langle v_{x} \pm u_{x}, \vec{v}_{y} \pm \vec{u}_{y} \rangle
 $$
 
-#### Propiedades
+#### Propiedades para vectores en forma polar
 
 ##### Módulo del resultante
 
@@ -43,6 +43,17 @@ $$
 \lVert \vec{v} + \vec{u} \rVert^{2} &= \lVert \vec{v} \rVert^{2} + 2\lVert \vec{v} \rVert \lVert \vec{u} \rVert \cos(\theta) + \lVert \vec{u} \rVert^{2} \\
 &= \Vert \vec{v} \rVert^{2} + 2(\vec{v} \cdot \vec{u}) + \lVert \vec{u} \rVert^{2} \\
 \end{align}
+$$
+
+##### Orientación del resultante
+
+La orientación $\theta$ del vector resultante se puede hallar aplicando **ley de senos**.
+
+#todo
+- [ ] Añadir gráfica
+
+$$
+\theta_{\vec{R}} = \arcsin()
 $$
 
 #### Métodos gráficos
