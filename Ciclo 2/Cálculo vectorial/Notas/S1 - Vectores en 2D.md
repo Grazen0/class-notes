@@ -89,7 +89,7 @@ Cada vector $\vec{v}$ tiene un vector unitario correspondiente, usualmente denot
 
 ### Transformación a vector unitario
 
-Un vector $\vec{v}$ se puede convertir en su vector unitario correspondiente $\hat{u}$ con la misma dirección al dividirlo por su módulo. Es decir:
+Un vector $\vec{v}$ se puede convertir en su vector unitario correspondiente $\hat{v}$ con la misma dirección al dividirlo por su módulo. Es decir:
 $$
 \hat{v} = \frac{\vec{v}}{\lVert \vec{v} \rVert }
 $$
