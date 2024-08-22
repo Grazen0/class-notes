@@ -11,8 +11,10 @@
 ## Profesores
 
 **Teoría:** José Fiestas
+- jfiestas@utec.edu.pe
 
-**Laboratorio:** José Cumpa
+**Laboratorio:** José Moisés Cumpa
+- jcumpa@utec.edu.pe
 
 ## Sistema de evaluación
 
