@@ -153,7 +153,7 @@ $$
 
 ## Producto cruz/vectorial
 
-El producto cruz de $\vec{A}$ y $\vec{B}$ es un vector ortogonal (perpendicular) a $\vec{A}$ y $\vec{B}$, cuyo largo es el área que forman el paralelogramo de ambos vectores.
+El producto cruz de $\vec{A}$ y $\vec{B}$ es un vector perpendicular a $\vec{A}$ y $\vec{B}$, cuyo largo es el área que forman el paralelogramo de ambos vectores.
 
 $$
 \begin{align}
@@ -171,17 +171,17 @@ B_{x} & B_{y}
 $$
 
 No está definido para vectores de dos dimensiones o menos.
+### Propiedades
 
-Además, **no es conmutativo**. De hecho,
-
-$$
-\vec{A} \times \vec{B} = -\vec{A} \times \vec{B}
-.$$
+- $\vec{A} \times \vec{B} = -\vec{B} \times \vec{A}$.
+- $\vec{A} \vec{\times}$
 
 ### Productos cruz de vectores unitarios
 
 $$
-\begin{align}
-\hat{\mathbf{i}} \times \hat{\mathbf{i}} = \hat{\mathbf{j}} \times \hat{\mathbf{j}} = \hat{\mathbf{k}} \times \hat{\mathbf{k}} = 0
-\end{align}
+\begin{array}{ l l l }
+\hat{\mathbf{i}} \times \hat{\mathbf{i}} = 0 & \hat{\mathbf{j}} \times \hat{\mathbf{j}} = 0 & \hat{\mathbf{k}} \times \hat{\mathbf{k}} = 0 \\
+\hat{\mathbf{i}} \times \hat{\mathbf{j}} = \hat{\mathbf{k}} & \hat{\mathbf{j}} \times \hat{\mathbf{k}} = \hat{\mathbf{i}} & \hat{\mathbf{k}} \times \hat{\mathbf{i}} = \hat{\mathbf{j}} \\
+\hat{\mathbf{j}} \times \hat{\mathbf{i}} = -\hat{\mathbf{k}} & \hat{\mathbf{j}} \times \hat{\mathbf{k}} = -\hat{\mathbf{i}} & \hat{\mathbf{k}} \times \hat{\mathbf{i}} = -\hat{\mathbf{j}}
+\end{array}
 $$
