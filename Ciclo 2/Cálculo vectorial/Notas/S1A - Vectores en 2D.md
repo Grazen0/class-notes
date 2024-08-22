@@ -63,6 +63,8 @@ $$
 
 Una forma de sumar vectores gráficamente es colocando el segundo vector en la punta del primero. Entonces, su suma $\vec{R}$ será el vector que va desde el inicio del primer vector hasta la punta del segundo.
 
+![[Metodo del triángulo.excalidraw]]
+
 ##### Método del paralelogramo
 
 Otra forma de sumar vectores gráficamente es trasladándolos desde su origen común para formar un paralelogramo de la siguiente manera:

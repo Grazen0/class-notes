@@ -20,10 +20,6 @@ kanban-plugin: board
 
 ## 📚 Lecturas
 
-- [ ] **Pierre Menard, autor del Quijote**
-	
-	#comu
-	@{28-08-2024}
 - [ ] **Solaris**
 	
 	Stanislaw Lem
@@ -39,6 +35,10 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **Pierre Menard, autor del Quijote**
+	
+	#comu
+	@{28-08-2024}
 
 
 ***
