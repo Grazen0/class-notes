@@ -53,7 +53,7 @@ La orientación $\theta$ del vector resultante se puede hallar aplicando **ley d
 - [ ] Añadir gráfica
 
 $$
-\theta_{\vec{R}} = \arcsin()
+\theta_{\vec{R}} = \arcsin\left( \frac{\lVert \vec{u} \rVert \sin(\theta_{\vec{u}} - \theta_{\vec{v}})}{\lVert \vec{R} \rVert } \right)
 $$
 
 #### Métodos gráficos
