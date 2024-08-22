@@ -38,7 +38,13 @@
 
 ### Laboratorio (65%)
 
-| Tipo                | Cód. | Nota   | Semana | Fecha |
-| ------------------- | ---- | ------ | ------ | ----- |
+| Tipo                | Cód. |  Nota  | Semana | Fecha |
+| ------------------- | :--: | :----: | :----: | :---: |
+| Evaluación continua |  C1  | 7.69%  |        |       |
+| Evaluación continua |  C2  | 7.69%  |        |       |
 | Práctica calificada | PC1  | 23.08% |        |       |
-| Proyecto            | P1   | 15.38% |        |       |
+| Práctica calificada | PC2  | 23.08% |        |       |
+| Práctica calificada | PC3  | 23.08% |        |       |
+| Proyecto            |  P1  | 15.38% |        |       |
+
+Las evaluaciones continuas serán una combinación de **Kahoots** y **participaciones en clase**.
