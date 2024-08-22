@@ -48,6 +48,11 @@ Tiene formatos, modelos y reglas en acorde con esta práctica social.
 
 Diferentes productos (textos) tienen distintos propósitos, que dependen sobre todo del área que explora el texto. En el caso de las ingenierías, este trabajo suele ser **cuantitativo**.
 
-## La buena lectura
+#### La buena lectura
 
 Es **imposible** una lectura **objetiva**. Sin embargo, es posible una lectura **cuidadosa**. En ese sentido, debemos ser lectores **justos** y **autorreflexivos**.
+
+En este sentido, una buena reescritura se basa en una lectura donde nos esforzamos por **representar el trabajo del otro**:
+
+- "Traducir" su lenguaje.
+- Interpretar de la forma más afín a las intenciones del autor, incluso si estamos entendiendo con nuestras propias palabras.
