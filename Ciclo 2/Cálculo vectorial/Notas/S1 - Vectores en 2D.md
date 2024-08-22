@@ -49,9 +49,17 @@ $$
 
 ##### Método del triángulo
 
-Una forma de sumar vectores gráficamente es 
+Una forma de sumar vectores gráficamente es colocando el segundo vector en la punta del primero. Entonces, su suma $\vec{R}$ será el vector que va desde el inicio del primer vector hasta la punta del segundo.
+
+#todo
+- [ ] Añadir diagrama
 
 ##### Método del paralelogramo
+
+Otra forma de sumar vectores gráficamente es trasladándolos desde su origen común para formar un paralelogramo de la siguiente manera:
+
+#todo
+- [ ] Añadir diagrama
 
 ### Producto con escalar
 
@@ -69,7 +77,7 @@ $$
 \lVert \vec{v} \rVert = \sqrt{(\vec{v}_{x})^{2} + (\vec{v}_{y})^{2}}
 .$$
 
-## Vectores unitario
+## Vectores unitarios
 
 ```ad-definition
 
