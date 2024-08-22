@@ -38,7 +38,7 @@ donde $\theta$ es el ángulo que **parte en sentido horario desde el eje X**.
 
 **Magnitud:** $\lVert \vec{A} \rVert = \sqrt{(A_{x})^{2} + (A_{y})^{2}}$
 
-**Orientación:** $\theta = \tan^{-1}\left( \frac{A_{y}}{A_{x}} \right) \qquad (-90° < \theta < 90°)$
+**Orientación:** $\theta = \tan^{-1}\left( \frac{A_{y}}{A_{x}} \right) \qquad (-90\degree < \theta < 90\degree)$
 
 ### Ángulos relativos
 
@@ -51,7 +51,7 @@ Para mí no es muy importante esto, pero lo hicimos en clase y probablemente sea
 
 Si el ángulo de un vector no parte del eje X o tiene un sentido antihorario, se puede evitar tener que convertir el ángulo.
 
-Si el ángulo tiene sentido **antihorario**:
+Si el ángulo parte del **eje X**:
 
 $$
 \begin{align}
@@ -60,7 +60,7 @@ A_{y} &= \pm r\sin(\theta)
 \end{align}
 $$
 
-Y si tiene sentido **horario**:
+Y si parte del **eje Y**:
 
 $$
 \begin{align}
@@ -83,9 +83,9 @@ Con el primer método, obtenemos
 $$
 \begin{align}
 \vec{A} &= (0, -8)\,\text{m} \\
-\vec{B} &= (15\sin(30°), 15\cos(30°))\,\text{m} \\
-\vec{C} &= (-12\cos(25°), -12\sin(25°))\,\text{m} \\
-\vec{D} &= (-10\cos(53°), 10\sin(53°))\,\text{m}
+\vec{B} &= (15\sin(30\degree), 15\cos(30\degree))\,\text{m} \\
+\vec{C} &= (-12\cos(25\degree), -12\sin(25\degree))\,\text{m} \\
+\vec{D} &= (-10\cos(53\degree), 10\sin(53\degree))\,\text{m}
 \end{align}
 $$
 
@@ -94,9 +94,9 @@ y con el segundo método,
 $$
 \begin{align}
 \vec{A} &= (0, -8) \, \text{m} \\
-\vec{B} &= (15 \cos(60°), 15\sin(60°))\, \text{m} \\
-\vec{C} &= (12 \cos(205°), 12\sin(205°)) \, \text{m} \\
-\vec{D} &= (10 \cos(143°), 10\sin(143°)) \, \text{m}
+\vec{B} &= (15 \cos(60\degree), 15\sin(60\degree))\, \text{m} \\
+\vec{C} &= (12 \cos(205\degree), 12\sin(205\degree)) \, \text{m} \\
+\vec{D} &= (10 \cos(143\degree), 10\sin(143\degree)) \, \text{m}
 .\end{align}
 $$
 
@@ -133,7 +133,7 @@ Además, trivialmente
 
 $$
 \begin{align}
-\theta_{\vec{R}} &= \tan^{-1}\left( \frac{A_{y} + B_{y}}{A_{x} + A_{y}}  \right) & (-90° < \theta < 90°) \\
+\theta_{\vec{R}} &= \tan^{-1}\left( \frac{A_{y} + B_{y}}{A_{x} + A_{y}}  \right) & (-90\degree < \theta < 90\degree) \\
 \lVert \vec{R} \rVert &= \sqrt{(A_{x} + B_{x})^{2} + (A_{y} + B_{y})^{2}}
 .\end{align}
 $$
