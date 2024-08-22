@@ -51,6 +51,7 @@ La orientación $\theta$ del vector resultante se puede hallar aplicando **ley d
 
 #todo
 - [ ] Añadir gráfica
+- [ ] Corregir fórmula, probablemente no siempre funciona
 
 $$
 \theta_{\vec{R}} = \arcsin\left( \frac{\lVert \vec{u} \rVert \sin(\theta_{\vec{u}} - \theta_{\vec{v}})}{\lVert \vec{R} \rVert } \right)
@@ -96,7 +97,11 @@ Un vector $\vec{v}$ es **unitario** si y solo si $\lVert \vec{v} \rVert = 1$.
 
 ```
 
-Cada vector $\vec{v}$ tiene un vector unitario correspondiente, usualmente denotado por $\hat{v}$.
+Cada vector $\vec{v}$ tiene un vector unitario correspondiente, usualmente denotado por $\hat{v}$. Trivialmente, se cumple que un vector es igual al producto de su magnitud con su vector unitario.
+
+$$
+\vec{v} = \lVert \vec{v} \rVert \hat{v}
+$$
 
 ### Transformación a vector unitario
 
