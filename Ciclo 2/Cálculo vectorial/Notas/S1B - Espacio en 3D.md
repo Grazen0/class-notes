@@ -1,9 +1,5 @@
 En este curso, el espacio en tres dimensiones está orientado de la siguiente forma:
 
-#todo
-- [x] Añadir gráfica, $Y$ a la derecha, $X$ saliendo de la pantalla y $Z$ hacia arriba.
-- [ ] Añadir gráficas para todos los cuerpos
-
 ![[Espacio 3D.excalidraw]]
 
 ## Cuerpos en tres dimensiones
@@ -18,6 +14,7 @@ $$
 
 donde $a$, $b$ y $c$ son los radios del elipse en cada dimensión respectivamente.
 
+![[elipsoide.png]]
 #### Esfera
 
 Caso particular del elipsoide donde $a = b = c$.
@@ -25,12 +22,19 @@ Caso particular del elipsoide donde $a = b = c$.
 $$
 x^{2} + y^{2} + z^{2} = r^{2}
 $$
-
+![[esfera.png]]
 ### Paraboloide
 
 $$
 x^{2} + y^{2} = z
 $$
 
+![[paraboloide.png]]
+
 ### Hiperboloide
 
+$$
+-\frac{x^{2}}{a^{2}} - \frac{y^{2}}{b^{2}} + \frac{z^{2}}{c^{2}} = 1
+$$
+
+![[hiperboloide.png]]
