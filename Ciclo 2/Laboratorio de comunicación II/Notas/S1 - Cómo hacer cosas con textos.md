@@ -21,3 +21,11 @@ No obstante, el problema es cómo llegar a ese "algo más" **sin simplemente par
 Aquí es donde entra la **reescritura**, que va *más allá de la simple paráfrasis*.
 
 ## La reescritura
+
+La reescritura es **tomar y reinterpretar**, hallar nuevos pensamientos e ideas en un texto, posiblemente a partir de nuestras propias experiencias.
+
+El proceso de la reescritura es:
+
+1. Extraer
+2. Comentar
+3. **Añadir** (parte creativa)
