@@ -26,31 +26,58 @@ La representación de un vector es completamente independiente de en qué posici
 
 ### Suma
 
+La suma de dos vectores es la suma de sus componentes. Al resultado se le llama **resultante**, y se suele denotar con $\vec{R}$.
+
 $$
-\vec{v} \pm \vec{u} = \langle v_{x} \pm u_{x}, \vec{v}_{y} \pm \vec{u}_{y} \rangle \\
-.$$
+\vec{R} = \vec{v} \pm \vec{u} = \langle v_{x} \pm u_{x}, \vec{v}_{y} \pm \vec{u}_{y} \rangle
+$$
+
+#### Propiedades
+
+##### Módulo del resultante
+
+(Se parece un montón al binomio al cuadrado.)
+
+$$
+\begin{align}
+\lVert \vec{v} + \vec{u} \rVert^{2} &= \lVert \vec{v} \rVert^{2} + 2\lVert \vec{v} \rVert \lVert \vec{u} \rVert \cos(\theta) + \lVert \vec{u} \rVert^{2} \\
+&= \Vert \vec{v} \rVert^{2} + 2(\vec{v} \cdot \vec{u}) + \lVert \vec{u} \rVert^{2} \\
+\end{align}
+$$
+
+#### Métodos gráficos
+
+##### Método del triángulo
+
+Una forma de sumar vectores gráficamente es 
+
+##### Método del paralelogramo
 
 ### Producto con escalar
 
+Multiplicar un vector con un escalar es multiplicar sus componentes por el escalar.
+
 $$
-c \cdot \vec{v} = \langle c \cdot a, c \cdot b \rangle 
+c \cdot \vec{v} = \langle c \cdot \vec{v}_{x}, c \cdot \vec{v}_{y} \rangle 
 $$
 
 ## Módulo
 
-El módulo de un vector es su **magnitud** o **longitud**. Dado un vector $\vec{v}$ en la forma $\vec{v} = \langle a, b \rangle$.
+El módulo de un vector es su **magnitud** o **longitud**.
 
 $$
-\lVert \vec{v} \rVert = \sqrt{a^{2} + b^{2}}
+\lVert \vec{v} \rVert = \sqrt{(\vec{v}_{x})^{2} + (\vec{v}_{y})^{2}}
 .$$
 
-## Vector unitario
+## Vectores unitario
 
 ```ad-definition
 
 Un vector $\vec{v}$ es **unitario** si y solo si $\lVert \vec{v} \rVert = 1$.
 
 ```
+
+Cada vector $\vec{v}$ tiene un vector unitario correspondiente, usualmente denotado por $\hat{v}$.
 
 ### Transformación a vector unitario
 
@@ -74,7 +101,7 @@ $$
 Cualquier vector $\vec{v}$ se puede representar en términos de los vectores canónicos como
 
 $$
-\vec{v} = \vec{v}_{x}\hat{\mathbf{i}} + \vec{v}_{y}\hat{\mathbf{j}}
+\vec{v} = \vec{v}_{x}\hat{\mathbf{i}} + \vec{v}_{y}\hat{\mathbf{j}} + \vec{v}_{z}\hat{\mathbf{k}}
 .$$
 
 ## Vectores paralelos
