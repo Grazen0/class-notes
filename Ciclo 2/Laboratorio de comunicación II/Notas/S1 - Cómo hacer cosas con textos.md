@@ -56,3 +56,5 @@ En este sentido, una buena reescritura se basa en una lectura donde nos esforzam
 
 - "Traducir" su lenguaje.
 - Interpretar de la forma más afín a las intenciones del autor, incluso si estamos entendiendo con nuestras propias palabras.
+
+Lo más importante es **entender al autor en su contexto**. Podemos no estar de acuerdo con lo que dice, pero de cualquier forma debemos entender **por qué lo dice**, comprenderlo en su situación y contexto.
