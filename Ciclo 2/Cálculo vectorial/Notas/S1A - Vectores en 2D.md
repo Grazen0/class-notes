@@ -49,14 +49,12 @@ $$
 
 La orientación $\theta$ del vector resultante se puede hallar aplicando **ley de senos**.
 
-#todo
-- [ ] Añadir gráfica
-- [ ] Corregir fórmula, probablemente no siempre funciona
+![[Orientación con ley de senos.excalidraw]]
 
-![[Untitled.excalidraw]]
+Para este caso:
 
 $$
-\theta_{\vec{R}} = \arcsin\left( \frac{\lVert \vec{u} \rVert \sin(\theta_{\vec{u}} - \theta_{\vec{v}})}{\lVert \vec{R} \rVert } \right)
+\theta_{\vec{R}} = \arcsin\left( \frac{\lVert \vec{u} \rVert \sin(\beta - \alpha)}{\lVert \vec{R} \rVert } \right) + \alpha
 $$
 
 #### Métodos gráficos
@@ -65,15 +63,11 @@ $$
 
 Una forma de sumar vectores gráficamente es colocando el segundo vector en la punta del primero. Entonces, su suma $\vec{R}$ será el vector que va desde el inicio del primer vector hasta la punta del segundo.
 
-#todo
-- [ ] Añadir diagrama
-
 ##### Método del paralelogramo
 
 Otra forma de sumar vectores gráficamente es trasladándolos desde su origen común para formar un paralelogramo de la siguiente manera:
 
-#todo
-- [ ] Añadir diagrama
+![[Metodo del paralelogramo.excalidraw]]
 
 ### Producto con escalar
 
