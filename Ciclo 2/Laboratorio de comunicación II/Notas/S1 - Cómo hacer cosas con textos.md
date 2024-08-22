@@ -47,3 +47,7 @@ La redacción académica y la reescritura ocurre en  **comunidades**, entre pers
 Tiene formatos, modelos y reglas en acorde con esta práctica social.
 
 Diferentes productos (textos) tienen distintos propósitos, que dependen sobre todo del área que explora el texto. En el caso de las ingenierías, este trabajo suele ser **cuantitativo**.
+
+## La buena lectura
+
+Es **imposible** una lectura **objetiva**. Sin embargo, es posible una lectura **cuidadosa**. En ese sentido, debemos ser lectores **justos** y **autorreflexivos**.
