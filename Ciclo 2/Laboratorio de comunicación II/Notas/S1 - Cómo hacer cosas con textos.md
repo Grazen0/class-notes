@@ -20,7 +20,7 @@ No obstante, el problema es cómo llegar a ese "algo más" **sin simplemente par
 
 Aquí es donde entra la **reescritura**, que va *más allá de la simple paráfrasis*.
 
-## La reescritura
+### La reescritura
 
 ```ad-tldr
 
@@ -36,6 +36,14 @@ El proceso de la reescritura es:
 
 1. Extraer
 2. Comentar
-3. **Añadir** (parte creativa)
+3. Añadir (parte creativa)
 
 Los textos académicos están llenos de **paráfrasis** y **citas textuales**.
+
+#### La reescritura como práctica social
+
+La redacción académica y la reescritura ocurre en  **comunidades**, entre personas de un **oficio** o especialización particular.
+
+Tiene formatos, modelos y reglas en acorde con esta práctica social.
+
+Diferentes productos (textos) tienen distintos propósitos, que dependen sobre todo del área que explora el texto. En el caso de las ingenierías, este trabajo suele ser **cuantitativo**.
