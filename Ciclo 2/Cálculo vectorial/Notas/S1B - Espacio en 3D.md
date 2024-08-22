@@ -2,6 +2,7 @@ En este curso, el espacio en tres dimensiones está orientado de la siguiente fo
 
 #todo
 - [ ] Añadir gráfica, $Y$ a la derecha, $X$ saliendo de la pantalla y $Z$ hacia arriba.
+- [ ] Añadir gráficas para todos los cuerpos
 
 ## Cuerpos en tres dimensiones
 

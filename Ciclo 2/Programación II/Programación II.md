@@ -12,7 +12,7 @@
 
 **Teoría:** José Fiestas
 
-**Laboratorio:** 
+**Laboratorio:** José Cumpa
 
 ## Sistema de evaluación
 
