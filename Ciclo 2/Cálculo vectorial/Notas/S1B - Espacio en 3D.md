@@ -10,14 +10,6 @@ En este curso, el espacio en tres dimensiones está orientado de la siguiente fo
 
 Las ecuaciones de estos cuerpos se encuentran con origen en $\left< 0, 0, 0 \right>$. Su traslación es trivial.
 
-### Esfera
-
-Caso especial del elipsoide, tras un poco de simplificación.
-
-$$
-x^{2} + y^{2} + z^{2} = r^{2}
-$$
-
 ### Elipsoide
 
 $$
@@ -25,6 +17,14 @@ $$
 $$
 
 donde $a$, $b$ y $c$ son los radios del elipse en cada dimensión respectivamente.
+
+#### Esfera
+
+Caso particular del elipsoide donde $a = b = c$.
+
+$$
+x^{2} + y^{2} + z^{2} = r^{2}
+$$
 
 ### Paraboloide
 
