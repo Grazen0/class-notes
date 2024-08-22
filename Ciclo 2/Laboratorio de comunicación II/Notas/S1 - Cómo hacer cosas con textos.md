@@ -22,6 +22,14 @@ Aquí es donde entra la **reescritura**, que va *más allá de la simple paráfr
 
 ## La reescritura
 
+```ad-tldr
+
+El trabajo intelectual es **aprovechar** y **cuestionar** las ideas de lo escrito antes.
+
+Sin embargo, nunca debe ser plagio.
+
+```
+
 La reescritura es **tomar y reinterpretar**, hallar nuevos pensamientos e ideas en un texto, posiblemente a partir de nuestras propias experiencias.
 
 El proceso de la reescritura es:
@@ -29,3 +37,5 @@ El proceso de la reescritura es:
 1. Extraer
 2. Comentar
 3. **Añadir** (parte creativa)
+
+Los textos académicos están llenos de **paráfrasis** y **citas textuales**.
