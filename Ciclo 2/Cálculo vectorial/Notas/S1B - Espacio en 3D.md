@@ -1,8 +1,10 @@
 En este curso, el espacio en tres dimensiones está orientado de la siguiente forma:
 
 #todo
-- [ ] Añadir gráfica, $Y$ a la derecha, $X$ saliendo de la pantalla y $Z$ hacia arriba.
+- [x] Añadir gráfica, $Y$ a la derecha, $X$ saliendo de la pantalla y $Z$ hacia arriba.
 - [ ] Añadir gráficas para todos los cuerpos
+
+![[Espacio 3D.excalidraw]]
 
 ## Cuerpos en tres dimensiones
 
