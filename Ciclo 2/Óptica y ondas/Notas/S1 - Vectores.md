@@ -84,7 +84,7 @@ $$
 \begin{align}
 \vec{A} &= (0, -8)\,\text{m} \\
 \vec{B} &= (15\sin(30°), 15\cos(30°))\,\text{m} \\
-\vec{C} &= (-12\sin(25°), -12\cos(25°))\,\text{m} \\
+\vec{C} &= (-12\cos(25°), -12\sin(25°))\,\text{m} \\
 \vec{D} &= (-10\cos(53°), 10\sin(53°))\,\text{m}
 \end{align}
 $$
