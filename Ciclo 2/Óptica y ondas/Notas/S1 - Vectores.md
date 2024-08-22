@@ -151,9 +151,14 @@ $$
 \end{align}
 $$
 
+### Propiedades
+
+- Si $\vec{A}$ y $\vec{B}$ son perpendiculares, entonces $\vec{A} \cdot \vec{B} = 0$.
+- Si $\vec{A}$ y $\vec{B}$ tienen la misma dirección, entonces $\vec{A} \cdot \vec{B} = \lVert A \rVert \lVert B \rVert$.
+
 ## Producto cruz/vectorial
 
-El producto cruz de $\vec{A}$ y $\vec{B}$ es un vector perpendicular a $\vec{A}$ y $\vec{B}$, cuyo largo es el área que forman el paralelogramo de ambos vectores.
+El producto cruz de $\vec{A}$ y $\vec{B}$ es un vector perpendicular a $\vec{A}$ y $\vec{B}$, cuyo largo es el área del paralelogramo que forman ambos vectores.
 
 $$
 \begin{align}
@@ -171,12 +176,32 @@ B_{x} & B_{y}
 $$
 
 No está definido para vectores de dos dimensiones o menos.
+
+```ad-tip
+title: Tip: Regla de la mano derecha
+collapse: closed
+
+Un truco para averiguar la dirección de un producto cruz entre $\vec{A}$ y $\vec{B}$ es la regla de la mano derecha.
+
+Colocamos la mano de la siguiente forma:
+
+![[right hand rule.png]]
+
+1. Dedo índice: $\vec{A}$
+2. Dedo medio: $\vec{B}$
+3. Dedo pulgar: $\vec{A} \times \vec{B}$
+
+(En la imagen se ve diferente, pero creo que en este curso lo hacemos así)
+
+```
+
 ### Propiedades
 
-- $\vec{A} \times \vec{B} = -\vec{B} \times \vec{A}$.
-- $\vec{A} \vec{\times}$
+- **Módulo:** $\lVert \vec{A} \times \vec{B} \rVert = \lVert \vec{A} \rVert \lVert \vec{B} \rVert \sin(\theta)$
+- **Anti-conmutatividad:** $\vec{A} \times \vec{B} = -\vec{B} \times \vec{A}$.
+- Si $\vec{A}$ y $\vec{B}$ son perpendiculares, entonces $\vec{A} \times \vec{B} = 0$.
 
-### Productos cruz de vectores unitarios
+#### Productos cruz de vectores unitarios
 
 $$
 \begin{array}{ l l l }
