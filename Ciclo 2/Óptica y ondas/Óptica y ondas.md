@@ -17,13 +17,9 @@
 
 ## Sistema de evaluación
 
-| Tipo                     | Cód. | Nota  | Semana | Fecha |
-| ------------------------ | :--: | :---: | :----: | :---: |
-| Evaluación continua      |  C   |  25%  |   ?    |   ?   |
-| Actividad de laboratorio |  L1  | 12.5% |  7-8   |   ?   |
-| Examen parcial           |  EP  |  20%  |   10   |   ?   |
-| Actividad de laboratorio |  L2  | 12.5% | 13-14  |   ?   |
-| Examen final             |  EF  |  30%  |   16   |   ?   |
-
-#todo
-- [ ] Actualizar los porcentajes según el PPT, el sílabo no vale.
+| Tipo                     | Cód. | Nota | Semana | Fecha |
+| ------------------------ | :--: | :--: | :----: | :---: |
+| Evaluación continua      |  C   | 40%  |   ?    |   ?   |
+| Actividad de laboratorio |  L   | 20%  |   ?    |   ?   |
+| Examen parcial           |  EP  | 15%  |   10   |   ?   |
+| Examen final             |  EF  | 25%  |   16   |   ?   |

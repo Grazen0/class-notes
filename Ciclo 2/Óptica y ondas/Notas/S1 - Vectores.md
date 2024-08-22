@@ -71,11 +71,12 @@ $$
 
 En cualquiera de los casos, los signos $\pm$ dependen del cuadrante donde se encuentre el vector.
 
-#todo
-- [ ] Copiar diagrama del PPT al ejercicio aquí abajo
 
 ```ad-exercise
 title: Ejercicio de conversión de coordenadas
+collapse: closed
+
+![[vectores.png]]
 
 Con el primer método, obtenemos
 
@@ -106,12 +107,12 @@ $$
 ```ad-note
 title: Nota
 
-En este curso, los vecto
+En este curso, los "vectores unitarios" hacen referencia a los vectores **bases**, no a los vectores de módulo $1$.
 
 ```
 
 
-Tienen un módulo igual a $1$. Son las **bases** del sistema cartesiano. Cualquier vector $\vec{A}$ se puede representar de la forma
+Son las **bases** del sistema cartesiano, y tienen módulo $1$. Cualquier vector $\vec{A}$ se puede representar como una combinación linear de las bases, con la forma
 
 $$
 \vec{A} = A_{x}\hat{i} + B_{x}\hat{j}
