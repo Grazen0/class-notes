@@ -59,4 +59,13 @@ En este sentido, una buena reescritura se basa en una lectura donde nos esforzam
 
 Lo más importante es **entender al autor en su contexto**. Podemos no estar de acuerdo con lo que dice, pero de cualquier forma debemos entender **por qué lo dice**, comprenderlo en su situación y contexto.
 
-Para entender 
+Para entender y poder usar de cualquier manera la idea de alguien más, uno debe ser capaz de **reafirmar** lo que dice, con nuestras propias palabras. Esto implica tener conocimiento sobre por qué lo dice, sea la veracidad o moral que tenga la idea.
+
+```ad-question
+title: Preguntas  que deberíamos responder
+
+1. ¿Cuál es el proyecto de Lem con *Solaris*?
+2. ¿Cuáles son las palabras o pasajes clave de *Solaris*?
+3. ¿Cuáles son los usos y límites de su enfoque?
+
+```
