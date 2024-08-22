@@ -25,4 +25,5 @@
 | Actividad de laboratorio |  L2  | 12.5% | 13-14  |   ?   |
 | Examen final             |  EF  |  30%  |   16   |   ?   |
 
+#todo
 - [ ] Actualizar los porcentajes según el PPT, el sílabo no vale.

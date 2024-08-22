@@ -71,10 +71,11 @@ $$
 
 En cualquiera de los casos, los signos $\pm$ dependen del cuadrante donde se encuentre el vector.
 
+#todo
+- [ ] Copiar diagrama del PPT al ejercicio aquí abajo
+
 ```ad-exercise
 title: Ejercicio de conversión de coordenadas
-
-- [ ] Copiar diagrama del PPT
 
 Con el primer método, obtenemos
 
