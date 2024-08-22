@@ -154,7 +154,9 @@ $$
 El producto cruz de $\vec{A}$ y $\vec{B}$ es un vector ortogonal (perpendicular) a $\vec{A}$ y $\vec{B}$, cuyo largo es el área que forman el paralelogramo de ambos vectores.
 
 $$
-\vec{A} \times \vec{B} &= (A_{y}B_{z} - A_{z}B_{y}, )
+\begin{align}
+\vec{A} \times \vec{B} &=
+\end{align}
 $$
 
 No está definido para vectores de dos dimensiones o menos.
