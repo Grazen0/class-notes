@@ -123,7 +123,7 @@ $$
 
 ### Suma (vector resultante)
 
-Literalmente significa **"suma"**. Usualmente denotamos este resultante como $\vec{R}$.
+Usualmente denotamos el resultante como $\vec{R}$.
 
 $$
 \begin{align}
@@ -134,7 +134,7 @@ $$
 
 Para 3 dimensiones, las operaciones son análogas.
 
-### Producto punto/escalar
+### Producto escalar
 
 El producto escalar del vector $\vec{A}$ con el vector $\vec{B}$ es la proyección de $\vec{A}$ sobre $\vec{B}$ multiplicado por 
 
@@ -145,12 +145,12 @@ $$
 \end{align}
 $$
 
-### Propiedades
+#### Propiedades
 
 - Si $\vec{A}$ y $\vec{B}$ son perpendiculares, entonces $\vec{A} \cdot \vec{B} = 0$.
 - Si $\vec{A}$ y $\vec{B}$ tienen la misma dirección, entonces $\vec{A} \cdot \vec{B} = \lVert A \rVert \lVert B \rVert$.
 
-## Producto cruz/vectorial
+### Producto vectorial
 
 El producto cruz de $\vec{A}$ y $\vec{B}$ es un vector perpendicular a $\vec{A}$ y $\vec{B}$, cuyo largo es el área del paralelogramo que forman ambos vectores.
 
@@ -189,13 +189,13 @@ Colocamos la mano de la siguiente forma:
 
 ```
 
-### Propiedades
+#### Propiedades
 
 - **Módulo:** $\lVert \vec{A} \times \vec{B} \rVert = \lVert \vec{A} \rVert \lVert \vec{B} \rVert \sin(\theta)$
 - **Anti-conmutatividad:** $\vec{A} \times \vec{B} = -\vec{B} \times \vec{A}$.
 - Si $\vec{A}$ y $\vec{B}$ son perpendiculares, entonces $\vec{A} \times \vec{B} = 0$.
 
-#### Productos cruz de vectores unitarios
+##### Productos cruz de vectores unitarios
 
 $$
 \begin{array}{ l l l }
