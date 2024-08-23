@@ -18,12 +18,31 @@ Ejemplos de **vectores**:
 
 Un vector se puede representar de dos formas:
 
-- Polar, $(r, \theta)$
-- Cartesiana, $(A_{x}, A_{y})$
+## Sistemas de representación
 
-## Conversión de sistemas
+### Formas
 
-### Polar a cartesiano
+#### Forma polar
+
+La forma polar utiliza la **magnitud** y **dirección** del vector.
+
+$$
+\vec{A} = (r, \theta)
+$$
+
+#### Forma cartesiana
+
+La forma cartesiana utiliza las **componentes** del vector.
+
+$$
+\vec{A} = (A_{x}, A_{y})
+$$
+
+### Conversión de sistemas
+
+#### Polar $\to$ cartesiano
+
+También se le llama **"descomponer"**.
 
 Los componentes de un vector se pueden conseguir a partir de la dirección y la magnitud de un vector.
 
@@ -36,7 +55,9 @@ $$
 
 donde $\theta$ es el ángulo que **parte en sentido horario desde el eje X**.
 
-#### Ángulos relativos
+````ad-seealso
+title: Conversión con ángulos "relativos"
+collapse: closed
 
 ```ad-note
 title: Nota
@@ -67,9 +88,10 @@ $$
 
 En cualquiera de los casos, los signos $\pm$ dependen del cuadrante donde se encuentre el vector.
 
+````
 
 ```ad-exercise
-title: Ejercicio de conversión de coordenadas
+title: Ejercicio
 collapse: closed
 
 ![[vectores.png]]
@@ -98,11 +120,16 @@ $$
 
 ```
 
-### Cartesiano a polar
+#### Cartesiano $\to$ polar
 
-**Magnitud:** $\lVert \vec{A} \rVert = \sqrt{(A_{x})^{2} + (A_{y})^{2}}$
+$$
+\begin{align}
+\lVert \vec{A} \rVert &= \sqrt{(A_{x})^{2} + (A_{y})^{2}} \\
+\theta &= \arctan\left( \frac{A_{y}}{A_{x}} \right) & (-90\degree < \theta < 90\degree)
+\end{align}
+$$
 
-**Orientación:** $\theta = \tan^{-1}\left( \frac{A_{y}}{A_{x}} \right) \qquad (-90\degree < \theta < 90\degree)$
+Pero ojo con la dirección, porque a menudo tenemos que ajustar el resultado de la arcotangente.
 
 ## Vectores unitarios
 
@@ -148,7 +175,7 @@ $$
 #### Propiedades
 
 - Si $\vec{A}$ y $\vec{B}$ son perpendiculares, entonces $\vec{A} \cdot \vec{B} = 0$.
-- Si $\vec{A}$ y $\vec{B}$ tienen la misma dirección, entonces $\vec{A} \cdot \vec{B} = \lVert A \rVert \lVert B \rVert$.
+- Si $\vec{A}$ y $\vec{B}$ son colineales, entonces $\vec{A} \cdot \vec{B} = \lVert A \rVert \lVert B \rVert$.
 
 ### Producto vectorial
 
