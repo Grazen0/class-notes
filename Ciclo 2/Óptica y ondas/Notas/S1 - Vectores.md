@@ -1,6 +1,6 @@
 En óptica y ondas, los vectores sirven para representar y describir las características de las ondas electromagnéticas.
 
-## Escalares y vectores
+## Escalares vs. vectores
 
 Ejemplos de **escalares**:
 
