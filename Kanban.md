@@ -10,16 +10,6 @@ kanban-plugin: board
 	
 	@{10-09-2024} 
 	#calculo
-- [ ] **MATLAB Onramp**
-	
-	Curso de MATLAB facilito.
-	
-	#lineal #lab 
-	@{26-08-2024}
-- [ ] **Ejemplo 5 del PPT**
-	
-	#progra #lab 
-	@{23-08-2024}
 
 
 ## 📚 Lecturas
@@ -39,6 +29,16 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **Ejemplo 5 del PPT**
+	
+	#progra #lab 
+	@{23-08-2024}
+- [x] **MATLAB Onramp**
+	
+	Curso de MATLAB facilito.
+	
+	#lineal #lab 
+	@{26-08-2024}
 - [x] **Pierre Menard, autor del Quijote**
 	
 	#comu
