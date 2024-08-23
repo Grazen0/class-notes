@@ -1,7 +1,8 @@
 ```ad-theorem
 title: Inducción fuerte.
 
-
+1. Demostrar el caso base.
+2. Demostrar que $P(1) \land P(2) \land \ldots \land P(k) \implies P(k + 1)$ para todo entero $k$ sobre el caso base.
 
 ```
 
@@ -25,3 +26,10 @@ Ahora supongamos que la proposición es cierta para algún $n = k$. Como $k \geq
 ```
 
 ````
+
+```ad-exercise
+title: Ejercicio.
+
+Cualquier entero positivo $n$ se puede representar como una suma de potencias de $2$ (siendo las potencias distintas entre sí).
+
+```
