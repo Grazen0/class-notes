@@ -187,7 +187,7 @@ $$
 Calcular el **ángulo** entre dos vectores:
 
 $$
-\cos(\theta) = \frac{\vec{A} \cdot \vec{B}}{\lVert A \rVert \lVert B \rVert }
+\theta = \arccos\left( \frac{\vec{A} \cdot \vec{B}}{\lVert A \rVert \lVert B \rVert } \right) 
 $$
 
 Calcular la **proyección** de un vector sobre otro. Por ejemplo, para la proyección de $\vec{A}$ sobre $\vec{B}$:
@@ -202,16 +202,22 @@ El producto cruz de $\vec{A}$ y $\vec{B}$ es un vector perpendicular a $\vec{A}$
 
 $$
 \begin{align}
-\vec{A} \times \vec{B} &= \left(\begin{vmatrix}
+\vec{A} \times \vec{B} &= \begin{vmatrix}
+\hat{\mathbf{i}} & \hat{\mathbf{j}} & \hat{\mathbf{k}} \\
+A_{x} & A_{y} & A_{z} \\
+B_{x} & B_{y} & B_{z}
+\end{vmatrix} \\
+&= \begin{vmatrix}
 A_{y} & A_{z} \\
 B_{y} & B_{z}
-\end{vmatrix}, \begin{vmatrix}
+\end{vmatrix}\hat{\mathbf{i}} - \begin{vmatrix}
 A_{z} & A_{x} \\
 B_{z} & B_{x}
-\end{vmatrix}, \begin{vmatrix}
+\end{vmatrix}\hat{\mathbf{j}} + \begin{vmatrix}
 A_{x} & A_{y} \\
 B_{x} & B_{y}
-\end{vmatrix}\right)
+\end{vmatrix}\hat{\mathbf{k}} \\
+&= (A_{y}B_{z} - A_{z}B_{y})\hat{\mathbf{i}} - (A_{z}B_{x} - A_{x}B_{z})\hat{\mathbf{j}} + (A_{x}B_{y} - A_{y}B_{x})\hat{\mathbf{k}}
 \end{align}
 $$
 
@@ -238,7 +244,7 @@ Colocamos la mano de la siguiente forma:
 #### Propiedades
 
 - **Módulo:** $\lVert \vec{A} \times \vec{B} \rVert = \lVert \vec{A} \rVert \lVert \vec{B} \rVert \sin(\theta)$
-- **Anti-conmutatividad:** $\vec{A} \times \vec{B} = -\vec{B} \times \vec{A}$.
+- **Anticonmutatividad:** $\vec{A} \times \vec{B} = -\vec{B} \times \vec{A}$.
 - Si $\vec{A}$ y $\vec{B}$ son perpendiculares, entonces $\vec{A} \times \vec{B} = 0$.
 
 ##### Productos cruz de vectores unitarios
