@@ -182,6 +182,20 @@ $$
 - Si $\vec{A}$ y $\vec{B}$ son perpendiculares, entonces $\vec{A} \cdot \vec{B} = 0$.
 - Si $\vec{A}$ y $\vec{B}$ son colineales, entonces $\vec{A} \cdot \vec{B} = \lVert A \rVert \lVert B \rVert$.
 
+#### Usos
+
+Calcular el **ángulo** entre dos vectores:
+
+$$
+\cos(\theta) = \frac{\vec{A} \cdot \vec{B}}{\lVert A \rVert \lVert B \rVert }
+$$
+
+Calcular la **proyección** de un vector sobre otro. Por ejemplo, para la proyección de $\vec{A}$ sobre $\vec{B}$:
+
+$$
+\lVert A \rVert \cos(\theta) = \frac{\vec{A} \cdot \vec{B}}{\lVert B \rVert }
+$$
+
 ### Producto cruz/vectorial
 
 El producto cruz de $\vec{A}$ y $\vec{B}$ es un vector perpendicular a $\vec{A}$ y $\vec{B}$, cuyo largo es el área del paralelogramo que forman ambos vectores.
