@@ -6,10 +6,6 @@ kanban-plugin: board
 
 ## ☕ Tareas
 
-- [ ] **Tarea semanal 0**
-	
-	@{10-09-2024} 
-	#calculo
 
 
 ## 📚 Lecturas
@@ -29,6 +25,10 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **Tarea semanal 0**
+	
+	@{10-09-2024} 
+	#calculo
 
 
 ***
