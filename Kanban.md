@@ -29,20 +29,6 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
-- [x] **Ejemplo 5 del PPT**
-	
-	#progra #lab 
-	@{23-08-2024}
-- [x] **MATLAB Onramp**
-	
-	Curso de MATLAB facilito.
-	
-	#lineal #lab 
-	@{26-08-2024}
-- [x] **Pierre Menard, autor del Quijote**
-	
-	#comu
-	@{28-08-2024}
 
 
 ***
@@ -356,6 +342,20 @@ kanban-plugin: board
 	
 	@{17-07-2024}
 	#pi #lab #grupal
+- [x] **Ejemplo 5 del PPT**
+	
+	#progra #lab 
+	@{23-08-2024}
+- [x] **MATLAB Onramp**
+	
+	Curso de MATLAB facilito.
+	
+	#lineal #lab 
+	@{26-08-2024}
+- [x] **Pierre Menard, autor del Quijote**
+	
+	#comu
+	@{28-08-2024}
 
 %% kanban:settings
 ```
