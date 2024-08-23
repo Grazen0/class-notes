@@ -33,3 +33,10 @@ title: Ejercicio.
 Cualquier entero positivo $n$ se puede representar como una suma de potencias de $2$ (siendo las potencias distintas entre sí).
 
 ```
+
+```ad-exercise
+title: Ejercicio (teorema fundamental de la aritmética).
+
+Todo entero entero $n \geq 2$ se puede expresar como producto de uno o más números primos.
+
+```
