@@ -221,7 +221,7 @@ B_{x} & B_{y}
 \end{align}
 $$
 
-No está definido para vectores de dos dimensiones o menos.
+Solo está definido para vectores de **3 dimensiones**.
 
 ```ad-tip
 title: Tip: Regla de la mano derecha
