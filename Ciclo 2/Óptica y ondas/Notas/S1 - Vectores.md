@@ -18,12 +18,14 @@ Ejemplos de **vectores**:
 
 Un vector se puede representar de dos formas:
 
-- Coordenadas **cartesianas** $(r, \theta)$.
-- Coordenadas **polares** $(A_{x}, A_{y}, A_{z})$.
+- Polar, $(r, \theta)$
+- Cartesiana, $(A_{x}, A_{y})$
 
-## Coordenadas polares
+## Conversión de sistemas
 
-Las coordenadas cartesianas se pueden obtener a partir de las polares con
+### Polar a cartesiano
+
+Los componentes de un vector se pueden conseguir a partir de la dirección y la magnitud de un vector.
 
 $$
 \begin{align}
@@ -34,13 +36,7 @@ $$
 
 donde $\theta$ es el ángulo que **parte en sentido horario desde el eje X**.
 
-### Magnitud y orientación
-
-**Magnitud:** $\lVert \vec{A} \rVert = \sqrt{(A_{x})^{2} + (A_{y})^{2}}$
-
-**Orientación:** $\theta = \tan^{-1}\left( \frac{A_{y}}{A_{x}} \right) \qquad (-90\degree < \theta < 90\degree)$
-
-### Ángulos relativos
+#### Ángulos relativos
 
 ```ad-note
 title: Nota
@@ -102,6 +98,12 @@ $$
 
 ```
 
+### Cartesiano a polar
+
+**Magnitud:** $\lVert \vec{A} \rVert = \sqrt{(A_{x})^{2} + (A_{y})^{2}}$
+
+**Orientación:** $\theta = \tan^{-1}\left( \frac{A_{y}}{A_{x}} \right) \qquad (-90\degree < \theta < 90\degree)$
+
 ## Vectores unitarios
 
 ```ad-note
@@ -111,14 +113,15 @@ En este curso, los "vectores unitarios" hacen referencia a los vectores **bases*
 
 ```
 
-
 Son las **bases** del sistema cartesiano, y tienen módulo $1$. Cualquier vector $\vec{A}$ se puede representar como una combinación linear de las bases, con la forma
 
 $$
 \vec{A} = A_{x}\hat{i} + B_{x}\hat{j}
 .$$
 
-## Vector resultante
+## Operaciones con vectores
+
+### Suma (vector resultante)
 
 Literalmente significa **"suma"**. Usualmente denotamos este resultante como $\vec{R}$.
 
@@ -129,18 +132,9 @@ $$
 \end{align}
 $$
 
-Además, trivialmente
-
-$$
-\begin{align}
-\theta_{\vec{R}} &= \tan^{-1}\left( \frac{A_{y} + B_{y}}{A_{x} + A_{y}}  \right) & (-90\degree < \theta < 90\degree) \\
-\lVert \vec{R} \rVert &= \sqrt{(A_{x} + B_{x})^{2} + (A_{y} + B_{y})^{2}}
-.\end{align}
-$$
-
 Para 3 dimensiones, las operaciones son análogas.
 
-## Producto punto/escalar
+### Producto punto/escalar
 
 El producto escalar del vector $\vec{A}$ con el vector $\vec{B}$ es la proyección de $\vec{A}$ sobre $\vec{B}$ multiplicado por 
 
