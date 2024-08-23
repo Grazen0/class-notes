@@ -42,7 +42,7 @@ $$
 
 #### Polar $\to$ cartesiano
 
-También se le llama **"descomponer"**.
+Se le llama **"descomponer"**.
 
 Los componentes de un vector se pueden conseguir a partir de la dirección y la magnitud de un vector.
 
@@ -152,18 +152,23 @@ $$
 
 Usualmente denotamos el resultante como $\vec{R}$.
 
+La suma de dos vectores es un vector con las sumas de sus componentes respectivos.
+
 $$
 \begin{align}
-\vec{R} = \vec{A} + \vec{B} &= (A_{x} + B_{x}, A_{y} + B_{y}) \\
-&= (A_{x} + B_{x})\hat{i} + (A_{y} + B_{y})\hat{j}
+\vec{R} = \vec{A} \pm \vec{B} &= (A_{x} \pm B_{x}, A_{y} \pm B_{y}) \\
+&= (A_{x} \pm B_{x})\hat{i} + (A_{y} \pm B_{y})\hat{j
+}
 \end{align}
 $$
 
 Para 3 dimensiones, las operaciones son análogas.
 
+De la misma forma, la **resta** es análoga
+
 ### Producto escalar
 
-El producto escalar del vector $\vec{A}$ con el vector $\vec{B}$ es la proyección de $\vec{A}$ sobre $\vec{B}$ multiplicado por 
+El producto escalar del vector $\vec{A}$ con el vector $\vec{B}$ es la proyección de $\vec{A}$ sobre $\vec{B}$ multiplicado por $\lVert B \rVert$ (o viceversa).
 
 $$
 \begin{align}
