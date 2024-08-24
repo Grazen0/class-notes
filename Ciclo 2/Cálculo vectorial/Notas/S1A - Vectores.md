@@ -148,6 +148,47 @@ $$
 
 En otras palabras, dos vectores son paralelos cuando uno de ellos se puede convertir en el otro al multiplicarlo por algún escalar.
 
+## Vectores unitarios
+
+```ad-definition
+
+Un vector $\vec{v}$ es **unitario** si y solo si $\lVert \vec{v} \rVert = 1$.
+
+```
+
+
+Todo vector $\vec{v}$ tiene un vector unitario correspondiente, usualmente denotado por $\hat{v}$. 
+
+Un vector $\vec{v}$ se puede convertir en su vector unitario correspondiente $\hat{v}$ con la misma dirección al **dividirlo por su módulo**. Es decir:
+$$
+\hat{v} = \frac{\vec{v}}{\lVert \vec{v} \rVert }
+$$
+
+Además, esto implica que un vector se puede conseguir a partir de su vector unitario y su módulo, de la siguiente forma:
+
+$$
+\vec{v} = \lVert \vec{v} \rVert \hat{v}
+$$
+
+### Vectores canónicos
+
+Los vectores canónicos son la base del sistema de coordenadas.
+
+$$
+\begin{align}
+\hat{\mathbf{i}} = (1, 0, 0) \\
+\hat{\mathbf{j}} = (0, 1, 0) \\
+\hat{\mathbf{k}} = (0, 0, 1)
+\end{align}
+$$
+
+Cualquier vector $\vec{v}$ se puede representar en términos de los vectores canónicos como
+
+$$
+\vec{v} = \vec{v}_{x}\hat{\mathbf{i}} + \vec{v}_{y}\hat{\mathbf{j}} + \vec{v}_{z}\hat{\mathbf{k}}
+.$$
+
+
 ## Operaciones con vectores
 
 Ver también: **[[S2A - Producto escalar y vectorial]]**
@@ -207,4 +248,3 @@ Multiplicar un vector con un escalar es multiplicar sus componentes por el escal
 $$
 c \cdot \vec{v} = ( c \cdot \vec{v}_{x}, c \cdot \vec{v}_{y} ) 
 $$
-
