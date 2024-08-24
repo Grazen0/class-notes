@@ -59,7 +59,7 @@ $$
 ### Paraboloide
 
 $$
-x^{2} + y^{2} = z
+\frac{x^{2}}{a^{2}} + y^{2} = z
 $$
 
 ![[paraboloide.png]]
