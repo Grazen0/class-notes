@@ -1,6 +1,6 @@
 Comenzamos definiendo $\operatorname{proy}_{\vec{w}}(\vec{v})$ como el **vector de la proyección** de $\vec{v}$ sobre $\vec{w}$.
 
-Similarmente, definimos $\operatorname{comp}_{\vec{w}}(\vec{v})$ como la **magnitud** de dicha proyección.
+Similarmente, definimos $\operatorname{comp}_{\vec{w}}(\vec{v})$ (la componente de $\vec{v}$ sobre $\vec{w}$) como la **magnitud** de dicha proyección.
 
 ![[proyeccion de vectores.excalidraw]]
 
@@ -13,7 +13,7 @@ $$
 \end{align}
 $$
 
-y, fácilmente a partir de aquí,
+y, fácilmente a partir de aquí, podemos hallar el vector mismo,
 
 $$
 \operatorname{proy}_{\vec{w}}(\vec{v}) = \operatorname{comp}_{\vec{w}}(\vec{v}) \cdot \hat{w}
