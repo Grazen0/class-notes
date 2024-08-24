@@ -1,11 +1,11 @@
 ## Producto punto/escalar
 
-El producto escalar del vector $\vec{A}$ con el vector $\vec{B}$ es la proyección de $\vec{A}$ sobre $\vec{B}$ multiplicado por $\lVert B \rVert$ (o viceversa).
+El producto escalar del vector $\vec{v}$ con el vector $\vec{w}$ es la proyección de $\vec{v}$ sobre $\vec{w}$ multiplicado por $\lVert B \rVert$ (o viceversa).
 
 $$
 \begin{align}
-\vec{A} \cdot \vec{B} &= \lVert A \rVert \lVert B \rVert \cos(\theta) \\
-&= A_{x}B_{x} + A_{y}B_{y} + A_{z}B_{z}
+\vec{v} \cdot \vec{w} &= \lVert v \rVert \lVert w \rVert \cos(\theta) \\
+&= v_{x}w_{x} + v_{y}w_{y} + v_{z}w_{z}
 \end{align}
 $$
 
@@ -13,31 +13,31 @@ $$
 
 ![[Producto punto (propiedades).excalidraw|width:100%]]
 
-- Si $\theta < 90\degree$, entonces $\vec{A} \cdot \vec{B} > 0$.
-- Si $\theta > 90\degree$, entonces $\vec{A} \cdot \vec{B} < 0$.
-- Si $\vec{A}$ y $\vec{B}$ son perpendiculares, entonces $\vec{A} \cdot \vec{B} = 0$.
+- Si $\theta < 90\degree$, entonces $\vec{v} \cdot \vec{w} > 0$.
+- Si $\theta > 90\degree$, entonces $\vec{v} \cdot \vec{w} < 0$.
+- Si $\vec{v}$ y $\vec{w}$ son perpendiculares, entonces $\vec{v} \cdot \vec{w} = 0$.
 
 ### Usos
 
 Calcular el **ángulo** entre dos vectores:
 
 $$
-\theta = \arccos\left( \frac{\vec{A} \cdot \vec{B}}{\lVert A \rVert \lVert B \rVert } \right) 
+\theta = \arccos\left( \frac{\vec{v} \cdot \vec{w}}{\lVert A \rVert \lVert B \rVert } \right) 
 $$
 
-Calcular la **proyección** de un vector sobre otro. Por ejemplo, para la proyección de $\vec{A}$ sobre $\vec{B}$:
+Calcular la **proyección** de un vector sobre otro. Por ejemplo, para la proyección de $\vec{v}$ sobre $\vec{w}$:
 
 $$
-\lVert A \rVert \cos(\theta) = \frac{\vec{A} \cdot \vec{B}}{\lVert B \rVert }
+\lVert A \rVert \cos(\theta) = \frac{\vec{v} \cdot \vec{w}}{\lVert B \rVert }
 $$
 
 ## Producto cruz/vectorial
 
-El producto cruz de $\vec{A}$ y $\vec{B}$ es un vector perpendicular a $\vec{A}$ y $\vec{B}$, cuyo largo es el área del paralelogramo que forman ambos vectores.
+El producto cruz de $\vec{v}$ y $\vec{w}$ es un vector perpendicular a $\vec{v}$ y $\vec{w}$, cuyo largo es el área del paralelogramo que forman ambos vectores.
 
 $$
 \begin{align}
-\vec{A} \times \vec{B} &= \begin{vmatrix}
+\vec{v} \times \vec{w} &= \begin{vmatrix}
 \hat{\mathbf{i}} & \hat{\mathbf{j}} & \hat{\mathbf{k}} \\
 A_{x} & A_{y} & A_{z} \\
 B_{x} & B_{y} & B_{z}
@@ -62,15 +62,15 @@ Solo está definido para vectores de **3 dimensiones**.
 title: Tip: Regla de la mano derecha
 collapse: closed
 
-Un truco para averiguar la dirección de un producto cruz entre $\vec{A}$ y $\vec{B}$ es la regla de la mano derecha.
+Un truco para averiguar la dirección de un producto cruz entre $\vec{v}$ y $\vec{w}$ es la regla de la mano derecha.
 
 Colocamos la mano de la siguiente forma:
 
 ![[right hand rule.png]]
 
-1. Dedo índice: $\vec{A}$
-2. Dedo medio: $\vec{B}$
-3. Dedo pulgar: $\vec{A} \times \vec{B}$
+1. Dedo índice: $\vec{v}$
+2. Dedo medio: $\vec{w}$
+3. Dedo pulgar: $\vec{v} \times \vec{w}$
 
 (En la imagen se ve diferente, pero creo que en este curso lo hacemos así)
 
@@ -78,9 +78,9 @@ Colocamos la mano de la siguiente forma:
 
 ### Propiedades
 
-- **Módulo:** $\lVert \vec{A} \times \vec{B} \rVert = \lVert \vec{A} \rVert \lVert \vec{B} \rVert \sin(\theta)$
-- **Anticonmutatividad:** $\vec{A} \times \vec{B} = -\vec{B} \times \vec{A}$.
-- Si $\vec{A}$ y $\vec{B}$ son perpendiculares, entonces $\vec{A} \times \vec{B} = 0$.
+- **Módulo:** $\lVert \vec{v} \times \vec{w} \rVert = \lVert \vec{v} \rVert \lVert \vec{w} \rVert \sin(\theta)$
+- **Anticonmutatividad:** $\vec{v} \times \vec{w} = -\vec{w} \times \vec{v}$.
+- Si $\vec{v}$ y $\vec{w}$ son perpendiculares, entonces $\vec{v} \times \vec{w} = 0$.
 
 #### Productos cruz de vectores unitarios
 

@@ -4,7 +4,7 @@
 
 %% Begin Waypoint %%
 - **Notas**
-	- [[S1A - Vectores en 2D]]
+	- [[S1A - Vectores]]
 	- [[S1B - Espacio en 3D]]
 	- [[S2A - Producto escalar y vectorial]]
 	- [[S2B - Cosenos directores]]
