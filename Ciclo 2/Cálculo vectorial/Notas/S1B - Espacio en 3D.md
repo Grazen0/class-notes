@@ -1,13 +1,11 @@
 En este curso, el espacio en tres dimensiones está orientado de la siguiente forma:
 
 ```graph
-bounds: [-10, 10, 10, -10]
-bounds3D: 
+bounds: [-5, 5, 5, -5]
+bounds3d: [[-5, 5], [-5, 5], [-5, 5]]
+axis: false
+keepAspectRatio: true
 elements: [
-	{
-		type: "line",
-		def: [[0,0],[4,1]]
-	}
 ]
 ```
 
