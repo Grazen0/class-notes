@@ -4,7 +4,11 @@ En este curso, el espacio en tres dimensiones está orientado de la siguiente fo
 
 ## Planos
 
+La forma estándar:
 
+$$
+ax + by + z = d
+$$
 
 ## Cuerpos en tres dimensiones
 
