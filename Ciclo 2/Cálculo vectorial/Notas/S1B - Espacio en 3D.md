@@ -1,15 +1,10 @@
 En este curso, el espacio en tres dimensiones está orientado de la siguiente forma:
 
-```graph
-bounds: [-5, 5, 5, -5]
-bounds3d: [[-5, 5], [-5, 5], [-5, 5]]
-axis: false
-keepAspectRatio: true
-elements: [
-]
-```
-
 ![[Espacio 3D.excalidraw]]
+
+## Planos
+
+
 
 ## Cuerpos en tres dimensiones
 
