@@ -13,5 +13,11 @@ $$
 Un resultado trivial de estas equivalencias es que un vector unitario se puede representar únicamente con sus cosenos directores de la siguiente forma:
 
 $$
-\frac{\vec{v}}{\lVert \vec{v} \rVert} = \cos(\alpha)\hat{\mathbf{i}} + \cos(\beta)\hat{\mathbf{j}} + \cos(\gamma)\hat{\mathbf{k}}
+\hat{v} = \frac{\vec{v}}{\lVert \vec{v} \rVert} = \cos(\alpha)\hat{\mathbf{i}} + \cos(\beta)\hat{\mathbf{j}} + \cos(\gamma)\hat{\mathbf{k}}
+$$
+
+Como el vector unitario tiene módulo $1$, entonces podemos además obtener el resultado: la suma de los cuadrados de los cosenos directores es igual a $1$.
+
+$$
+\cos^{2}(\alpha) + \cos^{2}(\beta) + \cos^{2}(\gamma) = 1
 $$
