@@ -1,12 +1,18 @@
-```ad-theorem
-title: Inducción fuerte.
+La inducción fuerte es una técnica de demostración de cierta forma "superior" a la [[S1A - Inducción simple|inducción simple]].
 
-1. Demostrar el caso base.
-2. Demostrar que $P(1) \land P(2) \land \ldots \land P(k) \implies P(k + 1)$ para todo entero $k$ sobre el caso base.
+```ad-theorem
+title: Teorema (inducción fuerte).
+
+Sea $P(n)$ una proposición definida para cualquier entero positivo $n$. Entonces, si se cumple que
+
+1. $P(1)$ es verdadera, y
+2. si $P(1) \land P(2) \land \ldots \land P(k)$ entonces $P(k + 1)$ es verdadera,
+
+entonces $P(n)$ es verdadera para todo entero positivo $n$.
 
 ```
 
-El uso de la inducción fuerte permite (en la inducción) hacer uso no solamente del caso antecesor, sino de cualquier caso anterior.
+El uso de la inducción fuerte permite hacer uso no solamente del caso antecesor, sino de alguno o varios de los casos anteriores.
 
 ## Ejemplos y ejercicios
 
