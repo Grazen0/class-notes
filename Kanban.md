@@ -25,10 +25,6 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
-- [x] **Tarea semanal 0**
-	
-	@{10-09-2024} 
-	#calculo
 
 
 ***
@@ -356,6 +352,10 @@ kanban-plugin: board
 	
 	#comu
 	@{28-08-2024}
+- [x] **Tarea semanal 0**
+	
+	@{10-09-2024} 
+	#calculo
 
 %% kanban:settings
 ```

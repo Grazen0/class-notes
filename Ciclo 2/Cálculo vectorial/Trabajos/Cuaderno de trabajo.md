@@ -49,3 +49,27 @@ $$
 
 **d)**
 
+$$
+\vec{B} + \vec{C} = -\hat{\mathbf{i}} + 9\hat{\mathbf{j}} - \hat{\mathbf{k}}
+.$$
+
+Luego,
+
+$$
+\begin{align}
+\operatorname{comp}_{\vec{B}+\vec{C}}(\vec{A}) &= \frac{\vec{A} \cdot (\vec{B + C})}{\lVert \vec{B} + \vec{C} \rVert } \\
+&= \frac{(-3\hat{\mathbf{i}} -4\hat{\mathbf{j}} + \hat{\mathbf{k}}) \cdot (-\hat{\mathbf{i}} + 9\hat{\mathbf{j}} - \hat{\mathbf{k}})}{\sqrt{1^{2} + 9^{2} + 1^{2}}} \\
+&= \frac{(-3)(-1) + (-4)(9) + (1)(-1)}{\sqrt{83}} \\
+\operatorname{comp}_{\vec{B}+\vec{C}}(\vec{A})& = -\frac{34}{\sqrt{83}} \\
+\end{align}
+$$
+
+y por lo tanto
+
+$$
+\begin{align}
+\operatorname{proy}_{\vec{B}+\vec{C}}(\vec{A}) &= -\frac{34}{\sqrt{83}} \cdot \frac{\vec{B}+\vec{C}}{\lVert \vec{B} + \vec{C} \rVert } \\
+&= -\frac{34}{\sqrt{83}} \cdot \frac{-\hat{\mathbf{i}} + 9\hat{\mathbf{j}} - \hat{\mathbf{k}}}{\sqrt{83}} \\
+&= \frac{34}{83}\hat{\mathbf{i}} - \frac{306}{83}\hat{\mathbf{j}} + \frac{34}{83}\hat{\mathbf{k}}
+\end{align}
+$$
