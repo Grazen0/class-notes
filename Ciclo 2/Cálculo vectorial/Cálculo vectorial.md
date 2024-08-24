@@ -8,6 +8,7 @@
 	- [[S1B - Espacio en 3D]]
 	- [[S2A - Producto escalar y vectorial]]
 	- [[S2B - Cosenos directores]]
+	- [[S2C - Proyección de vectores]]
 - **Trabajos**
 	- [[Cuaderno de trabajo]]
 
