@@ -6,7 +6,7 @@
 - **Notas**
 	- [[S1A - Vectores]]
 	- [[S1B - Espacio en 3D]]
-	- [[S2A - Producto escalar y vectorial]]
+	- [[S2A - Producto punto y cruz]]
 	- [[S2B - Cosenos directores]]
 	- [[S2C - Proyección de vectores]]
 - **Trabajos**

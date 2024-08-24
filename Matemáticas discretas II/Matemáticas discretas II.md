@@ -3,6 +3,8 @@
 %% Begin Waypoint %%
 - **Notas**
 	- **1. Inducción matemática**
+		- [[S1A - Inducción simple]]
+		- [[S1B - Inducción fuerte]]
 
 %% End Waypoint %%
 

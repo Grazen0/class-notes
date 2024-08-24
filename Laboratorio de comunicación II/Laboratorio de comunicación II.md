@@ -1,4 +1,4 @@
-**[[Ciclo 2/Laboratorio de comunicación II/Sílabo.pdf|Sílabo]]** | **[[Ciclo 2/Laboratorio de comunicación II/Anexo.pdf|Anexo]]**
+**[[Laboratorio de comunicación II/Sílabo.pdf|Sílabo]]** | **[[Laboratorio de comunicación II/Anexo.pdf|Anexo]]**
 
 ## Índice
 

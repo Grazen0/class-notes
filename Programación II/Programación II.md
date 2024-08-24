@@ -1,4 +1,4 @@
-**[[Ciclo 2/Programación II/Sílabo.pdf|Sílabo]]**
+**[[Programación II/Sílabo.pdf|Sílabo]]**
 
 ## Índice
 

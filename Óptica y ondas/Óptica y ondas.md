@@ -1,4 +1,4 @@
-**[[Ciclo 2/Óptica y ondas/Sílabo.pdf|Sílabo]]** | **[[Ciclo 2/Óptica y ondas/Anexo.pdf|Anexo]]** | **[[Calendario.pdf|Calendario]]**
+**[[Óptica y ondas/Sílabo.pdf|Sílabo]]** | **[[Óptica y ondas/Anexo.pdf|Anexo]]** | **[[Calendario.pdf|Calendario]]**
 
 ## Índice
 

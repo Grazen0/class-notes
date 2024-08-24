@@ -191,7 +191,7 @@ $$
 
 ## Operaciones con vectores
 
-Ver también: **[[S2A - Producto escalar y vectorial]]**
+Ver también: **[[S2A - Producto punto y cruz]]**
 
 ### Suma/resta
 
