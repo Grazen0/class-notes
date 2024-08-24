@@ -40,6 +40,12 @@ $$
 $$
 \begin{align}
 \theta &= \arccos\left( \frac{\vec{B} \cdot \vec{C}}{\lVert \vec{B} \rVert \lVert \vec{C} \rVert } \right) \\
-&= \arccos\left( \frac{(-5)(4)+(6)(3) + (6)(-7)}{\sqrt{(-5)^{2} + 6^{2} + 6^{2}} \cdot \sqrt{4^{2} + 3^{2} + (-7)^{2}}}\right)
+&= \arccos\left( \frac{(-5)(4)+(6)(3) + (6)(-7)}{\sqrt{(-5)^{2} + 6^{2} + 6^{2}} \cdot \sqrt{4^{2} + 3^{2} + (-7)^{2}}}\right) \\
+&= \arccos \left( -\frac{44}{84.72} \right) \\
+&= \arccos \left( -\frac{44}{84.72} \right)  \\
+\theta &= 121.29\degree
 \end{align}
 $$
+
+**d)**
+
