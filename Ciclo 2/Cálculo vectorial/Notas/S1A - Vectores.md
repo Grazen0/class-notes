@@ -18,7 +18,29 @@ $$
 \end{align}
 $$
 
-![[Vector ejemplo.excalidraw|width:80%]]
+```graph
+bounds: [-6, 6, 6, -6]
+keepAspectRatio: true
+elements: [
+	{
+		type: "point",
+		def: [2, 4]
+	},
+	{
+		type: "point",
+		def: [-5, -1]
+	},
+	{
+		type: "arrow",
+		def: ["e0", "e1"]
+	},
+	{
+		type: "text",
+		def: [-0.5, 0.5, "$\\vec{v}$"],
+		att: { anchor: "e2" }
+	}
+]
+```
 
 La representación de un vector es completamente independiente de en qué posición se encuentra la flecha en sí. Por lo tanto, resulta conveniente muchas veces trabajar con vectores desde el origen del plano.
 

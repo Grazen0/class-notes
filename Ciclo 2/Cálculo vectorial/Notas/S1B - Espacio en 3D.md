@@ -1,7 +1,13 @@
 En este curso, el espacio en tres dimensiones está orientado de la siguiente forma:
 
 ```graph
-bounds: []
+bounds: [-10, 10, 10, -10]
+elements: [
+	{
+		type: "line",
+		def: [[0,0],[4,1]]
+	}
+]
 ```
 
 ![[Espacio 3D.excalidraw]]
