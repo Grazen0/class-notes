@@ -6,7 +6,8 @@
 - **Notas**
 	- [[S1A - Vectores en 2D]]
 	- [[S1B - Espacio en 3D]]
-	- [[S2 - Producto escalar y cosenos directores]]
+	- [[S2A - Producto escalar y vectorial]]
+	- [[S2B - Cosenos directores]]
 - **Trabajos**
 	- [[Cuaderno de trabajo]]
 

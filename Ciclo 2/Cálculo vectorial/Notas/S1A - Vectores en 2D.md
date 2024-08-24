@@ -13,8 +13,8 @@ Por ejemplo, para $I = (2,4)$ y $F = (-5, -1)$:
 $$
 \begin{align}
 \vec{v} &= \overrightarrow{IF} \\
- &= \langle -5 - 2, -1 - 4 \rangle \\
-\vec{v} &= \langle -7, -5 \rangle
+ &= ( -5 - 2, -1 - 4 ) \\
+\vec{v} &= ( -7, -5 )
 \end{align}
 $$
 
@@ -22,14 +22,28 @@ $$
 
 La representación de un vector es completamente independiente de en qué posición se encuentra la flecha en sí. Por lo tanto, resulta conveniente muchas veces trabajar con vectores desde el origen del plano.
 
+## Propiedades
+
+### Vectores paralelos
+
+Dos vectores $\vec{v}$ y $\vec{u}$ son paralelos si y solo si $\vec{v} = \lambda \vec{u}$ para algún $\lambda \in \R$.
+
+$$
+\vec{v} \parallel \vec{u} \iff \exists \lambda \in \R : \vec{v} = \lambda \vec{u}
+$$
+
+En otras palabras, dos vectores son paralelos cuando uno de ellos se puede convertir en el otro al multiplicarlo por algún escalar.
+
 ## Operaciones con vectores
 
-### Suma
+Ver también: **[[S2A - Producto escalar y vectorial]]**
+
+### Suma/resta
 
 La suma de dos vectores es la suma de sus componentes. Al resultado se le llama **resultante**, y se suele denotar con $\vec{R}$.
 
 $$
-\vec{R} = \vec{v} \pm \vec{u} = \langle v_{x} \pm u_{x}, \vec{v}_{y} \pm \vec{u}_{y} \rangle
+\vec{R} = \vec{v} \pm \vec{u} = ( v_{x} \pm u_{x}, v_{y} \pm u_{y} )
 $$
 
 #### Propiedades para vectores en forma polar
@@ -71,76 +85,12 @@ Otra forma de sumar vectores gráficamente es trasladándolos desde su origen co
 
 ![[Metodo del paralelogramo.excalidraw]]
 
+
 ### Producto con escalar
 
 Multiplicar un vector con un escalar es multiplicar sus componentes por el escalar.
 
 $$
-c \cdot \vec{v} = \langle c \cdot \vec{v}_{x}, c \cdot \vec{v}_{y} \rangle 
+c \cdot \vec{v} = ( c \cdot \vec{v}_{x}, c \cdot \vec{v}_{y} ) 
 $$
 
-## Módulo
-
-El módulo de un vector es su **magnitud** o **longitud**.
-
-$$
-\lVert \vec{v} \rVert = \sqrt{(\vec{v}_{x})^{2} + (\vec{v}_{y})^{2}}
-.$$
-
-## Vectores unitarios
-
-```ad-definition
-
-Un vector $\vec{v}$ es **unitario** si y solo si $\lVert \vec{v} \rVert = 1$.
-
-```
-
-Cada vector $\vec{v}$ tiene un vector unitario correspondiente, usualmente denotado por $\hat{v}$. Trivialmente, se cumple que un vector es igual al producto de su magnitud con su vector unitario.
-
-$$
-\vec{v} = \lVert \vec{v} \rVert \hat{v}
-$$
-
-### Transformación a vector unitario
-
-Un vector $\vec{v}$ se puede convertir en su vector unitario correspondiente $\hat{v}$ con la misma dirección al dividirlo por su módulo. Es decir:
-$$
-\hat{v} = \frac{\vec{v}}{\lVert \vec{v} \rVert }
-$$
-
-### Vectores canónicos
-
-Los vectores canónicos son la base del sistema de coordenadas.
-
-$$
-\begin{align}
-\hat{\mathbf{i}} = \langle 1, 0, 0 \rangle \\
-\hat{\mathbf{j}} = \langle 0, 1, 0 \rangle \\
-\hat{\mathbf{k}} = \left< 0, 0, 1 \right> 
-\end{align}
-$$
-
-Cualquier vector $\vec{v}$ se puede representar en términos de los vectores canónicos como
-
-$$
-\vec{v} = \vec{v}_{x}\hat{\mathbf{i}} + \vec{v}_{y}\hat{\mathbf{j}} + \vec{v}_{z}\hat{\mathbf{k}}
-.$$
-
-## Vectores paralelos
-
-Dos vectores $\vec{v}$ y $\vec{u}$ son paralelos si y solo si $\vec{v} = \lambda \vec{u}$ para algún $\lambda \in \R$.
-
-$$
-\vec{v} \parallel \vec{u} \iff \exists \lambda \in \R : \vec{v} = \lambda \vec{u}
-$$
-
-## Descomposición en componentes
-
-Un vector $\vec{v}$ de módulo $\lVert \vec{v} \rVert$ y dirección $\theta$ se puede descomponer en sus componentes como
-
-$$
-\begin{align}
-\vec{v}_{x} &= \lVert \vec{v} \rVert \cos(\theta) \\
-\vec{v}_{y} &= \lVert \vec{v} \rVert \sin(\theta)
-\end{align}
-$$
