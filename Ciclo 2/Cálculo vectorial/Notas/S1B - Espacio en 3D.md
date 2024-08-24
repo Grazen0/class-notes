@@ -4,6 +4,20 @@ En este curso, el espacio en tres dimensiones está orientado de la siguiente fo
 
 ## Planos
 
+Existen varias formas de representar un plano en tres dimensiones.
+
+### Forma punto-normal
+
+Sea $P_{0} = (x_{0}, y_{0}, z_{0})$ un punto en el plano que queremos representar, y $\vec{n} = a\hat{\mathbf{i}} + b\hat{\mathbf{j}} + c\hat{\mathbf{k}}$ uno de los dos vectores normales al plano.
+
+Por el [[S2A - Producto punto y cruz#Producto punto/escalar|producto punto]], este plano se puede escribir como
+
+$$
+\vec{n} \cdot ((x\hat{\mathbf{i}} + y\hat{\mathbf{j}} + z\hat{\mathbf{k}}) - P_{0}) = 0
+$$
+
+![[plane vectors.png]]
+
 La forma estándar:
 
 $$
