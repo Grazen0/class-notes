@@ -1,5 +1,9 @@
 En este curso, el espacio en tres dimensiones está orientado de la siguiente forma:
 
+```graph
+bounds: []
+```
+
 ![[Espacio 3D.excalidraw]]
 
 ## Cuerpos en tres dimensiones

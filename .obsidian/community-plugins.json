@@ -22,5 +22,6 @@
   "persistent-graph",
   "obsidian-checklist-plugin",
   "obsidian-charts",
-  "obsidian-tikzjax"
+  "obsidian-tikzjax",
+  "graphs"
 ]
