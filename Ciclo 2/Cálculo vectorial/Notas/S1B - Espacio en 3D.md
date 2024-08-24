@@ -2,6 +2,7 @@ En este curso, el espacio en tres dimensiones está orientado de la siguiente fo
 
 ```graph
 bounds: [-10, 10, 10, -10]
+bounds3D: 
 elements: [
 	{
 		type: "line",
