@@ -167,7 +167,9 @@ d & -b \\
 Se debe armar una matriz de $n \times 2n$, de la forma
 
 $$
-\begin{amatrix}{0}
-A & a & 2 \\ B
-\end{amatrix}
+\begin{pmatrix}[cc|c]
+1 & 2 & 3 & 4 \\
+5 & 6 & 7 & 8 \\
+9 & 10 & 11 & 12
+\end{pmatrix}
 $$
