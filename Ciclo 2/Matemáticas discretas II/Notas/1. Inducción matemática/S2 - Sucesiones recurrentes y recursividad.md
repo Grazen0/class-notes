@@ -30,3 +30,22 @@ $$
 Aquí, podemos observar que se trata de una progresión geométrica.
 
 ```
+
+```ad-example
+title: Ejemplo 2.
+
+Sea la sucesión cuyo primer término es $y_{1} = 2$ y satisface la recurrencia $y_{n} = 2y_{n-1} + 1$ para todo $n \geq 2$.
+
+Los primeros 5 términos de esta sucesión son
+
+$$
+\begin{align}
+y_{1} = 2 \\
+y_{2} = 5 \\
+y_{3} = 11 \\
+y_{4} = 23 \\
+y_{5} = 47
+\end{align}
+$$
+
+```
