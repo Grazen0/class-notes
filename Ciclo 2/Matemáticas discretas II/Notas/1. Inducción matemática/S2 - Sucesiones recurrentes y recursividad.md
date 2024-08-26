@@ -13,7 +13,7 @@ Algunos ejemplos de sucesiones recurrentes son
 ```ad-example
 title: Ejemplo.
 
-Sea $x$ una sucesión tal que $x_{1} = 1$ y $x_{n} = 2x_{n_-1}$ para todo $n \geq 2$. Es decir, donde cada término a partir del segundo es el doble del anterior.
+Sea $x$ una sucesión tal que $x_{1} = 1$ y $x_{n} = 2x_{n-1}$ para todo $n \geq 2$. Es decir, donde cada término a partir del segundo es el doble del anterior.
 
 Los primeros 5 términos de esta sucesión son
 
