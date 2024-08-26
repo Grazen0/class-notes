@@ -11,7 +11,7 @@ Algunos ejemplos de sucesiones recurrentes son
 - $x_{n} = x_{1} + x_{2} + \ldots + x_{n_1}$
 
 ```ad-example
-title: Ejemplo.
+title: Ejemplo 1.
 collapse: closed
 
 Sea $x$ una sucesión tal que $x_{1} = 1$ y $x_{n} = 2x_{n-1}$ para todo $n \geq 2$. Es decir, donde cada término a partir del segundo es el doble del anterior.
