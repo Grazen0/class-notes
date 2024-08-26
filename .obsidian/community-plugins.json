@@ -21,6 +21,5 @@
   "vim-yank-highlight",
   "persistent-graph",
   "obsidian-checklist-plugin",
-  "obsidian-charts",
-  "graphs"
+  "obsidian-charts"
 ]

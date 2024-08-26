@@ -145,7 +145,7 @@ entonces la matriz está en forma **escalonada reducida por filas** (ERF).
 
 ```ad-definition
 
-Sea $A \in M_{n \times n}$ una matriz invertible, entonces la única matriz $C$ tal que $CA = AC = I_{n}$ 
+Sea $A \in M_{n \times n}$ una matriz invertible, entonces la única matriz $A^{-1}$ tal que $A^{-1}A = A \, A^{-1} = I_{n}$.
 
 ```
 
@@ -163,6 +163,9 @@ d & -b \\
 
 ```
 
+$$
+\R
+$$
 ### Pasos para calcular una inversa
 
 Se debe armar una matriz de $n \times 2n$, de la forma
