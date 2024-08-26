@@ -107,6 +107,8 @@ entonces $P(n)$ es verdadera para todo entero positivo $n$.
 
 ```
 
+Este esquema se puede ajustar para demostrar casos a partir de algún otro par de casos base además del primero y el segundo.
+
 ````ad-example
 title: Ejemplo 1.
 
