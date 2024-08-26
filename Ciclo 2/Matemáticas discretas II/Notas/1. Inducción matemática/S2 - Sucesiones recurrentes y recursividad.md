@@ -106,3 +106,39 @@ Sea $P(n)$ una proposición definida para todo entero positivo $n$. Entonces, si
 entonces $P(n)$ es verdadera para todo entero positivo $n$.
 
 ```
+
+````ad-example
+title: Ejemplo 1.
+
+Considere la sucesión $(x_{n})_{n \geq 1}$ definida por $x_{1} = 5$, $x_{2} = 9$ y $x_{n+2} = 3x_{n+1} - 2x_{n}$, para todo $n \geq 1$. Demuestre que $x_{n} = 2^{n+1} + 1$ para todo entero positivo $n$.
+
+```ad-proof
+collapse: closed
+
+Nótese que la fórmula cumple para $n = 1$ y $n = 2$, ya que $2^{1+1} + 1 = 5 = x_{1}$ y $2^{2+1} + 1 = 9 = x_{2}$ respectivamente.
+
+Ahora, supongamos que la fórmula cumple para algún $n = k$ y $n = k + 1$, con $k \geq 3$. Entonces
+
+$$
+x_{k} = 2^{k+1} + 1 \qquad \text{y} \qquad x_{k+1} = 2^{k+2} + 1
+.$$
+
+Por la relación de recurrencia entonces, tenemos que
+
+$$
+\begin{align}
+x_{k+2} &= 3x_{k+1} - 2x_{k} \\
+&= 3(2^{k+2} + 1) - 2(2^{k+1} + 1) && \text{(H.I.)} \\
+&= 3 \cdot 2^{k+2} + 3 - 2 \cdot 2^{k+1} - 2 \\
+&= 3 \cdot 2^{k+2} - 2^{k+2} + 1 \\
+&= 2 \cdot 2^{k+2} + 1 \\
+x_{k+2} &= 2^{k+3} + 1
+.\end{align}
+$$
+
+Con esto, hemos verificado que la fórmula cumple entonces para $n = k + 2$, con lo que la inducción está completa.
+$$\qed$$
+
+```
+
+````
