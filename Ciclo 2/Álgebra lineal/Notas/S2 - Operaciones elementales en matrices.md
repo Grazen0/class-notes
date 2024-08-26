@@ -162,3 +162,13 @@ d & -b \\
 .$$
 
 ```
+
+### Pasos para calcular una inversa
+
+Se debe armar una matriz de $n \times 2n$, de la forma
+
+$$
+\begin{bmatrix}
+A \
+\end{bmatrix}
+$$
