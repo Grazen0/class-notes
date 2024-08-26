@@ -143,6 +143,9 @@ entonces la matriz está en forma **escalonada reducida por filas** (ERF).
 
 ## Matriz inversa
 
+#todo 
+- [ ] Definición de matriz invertible.
+
 ```ad-definition
 
 Sea $A \in M_{n \times n}$ una matriz invertible, entonces la única matriz $A^{-1}$ tal que $A^{-1}A = A \, A^{-1} = I_{n}$.
@@ -163,13 +166,15 @@ d & -b \\
 
 ```
 
+### Pasos para hallar una inversa
+
+#todo
+- [ ] Terminar esto
 
 Se debe armar una matriz de $n \times 2n$, de la forma
 
 $$
-\begin{pmatrix}[cc|c]
-1 & 2 & 3 & 4 \\
-5 & 6 & 7 & 8 \\
-9 & 10 & 11 & 12
-\end{pmatrix}
+\begin{bmatrix}
+A & I_{n}
+\end{bmatrix}
 $$
