@@ -72188,7 +72188,7 @@ var ObsidianGraphs = class extends import_obsidian3.Plugin {
   async onload() {
     await this.loadSettings();
     this.addSettingTab(new ObsidianGraphsSettingsTab(this.app, this));
-    window.CodeMirror.defineMode("graph", (config) => window.CodeMirror.getMode(config, "yaml"));
+    window.CodeMirror.defineMode("graph", (config) => window.CodeMirror.getMode(config, "javascript"));
     await (0, import_obsidian3.loadMathJax)();
     if (typeof MathJax !== "undefined") {
       MathJax.config.tex.inlineMath = [["$", "$"]];
@@ -72197,28 +72197,10 @@ var ObsidianGraphs = class extends import_obsidian3.Plugin {
       await MathJax.startup.getComponents();
     }
     this.app.workspace.on("file-open", () => {
-      const currentFile = this.app.workspace.getActiveFile();
-      if (currentFile) {
-        this.currentFileName = currentFile.name.substring(0, currentFile.name.indexOf("."));
-        this.currentFileName = this.currentFileName.replace(/\s/g, "");
-      }
-      const activeFileNames = [];
-      const files = this.app.workspace.getLeavesOfType("markdown");
-      files.forEach((file) => activeFileNames.push(file.getDisplayText().replace(/\s/g, "")));
-      for (const key in boards) {
-        let active = false;
-        const div = boards[key].containerObj;
-        for (const name of activeFileNames) {
-          if (div.hasClass(name)) {
-            active = true;
-            break;
-          }
-        }
-        if (!active) {
-          boards[key].containerObj.remove();
-          JSXGraph.freeBoard(boards[key]);
-        }
-      }
+      this.cullBoards();
+    });
+    this.app.workspace.on("window-close", () => {
+      this.cullBoards();
     });
     this.registerMarkdownCodeBlockProcessor("graph", (source, element) => {
       let graphInfo;
@@ -72229,14 +72211,8 @@ var ObsidianGraphs = class extends import_obsidian3.Plugin {
         return;
       }
       let graph;
-      if (this.currentFileName == void 0) {
-        const currentFile = this.app.workspace.getActiveFile();
-        if (currentFile) {
-          this.currentFileName = currentFile.name.substring(0, currentFile.name.indexOf("."));
-          this.currentFileName = this.currentFileName.replace(/\s/g, "");
-        }
-      }
-      const graphDiv = element.createEl("div", { cls: "jxgbox " + this.currentFileName });
+      const currentFileName = this.getCurrentFileName();
+      const graphDiv = element.createEl("div", { cls: "jxgbox " + currentFileName });
       graphDiv.id = "graph" + this.count;
       this.count++;
       try {
@@ -72272,5 +72248,33 @@ var ObsidianGraphs = class extends import_obsidian3.Plugin {
   }
   async saveSettings() {
     await this.saveData(this.settings);
+  }
+  getCurrentFileName() {
+    let currentFileName = "";
+    const currentFile = this.app.workspace.getActiveFile();
+    if (currentFile) {
+      currentFileName = currentFile.name.substring(0, currentFile.name.indexOf("."));
+      currentFileName = currentFileName.replace(/\s/g, "");
+    }
+    return currentFileName;
+  }
+  cullBoards() {
+    const activeFileNames = [];
+    const files = this.app.workspace.getLeavesOfType("markdown");
+    files.forEach((file) => activeFileNames.push(file.getDisplayText().replace(/\s/g, "")));
+    for (const key in boards) {
+      let active = false;
+      const div = boards[key].containerObj;
+      for (const name of activeFileNames) {
+        if (div.hasClass(name)) {
+          active = true;
+          break;
+        }
+      }
+      if (!active) {
+        boards[key].containerObj.remove();
+        JSXGraph.freeBoard(boards[key]);
+      }
+    }
   }
 };
