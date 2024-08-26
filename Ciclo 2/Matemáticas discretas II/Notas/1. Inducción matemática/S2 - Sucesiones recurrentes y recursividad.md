@@ -86,7 +86,23 @@ x_{k+1} &= 2^{k+1} - 1
 $$
 
 Con esto, la inducción queda completa.
+$$\qed$$
 
 ```
 
 ````
+
+### Sucesiones a partir de los dos términos anteriores
+
+Planteamos aquí un esquema de inducción para sucesiones donde cada término depende no solo del anterior, sino también del otro anterior.
+
+```ad-proposition
+
+Sea $P(n)$ una proposición definida para todo entero positivo $n$. Entonces, si se cumple que
+
+- $P(1)$ y $P(2)$ son verdaderas, y
+- si $P(k)$ y $P(k + 1)$ son verdaderas entonces $P(k + 2)$ también es verdadera,
+
+entonces $P(n)$ es verdadera para todo entero positivo $n$.
+
+```
