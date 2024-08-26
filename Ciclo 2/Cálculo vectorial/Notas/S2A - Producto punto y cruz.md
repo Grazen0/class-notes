@@ -1,6 +1,6 @@
 ## Producto punto/escalar
 
-El producto escalar del [[S1A - Vectores|vector]] $\vec{v}$ con el vector $\vec{w}$ es la proyección de $\vec{v}$ sobre $\vec{w}$ multiplicado por $\lVert B \rVert$ (o viceversa).
+El producto escalar del [[S1A - Vectores|vector]] $\vec{v}$ con el vector $\vec{w}$ es la proyección de $\vec{v}$ sobre $\vec{w}$ multiplicado por $\lVert w \rVert$ (o viceversa).
 
 $$
 \begin{align}
@@ -22,13 +22,13 @@ $$
 Calcular el **ángulo** entre dos vectores:
 
 $$
-\theta = \arccos\left( \frac{\vec{v} \cdot \vec{w}}{\lVert A \rVert \lVert B \rVert } \right) 
+\theta = \arccos\left( \frac{\vec{v} \cdot \vec{w}}{\lVert v \rVert \lVert w \rVert } \right) 
 $$
 
 Calcular la **proyección** de un vector sobre otro. Por ejemplo, para la proyección de $\vec{v}$ sobre $\vec{w}$:
 
 $$
-\lVert A \rVert \cos(\theta) = \frac{\vec{v} \cdot \vec{w}}{\lVert B \rVert }
+\lVert v \rVert \cos(\theta) = \frac{\vec{v} \cdot \vec{w}}{\lVert w \rVert }
 $$
 
 ## Producto cruz/vectorial
@@ -39,20 +39,20 @@ $$
 \begin{align}
 \vec{v} \times \vec{w} &= \begin{vmatrix}
 \hat{\mathbf{i}} & \hat{\mathbf{j}} & \hat{\mathbf{k}} \\
-A_{x} & A_{y} & A_{z} \\
-B_{x} & B_{y} & B_{z}
+v_{x} & v_{y} & v_{z} \\
+w_{x} & w_{y} & w_{z}
 \end{vmatrix} \\
 &= \begin{vmatrix}
-A_{y} & A_{z} \\
-B_{y} & B_{z}
+v_{y} & v_{z} \\
+w_{y} & w_{z}
 \end{vmatrix}\hat{\mathbf{i}} - \begin{vmatrix}
-A_{z} & A_{x} \\
-B_{z} & B_{x}
+v_{z} & v_{x} \\
+w_{z} & w_{x}
 \end{vmatrix}\hat{\mathbf{j}} + \begin{vmatrix}
-A_{x} & A_{y} \\
-B_{x} & B_{y}
+v_{x} & v_{y} \\
+w_{x} & w_{y}
 \end{vmatrix}\hat{\mathbf{k}} \\
-&= (A_{y}B_{z} - A_{z}B_{y})\hat{\mathbf{i}} - (A_{z}B_{x} - A_{x}B_{z})\hat{\mathbf{j}} + (A_{x}B_{y} - A_{y}B_{x})\hat{\mathbf{k}}
+&= (v_{y}w_{z} - v_{z}w_{y})\hat{\mathbf{i}} - (v_{z}w_{x} - v_{x}w_{z})\hat{\mathbf{j}} + (v_{x}w_{y} - v_{y}w_{x})\hat{\mathbf{k}}
 \end{align}
 $$
 
