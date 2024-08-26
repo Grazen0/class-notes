@@ -1,4 +1,4 @@
-La inducción fuerte es una técnica de demostración de cierta forma "superior" a la [[S1A - Inducción simple|inducción simple]].
+La inducción fuerte es otro de los "esquemas" de la [[S1A - Inducción simple|inducción simple]].
 
 ```ad-theorem
 title: Teorema (inducción fuerte).
