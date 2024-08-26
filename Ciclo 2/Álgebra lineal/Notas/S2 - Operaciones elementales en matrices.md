@@ -163,15 +163,11 @@ d & -b \\
 
 ```
 
-$$
-\R
-$$
-### Pasos para calcular una inversa
 
 Se debe armar una matriz de $n \times 2n$, de la forma
 
 $$
-\begin{bmatrix}
-A \
-\end{bmatrix}
+\begin{amatrix}{0}
+A & a & 2 \\ B
+\end{amatrix}
 $$

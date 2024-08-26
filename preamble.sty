@@ -32,3 +32,9 @@
 
 %%% Misc
 \newcommand{\qed}{\tag*{$\blacksquare$}} % Q.E.D. symbol
+
+\newenvironment{amatrix}[1]{%
+  \left[\begin{array}{@{}*{#1}{c}|c@{}}
+}{%
+  \end{array}\right]
+}
