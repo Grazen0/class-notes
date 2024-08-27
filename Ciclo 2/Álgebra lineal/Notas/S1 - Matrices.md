@@ -183,7 +183,7 @@ $$
 
 #### Triangular inferior
 
-Análogo a la matriz triangular superior
+Análogo a la matriz triangular superior.
 
 $$
 \begin{bmatrix}
@@ -195,7 +195,7 @@ $$
 
 ### Matriz simétrica
 
-Una matriz cuadrada $A = (a_{ij})$ de orden $n$ es simétrica si y solo si $a_{ij} = a_{ji}$ para todo $i, j \in \left\{ 1,2, \ldots n \right\}$
+Una matriz cuadrada $A = (a_{ij})$ de orden $n$ es simétrica si y solo si $a_{ij} = a_{ji}$ para todo $i, j \in \left\{ 1,2, \ldots n \right\}$.
 
 $$
 \begin{bmatrix}
@@ -207,7 +207,7 @@ $$
 
 ### Matriz antisimétrica
 
-Una matriz cuadrada $A = (a_{ij})$ de orden $n$ es antisimétrica si y solo si $a_{ij} = -a_{ji}$ para todo $i,j \in \left\{ 1,2,\ldots,n \right\}$
+Una matriz cuadrada $A = (a_{ij})$ de orden $n$ es antisimétrica si y solo si $a_{ij} = -a_{ji}$ para todo $i,j \in \left\{ 1,2,\ldots,n \right\}$.
 
 $$
 \begin{bmatrix}
