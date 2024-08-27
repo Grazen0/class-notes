@@ -83,7 +83,7 @@ $$
 
 ```ad-definition
 
-Dos matrices $A$ y $B$ son **equivalentes por filas** si y solo si podemos obtener una a partir de la otra aplicando operaciones elementales.
+Dos matrices $A$ y $B$ son **equivalentes por filas** si y solo si podemos obtener una a partir de la otra aplicando operaciones elementales. Esto se denota como $A \sim B$.
 
 ```
 
