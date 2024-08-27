@@ -51,6 +51,28 @@ $$
 Ahora, para el paso inductivo, supongamos que la proposición es cierta para alguna cantidad de pesos $n = k$. Entonces, podemos agregar un billete de $3$ pesos para tener $k + 3$ pesos, por lo que la proposición es cierta para $n = k + 3$.
 
 Con esto, la inducción está completa.
+$$\qed$$
+
+```
+
+````
+
+````ad-exercise
+title: Ejercicio 2.
+
+Demuestre que para todo $n \geq 6$ es posible dividir un cuadrado en $n$ cuadrados (no necesariamente del mismo tamaño).
+
+```ad-proof
+collapse: closed
+
+(Inducción de tres en tres) Nótese que la proposición es cierta para $n \in \left\{ 6, 7, 8 \right\}$, ya que estos cuadrados se pueden dividir de las siguientes maneras:
+
+![[induccion cuadrados.excalidraw]]
+
+Ahora, para el paso inductivo, notemos que, dado un cuadrado dividido en alguna cantidad $n$ de cuadrados, podemos tomar cualquiera de esas divisiones en 4 cuadrados iguales. Entonces, tendremos una división en $n - 1 + 4 = n + 3$ cuadrados.
+
+Con esto, la inducción está completa.
+$$\qed$$
 
 ```
 
