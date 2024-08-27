@@ -83,7 +83,7 @@ $$
 
 ```ad-definition
 
-Dos matrices son **equivalentes por filas** si y solo si podemos obtener una a partir de la otra aplicando operaciones elementales.
+Dos matrices $A$ y $B$ son **equivalentes por filas** si y solo si podemos obtener una a partir de la otra aplicando operaciones elementales.
 
 ```
 
@@ -95,12 +95,17 @@ $$
 4 & 1
 \end{bmatrix}
 \xrightarrow{f_{2} \to f_{2} + 3f_{1}}
+\begin{bmatrix}
+2 & 1 \\
+10 & 4
+\end{bmatrix}
 $$
 
 ## Matriz escalonada por filas
 
 ```ad-definition
 title: Definición (fila nula).
+collapse: closed
 
 Una fila es **nula** si y solo si todos sus elementos son iguales a $0$.
 
@@ -108,6 +113,7 @@ Una fila es **nula** si y solo si todos sus elementos son iguales a $0$.
 
 ```ad-definition
 title: Definición (pivote).
+collapse: closed
 
 El pivote de una fila *no nula* es el primer elemento diferente de $0$ en la fila (empezando por la izquierda).
 
@@ -143,7 +149,7 @@ entonces la matriz está en forma **escalonada reducida por filas** (ERF).
 
 $$
 \begin{bmatrix}
-1 & 0 & * & 0 & 0 & * \\
+1 & * & * & 0 & 0 & * \\
 0 & 1 & * & 0 & 0 & * \\
 0 & 0 & 0 & 1 & 0 & * \\
 0 & 0 & 0 & 0 & 1 & * \\
@@ -177,10 +183,44 @@ d & -b \\
 
 ### Pasos para hallar una inversa
 
-Para hallar la inversa de una matriz $A \in M_{n \times n}$, se debe armar una matriz de $n \times 2n$, de la forma
+Para hallar la inversa de una matriz $A \in M_{n \times n}$, se debe armar una matriz de $n \times 2n$ con $A$ a la izquierda y a la identidad de la derecha.
 
 $$
 \left[ \begin{array}{c|c}
 A & I_{n}
 \end{array} \right] 
+$$
+
+Luego, se deben aplicar operaciones elementales a esta matriz hasta llegar a tener la matriz identidad a la izquierda.
+
+$$
+\left[ \begin{array}{c|c}
+A & I_{n}
+\end{array} \right] 
+\xrightarrow{\text{Op. elementales}}
+\left[ \begin{array}{c|c}
+I_{n} & A^{-1}
+\end{array} \right] 
 .$$
+
+Entonces, lo que tendremos a la derecha será la matriz inversa de $A$.
+
+```ad-example
+title: Ejemplo.
+
+Calcule la matriz inversa de $A = \begin{bmatrix} 1 & -1 & 3 \\ 0 & 2 & 4 \\ 0 & 0 & -5\end{bmatrix}$.
+
+**Resolución:**
+
+$$
+\begin{align}
+\left[ \begin{array}{ccc|ccc}
+1 & -1 & 3 & 1 & 0 & 0 \\
+0 & 2 & 4 & 0 & 1 & 0 \\
+0 & 0 & -5 & 0 & 0 & 1
+\end{array} \right] 
+\xrightarrow{}
+\end{align}
+$$
+
+```

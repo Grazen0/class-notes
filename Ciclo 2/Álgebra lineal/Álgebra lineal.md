@@ -5,7 +5,7 @@
 %% Begin Waypoint %%
 - **Notas**
 	- [[S1 - Matrices]]
-	- [[S2 - Operaciones elementales en matrices]]
+	- [[S2 - Operaciones elementales e inversa]]
 
 %% End Waypoint %%
 
