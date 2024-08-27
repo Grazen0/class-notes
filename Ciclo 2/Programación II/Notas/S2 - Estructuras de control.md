@@ -6,7 +6,12 @@ Se puede establecer la precisión con la que se imprimen `float`s a la terminal.
 Por ejemplo, para imprimir números hasta los 3 dígitos decimales:
 
 ```cpp
+/////////////////////////
+#include <iomanip>
+/////////////////////////
+
 std::cout << std::fixed << std::setprecision(3);
+std::cout << 3.14159 << std::endl; // 3.142
 ```
 
 ````
