@@ -17,7 +17,7 @@ std::cout << 3.14159 << std::endl; // 3.142
 ````
 
 
-## Condicionales "if"
+## Condicionales `if`
 
 Así como en Python, C++ permite el uso de bloques de código condicionales.
 
@@ -32,3 +32,23 @@ if (condition)
 ```
 
 ![[Condicional.excalidraw]]
+## Condicionales `switch`
+
+```cpp
+switch (n) {
+	case 1:
+		std::cout << "Primavera" << std::endl;
+		break;
+	case 2:
+		std::cout << "Verano" << std::endl;
+		break;
+	case 3:
+		std::cout << "Otoño" << std::endl;
+		break;
+	case 4:
+		std::cout << "Invierno" << std::endl;
+		break;
+	default:
+		std::cout << "Estación no válida" << std::endl;
+}
+```
