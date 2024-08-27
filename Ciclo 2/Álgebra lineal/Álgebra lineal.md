@@ -7,6 +7,7 @@
 	- [[S1 - Matrices]]
 	- [[S2A - Operaciones elementales y matriz escalonada]]
 	- [[S2B - Matriz inversa]]
+- [[Referencia MATLAB]]
 
 %% End Waypoint %%
 
