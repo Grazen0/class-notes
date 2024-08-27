@@ -122,14 +122,14 @@ Una matriz es **escalonada por filas** si y solo si se cumple que
 
 ```
 
-Una matriz escalonada por filas se ve así:
+Una matriz escalonada por filas se ve algo así, por ejemplo:
 
 $$
 \begin{bmatrix}
-1 & 2 & 3 & 4 & 5 & 6 \\
-0 & 7 & 8 & 9 & 10 & 11 \\
-0 & 0 & 0  & 12 & 13 & 14 \\
-0 & 0 & 0 & 0 & 15 & 0 \\
+* & * & * & * & * & * \\
+0 & * & * & * & * & * \\
+0 & 0 & 0 & * & * & * \\
+0 & 0 & 0 & 0 & * & * \\
 0 & 0 & 0 & 0 & 0 & 0
 \end{bmatrix}
 $$
@@ -141,18 +141,25 @@ Además, si se cumple que
 
 entonces la matriz está en forma **escalonada reducida por filas** (ERF).
 
+$$
+\begin{bmatrix}
+1 & 0 & * & 0 & 0 & * \\
+0 & 1 & * & 0 & 0 & * \\
+0 & 0 & 0 & 1 & 0 & * \\
+0 & 0 & 0 & 0 & 1 & * \\
+0 & 0 & 0 & 0 & 0 & 0
+\end{bmatrix}
+$$
+
 ## Matriz inversa
 
-#todo 
-- [ ] Definición de matriz invertible.
+(Una matriz $A \in M_{n \times n}$  es **invertible** si y solo si tiene inversa)
 
 ```ad-definition
 
 Sea $A \in M_{n \times n}$ una matriz invertible, entonces la única matriz $A^{-1}$ tal que $A^{-1}A = A \, A^{-1} = I_{n}$.
 
 ```
-
-(Una matriz $A \in M_{n \times n}$  es **invertible** si y solo si tiene inversa)
 
 ```ad-proposition
 title: Matriz inversa de $2 \times 2$
@@ -170,13 +177,10 @@ d & -b \\
 
 ### Pasos para hallar una inversa
 
-#todo
-- [ ] Terminar esto
-
-Se debe armar una matriz de $n \times 2n$, de la forma
+Para hallar la inversa de una matriz $A \in M_{n \times n}$, se debe armar una matriz de $n \times 2n$, de la forma
 
 $$
-\begin{bmatrix}
+\left[ \begin{array}{c|c}
 A & I_{n}
-\end{bmatrix}
-$$
+\end{array} \right] 
+.$$
