@@ -16,8 +16,9 @@ std::cout << 3.14159 << std::endl; // 3.142
 
 ````
 
+## Condicionales
 
-## Condicionales `if`
+### Condicional `if`
 
 Así como en Python, C++ permite el uso de bloques de código condicionales.
 
@@ -32,7 +33,7 @@ if (condition)
 ```
 
 ![[Condicional.excalidraw]]
-## Condicionales `switch`
+### Bloque `switch`
 
 ```cpp
 switch (n) {
@@ -50,5 +51,39 @@ switch (n) {
 		break;
 	default:
 		std::cout << "Estación no válida" << std::endl;
+}
+```
+
+## Bucles
+
+### Bucle `while`
+
+```cpp
+int i = 0;
+
+while (i < 7) {
+	std::cout << "UTEC" << std::endl;
+	i++;
+}
+```
+
+### Bucle `do ... while`
+
+Esta instrucción ejecuta el bloque de código sí o sí **al menos una vez**, y luego recién evalúa la condición para seguir en el bucle.
+
+```cpp
+int i = 0;
+
+do {
+	std::cout << "UTEC" << std::endl;
+	i++;
+} while (i < 7);
+```
+
+### Bucle `for`
+
+```cpp
+for (int i = 0; i < 7; i++) {
+	std::cout << "UTEC" << std::endl;
 }
 ```
