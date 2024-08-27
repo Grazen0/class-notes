@@ -86,4 +86,10 @@ do {
 for (int i = 0; i < 7; i++) {
 	std::cout << "UTEC" << std::endl;
 }
+
+std::string my_str = "Hello there";
+
+for (auto ch : my_str) {
+	std::cout << ch << std::endl;
+}
 ```
