@@ -5,7 +5,8 @@
 	- **1. Inducción matemática**
 		- [[S1A - Inducción simple]]
 		- [[S1B - Inducción fuerte]]
-		- [[S2 - Sucesiones recurrentes y recursividad]]
+		- [[S2A - Sucesiones recurrentes y recursividad]]
+		- [[S2B - Inducción de dos en dos y tres en tres]]
 
 %% End Waypoint %%
 

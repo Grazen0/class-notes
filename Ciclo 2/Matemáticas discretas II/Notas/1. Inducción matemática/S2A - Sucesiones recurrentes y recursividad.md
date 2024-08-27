@@ -1,6 +1,5 @@
 ```ad-definition
 
-
 Una sucesión es **recurrente** si, a partir de alguna posición, dicha sucesión se define a partir de sus términos anteriores.
 
 ```
