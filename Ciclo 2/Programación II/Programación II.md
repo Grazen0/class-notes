@@ -5,6 +5,7 @@
 %% Begin Waypoint %%
 - **Notas**
 	- [[S1 - ¡Hola, mundo!]]
+	- [[S2 - Estructuras de control]]
 
 %% End Waypoint %%
 
