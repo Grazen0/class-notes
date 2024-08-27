@@ -29,3 +29,29 @@ entonces $P(n)$ es verdadera para todo entero positivo $n$.
 ```
 
 Como siempre, podemos cambiar la posición de los casos iniciales dependiendo de la situación.
+
+````ad-exercise
+title: Ejercicio 1.
+
+En un país solo hay billetes de $3$ y $7$ pesos. Demuestre que para todo entero $n \geq 12$ es posible pagar exactamente $n$ pesos.
+
+```ad-proof
+collapse: closed
+
+(Inducción de tres en tres) Nótese que la proposición es cierta para $n \in \left\{ 12, 13, 14 \right\}$, ya que
+
+$$
+\begin{align}
+12 &= 3 + 3 + 3 + 3 \\
+13 &= 3 + 3 + 7 \\
+14 &= 7 + 7
+.\end{align}
+$$
+
+Ahora, para el paso inductivo, supongamos que la proposición es cierta para alguna cantidad de pesos $n = k$. Entonces, podemos agregar un billete de $3$ pesos para tener $k + 3$ pesos, por lo que la proposición es cierta para $n = k + 3$.
+
+Con esto, la inducción está completa.
+
+```
+
+````
