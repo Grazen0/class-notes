@@ -7,8 +7,8 @@ Una sucesión es **recurrente** si, a partir de alguna posición, dicha sucesió
 
 Algunos ejemplos de sucesiones recurrentes son
 
-- $x_{n} = x_{n-1} + x_{n-2}$
-- $x_{n} = x_{1} + x_{2} + \ldots + x_{n_1}$
+- $x_{n} = x_{n-1} + x_{n-2}$ (serie de Fibonacci)
+- $x_{n} = x_{1} + x_{2} + \ldots + x_{n-1}$
 
 ```ad-example
 title: Ejemplo 1.
