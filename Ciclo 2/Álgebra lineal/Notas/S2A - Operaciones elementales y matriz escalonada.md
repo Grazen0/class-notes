@@ -166,3 +166,11 @@ $$
 0 & 0 & 0 & 0 & 0 & 0
 \end{bmatrix}
 $$
+
+De  aquí obtenemos un resultado imporante:
+
+```ad-theorem
+
+Dos matrices son equivalentes por filas si (y solo si?) poseen la misma forma escalonada reducida.
+
+```
