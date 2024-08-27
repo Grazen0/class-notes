@@ -207,20 +207,55 @@ Entonces, lo que tendremos a la derecha será la matriz inversa de $A$.
 
 ```ad-example
 title: Ejemplo.
+collapse: open
 
 Calcule la matriz inversa de $A = \begin{bmatrix} 1 & -1 & 3 \\ 0 & 2 & 4 \\ 0 & 0 & -5\end{bmatrix}$.
 
 **Resolución:**
 
 $$
-\begin{align}
+\begin{array}{rrl}
 \left[ \begin{array}{ccc|ccc}
 1 & -1 & 3 & 1 & 0 & 0 \\
 0 & 2 & 4 & 0 & 1 & 0 \\
 0 & 0 & -5 & 0 & 0 & 1
-\end{array} \right] 
-\xrightarrow{}
-\end{align}
+\end{array} \right]
+& \xrightarrow{f_{2} \to \frac{1}{2}f_{2}} &
+\left[ \begin{array}{ccc|ccc}
+1 & -1 & 3 & 1 & 0 & 0 \\
+0 & 1 & 2 & 0 & \frac{1}{2} & 0 \\
+0 & 0 & -5 & 0 & 0 & 1
+\end{array} \right] \\
+
+& \xrightarrow{f_{3} \to -\frac{1}{5}f_{3}} &
+\left[ \begin{array}{ccc|ccc}
+1 & -1 & 3 & 1 & 0 & 0 \\
+0 & 1 & 2 & 0 & \frac{1}{2} & 0 \\
+0 & 0 & 1 & 0 & 0 & -\frac{1}{5}
+\end{array} \right] \\
+
+& \xrightarrow{f_{2} \to f_{2}-2f_{3}} &
+\left[ \begin{array}{ccc|ccc}
+1 & -1 & 3 & 1 & 0 & 0 \\
+0 & 1 & 0 & 0 & \frac{1}{2} & \frac{2}{5} \\
+0 & 0 & 1 & 0 & 0 & -\frac{1}{5}
+\end{array} \right] \\
+
+& \xrightarrow{f_{1} \to f_{1}-3f_{3}} &
+\left[ \begin{array}{ccc|ccc}
+1 & -1 & 0 & 1 & 0 & \frac{3}{5} \\
+0 & 1 & 0 & 0 & \frac{1}{2} & \frac{2}{5} \\
+0 & 0 & 1 & 0 & 0 & -\frac{1}{5}
+\end{array} \right] \\
+
+& \xrightarrow{f_{1} \to f_{1}+f_{2}} &
+\left[ \begin{array}{ccc|ccc}
+1 & 0 & 0 & 1 & \frac{1}{2} & 1 \\
+0 & 1 & 0 & 0 & \frac{1}{2} & \frac{2}{5} \\
+0 & 0 & 1 & 0 & 0 & -\frac{1}{5}
+\end{array} \right] \\
+
+\end{array}
 $$
 
 ```
