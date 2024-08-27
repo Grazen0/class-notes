@@ -58,7 +58,7 @@ Observamos que esta sucesión es más difícil de convertir en una fórmula.
 
 ## Demostrando por inducción
 
-La forma no-recurrente para una sucesión recurrente puede ser demostrada por inducción.
+La solución de una sucesión recurrente puede ser demostrada por inducción.
 
 ````ad-exercise
 
