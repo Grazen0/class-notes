@@ -12,3 +12,11 @@ R = \begin{bmatrix}
 \sin(\theta) & \cos(\theta)
 \end{bmatrix}
 .$$
+
+Alternativamente, se puede definir la ortogonalidad de una matriz a partir del siguiente resultado característico:
+
+```ad-theorem
+
+Una matriz es ortogonal si y solo si todas sus columnas (y filas) son vectores ortonormales entre si (es decir, vectores unitarios ortogonales).
+
+```
