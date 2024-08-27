@@ -12,6 +12,8 @@ a_{m1} & a_{m_{2}} & \dots & a_{mn}
 $$
 
 También se denota como $A = (a_{ij}) \in M_{m \times n}$.
+
+Se dice que $m \times n$ es el **orden** de la matriz.
 ```
 
 ## Igualdad de matrices
@@ -119,7 +121,7 @@ $$
 
 Una matriz $A \in M_{m \times n}$ es cuadrada si y solo si $m = n$.
 
-Cuando hablamos de matrices cuadradas, $m$ (o $n$) es el **orden de $A$**.
+Cuando hablamos de matrices cuadradas, el **orden de $A$** es simplemente $m$ (o $n$).
 
 $$
 \begin{bmatrix}

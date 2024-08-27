@@ -120,6 +120,14 @@ El pivote de una fila *no nula* es el primer elemento diferente de $0$ en la fil
 ```
 
 ```ad-definition
+title: Definición (rango).
+collapse: closed
+
+El rango de una matriz es igual a su **cantidad de filas no nulas**.
+
+```
+
+```ad-definition
 
 Una matriz es **escalonada por filas** si y solo si se cumple que
 
