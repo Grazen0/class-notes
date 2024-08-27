@@ -152,6 +152,8 @@ Sea $A \in M_{n \times n}$ una matriz invertible, entonces la única matriz $A^{
 
 ```
 
+(Una matriz $A \in M_{n \times n}$  es **invertible** si y solo si tiene inversa)
+
 ```ad-proposition
 title: Matriz inversa de $2 \times 2$
 
