@@ -4,7 +4,7 @@
 
 %% Begin Waypoint %%
 - **Lecturas**
-	- [[Lem, Stanislaw. Solaris]]
+	- [[Solaris]]
 - **Notas**
 	- [[S1 - Cómo hacer cosas con textos]]
 	- [[S2 - Stanislaw Lem]]

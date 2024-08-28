@@ -25,3 +25,11 @@ title: Cita
 "Ni Kelvin ni Tichy ni Pirxs son mis héroes, sino el *conocimiento*".
 
 ```
+
+## Interpretando a Stanislaw Lem
+
+Stanislaw Lem suele ser malinterpretado por los críticos literarios, porque los enfoques de sus obras no están en los temas literarios, sino en el lado **científico** de las historias.
+
+Por ello, interpretar a Lem es **leer problemas de filosofía de la ciencia**, no tanto el aspecto literario.
+
+## Vida y época: contexto cultural
