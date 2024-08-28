@@ -98,10 +98,22 @@ donde $m$ es la masa del objeto, y $v$ su velocidad.
 
 Es la energía "almacenada" por un objeto asociada a su posición.
 
-#### Energía potencial gravitacional ($U_{g}$)
+#### Energía potencial gravitacional
 
-Esta forma de energía potencial es aquella asociada con el **peso** de un cuerpo y su **posición vertical**.
+Esta forma de energía potencial es aquella asociada con el **peso** de un cuerpo y su **posición vertical**. Se calcula mediante la fórmula
 
 $$
-\Delta U_{g} = -W_{\text{grav}}
+U_{g} = mgh
+,$$
+
+donde $h$ es la altura a la que se encuentra el objeto.
+
+Un resultado interesante es
+
 $$
+\Delta U_{g} = U_{g,f} - U_{g,i} = mgh_{f} - mgh_{i} = -W_{\text{grav}}
+$$
+
+#### Energía potencial elástica
+
+## Conservación de la energía
