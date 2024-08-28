@@ -31,5 +31,3 @@ title: Cita
 Stanislaw Lem suele ser malinterpretado por los críticos literarios, porque los enfoques de sus obras no están en los temas literarios, sino en el lado **científico** de las historias.
 
 Por ello, interpretar a Lem es **leer problemas de filosofía de la ciencia**, no tanto el aspecto literario.
-
-## Vida y época: contexto cultural
