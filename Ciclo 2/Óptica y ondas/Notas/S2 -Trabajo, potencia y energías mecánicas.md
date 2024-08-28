@@ -1,7 +1,7 @@
 ```ad-important
 title: Nota importante
 
-En este curso consideramos a la gravedad como $g = 9.8$.
+En este curso consideramos a la gravedad como $g = 9.8 \mathrm{\frac{m}{s^{2}}}$.
 
 ```
 
@@ -83,3 +83,5 @@ W = \Delta K = K_{f} - K_{i}
 donde $K_{f}$ y $K_{i}$ son la energía cinética final e inicial del objeto respectivamente.
 
 ```
+
+La **energía cinética** de un objeto se calcula mediante la fórmula
