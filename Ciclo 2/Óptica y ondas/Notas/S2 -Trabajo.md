@@ -1,3 +1,11 @@
+```ad-important
+title: Nota importante
+
+En este curso consideramos a la gravedad como $g = 9.8$.
+
+```
+
+
 ```ad-definition
 
 El trabajo es una cantidad física *escalar* asociedad con la **cantidad de energía que se transfiere** hacia un cuerpo al aplicar una fuerza, acción que resulta en un **cambio en el estado del movimiento**.
