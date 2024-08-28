@@ -39,3 +39,29 @@ F_{x} = -kx
 ,$$
 
 donde $x$ es la posición del resorte con respecto a su posición natural. Además $k$ es la *constante elástica*, que define la "elasticidad" del resorte.
+
+## Potencia
+
+```ad-definition
+
+La potencia es la **cantidad de transferencia de energía** en un intervalo de tiempo.
+
+```
+
+La **potencia promedio** se calcula como
+
+$$
+P_{\text{prom}} = \frac{W}{\Delta t}
+,$$
+
+mientras que la **potencia instantánea** se calcula como la derivada del trabajo con respecto al tiempo, es decir
+
+$$
+P = \frac{dW}{dt}
+.$$
+
+Para una **fuerza constante**, se cumple que la potencia es el producto escalar de dicha fuerza con la velocidad. Es decir,
+
+$$
+P = \frac{dW}{dt} = \vec{F} \cdot \frac{d\vec{r}}{dt} = \vec{F} \cdot \vec{v}
+.$$
