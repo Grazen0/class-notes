@@ -7,6 +7,7 @@
 	- [[Lem, Stanislaw. Solaris]]
 - **Notas**
 	- [[S1 - Cómo hacer cosas con textos]]
+	- [[S2 - Stanislaw Lem]]
 
 %% End Waypoint %%
 
