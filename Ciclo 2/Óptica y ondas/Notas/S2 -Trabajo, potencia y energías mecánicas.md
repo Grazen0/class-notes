@@ -85,3 +85,9 @@ donde $K_{f}$ y $K_{i}$ son la energía cinética final e inicial del objeto res
 ```
 
 La **energía cinética** de un objeto se calcula mediante la fórmula
+
+$$
+K = \frac{1}{2}mv^{2}
+$$
+
+donde $m$ es la masa del objeto, y $v$ su velocidad.
