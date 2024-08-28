@@ -103,5 +103,5 @@ Es la energía "almacenada" por un objeto asociada a su posición.
 Esta forma de energía potencial es aquella asociada con el **peso** de un cuerpo y su **posición vertical**.
 
 $$
-W_{\text{grav}} = -\Delta U_{g}
+\Delta U_{g} = -W_{\text{grav}}
 $$
