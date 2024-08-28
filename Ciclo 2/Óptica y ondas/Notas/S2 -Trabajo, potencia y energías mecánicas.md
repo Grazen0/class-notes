@@ -5,10 +5,11 @@ En este curso consideramos a la gravedad como $g = 9.8$.
 
 ```
 
-
 ```ad-definition
 
 El trabajo es una cantidad física *escalar* asociedad con la **cantidad de energía que se transfiere** hacia un cuerpo al aplicar una fuerza, acción que resulta en un **cambio en el estado del movimiento**.
+
+Se mide en **joules** ($\text{J}$).
 
 ```
 
@@ -44,7 +45,7 @@ donde $x$ es la posición del resorte con respecto a su posición natural. Adem�
 
 ```ad-definition
 
-La potencia es la **cantidad de transferencia de energía** en un intervalo de tiempo.
+La potencia es la **cantidad de transferencia de energía** en un intervalo de tiempo. Se mide en **watts** ($\text{W}$).
 
 ```
 
@@ -65,3 +66,20 @@ Para una **fuerza constante**, se cumple que la potencia es el producto escalar 
 $$
 P = \frac{dW}{dt} = \vec{F} \cdot \frac{d\vec{r}}{dt} = \vec{F} \cdot \vec{v}
 .$$
+
+## Energía
+
+```ad-theorem
+title: Teorema (teorema del trabajo neto).
+
+Cuando se realiza un trabajo en un sistema, y el único cambio es en la rapidez de sus partes, entonces el **trabajo neto** realizado en el sistema es igual al **cambio en la energía cinética del sistema**.
+
+Es decir,
+
+$$
+W = \Delta K = K_{f} - K_{i}
+,$$
+
+donde $K_{f}$ y $K_{i}$ son la energía cinética final e inicial del objeto respectivamente.
+
+```
