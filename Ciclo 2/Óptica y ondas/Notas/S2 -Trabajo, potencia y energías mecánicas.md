@@ -69,6 +69,8 @@ P = \frac{dW}{dt} = \vec{F} \cdot \frac{d\vec{r}}{dt} = \vec{F} \cdot \vec{v}
 
 ## Energía
 
+### Energía cinética
+
 ```ad-theorem
 title: Teorema (teorema del trabajo neto).
 
@@ -91,3 +93,11 @@ K = \frac{1}{2}mv^{2}
 $$
 
 donde $m$ es la masa del objeto, y $v$ su velocidad.
+
+### Energía potencial
+
+Es la energía "almacenada" por un objeto asociada a su posición.
+
+#### Energía potencial gravitacional ($U_{g}$)
+
+Esta forma de energía potencial es aquella asociada con el **peso** de un cuerpo y su **posición vertical**.
