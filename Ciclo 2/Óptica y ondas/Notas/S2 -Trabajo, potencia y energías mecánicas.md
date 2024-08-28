@@ -101,3 +101,7 @@ Es la energía "almacenada" por un objeto asociada a su posición.
 #### Energía potencial gravitacional ($U_{g}$)
 
 Esta forma de energía potencial es aquella asociada con el **peso** de un cuerpo y su **posición vertical**.
+
+$$
+W_{\text{grav}} = -\Delta U_{g}
+$$
