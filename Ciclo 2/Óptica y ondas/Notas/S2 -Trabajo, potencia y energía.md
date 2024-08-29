@@ -130,6 +130,14 @@ $$
 
 ##### Energía potencial elástica
 
+#### Energía mecánica
+
+Se define simplemente como la suma de la energía cinética y la energía potencial.
+
+$$
+E_{\text{mec}} = K + U
+$$
+
 ## Fuerzas conservativas y no conservativas
 
 ```ad-definition
@@ -141,8 +149,11 @@ Alternativamente, una fuerza es conservativa si y sólo si el **trabajo** que re
 
 ```
 
+Las fuerzas conservativas tienen la propiedad de que **mantienen la energía mecánica**. Es decir, $\Delta E_{\text{mec}} = 0$.
 
+Una fuerza conservativa es la **gravedad**. Una fuerza no conservativa es la **fricción**.
 
+## Ley de conservación de la energía
 
 $$
 \Delta E_{\text{mec}} + \Delta U_{\text{int}} = 0
