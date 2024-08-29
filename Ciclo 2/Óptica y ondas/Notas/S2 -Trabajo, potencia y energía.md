@@ -100,6 +100,8 @@ W_{\text{tot}} = \Delta K = K_{f} - K_{i} = \frac{1}{2}m(v_{f})^{2} - \frac{1}{2
 
 donde $K_{f}$ y $K_{i}$ son la energía cinética final e inicial del objeto respectivamente.
 
+Nótese que $W_{\text{tot}}$ no es el trabajo de alguna fuerza en particular: es *el trabajo total realizado por todas las fuerzas* en el objeto.
+
 ```
 
 #### Energía potencial
@@ -116,11 +118,15 @@ U_{g} = mgh
 
 donde $h$ es la altura a la que se encuentra el objeto.
 
-Un resultado interesante es
+Un resultado interesante es que la variación en energía potencial gravitacional de un objeto es precisamente el opuesto del trabajo realizado por la gravedad. Es decir,
 
 $$
-\Delta U_{g} = U_{g,f} - U_{g,i} = mgh_{f} - mgh_{i} = -W_{\text{grav}}
-$$
+\begin{align}
+\Delta U_{g} &= U_{g,f} - U_{g,i} \\
+&= mgh_{f} - mgh_{i} = mg(h_{f} - h_{i}) = -(-mg)\Delta h \\
+\Delta U_{g} &= -W_{\text{grav}}
+\end{align}
+.$$
 
 ##### Energía potencial elástica
 
