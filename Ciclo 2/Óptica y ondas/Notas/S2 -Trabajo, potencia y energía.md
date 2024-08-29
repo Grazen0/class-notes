@@ -155,6 +155,12 @@ Una fuerza conservativa es la **gravedad**. Una fuerza no conservativa es la **f
 
 ## Ley de conservación de la energía
 
+La energía no aparece o desaparece.
+
 $$
 \Delta E_{\text{mec}} + \Delta U_{\text{int}} = 0
 $$
+
+Aquí, $\Delta U_{\text{int}}$ representa el cambio en la la **energía interna**, que es básicamente el **trabajo de las fuerzas no conservativas**.
+
+Esta ley quiere decir: Si el trabajo de las fuerzas no conservativas ($W_{\text{fnc}}$) es nulo, entonces **la energía mecánica se conserva**.
