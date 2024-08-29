@@ -21,7 +21,7 @@ $$
 
 ## Trabajo de una fuerza variable
 
-Como una fuerza puede ser variable, esto llama al uso de una integral sobre el rango de la posición $x$ del objeto, con la fórmula
+Como una fuerza puede ser variable, esto llama al uso de una integral sobre la trayectoria del objeto, con la fórmula
 
 $$
 W = \int_{x_{1}}^{x_{2}} F_{x} \, dx
@@ -29,7 +29,7 @@ W = \int_{x_{1}}^{x_{2}} F_{x} \, dx
 
 donde $F_{x}$ es la fuerza en la posición $x$, y $x_{1}$ y $x_{2}$ son la posición inicial y final del objeto respectivamente.
 
-Como observamos, la integración se hace con respecto a la **posición del objeto**, no al tiempo como podría parecer intuitivamente.
+Como observamos, la integración se hace **con respecto a la posición del objeto**, no con respecto al tiempo como podría parecer intuitivamente.
 
 ### Fuerza de un resorte
 
