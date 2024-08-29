@@ -22,6 +22,6 @@ y, fácilmente a partir de aquí, podemos hallar el vector mismo,
 $$
 \begin{align}
 \operatorname{proy}_{\vec{w}}(\vec{v}) &= \operatorname{comp}_{\vec{w}}(\vec{v}) \, \hat{w} \\
-&= \frac{\vec{v} \cdot \vec{w}}{\lVert \vec{w} \rVert^{2}} \cdot \vec{w}
+&= \frac{\vec{v} \cdot \vec{w}}{\lVert \vec{w} \rVert^{2}} \vec{w}
 .\end{align}
 $$
