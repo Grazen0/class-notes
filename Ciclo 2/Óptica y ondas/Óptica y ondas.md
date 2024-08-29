@@ -5,7 +5,7 @@
 %% Begin Waypoint %%
 - **Notas**
 	- [[S1 - Vectores]]
-	- [[S2 -Trabajo, potencia y energía mecánica]]
+	- [[S2 -Trabajo, potencia y energía]]
 
 %% End Waypoint %%
 

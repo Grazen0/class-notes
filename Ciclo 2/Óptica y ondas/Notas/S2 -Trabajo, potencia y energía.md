@@ -69,7 +69,9 @@ P = \frac{dW}{dt} = \vec{F} \cdot \frac{d\vec{r}}{dt} = \vec{F} \cdot \vec{v}
 
 ## Energía
 
-### Energía cinética
+### Tipos de energía
+
+#### Energía cinética
 
 ```ad-theorem
 title: Teorema (teorema del trabajo neto).
@@ -94,11 +96,11 @@ $$
 
 donde $m$ es la masa del objeto, y $v$ su velocidad.
 
-### Energía potencial
+#### Energía potencial
 
 Es la energía "almacenada" por un objeto asociada a su posición.
 
-#### Energía potencial gravitacional
+##### Energía potencial gravitacional
 
 Esta forma de energía potencial es aquella asociada con el **peso** de un cuerpo y su **posición vertical**. Se calcula mediante la fórmula
 
@@ -114,6 +116,6 @@ $$
 \Delta U_{g} = U_{g,f} - U_{g,i} = mgh_{f} - mgh_{i} = -W_{\text{grav}}
 $$
 
-#### Energía potencial elástica
+##### Energía potencial elástica
 
-## Conservación de la energía
+### Ley de conservación de la energía
