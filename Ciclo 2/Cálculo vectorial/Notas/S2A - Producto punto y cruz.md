@@ -79,8 +79,8 @@ Colocamos la mano de la siguiente forma:
 ### Propiedades
 
 - **Módulo:** $\lVert \vec{v} \times \vec{w} \rVert = \lVert \vec{v} \rVert \lVert \vec{w} \rVert \sin(\theta)$
+	- Si $\vec{v}$ y $\vec{w}$ son perpendiculares, entonces $\vec{v} \times \vec{w} = 0$.
 - **Anticonmutatividad:** $\vec{v} \times \vec{w} = -\vec{w} \times \vec{v}$.
-- Si $\vec{v}$ y $\vec{w}$ son perpendiculares, entonces $\vec{v} \times \vec{w} = 0$.
 
 #### Productos cruz de vectores unitarios
 
