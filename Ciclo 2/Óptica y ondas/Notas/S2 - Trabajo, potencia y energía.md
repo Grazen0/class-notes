@@ -95,7 +95,7 @@ Cuando se realiza un trabajo en un sistema, y el único cambio es en la rapidez 
 Es decir,
 
 $$
-W_{\text{tot}} = \Delta K = K_{f} - K_{i} = \frac{1}{2}m(v_{f})^{2} - \frac{1}{2}m(v_{i})^{2}
+W_{\text{tot}} = \Delta K = K_{f} - K_{i}
 ,$$
 
 donde $K_{f}$ y $K_{i}$ son la energía cinética final e inicial del objeto respectivamente.
@@ -118,7 +118,7 @@ U_{g} = mgh
 
 donde $h$ es la altura a la que se encuentra el objeto.
 
-Un resultado interesante es que la variación en energía potencial gravitacional de un objeto es precisamente el opuesto del trabajo realizado por la gravedad. Es decir,
+La variación en energía potencial gravitacional de un objeto es precisamente el opuesto del trabajo realizado por la gravedad. Es decir,
 
 $$
 \begin{align}
@@ -129,6 +129,22 @@ $$
 .$$
 
 ##### Energía potencial elástica
+
+Se relaciona con la posición de un resorte con respecto a su punto de equilibrio. Se calcula mediante la fórmula
+
+$$
+U_{\text{el}} = \frac{1}{2}kx^{2}
+,$$
+
+donde $x$ es la distancia del resorte de su punto de equilibrio.
+
+Es decir,
+
+$$
+\Delta U_{\text{el}} = - W_{\text{s}}
+,$$
+
+donde $W_{s}$ es la fuerza elástica del resorte.
 
 #### Energía mecánica
 
