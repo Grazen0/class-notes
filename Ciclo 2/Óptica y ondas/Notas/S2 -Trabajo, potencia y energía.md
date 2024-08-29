@@ -130,7 +130,7 @@ $$
 
 ##### Energía potencial elástica
 
-### Ley de conservación de la energía
+## Fuerzas conservativas y no conservativas
 
 ```ad-definition
 title: Definición (fuerza conservativa).
@@ -140,6 +140,8 @@ Una fuerza es conservativa si y sólo si es **independiente de la trayectoria**.
 Alternativamente, una fuerza es conservativa si y sólo si el **trabajo** que realiza sobre un objeto a lo largo de una **trayectoria cerrada** es $0$.
 
 ```
+
+
 
 
 $$
