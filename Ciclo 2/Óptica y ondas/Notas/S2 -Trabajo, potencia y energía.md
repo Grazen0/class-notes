@@ -41,6 +41,12 @@ F_{x} = -kx
 
 donde $x$ es la posición del resorte con respecto a su posición natural. Además $k$ es la *constante elástica*, que define la "elasticidad" del resorte.
 
+Utilizando esta y la fórmula de trabajo con fuerza variable, llegamos a que el **trabajo realizado por el resorte** al ir desde $x_{i}$ hasta $x_{j}$ es igual a
+
+$$
+W_{s} = \frac{1}{2}k(x_{i})^{2} - \frac{1}{2}k(x_{f})^{2}
+.$$
+
 ## Potencia
 
 ```ad-definition
@@ -73,6 +79,14 @@ P = \frac{dW}{dt} = \vec{F} \cdot \frac{d\vec{r}}{dt} = \vec{F} \cdot \vec{v}
 
 #### Energía cinética
 
+La **energía cinética** de un objeto se calcula mediante la fórmula
+
+$$
+K = \frac{1}{2}mv^{2}
+$$
+
+donde $m$ es la masa del objeto, y $v$ su velocidad.
+
 ```ad-theorem
 title: Teorema (teorema del trabajo neto).
 
@@ -81,20 +95,12 @@ Cuando se realiza un trabajo en un sistema, y el único cambio es en la rapidez 
 Es decir,
 
 $$
-W = \Delta K = K_{f} - K_{i}
+W_{\text{tot}} = \Delta K = K_{f} - K_{i} = \frac{1}{2}m(v_{f})^{2} - \frac{1}{2}m(v_{i})^{2}
 ,$$
 
 donde $K_{f}$ y $K_{i}$ son la energía cinética final e inicial del objeto respectivamente.
 
 ```
-
-La **energía cinética** de un objeto se calcula mediante la fórmula
-
-$$
-K = \frac{1}{2}mv^{2}
-$$
-
-donde $m$ es la masa del objeto, y $v$ su velocidad.
 
 #### Energía potencial
 
