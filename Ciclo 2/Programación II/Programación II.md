@@ -6,6 +6,8 @@
 - **Notas**
 	- [[S1 - ¡Hola, mundo!]]
 	- [[S2 - Estructuras de control]]
+- **Trabajos**
+	- [[Diagrama de flujo - Supermercado.excalidraw]]
 
 %% End Waypoint %%
 
