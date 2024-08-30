@@ -6,6 +6,10 @@ kanban-plugin: board
 
 ## ☕ Tareas
 
+- [ ] **Tarea semanal 1**
+	
+	#calculo #teo
+	@{10-09-2024}
 
 
 ## 📚 Lecturas
