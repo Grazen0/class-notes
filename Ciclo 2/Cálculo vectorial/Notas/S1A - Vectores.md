@@ -14,7 +14,7 @@ $$
 \begin{align}
 \vec{v} &= \overrightarrow{IF} \\
  &= ( -5 - 2, -1 - 4 ) \\
-\vec{v} &= ( -7, -5 )
+\vec{v} &= \langle -7, -5 \rangle
 \end{align}
 $$
 
@@ -61,7 +61,7 @@ $$
 La forma cartesiana utiliza las **componentes** del vector.
 
 $$
-\vec{v} = (v_{x}, v_{y})
+\vec{v} = \langle v_{x}, v_{y} \rangle
 $$
 
 ### Conversión de sistemas
@@ -137,10 +137,10 @@ y con el segundo método,
 
 $$
 \begin{align}
-\vec{A} &= (0, -8) \, \text{m} \\
-\vec{B} &= (15 \cos(60\degree), 15\sin(60\degree))\, \text{m} \\
-\vec{C} &= (12 \cos(205\degree), 12\sin(205\degree)) \, \text{m} \\
-\vec{D} &= (10 \cos(143\degree), 10\sin(143\degree)) \, \text{m}
+\vec{A} &= \langle 0, -8 \rangle \, \text{m} \\
+\vec{B} &= \langle 15 \cos(60\degree), 15\sin(60\degree) \rangle\, \text{m} \\
+\vec{C} &= \langle 12 \cos(205\degree), 12\sin(205\degree) \rangle \, \text{m} \\
+\vec{D} &= \langle 10 \cos(143\degree), 10\sin(143\degree) \rangle \, \text{m}
 .\end{align}
 $$
 
@@ -198,9 +198,9 @@ Los vectores canónicos son la base del sistema de coordenadas.
 
 $$
 \begin{align}
-\hat{\mathbf{i}} = (1, 0, 0) \\
-\hat{\mathbf{j}} = (0, 1, 0) \\
-\hat{\mathbf{k}} = (0, 0, 1)
+\hat{\mathbf{i}} = \langle 1, 0, 0 \rangle \\
+\hat{\mathbf{j}} = \langle 0, 1, 0 \rangle \\
+\hat{\mathbf{k}} = \langle 0, 0, 1 \rangle
 \end{align}
 $$
 
@@ -220,7 +220,7 @@ Ver también: **[[S2A - Producto punto y cruz]]**
 La suma de dos vectores es la suma de sus componentes. Al resultado se le llama **resultante**, y se suele denotar con $\vec{R}$.
 
 $$
-\vec{R} = \vec{v} \pm \vec{w} = ( v_{x} \pm u_{x}, v_{y} \pm u_{y} )
+\vec{R} = \vec{v} \pm \vec{w} = \langle  v_{x} \pm w_{x}, v_{y} \pm w_{y}  \rangle
 $$
 
 #### Propiedades para vectores en forma polar
@@ -268,5 +268,5 @@ Otra forma de sumar vectores gráficamente es trasladándolos desde su origen co
 Multiplicar un vector con un escalar es multiplicar sus componentes por el escalar.
 
 $$
-c \cdot \vec{v} = ( c \cdot \vec{v}_{x}, c \cdot \vec{v}_{y} ) 
+c \cdot \vec{v} = \langle  c \cdot \vec{v}_{x}, c \cdot \vec{v}_{y}  \rangle 
 $$

@@ -1,6 +1,6 @@
 ## Producto punto/escalar/interno
 
-El producto escalar del [[S1A - Vectores|vector]] $\vec{v}$ con el vector $\vec{w}$ es la proyección de $\vec{v}$ sobre $\vec{w}$ multiplicado por $\lVert w \rVert$ (o viceversa).
+El producto escalar del [[S1A - Vectores|vector]] $\vec{v}$ con el vector $\vec{w}$ es la proyección de $\vec{v}$ sobre $\vec{w}$ multiplicado por $\lVert \vec{w} \rVert$ (o viceversa).
 
 $$
 \begin{align}
@@ -22,13 +22,13 @@ $$
 Calcular el **ángulo** entre dos vectores:
 
 $$
-\theta = \arccos\left( \frac{\vec{v} \cdot \vec{w}}{\lVert v \rVert \lVert w \rVert } \right) 
+\theta = \arccos\left( \frac{\vec{v} \cdot \vec{w}}{\lVert \vec{v} \rVert \lVert \vec{w} \rVert } \right) 
 $$
 
 Calcular la **proyección** de un vector sobre otro. Por ejemplo, para la proyección de $\vec{v}$ sobre $\vec{w}$:
 
 $$
-\lVert v \rVert \cos(\theta) = \frac{\vec{v} \cdot \vec{w}}{\lVert w \rVert }
+\lVert \vec{v} \rVert \cos(\theta) = \frac{\vec{v} \cdot \vec{w}}{\lVert \vec{w} \rVert }
 $$
 
 ## Producto cruz/vectorial
