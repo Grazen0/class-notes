@@ -207,7 +207,7 @@ $$
 Cualquier vector $\vec{v}$ se puede representar en términos de los vectores canónicos como
 
 $$
-\vec{v} = \vec{v}_{x}\hat{\mathbf{i}} + \vec{v}_{y}\hat{\mathbf{j}} + \vec{v}_{z}\hat{\mathbf{k}}
+\vec{v} = v_{x}\hat{\mathbf{i}} + v_{y}\hat{\mathbf{j}} + v_{z}\hat{\mathbf{k}}
 .$$
 
 
