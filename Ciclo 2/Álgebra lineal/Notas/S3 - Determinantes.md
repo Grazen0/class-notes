@@ -13,7 +13,7 @@ donde $A_{ij}$ representa la matriz que resulta de *eliminar* la fila $i$ y la c
 
 ```
 
-La determinante de una matriz representa la **escala** de una unidad de espacio transformada usando dicha matriz como una transformación lineal. De cierta forma, es una representación de por qué factor la matriz "estira" (o posiblemente "encoge") el espacio.
+La determinante de una [[S1 - Matrices|matriz]] representa la **escala** de una unidad de espacio transformada usando dicha matriz como una transformación lineal. De cierta forma, es una representación de por qué factor la matriz "estira" (o posiblemente "encoge") el espacio.
 
 La determinante de una matriz $A$ se denota como $\det\!\left( A \right)$ o $\lvert A \rvert$.
 
