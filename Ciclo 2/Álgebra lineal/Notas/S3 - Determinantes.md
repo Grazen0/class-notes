@@ -64,7 +64,8 @@ $$
 ## Propiedades
 
 - Si $A$ es **triangular**, entonces $\lvert A \rvert$ es el **producto de la diagonal principal**.
-- $\lvert A \rvert = \lvert A^{T} \rvert$
+- $\lvert A \rvert = \lvert A^{T} \rvert$.
+- Si $A$ tiene alguna fila (o columna) nula, entonces $\lvert A \rvert = 0$.
 
 ### Operaciones elementales
 
