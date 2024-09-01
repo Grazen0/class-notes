@@ -13,7 +13,7 @@ $$
 x &= x_{0} + tv_{x} \\
 y &= y_{0} + tv_{y} \\
 z &= z_{0} + tv_{z} \\
-\end{align}
+.\end{align}
 $$
 
 Además, despejando $t$ e igualando los resultados obtenemos la **ecuación simétrica**,
