@@ -60,3 +60,10 @@ $$
 $$
 
 ```
+
+## Propiedades
+
+- Si $A$ es **triangular**, entonces $\lvert A \rvert$ es el **producto de la diagonal principal**.
+- $\lvert c \cdot A \rvert = c^{n}\lvert A \rvert$ para toda matriz $A$ de $n \times n$.
+- Si $B$ es igual a $A$ con alguna fila o columna cambiada, entonces $\lvert A \rvert = -\lvert B \rvert$.
+- 
