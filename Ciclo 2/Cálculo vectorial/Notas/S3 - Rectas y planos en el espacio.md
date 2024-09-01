@@ -35,11 +35,13 @@ Dos planos pueden intersectar o bien en una **recta** o bien en **ningún punto*
 
 ### Distancia de un punto a un plano
 
-La distancia de un punto $P$ a un plano $\mathscr{P}$ es la **componente de $\overrightarrow{OP}$ sobre la normal de $\mathscr{P}$**, donde $O$ es algún punto de $\mathscr{P}$.
+La distancia de un punto $P$ a un plano $\mathscr{P}$ es el **tamaño de la proyección de $\overrightarrow{OP}$ sobre la normal de $\mathscr{P}$**, donde $O$ es algún punto de $\mathscr{P}$.
 
 $$
-D(P, \mathscr{P}) = \lVert \operatorname{proy}_{\vec{n}}(\overrightarrow{OP}) \rVert = \operatorname{comp}_{\vec{n}}(\overrightarrow{OP})
+D(P, \mathscr{P}) = \lVert \operatorname{proy}_{\vec{n}}(\overrightarrow{OP}) \rVert = \lvert \operatorname{comp}_{\vec{n}}(\overrightarrow{OP}) \rvert 
 $$
+
+> [!NOTE] El valor absoluto es importantísimo, ya que $P$ podría estar por el lado opuesto a la dirección de la normal.
 
 #todo
 - [ ] Añadir gráfica
