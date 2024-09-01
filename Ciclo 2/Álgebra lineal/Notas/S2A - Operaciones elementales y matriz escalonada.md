@@ -120,14 +120,6 @@ El pivote de una fila *no nula* es el primer elemento diferente de $0$ en la fil
 ```
 
 ```ad-definition
-title: Definición (rango).
-collapse: closed
-
-El rango de una matriz es igual a su **cantidad de filas no nulas**.
-
-```
-
-```ad-definition
 
 Una matriz es **escalonada por filas** si y solo si se cumple que
 
@@ -147,6 +139,14 @@ $$
 0 & 0 & 0 & 0 & 0 & 0
 \end{bmatrix}
 $$
+
+```ad-definition
+title: Definición (rango).
+collapse: closed
+
+El rango de una matriz $A$ es igual a la **cantidad de filas no nulas** de la matriz *escalonada* que se obtenga con operaciones elementales en $A$.
+
+```
 
 ### Matriz escalonada reducida por filas
 
