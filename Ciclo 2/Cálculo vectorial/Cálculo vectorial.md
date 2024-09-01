@@ -4,11 +4,12 @@
 
 %% Begin Waypoint %%
 - **Notas**
+	- [[S0 - Espacio en 3D]]
 	- [[S1A - Vectores]]
-	- [[S1B - Espacio en 3D]]
 	- [[S2A - Producto punto y cruz]]
 	- [[S2B - Cosenos directores]]
 	- [[S2C - Proyección de vectores]]
+	- [[S3 - Rectas y planos en el espacio]]
 - **Trabajos**
 	- [[Cuaderno de trabajo]]
 

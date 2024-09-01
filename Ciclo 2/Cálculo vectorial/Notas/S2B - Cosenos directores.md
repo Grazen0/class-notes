@@ -1,4 +1,4 @@
-Cuando trabajamos con [[S1A - Vectores|vectores]] en el [[S1B - Espacio en 3D|espacio tridimensional]], un vector $\vec{v}$ ya no tiene una única dirección, sino que tiene 3 ángulos que parten a partir de cada eje respectivo del espacio.
+Cuando trabajamos con [[S1A - Vectores|vectores]] en el [[S0 - Espacio en 3D|espacio tridimensional]], un vector $\vec{v}$ ya no tiene una única dirección, sino que tiene 3 ángulos que parten a partir de cada eje respectivo del espacio.
 
 **[Ver visualización](https://www.geogebra.org/m/dUHQSEeu)**
 
