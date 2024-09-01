@@ -19,7 +19,7 @@ El uso de la inducción fuerte permite hacer uso no solamente del caso antecesor
 ````ad-exercise
 title: Ejercicio.
 
-Un entero positivo $n$ se puede representar como $4p + 5q$ si y solo si $n \in \left\{ 4,5,8,9 \right\}$ o $n \geq 12$.
+Un entero positivo $n$ se puede representar como $4p + 5q$ si y sólo si $n \in \left\{ 4,5,8,9 \right\}$ o $n \geq 12$.
 
 ```ad-proof
 

@@ -314,7 +314,7 @@ $p \leftrightarrow q$ es verdadero solamente cuando $p$ y $q$ tienen el mismo va
 
 $p \leftrightarrow  q$ es equivalente a:
 
-- $p$ si y solo si $q$.
+- $p$ si y sólo si $q$.
 - $p$ siempre y cuando $q$.
 - $p$ es equivalente a $q$.
 
@@ -324,7 +324,7 @@ collapse: closed
 
 Determine el valor de verdad de las siguientes proposiciones:
 
-1. $0 = 1$ si y solo si $1 = 2$.
+1. $0 = 1$ si y sólo si $1 = 2$.
 
 $$
 \begin{align}
@@ -333,7 +333,7 @@ $$
 \end{align}
 $$
 
-2. Lima es la capital de Chile si y solo si Perú es un país de sudamérica.
+2. Lima es la capital de Chile si y sólo si Perú es un país de sudamérica.
 $$
 \begin{align}
 &\equiv \F \leftrightarrow \T \\
@@ -350,7 +350,7 @@ $$
 \end{align}
 $$
 
-4. Ayer llovió en Lima si y solo si anteayer llovió en Lima.
+4. Ayer llovió en Lima si y sólo si anteayer llovió en Lima.
 
 $$
 \begin{align}

@@ -16,7 +16,7 @@ $$
 ```ad-definition
 title: Definición (validez de un argumento).
 
-Un argumento **es válido** si y solo si
+Un argumento **es válido** si y sólo si
 
 $$
 p_{1} \land p_{2} \land \ldots \land p_{n} \to q

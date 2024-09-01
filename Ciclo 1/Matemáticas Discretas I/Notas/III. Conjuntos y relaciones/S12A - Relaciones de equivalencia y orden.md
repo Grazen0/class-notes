@@ -21,7 +21,7 @@ Las relaciones de equivalencia forman grupos dentro del dominio, donde los eleme
 ```ad-definition
 title: Definición (orden parcial).
 
-Sea $A$ un conjunto y $R$ una relación en $A$. Entonces, $R$ es una **relación de orden parcial** si y solo si
+Sea $A$ un conjunto y $R$ una relación en $A$. Entonces, $R$ es una **relación de orden parcial** si y sólo si
 
 1. $R$ es **reflexiva**.
 2. $R$ es **antisimétrica**.

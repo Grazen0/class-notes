@@ -48,7 +48,7 @@ Por ejemplo, $p \land \neg p \equiv \F$.
 ```ad-definition
 title: Definición (equivalencia).
 
-Decimos que dos proposiciones lógicas $p$ y $q$ son equivalentes si $p \leftrightarrow q$ es una tautología. Es decir, si y solo si tienen el mismo valor de verdad.
+Decimos que dos proposiciones lógicas $p$ y $q$ son equivalentes si $p \leftrightarrow q$ es una tautología. Es decir, si y sólo si tienen el mismo valor de verdad.
 
 Por ejemplo: $p \land p \equiv p$.
 

@@ -1,4 +1,4 @@
-Una [[S1 - Matrices|matriz]] cuadrada $A \in M_{n \times n}$  es **invertible** si y solo si tiene inversa.
+Una [[S1 - Matrices|matriz]] cuadrada $A \in M_{n \times n}$  es **invertible** si y sólo si tiene inversa.
 
 ```ad-definition
 

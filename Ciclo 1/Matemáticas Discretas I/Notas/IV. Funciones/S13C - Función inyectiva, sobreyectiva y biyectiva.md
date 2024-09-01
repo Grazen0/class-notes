@@ -8,7 +8,7 @@ tags: []
 
 ```ad-definition
 
-Sea $f: A \to B$. Entonces, $f$ es **inyectiva** si y solo si
+Sea $f: A \to B$. Entonces, $f$ es **inyectiva** si y sólo si
 
 $$
 \forall x,y \in A : f(x) = f(y) \implies x = y
@@ -56,7 +56,7 @@ Cualquier recta horizontal intersecta con la función en a lo mucho **un solo pu
 
 ```ad-definition
 
-Sea $f: A \to B$. Entonces, $f$ es **sobreyectiva** si y solo si
+Sea $f: A \to B$. Entonces, $f$ es **sobreyectiva** si y sólo si
 
 $$
 \ran(f) = B
@@ -80,7 +80,7 @@ $$
 
 ```ad-definition
 
-Sea $f: A \to B$. Entonces, $f$ es **biyectiva** si y solo si es **inyectiva y sobreyectiva** a la vez.
+Sea $f: A \to B$. Entonces, $f$ es **biyectiva** si y sólo si es **inyectiva y sobreyectiva** a la vez.
 
 ```
 

@@ -4,7 +4,7 @@ Las relaciones se pueden clasificar según algunas propiedades específicas.
 
 ```ad-definition
 
-Sea $A$ un conjunto y $R$ una relación en $A$. Entonces, $R$ es **reflexiva** si y solo si
+Sea $A$ un conjunto y $R$ una relación en $A$. Entonces, $R$ es **reflexiva** si y sólo si
 
 $$
 \forall a \in A : (a,a) \in R
@@ -43,7 +43,7 @@ Sea $R$ una relación en $A$.
 
 ```ad-definition
 
-Sea $A$ un conjunto y $R$ una relación en $A$. Entonces, $R$ es **simétrica** si y solo si
+Sea $A$ un conjunto y $R$ una relación en $A$. Entonces, $R$ es **simétrica** si y sólo si
 
 $$
 \forall a,b \in A : \left( (a, b) \in R \implies (b, a) \in R \right)
@@ -71,7 +71,7 @@ Al ubicar una relación simétrica en el plano cartesiano, existirá una simetr�
 
 ```ad-definition
 
-Sea $A$ un conjunto y $R$ una relación en $A$. Entonces, $R$ es **transitiva** si y solo si
+Sea $A$ un conjunto y $R$ una relación en $A$. Entonces, $R$ es **transitiva** si y sólo si
 
 $$
 \forall a,b,c \in A : \left( (a, b) \in R \land (b, c) \in R \right) \implies (a, c) \in R
@@ -110,7 +110,7 @@ Es decir, cualquier elemento $(a, a) \in R$ emparejado con cualquier otro cumple
 ```ad-definition
 title: Definición.
 
-Sea $A$ un conjunto y $R$ una relación en $A$. Entonces, $R$ es una **relación antisimétrica** si y solo si:
+Sea $A$ un conjunto y $R$ una relación en $A$. Entonces, $R$ es una **relación antisimétrica** si y sólo si:
 
 $$
 \forall a, b \in A : ((a, b) \in R \land a \neq b) \implies (b, a) \notin R

@@ -31,7 +31,7 @@ y es la **pendiente de la recta tangente** a la función en un punto determinado
 
 ## Límites y continuidad
 
-Se dice que una función $f$ es **continua** en $x = a$ si y solo si:
+Se dice que una función $f$ es **continua** en $x = a$ si y sólo si:
 
 1. Existe $f(a)$.
 2. Existe $\lim_{x \to a} f(x)$.

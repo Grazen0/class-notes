@@ -43,18 +43,18 @@ title: Ejemplos
 ## Terminología
 ### Pertenencia
 
-Se dice que $x \in A$ si y solo si $x$ **pertenece** al conjunto $A$. Caso contrario, se escribe $x \notin A$.
+Se dice que $x \in A$ si y sólo si $x$ **pertenece** al conjunto $A$. Caso contrario, se escribe $x \notin A$.
 
 ### Igualdad
 
-Dos conjuntos $A$ y $B$ son **iguales** si y solo si poseen los mismos elementos. Esto se denota como $A = B$.
+Dos conjuntos $A$ y $B$ son **iguales** si y sólo si poseen los mismos elementos. Esto se denota como $A = B$.
 
 Es posible demostrar igualdad por **inclusión mutua**:
 
 ```ad-proposition
 title: Propiedad.
 
-Dos conjuntos $A$ y $B$ son iguales si y solo si $A \subseteq B$ y $B \subseteq A$.
+Dos conjuntos $A$ y $B$ son iguales si y sólo si $A \subseteq B$ y $B \subseteq A$.
 
 ```
 
@@ -67,11 +67,11 @@ $$
 $$
 
 - **Cardinal:** Dado un conjunto finito $A$, denotamos con $|A|$ la **cantidad de elementos** de $A$. Este es el **número cardinal** de $A$.
-- **Disjunción:** Dos conjuntos $A$ y $B$ son llamados **disjuntos** si y solo si $A \cap B = \varnothing$.
+- **Disjunción:** Dos conjuntos $A$ y $B$ son llamados **disjuntos** si y sólo si $A \cap B = \varnothing$.
 
 ### Inclusión ($\subseteq$)
 
-Dados dos conjuntos $A$ y $B$, decimos que **$A$ está incluido en $B$** si y solo si cada elemento de $A$ es un elemento de $B$. Ello se denota como $A \subseteq B$, y y se dice que **$A$ es subconjunto de $B$**.
+Dados dos conjuntos $A$ y $B$, decimos que **$A$ está incluido en $B$** si y sólo si cada elemento de $A$ es un elemento de $B$. Ello se denota como $A \subseteq B$, y y se dice que **$A$ es subconjunto de $B$**.
 
 Si $A$ no es subconjunto de $B$, lo denotamos como $A \nsubseteq B$.
 

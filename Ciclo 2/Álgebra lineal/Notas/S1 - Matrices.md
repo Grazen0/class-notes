@@ -18,7 +18,7 @@ Se dice que $m \times n$ es el **orden** de la matriz.
 
 ## Igualdad de matrices
 
-Dos matrices $A$ y $B$ son iguales si y solo si se cumplen dos condiciones:
+Dos matrices $A$ y $B$ son iguales si y sólo si se cumplen dos condiciones:
 
 - $A$ y $B$ son del mismo tamaño.
 - Para todo $i = 1,2, \ldots, m$ y $j = 1,2, \ldots, n$ se cumple que $a_{ij} = b_{ij}$.
@@ -119,7 +119,7 @@ $$
 
 ### Matriz cuadrada
 
-Una matriz $A \in M_{m \times n}$ es cuadrada si y solo si $m = n$.
+Una matriz $A \in M_{m \times n}$ es cuadrada si y sólo si $m = n$.
 
 Cuando hablamos de matrices cuadradas, el **orden de $A$** es simplemente $m$ (o $n$).
 
@@ -173,7 +173,7 @@ $$
 
 #### Triangular superior
 
-Una matriz cuadrada de orden $n$ es **triangular superior** si y solo si todos los componentes por debajo de la diagonal principal son $0$.
+Una matriz cuadrada de orden $n$ es **triangular superior** si y sólo si todos los componentes por debajo de la diagonal principal son $0$.
 
 $$
 \begin{bmatrix}
@@ -197,7 +197,7 @@ $$
 
 ### Matriz simétrica
 
-Una matriz cuadrada $A = (a_{ij})$ de orden $n$ es simétrica si y solo si $a_{ij} = a_{ji}$ para todo $i, j \in \left\{ 1,2, \ldots n \right\}$.
+Una matriz cuadrada $A = (a_{ij})$ de orden $n$ es simétrica si y sólo si $a_{ij} = a_{ji}$ para todo $i, j \in \left\{ 1,2, \ldots n \right\}$.
 
 $$
 \begin{bmatrix}
@@ -209,7 +209,7 @@ $$
 
 ### Matriz antisimétrica
 
-Una matriz cuadrada $A = (a_{ij})$ de orden $n$ es antisimétrica si y solo si $a_{ij} = -a_{ji}$ para todo $i,j \in \left\{ 1,2,\ldots,n \right\}$.
+Una matriz cuadrada $A = (a_{ij})$ de orden $n$ es antisimétrica si y sólo si $a_{ij} = -a_{ji}$ para todo $i,j \in \left\{ 1,2,\ldots,n \right\}$.
 
 $$
 \begin{bmatrix}

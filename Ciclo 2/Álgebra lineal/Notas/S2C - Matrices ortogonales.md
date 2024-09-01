@@ -1,6 +1,6 @@
 ```ad-definition
 
-Una matriz es **ortogonal** si y solo si su traspuesta es igual a su inversa. (Es decir, $A^{-1} = A^{T}$)
+Una matriz es **ortogonal** si y sólo si su traspuesta es igual a su inversa. (Es decir, $A^{-1} = A^{T}$)
 
 ```
 
@@ -17,6 +17,6 @@ Alternativamente, se puede definir la ortogonalidad de una matriz a partir del s
 
 ```ad-theorem
 
-Una matriz es ortogonal si y solo si todas sus columnas (y filas) son vectores ortonormales entre si (es decir, vectores unitarios ortogonales).
+Una matriz es ortogonal si y sólo si todas sus columnas (y filas) son vectores ortonormales entre si (es decir, vectores unitarios ortogonales).
 
 ```

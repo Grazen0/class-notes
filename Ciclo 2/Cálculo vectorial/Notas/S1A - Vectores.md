@@ -162,7 +162,7 @@ Pero ojo con la dirección, porque a menudo tenemos que ajustar el resultado de 
 
 ### Vectores paralelos
 
-Dos vectores $\vec{v}$ y $\vec{w}$ son paralelos si y solo si $\vec{v} = \lambda \vec{w}$ para algún $\lambda \in \R$.
+Dos vectores $\vec{v}$ y $\vec{w}$ son paralelos si y sólo si $\vec{v} = \lambda \vec{w}$ para algún $\lambda \in \R$.
 
 $$
 \vec{v} \parallel \vec{w} \iff \exists \lambda \in \R : \vec{v} = \lambda \vec{w}
@@ -174,7 +174,7 @@ En otras palabras, dos vectores son paralelos cuando uno de ellos se puede conve
 
 ```ad-definition
 
-Un vector $\vec{v}$ es **unitario** si y solo si $\lVert \vec{v} \rVert = 1$.
+Un vector $\vec{v}$ es **unitario** si y sólo si $\lVert \vec{v} \rVert = 1$.
 
 ```
 

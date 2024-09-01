@@ -62,7 +62,7 @@ $$
 
 ## Continuidad
 
-Una función $f$ es continua si y solo si, para todo $a \in \dom f$,
+Una función $f$ es continua si y sólo si, para todo $a \in \dom f$,
 
 $$
 \lim_{x \to a} f(x) = f(a)

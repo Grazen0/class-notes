@@ -32,7 +32,7 @@ $$
 
 ```ad-definition
 
-Una matriz es **elemental** si y solo si es el resultado de aplicar una operación elemental a la matriz identidad.
+Una matriz es **elemental** si y sólo si es el resultado de aplicar una operación elemental a la matriz identidad.
 
 ```
 
@@ -83,7 +83,7 @@ $$
 
 ```ad-definition
 
-Dos matrices $A$ y $B$ son **equivalentes por filas** si y solo si podemos obtener una a partir de la otra aplicando operaciones elementales. Esto se denota como $A \sim B$.
+Dos matrices $A$ y $B$ son **equivalentes por filas** si y sólo si podemos obtener una a partir de la otra aplicando operaciones elementales. Esto se denota como $A \sim B$.
 
 ```
 
@@ -107,7 +107,7 @@ $$
 title: Definición (fila nula).
 collapse: closed
 
-Una fila es **nula** si y solo si todos sus elementos son iguales a $0$.
+Una fila es **nula** si y sólo si todos sus elementos son iguales a $0$.
 
 ```
 
@@ -121,7 +121,7 @@ El pivote de una fila *no nula* es el primer elemento diferente de $0$ en la fil
 
 ```ad-definition
 
-Una matriz es **escalonada por filas** si y solo si se cumple que
+Una matriz es **escalonada por filas** si y sólo si se cumple que
 
 - todas sus filas nulas (si existen) se encuentran abajo de la matriz, y
 - el pivote de cada fila está a la izquierda del pivote de la fila siguiente.
