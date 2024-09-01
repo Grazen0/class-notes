@@ -38,10 +38,23 @@ Dos planos pueden intersectar o bien en una **recta** o bien en **ningún punto*
 La distancia de un punto $P$ a un plano $\mathscr{P}$ es el **tamaño de la proyección de $\overrightarrow{OP}$ sobre la normal de $\mathscr{P}$**, donde $O$ es algún punto de $\mathscr{P}$.
 
 $$
-D(P, \mathscr{P}) = \lVert \operatorname{proy}_{\vec{n}}(\overrightarrow{OP}) \rVert = \lvert \operatorname{comp}_{\vec{n}}(\overrightarrow{OP}) \rvert 
+D = \lVert \operatorname{proy}_{\vec{n}}(\overrightarrow{OP}) \rVert = \lvert \operatorname{comp}_{\vec{n}}(\overrightarrow{OP}) \rvert 
 $$
 
 > [!NOTE] El valor absoluto es importantísimo, ya que $P$ podría estar por el lado opuesto a la dirección de la normal.
+
+#todo
+- [ ] Añadir gráfica
+
+### Distancia entre rectas oblicuas
+
+Si queremos interesectar dos rectas $\mathscr{L_{1}}$ y $\mathscr{L_{2}}$ con vectores dirección $\vec{v_{1}}$ y $\vec{v_{2}}$ respectivamente, entonces la distancia entre $\mathscr{L_{1}}$ y $\mathscr{L_{2}}$ es igual a
+
+$$
+D = \lVert \operatorname{proy}_{\vec{n}}(\overrightarrow{PQ}) \rVert = \frac{\lvert \overrightarrow{PQ} \cdot \vec{n} \rvert }{\lVert \vec{n} \rVert }
+,$$
+
+donde $\vec{n} = \vec{v_{1}} \times \vec{v_{2}}$, y donde $P$ y $Q$ son puntos cualesquiera en $\mathscr{L_{1}}$ y $\mathscr{L_{2}}$  respectivamente.
 
 #todo
 - [ ] Añadir gráfica
