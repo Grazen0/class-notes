@@ -64,6 +64,123 @@ $$
 ## Propiedades
 
 - Si $A$ es **triangular**, entonces $\lvert A \rvert$ es el **producto de la diagonal principal**.
+- $\lvert A \rvert = \lvert A^{T} \rvert$
+
+### Operaciones elementales
+
+- Si $B$ se obtiene de sumar un **múltiplo de una fila** de $A$ a otra, entonces $\lvert B \rvert = \lvert A \rvert$.
+- Si $B$ se obtiene de **intercambiar algún par de filas** de $A$, entonces $\lvert B \rvert = -\lvert A \rvert$.
+- Si $B$ se obtiene de **multiplicar por una constante** $c$ alguna fila de $A$, entonces $\lvert B \rvert = c\,\lvert A \rvert$.
+
+#### Derivados
+
 - $\lvert c \cdot A \rvert = c^{n}\lvert A \rvert$ para toda matriz $A$ de $n \times n$.
-- Si $B$ es igual a $A$ con alguna fila o columna cambiada, entonces $\lvert A \rvert = -\lvert B \rvert$.
-- 
+- $\lvert A \cdot B\rvert = \lvert A \rvert \cdot \lvert B \rvert$.
+
+### Relación con la inversa
+
+```ad-theorem
+
+Una matriz $A$ es **[[S2B - Matriz inversa|invertible]]** si y sólo si $\lvert A \rvert \neq 0$.
+
+```
+
+Además, la intuición del significado de un determinante nos lleva a deducir que
+
+$$
+\lvert A^{-1} \rvert = \frac{1}{\lvert A \rvert}
+.$$
+
+## Matriz inversa mediante la adjunta
+
+Gracias a la determinante, podemos hallar la **inversa** de una matriz $A$ con la fórmula
+
+$$
+\lvert A \rvert = \frac{1}{\lvert A \rvert } \cdot \operatorname{adj}(A)
+,$$
+
+donde
+
+$$
+\operatorname{adj}(A) = (\operatorname{cof}(A))^{T}
+,$$
+
+donde $\operatorname{cof}(A) = c_{ij}$ tal que
+
+$$
+c_{ij} = (-1)^{i+j} \cdot \lvert A_{ij} \rvert 
+.$$
+
+```ad-example
+title: Ejemplo.
+collapse: open
+
+Calcular la inversa de $A = \begin{bmatrix} 4 & -1 & 1 \\ 4 & 5 & 3 \\ 2 & 0 & 0\end{bmatrix}$.
+
+**Resolución:**
+
+$$
+\begin{align}
+A^{-1} &= \frac{1}{\lvert A \rvert} \cdot \begin{vmatrix}
+\begin{vmatrix}
+5 & 3 \\
+0 & 0
+\end{vmatrix} & -\begin{vmatrix}
+4 & 3 \\
+2 & 0
+\end{vmatrix} & \begin{vmatrix}
+4 & 5 \\
+2 & 0
+\end{vmatrix} \\
+-\begin{vmatrix}
+-1 & 1 \\
+0 & 0
+\end{vmatrix} & \begin{vmatrix}
+4 & 1 \\
+2 & 0
+\end{vmatrix} & -\begin{vmatrix}
+4 & -1 \\
+2 & 0
+\end{vmatrix} \\
+\begin{vmatrix}
+-1 & 1 \\
+5 & 3
+\end{vmatrix} & -\begin{vmatrix}
+4 & 1 \\
+4 & 3
+\end{vmatrix} & \begin{vmatrix}
+4 & -1 \\
+4 & 5
+\end{vmatrix}
+\end{vmatrix}^{T} \\
+&= \frac{1}{\lvert A \rvert} \cdot \begin{vmatrix}
+0 & 6 & -10 \\
+0 & -2 & -2 \\
+-8 & -8 & 24
+\end{vmatrix}^{T} \\
+&= \frac{1}{\lvert A \rvert} \cdot \begin{vmatrix}
+0 & 0 & -8 \\
+6 & -2 & -8 \\
+-10 & -2 & 24
+\end{vmatrix}
+.\end{align}
+$$
+
+Ya que $\lvert A \rvert = -16$, finalmente obtenemos
+
+$$
+\begin{align}
+A^{-1} &= \frac{1}{-16} \cdot \begin{vmatrix}
+0 & 0 & -8 \\
+6 & -2 & -8 \\
+-10 & -2 & 24
+\end{vmatrix} \\
+A^{-1} &= \begin{vmatrix}
+0 & 0 & \frac{1}{2} \\
+-\frac{3}{8} & \frac{1}{8} & \frac{1}{2} \\
+\frac{5}{8} & \frac{1}{8} & -\frac{3}{2}
+\end{vmatrix}
+.\end{align}
+$$
+
+```
