@@ -34,10 +34,8 @@ Sea $P_{0} = (x_{0}, y_{0}, z_{0})$ un punto en el plano que queremos representa
 Este plano representa todos vectores $\vec{r}$ que inician en $P_{0}$ y son **ortogonales** a la normal $\vec{n}$. Por lo tanto, podemos usar el [[S2A - Producto punto y cruz#Producto punto/escalar|producto punto]], para representar el plano en su **forma vectorial**:
 
 $$
-\begin{align}
-&& \vec{n} \cdot (\vec{r} - \vec{r_{0}}) &= 0
-\end{align}
-$$
+\vec{n} \cdot (\vec{r} - \vec{r_{0}}) = 0
+.$$
 
 ![[plane vectors.png]]
 
