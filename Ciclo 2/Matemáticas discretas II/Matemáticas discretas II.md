@@ -20,10 +20,10 @@ Jorge Tipe
 
 | Tipo                | Cód | Nota | Semana | Fecha |
 | ------------------- | :-: | :--: | :----: | :---: |
+| Práctica calificada | PC1 | 10%  |   4    |   ?   |
 | Examen parcial      | E1  | 20%  |   ?    |   ?   |
 | Examen parcial      | E2  | 20%  |   ?    |   ?   |
 | Examen parcial      | E3  | 20%  |   ?    |   ?   |
 | Evaluación continua | C1  | 10%  |   ?    |   ?   |
-| Práctica calificada | PC1 | 10%  |   ?    |   ?   |
 | Práctica calificada | PC2 | 10%  |   ?    |   ?   |
 | Práctica calificada | PC3 | 10%  |   ?    |   ?   |
