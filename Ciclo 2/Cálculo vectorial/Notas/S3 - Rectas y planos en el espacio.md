@@ -29,6 +29,33 @@ donde a $v_{x}$, $v_{y}$ y $v_{z}$ se les conoce como **números directores.**
 
 ## Planos en 3D
 
+Sea $P_{0} = (x_{0}, y_{0}, z_{0})$ un punto en el plano que queremos representar, y sea $\vec{n} = (a,b,c)$ un vector normal al plano. Definamos $\vec{r_{0}}$ como el vector posición de $P_{0}$.
+
+Este plano representa todos vectores $\vec{r}$ que inician en $P_{0}$ y son **ortogonales** a la normal $\vec{n}$. Por lo tanto, podemos usar el [[S2A - Producto punto y cruz#Producto punto/escalar|producto punto]], para representar el plano en su **forma vectorial**:
+
+$$
+\begin{align}
+&& \vec{n} \cdot (\vec{r} - \vec{r_{0}}) &= 0 \\
+\iff && \vec{n} \cdot \vec{r} &= \vec{n} \cdot \vec{r_{0}}
+\end{align}
+$$
+
+![[plane vectors.png]]
+
+Operando un poco para nuestra conveniencia, obtenemos la **forma escalar**:
+
+$$
+a(x - x_{0}) + b(y - y_{0}) + c(z - z_{0}) = 0
+.$$
+
+Esta forma se suele comprimir como
+
+$$
+ax + by + cz = d
+,$$
+
+donde $d = ax_{0} + by_{0} + cz_{0}$. Nótese que de esta forma podemos deducir un vector normal del plano, $\vec{n} = (a,b,c)$.
+
 ### Intersección de dos planos
 
 Dos planos pueden intersectar o bien en una **recta** o bien en **ningún punto**.
