@@ -35,8 +35,7 @@ Este plano representa todos vectores $\vec{r}$ que inician en $P_{0}$ y son **or
 
 $$
 \begin{align}
-&& \vec{n} \cdot (\vec{r} - \vec{r_{0}}) &= 0 \\
-\iff && \vec{n} \cdot \vec{r} &= \vec{n} \cdot \vec{r_{0}}
+&& \vec{n} \cdot (\vec{r} - \vec{r_{0}}) &= 0
 \end{align}
 $$
 
@@ -48,7 +47,7 @@ $$
 a(x - x_{0}) + b(y - y_{0}) + c(z - z_{0}) = 0
 .$$
 
-Esta forma se suele comprimir como
+Esta forma se suele comprimir en la **forma general**:
 
 $$
 ax + by + cz = d
