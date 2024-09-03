@@ -11,7 +11,7 @@
 	- **Teoría**
 		- [[S1 - Introducción]]
 		- [[S2 - Elementos de un programa]]
-		- [[S3 - Funciones]]
+		- [[Ciclo 1/Programación I/Notas/Teoría/S3 - Funciones]]
 		- [[S4 - Bucles con while]]
 		- [[S5  - Bucles anidados]]
 		- [[S6A - Bucles con for]]

@@ -6,6 +6,7 @@
 - **Notas**
 	- [[S1 - ¡Hola, mundo!]]
 	- [[S2 - Estructuras de control]]
+	- [[S3 - Funciones]]
 
 %% End Waypoint %%
 
