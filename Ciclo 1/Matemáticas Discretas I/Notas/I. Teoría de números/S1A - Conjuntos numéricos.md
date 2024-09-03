@@ -52,7 +52,7 @@ $$
 $$
 o alternativamente,
 $$
-\Z \subset \Q
+\Z \subseteq \Q
 $$
 
 ```ad-proof

@@ -38,7 +38,8 @@ Es una forma de representar visualmente un CPO (de un conjunto finito).
 Es una versión reducida de una digráfica, donde
 
 1. Se ignoran los ciclos (es decir, la reflexividad).
-2. 
+2. Se coloca los elementos en orden **de abajo hacia arriba**.
+3. Debido al punto anterior, se ignora la dirección de las flechas.
 
 Por ejemplo, sea $A = \left\{ 2,3,4,6,8 \right\}$ y $R = (A, \mid)$.
 
