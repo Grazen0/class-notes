@@ -65,9 +65,17 @@ Sea $(A, \preceq)$ un CPO. Entonces:
 
 Un CPO puede tener varios elementos maximales o minimales al mismo tiempo. Esta definición lleva una noción de **relatividad**.
 
+```ad-example
+title: Ejemplo.
+collapse: open
+
+Sea la relación definida por el siguiente diagrama de Hasse:
+
 ![[Maximales y minimales.excalidraw|width:40%]]
 
 Aquí se cumple
 
 - **Maximales:** $\left\{ d \right\}$
 - **Minimales:** $\left\{ a, f \right\}$
+
+```
