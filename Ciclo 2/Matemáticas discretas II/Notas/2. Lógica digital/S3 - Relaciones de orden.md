@@ -35,3 +35,18 @@ En otras palabras, un orden total es un orden parcial donde **cualquier par de e
 
 Es una forma de representar visualmente un CPO (de un conjunto finito).
 
+Es una versión reducida de una digráfica, donde
+
+1. Se ignoran los ciclos (es decir, la reflexividad).
+2. 
+
+Por ejemplo, sea $A = \left\{ 2,3,4,6,8 \right\}$ y $R = (A, \mid)$.
+
+![[hasse.excalidraw|width:30%]]
+
+```ad-tip
+title: Observación.
+
+El diagrama de Hasse de un CTO es una **línea recta** (y de ahí la denominación de "orden lineal").
+
+```
