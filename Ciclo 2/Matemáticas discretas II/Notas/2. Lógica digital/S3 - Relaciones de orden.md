@@ -13,6 +13,10 @@ Sea $R$ una relación sobre un conjunto no vacío $A$. Entonces, $R$ es una **re
 
 Nótese que en una relación de orden parcial **pueden existir elementos no comparables**.
 
+A un conjunto $A$ equipado con una relación de orden parcial en $A$, $R$ se les llama un **conjunto parcialmente ordenado (CPO)**.
+
+Algunos ejemplos de CPOs son $(\R, \leq)$ y $(\N, \mid)$.
+
 Una definición más estricta del orden parcial es el **orden total**.
 
 ```ad-definition
@@ -26,3 +30,8 @@ Sea $R$ una relación sobre un conjunto no vacío $A$. Entonces, $R$ es una **re
 ```
 
 En otras palabras, un orden total es un orden parcial donde **cualquier par de elementos es comparable**.
+
+## Diagramas de Hasse
+
+Es una forma de representar visualmente un CPO (de un conjunto finito).
+
