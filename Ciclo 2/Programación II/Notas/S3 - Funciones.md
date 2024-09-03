@@ -1,3 +1,8 @@
+## Paso por referencia vs. por valor
+
+- **Paso por referencia:** Se pasa la variable tal cual, en su propio espacio de memoria. (`void foo(int& bar)`)
+- **Paso por valor:** Se pasa *una copia local* de la variable. (`void foo(int bar)`)
+
 ```ad-important
 title: Nota
 
