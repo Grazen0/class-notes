@@ -51,3 +51,23 @@ title: Observación.
 El diagrama de Hasse de un CTO es una **línea recta** (y de ahí la denominación de "orden lineal").
 
 ```
+
+## Elementos minimales y maximales
+
+```ad-definition
+
+Sea $(A, \preceq)$ un CPO. Entonces:
+
+1. Se dice que un elemento $a \in A$ es **maximal** si y sólo si no existe un $x \in A$ tal que $x \preceq a$ (con $x \neq a$).
+2. Se dice que un elemento $a \in A$ es **minimal** si y sólo si no existe un $x \in A$ tal que $a \preceq x$ (con $x \neq a$).
+
+```
+
+Un CPO puede tener varios elementos maximales o minimales al mismo tiempo. Esta definición lleva una noción de **relatividad**.
+
+![[Maximales y minimales.excalidraw|width:40%]]
+
+Aquí se cumple
+
+- **Maximales:** $\left\{ d \right\}$
+- **Minimales:** $\left\{ a, f \right\}$
