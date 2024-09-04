@@ -90,7 +90,7 @@ donde $m$ es la masa del objeto, y $v$ su velocidad.
 ```ad-theorem
 title: Teorema (teorema del trabajo neto).
 
-Cuando se realiza un trabajo en un sistema, y el único cambio es en la rapidez de sus partes, entonces el **trabajo neto** realizado en el sistema es igual al **cambio en la energía cinética del sistema**.
+Cuando se realiza un trabajo en un sistema, y el único cambio es en la rapidez de sus partes, entonces **el trabajo neto realizado en el sistema es igual al cambio en la energía cinética del sistema**.
 
 Es decir,
 
@@ -167,7 +167,7 @@ Alternativamente, una fuerza es conservativa si y sólo si el **trabajo** que re
 
 Las fuerzas conservativas tienen la propiedad de que **mantienen la energía mecánica**. Es decir, $\Delta E_{\text{mec}} = 0$.
 
-Una fuerza conservativa es la **gravedad**. Una fuerza no conservativa es la **fricción**.
+Las fuerzas conservativas que usaremos en este curso son la **gravedad** y la **fuerza elástica**. Todas las demás serán no conservativas.
 
 ## Ley de conservación de la energía
 
@@ -180,3 +180,9 @@ $$
 Aquí, $\Delta U_{\text{int}}$ representa el cambio en la la **energía interna**, que es básicamente el **trabajo de las fuerzas no conservativas**.
 
 Esta ley quiere decir: Si el trabajo de las fuerzas no conservativas ($W_{\text{fnc}}$) es nulo, entonces **la energía mecánica se conserva**.
+
+Nótese que esto nos da una equivalencia inmediata: **podemos hallar el trabajo de las fuerzas no conservativas a partir del trabajo de las fuerzas conservativas**.
+
+$$
+W_{\text{fnc}} = -\Delta E_{\text{mec}}
+$$
