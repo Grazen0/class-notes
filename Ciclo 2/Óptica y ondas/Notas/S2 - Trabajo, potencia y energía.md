@@ -184,5 +184,5 @@ Esta ley quiere decir: Si el trabajo de las fuerzas no conservativas ($W_{\text{
 Nótese que esto nos da una equivalencia inmediata: **podemos hallar el trabajo de las fuerzas no conservativas a partir del trabajo de las fuerzas conservativas**.
 
 $$
-W_{\text{fnc}} = -\Delta E_{\text{mec}}
+W_{\text{fnc}} = \Delta E_{\text{mec}}
 $$
