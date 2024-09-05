@@ -4,8 +4,10 @@ $$
 x = A\cos(\omega t + \phi)
 $$
 
+donde
+
 - $A$: amplitud
-- $\omega$: periodo, frecuencia angular
+- $\omega$: frecuencia angular
 - $\phi$: desfase
 
 ## En un sistema pendular
