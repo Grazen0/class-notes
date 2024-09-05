@@ -4,7 +4,7 @@ El producto escalar del [[S1A - Vectores|vector]] $\vec{v}$ con el vector $\vec{
 
 $$
 \begin{align}
-\vec{v} \cdot \vec{w} &= \lVert v \rVert \lVert w \rVert \cos(\theta) \\
+\vec{v} \cdot \vec{w} &= \lVert \vec{v} \rVert \lVert \vec{w} \rVert \cos(\theta) \\
 &= v_{x}w_{x} + v_{y}w_{y} + v_{z}w_{z}
 \end{align}
 $$
@@ -117,6 +117,7 @@ A = \lVert \vec{u} \times \vec{v} \rVert
 ### Volumen de un paralelepípedo 
 
 El volumen de un paralelepípedo formado por tres vectores se puede calcular como
+
 $$
 V = \left| \vec{u} \cdot (\vec{v} \times \vec{w}) \right| = \begin{vmatrix}
 u_{x} & u_{y} & u_{z} \\
