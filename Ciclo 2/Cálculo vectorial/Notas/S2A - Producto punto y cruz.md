@@ -38,21 +38,22 @@ El producto cruz de $\vec{v}$ y $\vec{w}$ es un vector perpendicular a $\vec{v}$
 $$
 \begin{align}
 \vec{v} \times \vec{w} &= \begin{vmatrix}
-\hat{\mathbf{i}} & \hat{\mathbf{j}} & \hat{\mathbf{k}} \\
+\hat{i} & \hat{j} & \hat{k} \\
 v_{x} & v_{y} & v_{z} \\
 w_{x} & w_{y} & w_{z}
 \end{vmatrix} \\
 &= \begin{vmatrix}
 v_{y} & v_{z} \\
 w_{y} & w_{z}
-\end{vmatrix}\hat{\mathbf{i}} - \begin{vmatrix}
+\end{vmatrix}\hat{i}
+ - \begin{vmatrix}
 v_{z} & v_{x} \\
 w_{z} & w_{x}
-\end{vmatrix}\hat{\mathbf{j}} + \begin{vmatrix}
+\end{vmatrix}\hat{j} + \begin{vmatrix}
 v_{x} & v_{y} \\
 w_{x} & w_{y}
-\end{vmatrix}\hat{\mathbf{k}} \\
-&= (v_{y}w_{z} - v_{z}w_{y})\hat{\mathbf{i}} - (v_{z}w_{x} - v_{x}w_{z})\hat{\mathbf{j}} + (v_{x}w_{y} - v_{y}w_{x})\hat{\mathbf{k}}
+\end{vmatrix}\hat{k} \\
+&= (v_{y}w_{z} - v_{z}w_{y})\hat{i} - (v_{z}w_{x} - v_{x}w_{z})\hat{j} + (v_{x}w_{y} - v_{y}w_{x})\hat{k}
 \end{align}
 $$
 
@@ -86,9 +87,9 @@ Colocamos la mano de la siguiente forma:
 
 $$
 \begin{array}{ l l l }
-\hat{\mathbf{i}} \times \hat{\mathbf{i}} = 0 & \hat{\mathbf{j}} \times \hat{\mathbf{j}} = 0 & \hat{\mathbf{k}} \times \hat{\mathbf{k}} = 0 \\
-\hat{\mathbf{i}} \times \hat{\mathbf{j}} = \hat{\mathbf{k}} & \hat{\mathbf{j}} \times \hat{\mathbf{k}} = \hat{\mathbf{i}} & \hat{\mathbf{k}} \times \hat{\mathbf{i}} = \hat{\mathbf{j}} \\
-\hat{\mathbf{j}} \times \hat{\mathbf{i}} = -\hat{\mathbf{k}} & \hat{\mathbf{j}} \times \hat{\mathbf{k}} = -\hat{\mathbf{i}} & \hat{\mathbf{k}} \times \hat{\mathbf{i}} = -\hat{\mathbf{j}}
+\hat{i} \times \hat{i} = 0 & \hat{j} \times \hat{j} = 0 & \hat{k} \times \hat{k} = 0 \\
+\hat{i} \times \hat{j} = \hat{k} & \hat{j} \times \hat{k} = \hat{i} & \hat{k} \times \hat{i} = \hat{j} \\
+\hat{j} \times \hat{i} = -\hat{k} & \hat{j} \times \hat{k} = -\hat{i} & \hat{k} \times \hat{i} = -\hat{j}
 \end{array}
 $$
 
@@ -121,7 +122,7 @@ El volumen de un paralelepípedo formado por tres vectores se puede calcular com
 $$
 V = \left| \vec{u} \cdot (\vec{v} \times \vec{w}) \right| = \begin{vmatrix}
 u_{x} & u_{y} & u_{z} \\
-u_{x} & u_{y} & u_{z} \\
+v_{x} & v_{y} & v_{z} \\
 w_{x} & w_{y} & w_{z}
 \end{vmatrix}
 .$$
