@@ -170,6 +170,18 @@ $$
 
 En otras palabras, dos vectores son paralelos cuando uno de ellos se puede convertir en el otro al multiplicarlo por algún escalar.
 
+Además de poder usar el [[S2A - Producto punto y cruz#Producto cruz/vectorial|producto cruz]] como criterio, otro criterio es:
+
+```ad-proposition
+
+Dos vectores $\vec{v}$ y $\vec{w}$ son paralelos si y sólo si **sus componentes son proporcionales**. Es decir,
+
+$$
+\frac{v_{x}}{w_{x}} = \frac{v_{y}}{w_{y}} = \frac{v_{z}}{w_{z}}
+.$$
+
+```
+
 ## Vectores unitarios
 
 ```ad-definition
@@ -198,16 +210,16 @@ Los vectores canónicos son la base del sistema de coordenadas.
 
 $$
 \begin{align}
-\hat{\mathbf{i}} = \langle 1, 0, 0 \rangle \\
-\hat{\mathbf{j}} = \langle 0, 1, 0 \rangle \\
-\hat{\mathbf{k}} = \langle 0, 0, 1 \rangle
+\hat{i} = \langle 1, 0, 0 \rangle \\
+\hat{j} = \langle 0, 1, 0 \rangle \\
+\hat{k} = \langle 0, 0, 1 \rangle
 \end{align}
 $$
 
 Cualquier vector $\vec{v}$ se puede representar en términos de los vectores canónicos como
 
 $$
-\vec{v} = v_{x}\hat{\mathbf{i}} + v_{y}\hat{\mathbf{j}} + v_{z}\hat{\mathbf{k}}
+\vec{v} = v_{x}\hat{i} + v_{y}\hat{j} + v_{z}\hat{k}
 .$$
 
 
