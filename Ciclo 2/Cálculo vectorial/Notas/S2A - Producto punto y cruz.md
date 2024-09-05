@@ -91,3 +91,36 @@ $$
 \hat{\mathbf{j}} \times \hat{\mathbf{i}} = -\hat{\mathbf{k}} & \hat{\mathbf{j}} \times \hat{\mathbf{k}} = -\hat{\mathbf{i}} & \hat{\mathbf{k}} \times \hat{\mathbf{i}} = -\hat{\mathbf{j}}
 \end{array}
 $$
+
+## Triple producto escalar
+
+El producto escalar de $\vec{u}$, $\vec{v}$ y $\vec{w}$ se define como
+
+$$
+\vec{u} \cdot (\vec{v} \times \vec{w})
+$$
+
+### Propiedades
+
+- $\vec{u}$, $\vec{v}$ y $\vec{w}$ son **coplanares** si y sólo si $\vec{u} \cdot (\vec{v} \times \vec{w}) = 0$.
+
+## Aplicaciones
+
+### Área de un paralelogramo
+
+El área de un paralelogramo formado por dos vectores se puede calcular como
+
+$$
+A = \lVert \vec{u} \times \vec{v} \rVert
+.$$
+
+### Volumen de un paralelepípedo 
+
+El volumen de un paralelepípedo formado por tres vectores se puede calcular como
+$$
+V = \left| \vec{u} \cdot (\vec{v} \times \vec{w}) \right| = \begin{vmatrix}
+u_{x} & u_{y} & u_{z} \\
+u_{x} & u_{y} & u_{z} \\
+w_{x} & w_{y} & w_{z}
+\end{vmatrix}
+.$$
