@@ -10,6 +10,10 @@ kanban-plugin: board
 	
 	#calculo #teo
 	@{10-09-2024}
+- [ ] **Evaluación RC1**
+	
+	#lineal #teo #grupal
+	@{19-09-2024}
 
 
 ## 📚 Lecturas
@@ -24,6 +28,10 @@ kanban-plugin: board
 
 ## 📄 Evaluaciones
 
+- [ ] **Exposición LabCom**
+	
+	#comu #grupal
+	@{11-09-2024}
 
 
 ## 👍 Completado
