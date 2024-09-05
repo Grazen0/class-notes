@@ -57,7 +57,19 @@ donde $d = ax_{0} + by_{0} + cz_{0}$. Nótese que de esta forma podemos deducir 
 
 Dos planos pueden intersectar o bien en una **recta** o bien en **ningún punto**.
 
-### Distancia de un punto a un plano
+## Cálculo de distancias
+
+### Punto a recta
+
+La distancia de un punto $P$ a una recta es
+
+$$
+D = \lVert \overrightarrow{SP} \rVert \sin(\theta) = \frac{\lVert \overrightarrow{SP} \times \vec{v} \rVert }{\lVert \vec{v} \rVert }
+,$$
+
+donde $S$ es algún punto en la recta
+
+### Punto a plano
 
 La distancia de un punto $P$ a un plano $\mathscr{P}$ es el **tamaño de la proyección de $\overrightarrow{OP}$ sobre la normal de $\mathscr{P}$**, donde $O$ es algún punto de $\mathscr{P}$.
 
@@ -70,13 +82,16 @@ $$
 #todo
 - [ ] Añadir gráfica
 
-### Distancia entre rectas oblicuas
+### Rectas oblicuas
 
 Si queremos interesectar dos rectas $\mathscr{L_{1}}$ y $\mathscr{L_{2}}$ con vectores dirección $\vec{v_{1}}$ y $\vec{v_{2}}$ respectivamente, entonces la distancia entre $\mathscr{L_{1}}$ y $\mathscr{L_{2}}$ es igual a
 
 $$
-D = \lVert \operatorname{proy}_{\vec{n}}(\overrightarrow{PQ}) \rVert = \frac{\lvert \overrightarrow{PQ} \cdot \vec{n} \rvert }{\lVert \vec{n} \rVert }
-,$$
+\begin{align}
+D &= \lVert \operatorname{proy}_{\vec{n}}(\overrightarrow{PQ}) \rVert = \frac{\lvert \overrightarrow{PQ} \cdot \vec{n} \rvert }{\lVert \vec{n} \rVert } \\
+D &= \frac{\left| ax_{0} + by_{0} + cz_{0} + d \right|}{\sqrt{a^{2} + b^{2} + c^{2}}}
+,\end{align}
+$$
 
 donde $\vec{n} = \vec{v_{1}} \times \vec{v_{2}}$, y donde $P$ y $Q$ son puntos cualesquiera en $\mathscr{L_{1}}$ y $\mathscr{L_{2}}$  respectivamente.
 
