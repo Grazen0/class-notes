@@ -74,7 +74,10 @@ donde $S$ es algún punto en la recta
 La distancia de un punto $P$ a un plano $\mathscr{P}$ es el **tamaño de la proyección de $\overrightarrow{OP}$ sobre la normal de $\mathscr{P}$**, donde $O$ es algún punto de $\mathscr{P}$.
 
 $$
-D = \lVert \operatorname{proy}_{\vec{n}}(\overrightarrow{OP}) \rVert = \lvert \operatorname{comp}_{\vec{n}}(\overrightarrow{OP}) \rvert 
+\begin{align}
+D &= \lVert \operatorname{proy}_{\vec{n}}(\overrightarrow{OP}) \rVert = \lvert \operatorname{comp}_{\vec{n}}(\overrightarrow{OP}) \rvert \\
+D &= \frac{\overrightarrow{OP} \cdot \vec{n}}{\lVert \vec{n} \rVert }
+\end{align}
 $$
 
 > [!NOTE] El valor absoluto es importantísimo, ya que $P$ podría estar por el lado opuesto a la dirección de la normal.
