@@ -52,7 +52,9 @@ El diagrama de Hasse de un CTO es una **línea recta** (y de ahí la denominaci�
 
 ```
 
-## Elementos minimales y maximales
+## Acotaciones
+
+### Elementos minimales y maximales
 
 ```ad-definition
 
@@ -77,5 +79,16 @@ Aquí se cumple
 
 - **Maximales:** $\left\{ d \right\}$
 - **Minimales:** $\left\{ a, f \right\}$
+
+```
+
+### Elementos mínimos y máximos
+
+```ad-definition
+
+Sea $(A, \preceq)$ un CTO. Entonces:
+
+1. Se dice que un elemento $a \in A$ es **máximo** si y sólo si para todo $x \in A$ se cumple que $x \preceq a$.
+2. Se dice que un elemento $a \in A$ es **mínimo** si y sólo si para todo $x \in A$ se cumple que $a \preceq x$.
 
 ```
