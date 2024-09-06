@@ -6,6 +6,10 @@ kanban-plugin: board
 
 ## ☕ Tareas
 
+- [ ] **Cálculo AP**
+	
+	#calculo #teo
+	@{08-09-2024} @@{12:00}
 - [ ] **Tarea semanal 1**
 	
 	#calculo #teo
