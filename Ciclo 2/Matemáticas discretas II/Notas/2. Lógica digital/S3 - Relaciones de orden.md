@@ -86,7 +86,7 @@ Aquí se cumple
 
 ```ad-definition
 
-Sea $(A, \preceq)$ un CTO. Entonces:
+Sea $(A, \preceq)$ un CPO. Entonces:
 
 1. Se dice que un elemento $a \in A$ es **máximo** si y sólo si para todo $x \in A$ se cumple que $x \preceq a$.
 2. Se dice que un elemento $a \in A$ es **mínimo** si y sólo si para todo $x \in A$ se cumple que $a \preceq x$.
