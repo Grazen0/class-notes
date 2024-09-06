@@ -108,9 +108,10 @@ Nótese que $W_{\text{tot}}$ no es el trabajo de alguna fuerza en particular: es
 
 Es la energía "almacenada" por un objeto asociada a su posición.
 
-##### Energía potencial gravitacional
+##### Energía potencial gravitatoria
 
-Esta forma de energía potencial es aquella asociada con el **peso** de un cuerpo y su **posición vertical**. Se calcula mediante la fórmula
+```ad-definition
+La energía potencial gravitatoria de un objeto de masa $m$ se calcula mediante la fórmula
 
 $$
 U_{g} = mgh
@@ -118,33 +119,33 @@ U_{g} = mgh
 
 donde $h$ es la altura a la que se encuentra el objeto.
 
-La variación en energía potencial gravitacional de un objeto es precisamente el opuesto del trabajo realizado por la gravedad. Es decir,
+```
+
+La variación en energía potencial gravitatoria de un objeto es precisamente el opuesto del trabajo realizado por la gravedad. Es decir,
 
 $$
-\begin{align}
-\Delta U_{g} &= U_{g,f} - U_{g,i} \\
-&= mgh_{f} - mgh_{i} = mg(h_{f} - h_{i}) = -(-mg)\Delta h \\
-\Delta U_{g} &= -W_{\text{grav}}
-\end{align}
+\Delta U_{g} = -W_{\text{grav}}
 .$$
 
 ##### Energía potencial elástica
 
-Se relaciona con la posición de un resorte con respecto a su punto de equilibrio. Se calcula mediante la fórmula
+```ad-definition
+
+La energía potencial elástica de un resorte se calcula mediante la fórmula
 
 $$
 U_{\text{el}} = \frac{1}{2}kx^{2}
 ,$$
 
 donde $x$ es la distancia del resorte de su punto de equilibrio.
+```
 
-Es decir,
+Similar a la energía potencial gravitatoria, esta energía potencial es el **opuesto del trabajo elástico**. Es decir,
 
 $$
 \Delta U_{\text{el}} = - W_{\text{s}}
-,$$
+.$$
 
-donde $W_{s}$ es la fuerza elástica del resorte.
 
 #### Energía mecánica
 
