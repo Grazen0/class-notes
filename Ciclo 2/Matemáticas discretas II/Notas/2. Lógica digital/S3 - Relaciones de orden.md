@@ -1,4 +1,5 @@
-Ver también: **[[S12A - Relaciones de equivalencia y orden#Relaciones de orden|Relaciones de orden en Matemáticas Discretas I]]**
+Ver también: **[[S12A - Relaciones de equivalencia y orden#Relaciones de
+orden|Relaciones de orden en Matemáticas Discretas I]]**
 
 ```ad-definition
 title: Definición (orden parcial).
@@ -52,9 +53,9 @@ El diagrama de Hasse de un CTO es una **línea recta** (y de ahí la denominaci�
 
 ```
 
-## Acotaciones
+## Elementos extremos
 
-### Elementos minimales y maximales
+### Minimales y maximales
 
 ```ad-definition
 
@@ -82,7 +83,7 @@ Aquí se cumple
 
 ```
 
-### Elementos mínimos y máximos
+### Mínimos y máximos
 
 ```ad-definition
 
@@ -92,3 +93,5 @@ Sea $(A, \preceq)$ un CPO. Entonces:
 2. Se dice que un elemento $a \in A$ es **mínimo** si y sólo si para todo $x \in A$ se cumple que $a \preceq x$.
 
 ```
+
+Contrario a los minimales y maximales, los máximos y mínimos llevan la noción de **globalidad**.
