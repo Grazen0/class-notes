@@ -61,13 +61,13 @@ Dos planos pueden intersectar o bien en una **recta** o bien en **ningún punto*
 
 ### Punto a recta
 
-La distancia de un punto $P$ a una recta es
+La distancia de un punto $P$ a una recta de dirección $\vec{v}$ es
 
 $$
 D = \lVert \overrightarrow{SP} \rVert \sin(\theta) = \frac{\lVert \overrightarrow{SP} \times \vec{v} \rVert }{\lVert \vec{v} \rVert }
 ,$$
 
-donde $S$ es algún punto en la recta
+donde $S$ es algún punto en la recta.
 
 ### Punto a plano
 
@@ -96,7 +96,7 @@ D &= \frac{\left| ax_{0} + by_{0} + cz_{0} + d \right|}{\sqrt{a^{2} + b^{2} + c^
 ,\end{align}
 $$
 
-donde $\vec{n} = \vec{v_{1}} \times \vec{v_{2}}$, y donde $P$ y $Q$ son puntos cualesquiera en $\mathscr{L_{1}}$ y $\mathscr{L_{2}}$  respectivamente.
+donde $\vec{n} = \vec{v_{1}} \times \vec{v_{2}} = \left< a, b, c \right>$, y donde $P$ y $Q$ son puntos cualesquiera en $\mathscr{L_{1}}$ y $\mathscr{L_{2}}$  respectivamente.
 
 #todo
 - [ ] Añadir gráfica
