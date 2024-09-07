@@ -10,10 +10,6 @@ kanban-plugin: board
 	
 	#calculo #teo
 	@{08-09-2024} @@{12:00}
-- [ ] **Tarea semanal 1**
-	
-	#calculo #teo
-	@{10-09-2024}
 - [ ] **Evaluación RC1**
 	
 	#lineal #teo #grupal
@@ -69,6 +65,10 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **Tarea semanal 1**
+	
+	#calculo #teo
+	@{10-09-2024}
 
 
 ***
