@@ -3,7 +3,7 @@ Las funciones vectoriales sirven como una forma de representar **ecuaciones para
 Cuando se habla de funciones vectoriales que forman **curvas**, la salida de dicha función se interpreta como un **vector posición**.
 
 $$
-\vec{r}(t) = \left< f(t), g(t), z(t) \right> 
+\vec{r}(t) = \left< x(t), y(t), z(t) \right> 
 $$
 
 ## Derivada de funciones vectoriales
