@@ -6,10 +6,6 @@ kanban-plugin: board
 
 ## ☕ Tareas
 
-- [ ] **Cálculo AP**
-	
-	#calculo #teo
-	@{08-09-2024} @@{12:00}
 - [ ] **Evaluación RC1**
 	
 	#lineal #teo #grupal
@@ -69,6 +65,10 @@ kanban-plugin: board
 	
 	#calculo #teo
 	@{10-09-2024}
+- [x] **Cálculo AP**
+	
+	#calculo #teo
+	@{08-09-2024} @@{12:00}
 
 
 ***
