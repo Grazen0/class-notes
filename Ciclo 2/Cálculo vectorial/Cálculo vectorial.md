@@ -10,6 +10,7 @@
 	- [[S2B - Cosenos directores]]
 	- [[S2C - Proyección de vectores]]
 	- [[S3 - Rectas y planos en el espacio]]
+	- [[S4 - Funciones vectoriales]]
 - **Trabajos**
 	- [[Cuaderno de trabajo]]
 
