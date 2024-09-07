@@ -26,8 +26,8 @@ kanban-plugin: board
 
 - [ ] **Lineal - EA 1**
 	
-	- Estudiar los ejercicios que vimos en clase
-	- Funciones de MATLAB
+	- [ ] Estudiar los ejercicios que vimos en clase
+	- [ ] Funciones de MATLAB
 	
 	#lineal #lab
 	@{10-09-2024}
@@ -37,22 +37,22 @@ kanban-plugin: board
 	@{11-09-2024}
 - [ ] **Cálculo - EA 2**
 	
-	- Espacio tridimensional
-	- Planos y rectas
+	- [ ] Espacio tridimensional
+	- [ ] Planos y rectas
 	
 	#calculo #lab
 	@{12-09-2024}
 - [ ] **Discretas - PC 1**
 	
-	- Inducción
-	- (Posiblemente) relaciones de orden
+	- [ ] Inducción
+	- [ ] (Posiblemente) relaciones de orden
 	
 	#discretas #grupal
 	@{13-09-2024}
 - [ ] **Óptica - EA 2**
 	
-	- Movimiento armónico simple
-	- (Posiblemente) trabajo y energía
+	- [ ] Movimiento armónico simple
+	- [ ] (Posiblemente) trabajo y energía
 	
 	#optica #lab
 	@{13-09-2024}
