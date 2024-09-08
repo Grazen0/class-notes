@@ -75,8 +75,8 @@ La distancia de un punto $P$ a un plano $\mathscr{P}$ es el **tamaño de la proy
 
 $$
 \begin{align}
-D &= \lVert \operatorname{proy}_{\vec{n}}(\overrightarrow{OP}) \rVert = \lvert \operatorname{comp}_{\vec{n}}(\overrightarrow{OP}) \rvert \\
-D &= \frac{\overrightarrow{OP} \cdot \vec{n}}{\lVert \vec{n} \rVert }
+D &= \lVert \operatorname{proy}_{\vec{n}}(\vec{P}) \rVert = \lvert \operatorname{comp}_{\vec{n}}(\vec{P}) \rvert \\
+D &= \frac{\vec{P} \cdot \vec{n}}{\lVert \vec{n} \rVert }
 \end{align}
 $$
 
