@@ -135,5 +135,5 @@ T = \frac{2\pi}{\omega} = 2\pi\sqrt{\frac{L}{g}}
 ## Oscilaciones forzadas
 
 $$
-A = \frac{F_0}{m\sqrt{ (\omega^{2} - \omega_0^{2})^{2} + \left( \frac{b\omega}{m} \right)^{2}}}
+A = \frac{F_0}{\sqrt{ m^{2}(\omega^{2} - \omega_0^{2})^{2} + b^{2}\omega^{2}}}
 $$
