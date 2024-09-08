@@ -119,3 +119,18 @@ $$
 ```
 
 ## En un sistema pendular
+
+Definimos la **frecuencia angular** como
+
+$$
+\omega = \sqrt{\frac{g}{L}}
+$$
+
+y el **periodo de oscilación** como
+
+$$
+T = \frac{2\pi}{\omega} = 2\pi\sqrt{\frac{L}{g}}
+.$$
+
+## Oscilaciones forzadas
+
