@@ -51,8 +51,8 @@ kanban-plugin: board
 	@{13-09-2024}
 - [ ] **Óptica - EA 2**
 	
-	- [ ] Movimiento armónico simple
-	- [ ] (Posiblemente) trabajo y energía
+	- [x] Movimiento armónico simple
+	- [x] (Posiblemente) trabajo y energía
 	
 	#optica #lab
 	@{13-09-2024}
