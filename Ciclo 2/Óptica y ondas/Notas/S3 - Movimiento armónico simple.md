@@ -132,8 +132,33 @@ $$
 T = \frac{2\pi}{\omega} = 2\pi\sqrt{\frac{L}{g}}
 .$$
 
-## Oscilaciones forzadas
+## Oscilaciones forzadas con amortiguamiento
+
+Si se tiene un sistema oscilatorio con cierta **amortiguación** y se le aplica una **fuerza impulsora** periódica, el sistema después de algún tiempo de desorden se estabilizará con la forma
+
+$$
+x = A\cos(\omega t + \phi)
+,$$
+
+donde la amplitud será igual a
 
 $$
 A = \frac{F_0}{\sqrt{ m^{2}(\omega^{2} - \omega_0^{2})^{2} + b^{2}\omega^{2}}}
+,$$
+
+donde:
+
+- $F_0$: amplitud de la fuerza impulsora,
+- $w_0$: frecuencia angular de la fuerza impulsora,
+- $b$: amortiguación.
+
+```ad-note
+title: Nota
+
+La máxima amplitud del sistema oscilatorio será
+
 $$
+A_\text{máx} = \frac{F_0}{b\omega}
+.$$
+
+```
