@@ -23,3 +23,11 @@ Esta derivada genera el **vector dirección** de una recta tangente a la curva $
 $$
 \vec{\mathscr{L}}(t) = \vec{r}(a) + t\,\vec{r}'(a)
 .$$
+
+### Longitud de una curva
+
+La longitud de una curva $\vec{r}(t)$ con $t \in [a,b]$ se obtiene **sumando todos los pedazos ínfimos** del módulo de la derivada de la curva.
+
+$$
+L = \int_a^b \lVert \vec{r}'(t) \rVert  \, dt = \int_a^b \sqrt{(x'(t))^2 + (y'(t))^2 + (z'(t))^2} \, dx
+$$
