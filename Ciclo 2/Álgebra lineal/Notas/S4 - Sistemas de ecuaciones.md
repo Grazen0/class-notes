@@ -1,3 +1,26 @@
+Un sistema de ecuaciones de la forma
+
+$$
+\begin{gather}
+a_{11}x_1 + a_{12}x_2 + \ldots + a_{1n}x_n = b_1 \\
+a_{21}x_1 + a_{22}x_2 + \ldots + a_{2n}x_n = b_1 \\
+\qquad \vdots \\
+a_{m1}x_1 + a_{m2}x_2 + \ldots + a_{mn}x_n = b_m
+\end{gather}
+$$
+
+se puede representar equivalentemente como la **ecuación matricial**
+
+$$
+Ax = b
+,$$
+
+donde:
+
+- $A = (a_{ij})$ es la **matriz de coeficientes**.
+- $x = \begin{bmatrix} x_1 & x_2 & \dots & x_n \end{bmatrix}^{T}$  es el **vector de variables**.
+- $b = \begin{bmatrix} b_1 & b_2 & \dots & b_n \end{bmatrix}^{T}$ es el **vector de constantes**.
+
 ## Consistencia de un sistema
 
 ```ad-theorem
@@ -23,9 +46,12 @@ Sólo para aclarar terminología, un sistema se denomina de la siguiente manera 
 
 Un sistema de ecuaciones se soluciona con **eliminación Gaussiana**. Esto significa que la matriz aumentada se lleva mediante [[S2A - Operaciones elementales y matriz escalonada|operaciones elementales]] a una matriz **triangular superior**. En ese punto, el sistema equivalente se puede resolver fácilmente de abajo hacia arriba.
 
-### Estrategias de pivoteo
+```ad-tip
+title: Estrategia de pivoteo
 
+Computacionalmente, resulta más eficiente **escoger el pivote de mayor magnitud posible** en cada columna.
 
+```
 
 ## Espacio nulo
 
