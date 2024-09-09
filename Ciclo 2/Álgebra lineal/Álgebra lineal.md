@@ -7,7 +7,6 @@
 	- [[S1 - Matrices]]
 	- [[S2A - Operaciones elementales y matriz escalonada]]
 	- [[S2B - Matriz inversa]]
-	- [[S2C - Matrices ortogonales]]
 	- [[S3 - Determinantes]]
 	- [[S4 - Sistemas de ecuaciones]]
 - [[Referencia MATLAB]]
