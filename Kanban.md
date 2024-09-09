@@ -26,8 +26,8 @@ kanban-plugin: board
 
 - [ ] **Lineal - EA 1**
 	
-	- [ ] Estudiar los ejercicios que vimos en clase
-	- [ ] Funciones de MATLAB
+	- [x] Estudiar los ejercicios que vimos en clase
+	- [x] Funciones de MATLAB
 	
 	#lineal #lab
 	@{10-09-2024}
