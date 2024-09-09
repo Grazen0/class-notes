@@ -1,3 +1,5 @@
+## Consistencia de un sistema
+
 ```ad-theorem
 title: Teorema (soluciones de un sistema de ecuaciones).
 
@@ -7,8 +9,15 @@ Sea el sistema de ecuaciones $Ax = b$ con $n$ incógnitas. Entonces:
 - Si $\operatorname{rang}(A) = \operatorname{rang}([A | b]) \neq n$, entonces el sistema tiene **infinitas soluciones**.
 - Si $\operatorname{rang}(A) \neq \operatorname{rang}([A | b])$, entonces el sistema **no tiene solución**.
 
-
 ```
+
+Sólo para aclarar terminología, un sistema se denomina de la siguiente manera según su cantidad de soluciones:
+
+| Soluciones           | Denominación              |
+| -------------------- | ------------------------- |
+| Una solución         | Consistente determinado   |
+| Infinitas soluciones | Consistente indeterminado |
+| Sin soluciones       | Inconsistente             |
 
 ## Espacio nulo
 
