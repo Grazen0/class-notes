@@ -19,3 +19,8 @@ Sea $(X, \preceq)$ un CPO y $S \subseteq X$ un conjunto no vacío. Entonces
 2. $s \in X$ es **supremo** de $S$ si para todo $c$ que sea cota superior de $S$ se cumple que $s \preceq c$.
 
 ```
+
+Es decir:
+
+1. el **ínfimo** es el máximo de las cotas inferiores, y
+2. el **supremo** es el mínimo de las cotas superiores.
