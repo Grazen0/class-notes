@@ -24,13 +24,6 @@ kanban-plugin: board
 
 ## 📄 Evaluaciones
 
-- [ ] **Lineal - EA 1**
-	
-	- [x] Estudiar los ejercicios que vimos en clase
-	- [x] Funciones de MATLAB
-	
-	#lineal #lab
-	@{10-09-2024}
 - [ ] **Exposición LabCom**
 	
 	#comu #grupal
@@ -61,6 +54,13 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **Lineal - EA 1**
+	
+	- [x] Estudiar los ejercicios que vimos en clase
+	- [x] Funciones de MATLAB
+	
+	#lineal #lab
+	@{10-09-2024}
 - [x] **Tarea semanal 1**
 	
 	#calculo #teo
