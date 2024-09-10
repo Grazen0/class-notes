@@ -22,5 +22,5 @@ Sea $(X, \preceq)$ un CPO y $S \subseteq X$ un conjunto no vacío. Entonces
 
 Es decir:
 
-1. el **ínfimo** es el máximo de las cotas inferiores, y
-2. el **supremo** es el mínimo de las cotas superiores.
+1. el **ínfimo** es la **máxima** cota inferior, y
+2. el **supremo** es la **mínima** cota superior.
