@@ -9,6 +9,7 @@
 		- [[S2B - Inducción de dos en dos y tres en tres]]
 	- **2. Lógica digital**
 		- [[S3 - Relaciones de orden]]
+		- [[S4 - Isomorfismos]]
 
 %% End Waypoint %%
 
