@@ -20,7 +20,9 @@ Sea $(X, \preceq)$ un CPO y $S \subseteq X$ un conjunto no vacío. Entonces
 
 ```
 
-Es decir:
+En otras palabras:
 
 1. el **ínfimo** es la **máxima** cota inferior, y
 2. el **supremo** es la **mínima** cota superior.
+
+No siempre existe un ínfimo y un supremo.
