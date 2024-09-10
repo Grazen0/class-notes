@@ -8,11 +8,14 @@ Sea $(X, \preceq)$ un CPO y $S \subseteq X$ un conjunto no vacío. Entonces
 
 ```
 
+Una cota inferior es, por decirlo de cierta manera, un elemento que "une" a todos los elementos de $S$ por debajo.
+
 ```ad-definition
 title: Definición (ínfimo y supremo).
 
 Sea $(X, \preceq)$ un CPO y $S \subseteq X$ un conjunto no vacío. Entonces
 
-1. $i \in X$ es **ínfimo** de $S$ si $\forall c \in X$ tal que $c$ 
+1. $i \in X$ es **ínfimo** de $S$ si para todo $c$ que sea cota inferior de $S$ se cumple que $c \preceq i$.
+2. $s \in X$ es **supremo** de $S$ si para todo $c$ que sea cota superior de $S$ se cumple que $s \preceq c$.
 
 ```
