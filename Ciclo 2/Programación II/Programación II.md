@@ -7,7 +7,8 @@
 	- [[S1 - ¡Hola, mundo!]]
 	- [[S2 - Estructuras de control]]
 	- [[S3 - Funciones]]
-	- [[S4 - Punteros]]
+	- [[S4A - Stack, heap y punteros]]
+	- [[S4B - Arrays]]
 
 %% End Waypoint %%
 
