@@ -80,7 +80,7 @@ N(A) = \left\{ x \in \R^{n} \lmid Ax = 0 \right\}
 
 Es decir, el espacio nulo de una matriz es **el conjunto de los vectores que la matriz lleva al $0$** con su transformación lineal.
 
-También se le llama **núcleo** de la matriz.
+También se le llama **núcleo** o **kernel** de la matriz.
 
 ```ad-proposition
 title: Observación.
