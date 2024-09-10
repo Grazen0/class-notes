@@ -9,7 +9,7 @@ Sean $(X, \preceq)$ y $(X', \preceq')$ dos CPOs. Una función $f : X \to X'$ es 
 
 ```
 
-Es decir, un encaje $f$ "mapea" un CPO a otro CPO (quizá parcialmente).
+Es decir, un encaje $f$ "mapea" un CPO a otro CPO (quizá parcialmente) **preservando el orden**.
 
 ```ad-definition
 title: Definición (isomorfismo).
@@ -20,4 +20,4 @@ Adicionalmente, decimos que $(X, \preceq)$ y $(X', \preceq')$ son **isomorfos** 
 
 ```
 
-Es decir, un isomorfismo es un encaje que cubre todo el segundo CPO.
+Es decir, un isomorfismo es un encaje que **cubre todo el segundo CPO**.
