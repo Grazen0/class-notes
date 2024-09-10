@@ -1,15 +1,23 @@
 ```ad-definition
+title: Definición (encaje).
 
-Sean $(X, \preceq)$ y $(X', \preceq')$ dos CPOs. Una función $f : X \to X'$ es llamada un **isomorfismo** de $(X, \preceq)$ en $(X', \preceq')$ si y sólo si
+Sean $(X, \preceq)$ y $(X', \preceq')$ dos CPOs. Una función $f : X \to X'$ es llamada un **encaje** de $(X, \preceq)$ en $(X', \preceq')$ si y sólo si
 
-1. $f$ es una aplicación biyectiva, y
+1. $f$ es inyectiva, y
 2. $f(x) \preceq' f(y) \iff x \preceq y$.
 
-Adicionalmente:
-
-- Decimos que $(X, \preceq)$ y $(X', \preceq')$ son **isomorfos** si y sólo si existe un isomorfismo en ellos.
-- Si $f$ es inyectiva pero no necesariamente sobreyectiva, entonces decimos que $f$ es un **encaje**.
 
 ```
 
-Un isomorfismo **mantiene el orden de una relación** entre dos CPOs.
+Es decir, un encaje $f$ "mapea" un CPO a otro CPO (quizá parcialmente).
+
+```ad-definition
+title: Definición (isomorfismo).
+
+Un **isomorfismo** es un encaje $f$ que a la vez es *sobreyectivo*.
+
+Adicionalmente, decimos que $(X, \preceq)$ y $(X', \preceq')$ son **isomorfos** si y sólo si existe un isomorfismo en ellos.
+
+```
+
+Es decir, un isomorfismo es un encaje que cubre todo el segundo CPO.
