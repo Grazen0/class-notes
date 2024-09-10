@@ -13,4 +13,7 @@ int* pointer_to_a = &a;
 
 std::cout << "a: " << a << std::endl;
 std::cout << "address: " << pointer_to_a << std::endl;
+
+int copy_of_a = *pointer_to_a;
+std::cout << "copy of a: " << copy_of_a << std::endl;
 ```
