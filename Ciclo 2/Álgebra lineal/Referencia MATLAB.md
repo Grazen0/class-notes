@@ -57,3 +57,13 @@ n = size(A,1) % Orden de la matriz
 Au = [A eye(n)] % Matriz aumentada
 Aur = rref(Au) % Forma escalonada reducida de Au
 ```
+
+## Sistemas de ecuaciones lineales
+
+Existen tres maneras resolver sistemas de ecuaciones:
+
+```
+solution1 = linsolve(A, b)
+solution2 = A \ b
+solution3 = inv(A) * b
+```
