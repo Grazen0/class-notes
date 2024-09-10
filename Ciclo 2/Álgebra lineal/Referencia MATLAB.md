@@ -14,6 +14,15 @@ A = rand(n)
 A = rand(m, n)
 ```
 
+## Propiedades de una matriz
+
+### Rango
+
+```
+A = [1 2; 3 4]
+r = rank(A)
+```
+
 ## Cálculo simbólico
 
 ### Definir una variable simbólica
@@ -63,6 +72,7 @@ Aur = rref(Au) % Forma escalonada reducida de Au
 Existen tres maneras resolver sistemas de ecuaciones:
 
 ```
+% Solución de Ax = b
 solution1 = linsolve(A, b)
 solution2 = A \ b
 solution3 = inv(A) * b
