@@ -11,12 +11,12 @@ Un **puntero** no es más que un **número** que punta a una **dirección en la 
 
 ```cpp
 int a = 3;
-int* pointer_to_a = &a;
+int* ptr_a = &a;
 
 std::cout << "a: " << a << std::endl;
-std::cout << "address: " << pointer_to_a << std::endl;
+std::cout << "address: " << ptr_a << std::endl;
 
-int copy_of_a = *pointer_to_a;
+int copy_of_a = *ptr_a;
 std::cout << "copy of a: " << copy_of_a << std::endl;
 ```
 
@@ -24,3 +24,9 @@ std::cout << "copy of a: " << copy_of_a << std::endl;
 
 - **Referencia:** es un constructo del *compilador*. Actúa como *alias* de una variable.
 - **Puntero:** "existe" de verdad en la memoria: es un número.
+
+```ad-tip
+
+En general, es mejor usar **referencias antes que punteros** a menos que no sea posible.
+
+```
