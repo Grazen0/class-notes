@@ -15,8 +15,8 @@ title: Definición (ínfimo y supremo).
 
 Sea $(X, \preceq)$ un CPO y $S \subseteq X$ un conjunto no vacío. Entonces
 
-1. $i \in X$ es **ínfimo** de $S$ si para todo $c$ que sea cota inferior de $S$ se cumple que $c \preceq i$.
-2. $s \in X$ es **supremo** de $S$ si para todo $c$ que sea cota superior de $S$ se cumple que $s \preceq c$.
+1. $i \in X$ es **ínfimo** de $S$ si $i$ es cota inferior de $S$ y se cumple que para todo $c$ que sea cota inferior de $S$ se cumple que $c \preceq i$.
+2. $s \in X$ es **supremo** de $S$ si $s$ es cota superior de $S$ y se cumple que para todo $c$ que sea cota superior de $S$ se cumple que $s \preceq c$.
 
 ```
 
