@@ -7,6 +7,7 @@
 	- [[S1 - ¡Hola, mundo!]]
 	- [[S2 - Estructuras de control]]
 	- [[S3 - Funciones]]
+	- [[S4 - Punteros]]
 
 %% End Waypoint %%
 
