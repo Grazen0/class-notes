@@ -8,6 +8,21 @@ Las ondas se clasifican según su medio de propagación:
 	2. **Transversales**: Las partículas se mueven *perpendicularmente* a la propagación.
 2. **Electromagnéticas**: Se pueden propagar en el vacío.
 
-## Ondas mecánicas
+La posición vertical de una partícula ubicada en la posición $x$ es igual a
 
-1. Requieren de un **medio de perturbación**.
+$$
+y(x, t) = A\sin(kx - \omega t + \phi)
+,$$
+
+donde
+
+- $k = \frac{2\pi}{\lambda}$, el **número de onda**, y
+- $\omega = \frac{2\pi}{T} = 2\pi f$.
+
+## Velocidad de una onda mecánica
+
+La rapidez de una onda (la velocidad a la que se mueve horizontalmente) es igual a
+
+$$
+v = \lambda f
+.$$
