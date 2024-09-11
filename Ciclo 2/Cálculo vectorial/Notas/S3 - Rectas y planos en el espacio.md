@@ -85,8 +85,8 @@ D = \frac{\lvert ax_0 + by_0 + cz_0 - d \rvert}{\sqrt{a^2 + b^2 + c^2}}
 
 donde
 
-- El plano se define como $ax + by + cz = d$
-- $P = (x_0, y_0, z_0)$
+- el plano se define como $ax + by + cz = d$, y
+- $P = (x_0, y_0, z_0)$.
 
 #todo
 - [ ] Añadir gráfica
