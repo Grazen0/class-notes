@@ -76,7 +76,7 @@ La distancia de un punto $P$ a un plano $\mathscr{P}$ es el **tamaño de la proy
 $$
 \begin{align}
 D &= \lVert \operatorname{proy}_{\vec{n}}(\vec{P}) \rVert = \lvert \operatorname{comp}_{\vec{n}}(\vec{P}) \rvert \\
-D &= \frac{\vec{P} \cdot \vec{n}}{\lVert \vec{n} \rVert }
+D &= \frac{| \vec{P} \cdot \vec{n} |}{\lVert \vec{n} \rVert }
 \end{align}
 $$
 
@@ -91,12 +91,11 @@ Si queremos interesectar dos rectas $\mathscr{L_{1}}$ y $\mathscr{L_{2}}$ con ve
 
 $$
 \begin{align}
-D &= \lVert \operatorname{proy}_{\vec{n}}(\overrightarrow{PQ}) \rVert = \frac{\lvert \overrightarrow{PQ} \cdot \vec{n} \rvert }{\lVert \vec{n} \rVert } \\
-D &= \frac{\left| ax_{0} + by_{0} + cz_{0} + d \right|}{\sqrt{a^{2} + b^{2} + c^{2}}}
+D &= \frac{\lvert \overrightarrow{PQ} \cdot (\vec{v}_1 \times \vec{v}_2) \rvert }{\lVert \vec{v}_1 \times \vec{v}_2 \rVert }
 ,\end{align}
 $$
 
-donde $\vec{n} = \vec{v_{1}} \times \vec{v_{2}} = \left< a, b, c \right>$, y donde $P$ y $Q$ son puntos cualesquiera en $\mathscr{L_{1}}$ y $\mathscr{L_{2}}$  respectivamente.
+donde $P$ y $Q$ son puntos cualesquiera en $\mathscr{L_{1}}$ y $\mathscr{L_{2}}$  respectivamente.
 
 #todo
 - [ ] Añadir gráfica
