@@ -46,6 +46,12 @@ v = \lambda f
 $$
 \begin{align}
 v_y &= -\omega A \cos(kx - \omega t + \phi) \\
-a_y &= -\omega A^2 \sin(kx - \omega t + \phi)
+a_y &= -\omega^2A \sin(kx - \omega t + \phi)
 \end{align}
+$$
+
+## Onda en una cuerda
+
+$$
+\frac{\partial^2y}{\partial x^2} = \frac{1}{v^2} \frac{\partial^2y}{\partial t^2} 
 $$
