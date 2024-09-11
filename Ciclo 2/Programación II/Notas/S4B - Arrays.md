@@ -13,8 +13,7 @@ void modify_first(int arr[]) {
 
 int my_arr[] = { 1, 2, 3 };
 
-// No hay un '&', pero esto
-// va a modificar my_arr
+// No hay un '&', pero esto va a modificar my_arr
 modify_first(my_arr);
 
 for (int i = 0; i < 3; i++) {
