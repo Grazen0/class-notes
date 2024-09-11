@@ -71,7 +71,7 @@ donde $S$ es algún punto en la recta.
 
 ### Punto a plano
 
-La distancia de un punto $P$ a un plano $\mathscr{P}$ es el **tamaño de la proyección de $\overrightarrow{OP}$ sobre la normal de $\mathscr{P}$**, donde $O$ es algún punto de $\mathscr{P}$.
+La distancia de un punto $P$ a un plano $\mathscr{P}$ es el **tamaño de la proyección de $\vec{P}$ sobre la normal de $\mathscr{P}$**, donde $O$ es algún punto de $\mathscr{P}$.
 
 $$
 \begin{align}
