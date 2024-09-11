@@ -128,7 +128,9 @@ y el **periodo de oscilación** como
 
 $$
 T = \frac{2\pi}{\omega} = 2\pi\sqrt{\frac{L}{g}}
-.$$
+,$$
+
+donde $L$ es la longitud del péndulo.
 
 ## Oscilaciones forzadas con amortiguamiento
 
