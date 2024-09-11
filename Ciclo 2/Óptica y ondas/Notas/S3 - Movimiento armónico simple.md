@@ -96,14 +96,12 @@ $$
 \begin{align}
 K &= \frac{1}{2}mv^{2} \\
   &= \frac{1}{2}m\omega^{2}A^{2}\sin^{2}(\omega t + \phi) \\
-K &= \frac{1}{2}kA^{2}\sin^{2}(\omega t + \phi) \\
+K &= \frac{1}{2}kA^{2}\sin^{2}(\omega t + \phi)
 .\end{align}
 $$
 
 $$
-\begin{align}
-U_s &= \frac{1}{2}kx^{2} = \frac{1}{2}kA^{2}\cos^{2}(\omega t + \phi) \\
-.\end{align}
+U_s = \frac{1}{2}kx^{2} = \frac{1}{2}kA^{2}\cos^{2}(\omega t + \phi)
 $$
 
 Entonces,
@@ -113,7 +111,7 @@ $$
 E &= K + U_s = \frac{1}{2}kA^{2}\sin(\omega t + \phi) + \frac{1}{2}kA^{2}\cos(\omega t + \phi) \\
   &= \frac{1}{2}kA^{2}(\sin^{2}(\omega t + \phi) + \cos^{2}(\omega t + \phi)) \\
 E &= \frac{1}{2}kA^{2}
-\end{align}
+.\end{align}
 $$
 
 ```
