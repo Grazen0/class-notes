@@ -24,13 +24,9 @@ kanban-plugin: board
 
 ## 📄 Evaluaciones
 
-- [ ] **Exposición LabCom**
-	
-	#comu #grupal
-	@{11-09-2024}
 - [ ] **Cálculo - EA 2**
 	
-	- [ ] Espacio tridimensional
+	- [x] Espacio tridimensional
 	- [ ] Planos y rectas
 	
 	#calculo #lab
@@ -54,6 +50,10 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **Exposición LabCom**
+	
+	#comu #grupal
+	@{11-09-2024}
 - [x] **Lineal - EA 1**
 	
 	- [x] Estudiar los ejercicios que vimos en clase
