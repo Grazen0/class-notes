@@ -21,7 +21,8 @@ $$
 
 donde
 
-- $k = \frac{2\pi}{\lambda}$, el **número de onda** ($\mathrm{\frac{rad}{m}}$), y
+- $\lambda$: la **longitud de onda**,
+- $k = \frac{2\pi}{\lambda}$: el **número de onda** ($\mathrm{\frac{rad}{m}}$), y
 - $\omega = \frac{2\pi}{T} = 2\pi f$.
 
 ```ad-note
