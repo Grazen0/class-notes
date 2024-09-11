@@ -71,7 +71,7 @@ donde $S$ es algún punto en la recta.
 
 ### Punto a plano
 
-La distancia de un punto $P$ a un plano $\mathscr{P}$ es el **tamaño de la proyección de $\overrightarrow{SP}$ sobre la normal de $\mathscr{P}$**, donde $S$ es algún punto de $\mathscr{P}$.
+La distancia de un punto $P$ a un plano $\Pi$ es el **tamaño de la proyección de $\overrightarrow{SP}$ sobre la normal de $\Pi$**, donde $S$ es algún punto de $\Pi$.
 
 $$
 D = \frac{| \overrightarrow{SP} \cdot \vec{n} |}{\lVert \vec{n} \rVert } \\
