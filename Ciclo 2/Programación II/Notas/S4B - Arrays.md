@@ -1,7 +1,7 @@
 Un array es un **arreglo** de **tamaño constante**.
 
 ```cpp
-int A[10] = { 0 };
+int arr[10] = { 0 };
 ```
 
 En C++, la variable del array es un **puntero**. Por ello, cuando pasamos un array como parámetro de una función, lo que se pasa por valor es el puntero mismo.
