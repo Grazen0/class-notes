@@ -148,7 +148,7 @@ donde:
 
 - $F_0$: amplitud de la fuerza impulsora,
 - $w_0$: frecuencia angular de la fuerza impulsora,
-- $b$: amortiguación.
+- $b$: factor de amortiguación.
 
 ```ad-note
 title: Nota
