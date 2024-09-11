@@ -71,16 +71,22 @@ donde $S$ es algún punto en la recta.
 
 ### Punto a plano
 
-La distancia de un punto $P$ a un plano $\mathscr{P}$ es el **tamaño de la proyección de $\vec{P}$ sobre la normal de $\mathscr{P}$**, donde $O$ es algún punto de $\mathscr{P}$.
+La distancia de un punto $P$ a un plano $\mathscr{P}$ es el **tamaño de la proyección de $\overrightarrow{SP}$ sobre la normal de $\mathscr{P}$**, donde $S$ es algún punto de $\mathscr{P}$.
 
 $$
-\begin{align}
-D &= \lVert \operatorname{proy}_{\vec{n}}(\vec{P}) \rVert = \lvert \operatorname{comp}_{\vec{n}}(\vec{P}) \rvert \\
-D &= \frac{| \vec{P} \cdot \vec{n} |}{\lVert \vec{n} \rVert }
-\end{align}
+D = \frac{| \overrightarrow{SP} \cdot \vec{n} |}{\lVert \vec{n} \rVert } \\
 $$
 
-> [!NOTE] El valor absoluto es importantísimo, ya que $P$ podría estar por el lado opuesto a la dirección de la normal.
+Con un poco de álgebra, se puede producir la fórmula
+
+$$
+D = \frac{\lvert ax_0 + by_0 + cz_0 - d \rvert}{\sqrt{a^2 + b^2 + c^2}}
+,$$
+
+donde
+
+- El plano se define como $ax + by + cz = d$
+- $P = (x_0, y_0, z_0)$
 
 #todo
 - [ ] Añadir gráfica
