@@ -1,4 +1,4 @@
-**[[Ciclo 2/Cálculo vectorial/Sílabo.pdf|Sílabo]]** | **[[Ciclo 2/Cálculo vectorial/Anexo.pdf|Anexo]]**
+**[[Ciclo 2/Cálculo vectorial/Sílabo.pdf|Sílabo]]** | **[[Ciclo 2/Cálculo vectorial/Anexo.pdf|Anexo]]** | **[[Cuaderno de trabajo.pdf|Cuaderno de trabajo]]**
 
 ## Índice
 
@@ -11,8 +11,6 @@
 	- [[S2C - Proyección de vectores]]
 	- [[S3 - Rectas y planos en el espacio]]
 	- [[S4 - Funciones vectoriales]]
-- **Trabajos**
-	- [[Cuaderno de trabajo]]
 
 %% End Waypoint %%
 
