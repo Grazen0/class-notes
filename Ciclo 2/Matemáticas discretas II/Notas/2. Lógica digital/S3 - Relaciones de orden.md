@@ -23,10 +23,7 @@ Una definición más estricta del orden parcial es el **orden total**.
 ```ad-definition
 title: Definición (orden total).
 
-Sea $R$ una relación sobre un conjunto no vacío $A$. Entonces, $R$ es una **relación de orden total (o lineal)** si cumple las siguientes propiedades:
-
-1. $R$ es una relación de orden parcial.
-2. Para todo $a,b \in A$, se cumple que $(a,b) \in R$ o $(b,a) \in R$.
+Sea $\preceq$ una relación de orden parcial sobre un conjunto no vacío $A$. Entonces, $\preceq$ es una **relación de orden total (o lineal)** si cumple que para todo $a,b \in A$, se cumple que $a \preceq b$ o $b \preceq a$.
 
 ```
 
