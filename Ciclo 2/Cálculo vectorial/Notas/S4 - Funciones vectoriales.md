@@ -11,10 +11,18 @@ $$
 Derivar una función vectorial es **derivar sus componentes**.
 
 $$
-\frac{d\vec{r}}{dt} = \left< \frac{dx}{dy}, \frac{dy}{dy}, \frac{dz}{dt} \right> 
+\vec{r}'(t) = \left< x'(t), y'(t), z'(t) \right> 
 $$
 
-Nótese que esta derivada **no necesariamente es un vector unitario**. Hallarlo requiere su respectiva operación adicional.
+Nótese que esta derivada **no necesariamente es un vector unitario**. Hallarlo requiere su respectiva operación adicional:
+
+$$
+T(t) = \hat{r}'(t) = \frac{\vec{r}'(t)}{\lVert \vec{r}'(t) \rVert }
+$$
+
+$$
+N(t) = \frac{\vec{r}''(t)}{\lVert \vec{r}''(t) \rVert }
+$$
 
 ### Recta tangente
 
@@ -37,4 +45,3 @@ $$
 $$
 \int_a^b \vec{r}(t) \, dt = \left< \int_a^b x(t) \,dt, \int_{a}^{b} y(t) \, dt, \int_{a}^{b} z(t) \, dx \right>
 $$
-
