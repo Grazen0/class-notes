@@ -6,6 +6,10 @@ kanban-plugin: board
 
 ## ☕ Tareas
 
+- [ ] **Progra -Ejercicio 02**
+	
+	#progra #teo
+	@{13-09-2024}
 - [ ] **Evaluación RC1**
 	
 	#lineal #teo #grupal
@@ -24,13 +28,6 @@ kanban-plugin: board
 
 ## 📄 Evaluaciones
 
-- [ ] **Cálculo - EA 2**
-	
-	- [x] Espacio tridimensional
-	- [ ] Planos y rectas
-	
-	#calculo #lab
-	@{12-09-2024}
 - [ ] **Discretas - PC 1**
 	
 	- [ ] Inducción
@@ -50,6 +47,13 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **Cálculo - EA 2**
+	
+	- [x] Espacio tridimensional
+	- [ ] Planos y rectas
+	
+	#calculo #lab
+	@{12-09-2024}
 - [x] **Exposición LabCom**
 	
 	#comu #grupal
