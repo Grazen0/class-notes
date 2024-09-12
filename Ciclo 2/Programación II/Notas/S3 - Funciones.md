@@ -15,6 +15,7 @@ Esto significa que lo que sea que se pase a una función es **una copia**, y cam
 ## Organización en diferentes archivos
 
 ```cpp
+// main.cpp
 #include <iostream>
 #include "functions.h"
 
@@ -28,6 +29,7 @@ int main() {
 ```
 
 ```cpp
+// functions.h
 #ifndef FUNCIONES
 #define FUNCIONES
 
@@ -38,6 +40,7 @@ int add();
 ```
 
 ```cpp
+// functions.cpp
 int read_input() {
 	int x;
 	cin >> x;
