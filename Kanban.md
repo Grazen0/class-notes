@@ -6,7 +6,7 @@ kanban-plugin: board
 
 ## ☕ Tareas
 
-- [ ] **Progra -Ejercicio 02**
+- [ ] **Progra - Ejercicio 02**
 	
 	#progra #teo
 	@{13-09-2024}
