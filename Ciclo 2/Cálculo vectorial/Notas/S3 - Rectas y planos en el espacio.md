@@ -12,11 +12,11 @@ $$
 Esta ecuación puede representarse como una **ecuación paramétrica** de la siguiente forma:
 
 $$
-\begin{align}
-x &= x_{0} + tv_{x} \\
-y &= y_{0} + tv_{y} \\
-z &= z_{0} + tv_{z}
-.\end{align}
+\begin{cases}
+x = x_{0} + tv_{x} \\
+y = y_{0} + tv_{y} \\
+z = z_{0} + tv_{z}
+.\end{cases}
 $$
 
 Además, despejando $t$ e igualando los resultados obtenemos la **ecuación simétrica**,
