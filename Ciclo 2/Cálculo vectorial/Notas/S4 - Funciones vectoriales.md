@@ -42,6 +42,8 @@ $$
 
 ## Integral de funciones vectoriales
 
+Integrar una función vectorial es **integrar sus componentes**.
+
 $$
 \int_a^b \vec{r}(t) \, dt = \left< \int_a^b x(t) \,dt, \int_{a}^{b} y(t) \, dt, \int_{a}^{b} z(t) \, dt \right>
 $$
