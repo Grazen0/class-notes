@@ -17,11 +17,11 @@ $$
 Nótese que esta derivada **no necesariamente es un vector unitario**. Hallarlo requiere su respectiva operación adicional:
 
 $$
-T(t) = \hat{r}'(t) = \frac{\vec{r}'(t)}{\lVert \vec{r}'(t) \rVert }
+\vec{T}(t) = \hat{r}'(t) = \frac{\vec{r}'(t)}{\lVert \vec{r}'(t) \rVert }
 $$
 
 $$
-N(t) = \frac{\vec{r}''(t)}{\lVert \vec{r}''(t) \rVert }
+N(t) = \frac{\vec{T}'(t)}{\lVert \vec{T}'(t) \rVert }
 $$
 
 ### Recta tangente
