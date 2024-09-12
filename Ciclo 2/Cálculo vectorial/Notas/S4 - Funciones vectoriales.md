@@ -31,3 +31,10 @@ La longitud de una curva $\vec{r}(t)$ con $t \in [a,b]$ se obtiene **sumando tod
 $$
 L = \int_a^b \lVert \vec{r}'(t) \rVert  \, dt = \int_a^b \sqrt{(x'(t))^2 + (y'(t))^2 + (z'(t))^2} \, dx
 $$
+
+## Integral de funciones vectoriales
+
+$$
+\int_a^b \vec{r}(t) \, dt = \left< \int_a^b x(t) \,dt, \int_{a}^{b} y(t) \, dt, \int_{a}^{b} z(t) \, dx \right>
+$$
+
