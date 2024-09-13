@@ -30,7 +30,7 @@ title: Nota
 
 Todo esto es si la onda se mueve **en dirección positiva del eje X**.
 
-Si la onda se mueve hacia X negativo, 
+Si la onda se mueve hacia X negativo, hay que tomar las precauciones necesarias.
 
 ```
 
