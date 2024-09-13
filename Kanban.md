@@ -30,8 +30,8 @@ kanban-plugin: board
 
 - [ ] **Discretas - PC 1**
 	
-	- [ ] Inducción
-	- [ ] (Posiblemente) relaciones de orden
+	- [x] Inducción
+	- [x] (Posiblemente) relaciones de orden
 	
 	#discretas #grupal
 	@{13-09-2024}
