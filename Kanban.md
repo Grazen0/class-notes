@@ -47,32 +47,6 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
-- [x] **Cálculo - EA 2**
-	
-	- [x] Espacio tridimensional
-	- [ ] Planos y rectas
-	
-	#calculo #lab
-	@{12-09-2024}
-- [x] **Exposición LabCom**
-	
-	#comu #grupal
-	@{11-09-2024}
-- [x] **Lineal - EA 1**
-	
-	- [x] Estudiar los ejercicios que vimos en clase
-	- [x] Funciones de MATLAB
-	
-	#lineal #lab
-	@{10-09-2024}
-- [x] **Tarea semanal 1**
-	
-	#calculo #teo
-	@{10-09-2024}
-- [x] **Cálculo AP**
-	
-	#calculo #teo
-	@{08-09-2024} @@{12:00}
 
 
 ***
@@ -404,6 +378,32 @@ kanban-plugin: board
 	
 	@{10-09-2024} 
 	#calculo
+- [x] **Tarea semanal 1**
+	
+	#calculo #teo
+	@{10-09-2024}
+- [x] **Cálculo AP**
+	
+	#calculo #teo
+	@{08-09-2024} @@{12:00}
+- [x] **Lineal - EA 1**
+	
+	- [x] Estudiar los ejercicios que vimos en clase
+	- [x] Funciones de MATLAB
+	
+	#lineal #lab
+	@{10-09-2024}
+- [x] **Exposición LabCom**
+	
+	#comu #grupal
+	@{11-09-2024}
+- [x] **Cálculo - EA 2**
+	
+	- [x] Espacio tridimensional
+	- [ ] Planos y rectas
+	
+	#calculo #lab
+	@{12-09-2024}
 
 %% kanban:settings
 ```
