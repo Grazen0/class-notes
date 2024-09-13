@@ -25,18 +25,18 @@ kanban-plugin: board
 
 ## 📄 Evaluaciones
 
-- [ ] **Óptica - EA 2**
+
+
+## 👍 Completado
+
+**Complete**
+- [x] **Óptica - EA 2**
 	
 	- [x] Movimiento armónico simple
 	- [x] (Posiblemente) trabajo y energía
 	
 	#optica #lab
 	@{13-09-2024}
-
-
-## 👍 Completado
-
-**Complete**
 - [x] **Progra - Ejercicio 02**
 	
 	#progra #teo
