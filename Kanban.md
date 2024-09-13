@@ -28,13 +28,6 @@ kanban-plugin: board
 
 ## 📄 Evaluaciones
 
-- [ ] **Discretas - PC 1**
-	
-	- [x] Inducción
-	- [x] (Posiblemente) relaciones de orden
-	
-	#discretas #grupal
-	@{13-09-2024}
 - [ ] **Óptica - EA 2**
 	
 	- [x] Movimiento armónico simple
@@ -47,6 +40,13 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **Discretas - PC 1**
+	
+	- [x] Inducción
+	- [x] (Posiblemente) relaciones de orden
+	
+	#discretas #grupal
+	@{13-09-2024}
 
 
 ***
