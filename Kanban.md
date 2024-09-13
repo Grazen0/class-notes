@@ -14,6 +14,7 @@ kanban-plugin: board
 	
 	#lineal #teo #grupal
 	@{19-09-2024}
+- [ ] **Cálculo - Tarea semanal 2**
 
 
 ## 📚 Lecturas
