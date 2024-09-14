@@ -6,6 +6,10 @@ kanban-plugin: board
 
 ## ☕ Tareas
 
+- [ ] **Cálculo - AP 4**
+	
+	#calculo #teo
+	@{15-09-2024} @@{12:00}
 - [ ] **Progra - Ejercicio 2 (grupal)**
 	
 	#progra #teo #grupal
