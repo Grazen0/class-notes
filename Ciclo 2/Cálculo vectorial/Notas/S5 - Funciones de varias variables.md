@@ -21,8 +21,8 @@ $$
 
 La derivada parcial de una función de varias variables es **su derivada con respecto a sólo una de sus variables, manteniendo las otras constantes**.
 
-La derivadas parciales de una función $f(x,y, z)$, por ejemplo, se denotan como
+La derivadas parciales de una función $f(x,y)$, por ejemplo, se denotan como
 
 $$
-f_x(x,y,z) = \frac{\partial f}{\partial x} \qquad f_y(x,y,z) = \frac{\partial f}{\partial y} \qquad f_z(x,y,z) = \frac{\partial f}{\partial z} 
-$$
+f_x(x,y) = \frac{\partial f}{\partial x} = D_xf \qquad f_y(x,y) = \frac{\partial f}{\partial y} = D_yf
+.$$
