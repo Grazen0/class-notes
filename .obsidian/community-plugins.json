@@ -21,5 +21,6 @@
   "persistent-graph",
   "obsidian-checklist-plugin",
   "obsidian-charts",
-  "obsidian-admonition"
+  "obsidian-admonition",
+  "obsidian-style-settings"
 ]

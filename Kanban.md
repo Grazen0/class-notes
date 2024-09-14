@@ -30,24 +30,6 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
-- [x] **Óptica - EA 2**
-	
-	- [x] Movimiento armónico simple
-	- [x] (Posiblemente) trabajo y energía
-	
-	#optica #lab
-	@{13-09-2024}
-- [x] **Progra - Ejercicio 02**
-	
-	#progra #teo
-	@{13-09-2024}
-- [x] **Discretas - PC 1**
-	
-	- [x] Inducción
-	- [x] (Posiblemente) relaciones de orden
-	
-	#discretas #grupal
-	@{13-09-2024}
 
 
 ***
@@ -405,6 +387,24 @@ kanban-plugin: board
 	
 	#calculo #lab
 	@{12-09-2024}
+- [x] **Óptica - EA 2**
+	
+	- [x] Movimiento armónico simple
+	- [x] (Posiblemente) trabajo y energía
+	
+	#optica #lab
+	@{13-09-2024}
+- [x] **Progra - Ejercicio 02**
+	
+	#progra #teo
+	@{13-09-2024}
+- [x] **Discretas - PC 1**
+	
+	- [x] Inducción
+	- [x] (Posiblemente) relaciones de orden
+	
+	#discretas #grupal
+	@{13-09-2024}
 
 %% kanban:settings
 ```
