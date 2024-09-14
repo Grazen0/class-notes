@@ -6,11 +6,18 @@ kanban-plugin: board
 
 ## ☕ Tareas
 
+- [ ] **Progra - Ejercicio 2 (grupal)**
+	
+	#progra #teo #grupal
+	@{16-09-2024}
 - [ ] **Evaluación RC1**
 	
 	#lineal #teo #grupal
 	@{19-09-2024}
 - [ ] **Cálculo - Tarea semanal 2**
+	
+	#calculo #teo
+	@{27-09-2024}
 
 
 ## 📚 Lecturas
