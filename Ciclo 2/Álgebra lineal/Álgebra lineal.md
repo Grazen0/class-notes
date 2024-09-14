@@ -9,6 +9,7 @@
 	- [[S2B - Matriz inversa]]
 	- [[S3 - Determinantes]]
 	- [[S4 - Sistemas de ecuaciones]]
+	- [[S5 - Transformaciones lineales]]
 - [[Referencia MATLAB]]
 
 %% End Waypoint %%
