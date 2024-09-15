@@ -21,7 +21,7 @@ $$
 $$
 
 $$
-N(t) = \frac{\vec{T}'(t)}{\lVert \vec{T}'(t) \rVert }
+\vec{N}(t) = \frac{\vec{T}'(t)}{\lVert \vec{T}'(t) \rVert }
 $$
 
 ### Recta tangente
