@@ -23,12 +23,12 @@ T_A : \R^n \to \R^m
 
 Algunas transformaciones notables son:
 
-- $T_0$: **transformación nula**.
-- $T_I$: **transformación identidad**.
+- $T_0$: **transformación nula** ($T_0(\mathbf{x}) = 0$).
+- $T_I$: **transformación identidad** ($T_I(\mathbf{x}) = \mathbf{x}$).
 
 ### Propiedades
 
-Las transformaciones matriciales son **lineales**. Es decir, se cumplen las siguientes propiedades:
+Las transformaciones matriciales son **lineales**. Es decir, cumplen las siguientes propiedades:
 
 1. $T_A(0) = 0$ (demostrable con las propiedades 2 y 3).
 2. $T_A(k\mathbf{u}) = kT_A(\mathbf{u})$.
@@ -69,3 +69,132 @@ Sea $T: \R^n \to \R^m$ una transformación lineal. Para hallar la matriz estánd
 
 1. Evaluar $T$ para las bases estándar $\mathbf{e}_1, \mathbf{e}_2, \ldots, \mathbf{e}_n$ de $\R^n$.
 2. Construir la matriz $A = \begin{bmatrix} \mathbf{e}_1, \mathbf{e}_2, \dots, \mathbf{e}_n \end{bmatrix}$, que será la matriz estándar.
+
+### Transformaciones notables
+
+#### Reflexiones
+
+"Reflejar un vector sobre un eje" es equivalente a "invertir una de sus componentes".
+
+Las matrices estándar de las transformaciones que reflejan el espacio en $\R^2$ sobre los ejes $x$ y $y$ respectivamente son
+
+$$
+R_x = \begin{bmatrix}
+1 & 0 \\
+0 & -1
+\end{bmatrix} \qquad
+R_y = \begin{bmatrix}
+-1 & 0 \\
+0 & 1
+\end{bmatrix}
+.$$
+
+Además, reflejar el espacio sobre el eje $y = x$ (eje diagonal) tiene la matriz estándar
+
+$$
+R_d = \begin{bmatrix}
+0 & 1 \\
+1 & 0
+\end{bmatrix}
+$$
+
+(es decir, se intercambian las bases).
+
+En $\R^3$, las matrices estándar que reflejan el espacio sobre los planos $xy$, $xz$ y $yz$ respectivamente son
+
+$$
+R_{xy} = \begin{bmatrix}
+1 & 0 & 0 \\
+0 & 1 & 0 \\
+0 & 0 & -1
+\end{bmatrix} \qquad
+R_{xz} = \begin{bmatrix}
+1 & 0 & 0 \\
+0 & -1 & 0 \\
+0 & 0 & 1
+\end{bmatrix} \qquad
+R_{yz} = \begin{bmatrix}
+-1 & 0 & 0 \\
+0 & 1 & 0 \\
+0 & 0 & 1
+\end{bmatrix} \qquad
+$$
+
+#### Rotaciones
+
+Una transformación en $\R^2$ que rota el espacio por un ángulo $\theta$ tiene como matriz estándar a
+
+$$
+R = \begin{bmatrix}
+\cos(\theta) & -\sin(\theta) \\
+\sin(\theta) & \cos(\theta)
+\end{bmatrix}
+$$
+
+En $\R^3$, las matrices estándares de rotación en los ejes $x$, $y$ y $z$ respectivamente son
+
+$$
+R_x = \begin{bmatrix}
+1 & 0 & 0 \\
+0 & \cos(\theta) & -\sin(\theta) \\
+0 & \sin(\theta) & \cos(\theta)
+\end{bmatrix}
+,$$
+
+$$
+R_y = \begin{bmatrix}
+\cos(\theta) & 0 & -\sin(\theta) \\
+0 & 1 & 0 \\
+\sin(\theta) & 0 & \cos(\theta)
+\end{bmatrix}
+$$
+
+y
+
+$$
+R_z = \begin{bmatrix}
+\cos(\theta) & -\sin(\theta) & 0 \\
+\sin(\theta) & \cos(\theta) & 0 \\
+0 & 0 & 1
+\end{bmatrix}
+.$$
+
+#### Proyecciones
+
+"Proyectar un vector sobre un plano" es equivalente a "eliminar la componente en la dimensión que queremos descartar".
+
+Las matrices estándar que proyectan un vector sobre el plano $xy$, $xz$ y $yz$ respectivamente son
+
+$$
+P_{xy} = \begin{bmatrix}
+1 & 0 & 0 \\
+0 & 1 & 0 \\
+0 & 0 & 0 \\
+\end{bmatrix}
+\qquad
+P_{xz} = \begin{bmatrix}
+1 & 0 & 0 \\
+0 & 0 & 0 \\
+0 & 0 & 1 \\
+\end{bmatrix}
+\qquad
+P_{yz} = \begin{bmatrix}
+0 & 0 & 0 \\
+0 & 1 & 0 \\
+0 & 0 & 1 \\
+\end{bmatrix}
+.$$
+
+### Composición de transformaciones lineales
+
+```ad-theorem
+
+Sean $T_A: \R^n \to \R^k$ y $T_B: \R^k \to \R^m$. Entonces, $T_A \circ T_B$ es una transformación lineal y se cumple que 
+
+$$
+T_B \circ T_A = T_{BA}
+.$$
+
+```
+
+Esto es: aplicar transformaciones lineales sucesivas es equivalente a multiplicar sus matrices estándares.
