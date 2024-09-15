@@ -63,7 +63,7 @@ Resulta que existe una correspondencia de uno a uno entre las matrices de $m \ti
 
 Si $T$ es una transformación lineal, entonces a su matriz asociada le llamamos la **matriz estándar (o asociada) de $T$**
 
-### Procedimiento para hallar matrices estándares
+### Procedimiento para hallar matrices estándar
 
 Sea $T: \R^n \to \R^m$ una transformación lineal. Para hallar la matriz estándar de $T$, lo que hacemos es:
 
