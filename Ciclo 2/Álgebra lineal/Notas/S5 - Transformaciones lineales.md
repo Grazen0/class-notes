@@ -1,5 +1,3 @@
-## Transformaciones matriciales
-
 ```ad-definition
 title: Definición (transformación).
 
@@ -9,17 +7,21 @@ Adicionalmente, cuando se tiene $T: \R^n \to R^n$,  se suele decir que $T$ es un
 
 ```
 
-Cuando tenemos una función $T: \R^n \to \R^m$ tal que
+## Transformaciones matriciales
+
+```ad-definition
+
+Una transformación $T: \R^n \to \R^m$ es **matricial** si y sólo si tiene la forma
 
 $$
 T(\mathbf{x}) = A\mathbf{x}
-,$$
-
-entonces a $T$ se le llama **transformación matricial** (o **operador matricial** cuando $m = n$), y se denota como
-
-$$
-T_A : \R^n \to \R^m
 .$$
+
+Entonces, $T$ se denota como $T_A$.
+
+Si $m = n$, se dice que $T_A$ es un **operador matricial**.
+
+```
 
 Algunas transformaciones notables son:
 
@@ -39,13 +41,23 @@ Las transformaciones matriciales son **lineales**. Es decir, cumplen las siguien
 Una transformación $T: \R^n \to \R^m$ es una transformación matricial si y sólo si se cumple que para todo $\mathbf{u},\mathbf{v} \in \R^n$ y todo $k \in \R$:
 
 1. $T(\mathbf{u} + \mathbf{v}) = T(\mathbf{u}) + T(\mathbf{v})$.
-1. $T(k\mathbf{u})= kT(\mathbf{u})$.
+2. $T(k\mathbf{u})= kT(\mathbf{u})$.
 
 ```
 
 Una transformación que satisface estas condiciones se denomina **transformación lineal**.
 
 ## Transformaciones lineales
+
+```ad-definition
+
+Una transformación $T: \R^n \to R^m$ es **lineal** si y sólo si cumple las siguientes propiedades:
+
+1. $T(\mathbf{u} + \mathbf{v}) = T(\mathbf{u}) + T(\mathbf{v})$.
+2. $T(k\mathbf{u})= kT(\mathbf{u})$.
+
+```
+
 
 ```ad-theorem
 
@@ -61,7 +73,7 @@ Sean $T_A: \R^n \to \R^m$ y $T_B: \R^n \to \R^m$. Si se cumple que $T_A(\mathbf{
 
 Resulta que existe una correspondencia de uno a uno entre las matrices de $m \times n$ y las transformaciones matriciales de $\R^n$ a $\R^m$.
 
-Si $T$ es una transformación lineal, entonces a su matriz asociada le llamamos la **matriz estándar (o asociada) de $T$**
+Si $T$ es una transformación lineal, entonces a su matriz asociada le llamamos la **matriz estándar (o asociada) de $T$**.
 
 ### Procedimiento para hallar matrices estándar
 
