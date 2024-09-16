@@ -14,15 +14,29 @@ $$
 \vec{r}'(t) = \left< x'(t), y'(t), z'(t) \right> 
 $$
 
-Nótese que esta derivada **no necesariamente es un vector unitario**. Hallarlo requiere su respectiva operación adicional:
+Nótese que esta derivada **no necesariamente es un vector unitario**.
+
+### Vectores tangente y normal unitarios
+
+Definimos al **vector tangente unitario** como el vector unitario de la derivada de $\vec{r}(t)$:
 
 $$
 \vec{T}(t) = \hat{r}'(t) = \frac{\vec{r}'(t)}{\lVert \vec{r}'(t) \rVert }
-$$
+.$$
+
+Y definimos al **vector normal unitario** como el vector unitario de la derivada de $T(t)$:
 
 $$
 \vec{N}(t) = \frac{\vec{T}'(t)}{\lVert \vec{T}'(t) \rVert }
-$$
+.$$
+
+Los vectores tangente unitario y normal unitario **son perpendiculares**, y ello es resultado de un pequeño teorema.
+
+```ad-theorem
+
+Sea $\vec{r}(t)$ un vector. Si se cumple que $\lVert \vec{r}'(t) \rVert = c$ (es decir, que la magnitud de su velocidad se mantiene constante), entonces $\vec{r}(t) \cdot \vec{r}'(t) = 0$.
+
+```
 
 ### Recta tangente
 
