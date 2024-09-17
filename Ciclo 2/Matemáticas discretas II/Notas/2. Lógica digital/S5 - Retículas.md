@@ -8,6 +8,8 @@ $$
 
 ```
 
+Algunos ejemplos de retículas son $(\N, \leq)$, $(\N, \mid)$ y $(\mathscr{P}(\left\{ a,b,c \right\}), \subseteq)$.
+
 En una retícula, se cumple lo siguiente:
 
 1. $\operatorname{inf}\left\{ a,b \right\} \preceq a,b \preceq \operatorname{sup}\left\{ a,b \right\}$.
