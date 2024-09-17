@@ -1,3 +1,5 @@
+## Retícula como orden
+
 ```ad-definition
 
 Un CPO $(A, \preceq)$ es una **retícula** si y sólo si todo par de elementos de $A$ tiene supremo e ínfimo. Esto es:
@@ -8,7 +10,7 @@ $$
 
 ```
 
-Algunos ejemplos de retículas son $(\N, \leq)$, $(\N, \mid)$ y $(\mathscr{P}(\left\{ a,b,c \right\}), \subseteq)$.
+Algunos ejemplos de retículas son $(\N, \leq)$, $(\N, \mid)$ y $(\mathscr{P}(A), \subseteq)$, donde $A$ es algún conjunto.
 
 En una retícula, se cumple lo siguiente:
 
@@ -24,7 +26,7 @@ Todo conjunto totalmente ordenado es un retículo.
 
 ```
 
-## Verificando retículas
+### Verificando retículas como orden
 
 Debido a la propiedad 4, para verificar si un CPO es una retícula basta **determinar los ínfimos y supremos de elementos no relacionados** (no comparables).
 
@@ -44,5 +46,18 @@ Este CPO es una retícula, ya que:
 - $\operatorname{inf}\left\{ e,c \right\} = a$
 - $\operatorname{sup}\left\{ e,d \right\} = f$
 - $\operatorname{inf}\left\{ e,d \right\} = b$
+
+```
+
+## Retícula como estructura algebraica
+
+```ad-definition
+
+Una retícula es una terna $(A, \lor, \land)$ donde $A$ es un conjunto y $\lor: A \times A \to A$, $\land: A \times A \to A$ son dos operaciones definidas en $A$ tales que:
+
+1. **Idempotencia:** $a \lor a = a \land a = a$.
+2. **Conmutatividad:** $a \lor b = b \lor a$, $a \land b = b \land a$.
+3. **Asociatividad:** $(a \lor b) \lor c = a \lor (b \lor c)$, $(a \land b) \land c = a \land (b \land c)$
+4. **Absorción:** $a \lor (a \land b) = a \land (a \lor b) = a$
 
 ```
