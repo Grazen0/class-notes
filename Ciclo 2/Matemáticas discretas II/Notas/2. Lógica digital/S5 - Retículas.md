@@ -72,4 +72,4 @@ a \lor b &= \operatorname{sup}\left\{ a,b \right\}
 ,\end{align}
 $$
 
-entonces (se puede demostrar) que se cumplen las propiedades de idempotencia, comnutatividad, asociatividad y absorción.
+entonces (se puede demostrar) que se cumplen las propiedades de idempotencia, conmutatividad, asociatividad y absorción, así conectando ambas definiciones.
