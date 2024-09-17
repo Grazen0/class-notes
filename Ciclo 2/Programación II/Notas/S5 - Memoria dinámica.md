@@ -6,7 +6,11 @@ Para manejar memoria dinámica en el **heap**, usamos los siguientes operadores:
 ```cpp
 int* ptr_i = new int(3.14); // Crea un entero en el heap
 
-delete ptr_i; // Marca ptr_i como libre
+int* arr = new int[]{ 1, 2, 3 };
+
+// Liberar la memoria ocupada
+delete ptr_i;
+delete arr;
 ```
 
 **Siempre es necesario liberar memoria asignada con `new`**. De lo contrario, el uso de memoria se podría acumular enormemente.
