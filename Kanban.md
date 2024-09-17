@@ -10,10 +10,6 @@ kanban-plugin: board
 	
 	#lineal #teo #grupal
 	@{19-09-2024}
-- [ ] **Cálculo - Tarea semanal 2**
-	
-	#calculo #teo
-	@{27-09-2024}
 
 
 ## 📚 Lecturas
@@ -33,6 +29,10 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **Cálculo - Tarea semanal 2**
+	
+	#calculo #teo
+	@{27-09-2024}
 
 
 ***
