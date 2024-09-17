@@ -9,6 +9,7 @@
 	- [[S3 - Funciones]]
 	- [[S4A - Stack, heap y punteros]]
 	- [[S4B - Arrays]]
+	- [[S5 - Memoria dinámica]]
 
 %% End Waypoint %%
 
