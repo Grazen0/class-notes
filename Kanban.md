@@ -33,14 +33,6 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
-- [x] **Progra - Ejercicio 2 (grupal)**
-	
-	#progra #teo #grupal
-	@{16-09-2024}
-- [x] **Cálculo - AP 4**
-	
-	#calculo #teo
-	@{15-09-2024} @@{12:00}
 
 
 ***
@@ -416,6 +408,14 @@ kanban-plugin: board
 	
 	#discretas #grupal
 	@{13-09-2024}
+- [x] **Progra - Ejercicio 2 (grupal)**
+	
+	#progra #teo #grupal
+	@{16-09-2024}
+- [x] **Cálculo - AP 4**
+	
+	#calculo #teo
+	@{15-09-2024} @@{12:00}
 
 %% kanban:settings
 ```
