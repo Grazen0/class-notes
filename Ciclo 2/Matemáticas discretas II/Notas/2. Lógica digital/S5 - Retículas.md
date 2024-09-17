@@ -16,8 +16,7 @@ En una retícula, se cumple lo siguiente:
 
 1. $\operatorname{inf}\left\{ a,b \right\} \preceq a,b \preceq \operatorname{sup}\left\{ a,b \right\}$.
 3. Si $a \preceq c$ y $b \preceq c$, entonces $\operatorname{sup}\left\{ a,b \right\} \preceq c$.
-4. $a \preceq b$ si y sólo si $\operatorname{sup}\left\{ a,b \right\} = b$.
-4. $a \preceq b \iff \operatorname{inf}\left\{ a,b \right\} = a \iff \operatorname{sup}\left\{ a,b \right\} = b$.
+3. $a \preceq b \iff \operatorname{inf}\left\{ a,b \right\} = a \iff \operatorname{sup}\left\{ a,b \right\} = b$.
 
 ```ad-proposition
 title: Observación.
@@ -28,7 +27,7 @@ Todo conjunto totalmente ordenado es un retículo.
 
 ### Verificando retículas como orden
 
-Debido a la propiedad 4, para verificar si un CPO es una retícula basta **determinar los ínfimos y supremos de elementos no relacionados** (no comparables).
+Debido a la propiedad 3, para verificar si un CPO es una retícula basta **determinar los ínfimos y supremos de elementos no relacionados** (no comparables).
 
 ```ad-example
 title: Ejemplo.
@@ -55,7 +54,7 @@ Una definición equivalente para las retículas es la siguiente:
 
 ```ad-definition
 
-Una retícula es una terna $(A, \lor, \land)$ donde $A$ es un conjunto y $\lor: A \times A \to A$, $\land: A \times A \to A$ son dos operaciones definidas en $A$ tales que:
+Una retícula es una terna $(A, \lor, \land)$ donde $A$ es un conjunto y $\lor$, $\land$ son operaciones definidas en $A$ tales que:
 
 1. **Idempotencia:** $a \lor a = a \land a = a$.
 2. **Conmutatividad:** $a \lor b = b \lor a$, $a \land b = b \land a$.
