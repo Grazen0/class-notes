@@ -17,7 +17,7 @@ En una retícula, se cumple lo siguiente:
 1. $\operatorname{inf}\left\{ a,b \right\} \preceq a,b \preceq \operatorname{sup}\left\{ a,b \right\}$.
 3. Si $a \preceq c$ y $b \preceq c$, entonces $\operatorname{sup}\left\{ a,b \right\} \preceq c$.
 4. $a \preceq b$ si y sólo si $\operatorname{sup}\left\{ a,b \right\} = b$.
-4. $a \preceq b$ si y sólo si $\operatorname{inf}\left\{ a,b \right\} = a$.
+4. $a \preceq b \iff \operatorname{inf}\left\{ a,b \right\} = a \iff \operatorname{sup}\left\{ a,b \right\} = b$.
 
 ```ad-proposition
 title: Observación.
@@ -51,6 +51,8 @@ Este CPO es una retícula, ya que:
 
 ## Retícula como estructura algebraica
 
+Una definición equivalente para las retículas es la siguiente:
+
 ```ad-definition
 
 Una retícula es una terna $(A, \lor, \land)$ donde $A$ es un conjunto y $\lor: A \times A \to A$, $\land: A \times A \to A$ son dos operaciones definidas en $A$ tales que:
@@ -61,3 +63,14 @@ Una retícula es una terna $(A, \lor, \land)$ donde $A$ es un conjunto y $\lor: 
 4. **Absorción:** $a \lor (a \land b) = a \land (a \lor b) = a$
 
 ```
+
+Resulta que, si uno define
+
+$$
+\begin{align}
+a \land b &= \operatorname{inf}\left\{ a,b \right\} \\
+a \lor b &= \operatorname{sup}\left\{ a,b \right\}
+,\end{align}
+$$
+
+entonces (se puede demostrar) que se cumplen las propiedades de idempotencia, comnutatividad, asociatividad y absorción.
