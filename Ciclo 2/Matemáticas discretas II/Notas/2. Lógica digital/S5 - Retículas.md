@@ -3,7 +3,12 @@
 Un CPO $(A, \preceq)$ es una **retícula** si y sólo si todo par de elementos de $A$ tiene supremo e ínfimo. Esto es:
 
 $$
-\forall a,b \in A \, (\exists i,j \in A \, (i = \operatorname{sup}({a,b}) \land j = \operatorname{ínf}({a,b})))
+\forall a,b \in A \, (\exists i,j \in A \, (i = \operatorname{sup}({a,b}) \land j = \operatorname{inf}({a,b})))
 $$
 
 ```
+
+En una retícula, se cumple lo siguiente:
+
+1. Si $a \preceq b$ y $b \preceq c$, entonces $\operatorname{sup}(\left\{ a,b \right\}) \preceq c$.
+2. $a \preceq b$ si y sólo si $\operatorname{sup}(\left\{ a,b \right\}) = b$ y $\operatorname{\inf}(\left\{ a,b \right\}) = a$.
