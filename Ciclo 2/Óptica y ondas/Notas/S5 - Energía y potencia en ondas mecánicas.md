@@ -14,15 +14,19 @@ $$
 
 ## Intensidad de una onda mecánica
 
-Este concepto se aplica sobre todo a las **ondas sonoras** y la **luz**.
+```ad-definition
 
-La **intensidad** de una onda en 3D es la **rapidez media** con la que la onda **transporta energía** por **unidad de área** perpendicular a la dirección de viaje de la onda. Se calcula como
+La **intensidad** de una onda es la **rapidez media** con la que la onda **transporta energía** por **unidad de área** perpendicular a la dirección de viaje de la onda. Se calcula como
 
 $$
 I = \frac{P}{4\pi r^2}
 ,$$
 
 donde $r$ es la **distancia de la fuente**. Se mide en $\mathrm{\frac{W}{m^2}}$.
+
+```
+
+Este concepto se aplica sobre todo a las **ondas sonoras** y la **luz** en un entorno **tridimensional**.
 
 ```ad-note
 title: Observación
