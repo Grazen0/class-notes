@@ -10,6 +10,6 @@ Los **criterios para la puntuación** son dos:
 ```ad-warning
 title: Nota importante
 
-La puntuación **no responde a pausas ni necesidades de la lengua hablada**. Responde únicamente a los dos criterios mencionados arriba.
+La puntuación **no responde a pausas, entonaciones ni otras necesidades de la lengua hablada**. Responde únicamente a los dos criterios mencionados arriba.
 
 ```
