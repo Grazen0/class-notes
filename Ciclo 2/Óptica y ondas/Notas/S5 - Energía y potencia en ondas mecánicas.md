@@ -1,4 +1,4 @@
-## Para ondas en una cuerda
+## Ondas en una cuerda
 
 ### Energía mecánica
 
