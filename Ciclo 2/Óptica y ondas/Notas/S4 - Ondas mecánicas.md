@@ -53,6 +53,13 @@ $$
 
 ## Onda en una cuerda
 
+La velocidad de una onda de vibración en una cuerda es igual a
+
 $$
-\frac{\partial^2y}{\partial x^2} = \frac{1}{v^2} \frac{\partial^2y}{\partial t^2} 
-$$
+v = \sqrt{\frac{T}{\mu}}
+,$$
+
+donde
+
+- $T$: la fuerza de **tensión** en la cuerda, y
+- $\mu = \frac{m}{\Delta s}$: la **masa por elemento** de la cuerda.
