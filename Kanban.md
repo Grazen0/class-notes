@@ -9,7 +9,7 @@ kanban-plugin: board
 - [ ] **Evaluación RC1**
 	
 	#lineal #teo #grupal
-	@{19-09-2024}
+	@{22-09-2024}
 
 
 ## 📚 Lecturas
