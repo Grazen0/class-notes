@@ -38,3 +38,26 @@ $$
 .$$
 
 ```
+
+## Interferencia de ondas mecánicas
+
+Cuando dos ondas lineales **interactúan** (chocan), la posición vertical de sus partículas se suma.
+
+$$
+y(x,t) = y_1(x,t) + y_2(x,t)
+$$
+
+### Tipos de interferencia
+
+- **Constructiva:** $y_1$ y $y_2$ van del mismo lado.
+	- La amplitud resultante es **mayor** que la de cada onda.
+- **Destructiva:** $y_1$ y $y_2$ van por lados opuestos.
+	- La amplitud resultante es **menor** que la de alguna de las ondas.
+
+### Descripción matemática
+
+Sean
+
+$$
+y_1 = A\sin(kx - \omega t) \qquad y_2 = A\sin(k_2 - \omega + \phi)
+$$
