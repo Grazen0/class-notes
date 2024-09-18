@@ -8,7 +8,7 @@
 	- [[S2 - Trabajo, potencia y energía]]
 	- [[S3 - Movimiento armónico simple]]
 	- [[S4 - Ondas mecánicas]]
-	- [[S5 - Ondas mecánicas con energía y potencia]]
+	- [[S5 - Energía y potencia en ondas mecánicas]]
 
 %% End Waypoint %%
 

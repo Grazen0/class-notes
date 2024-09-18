@@ -53,6 +53,13 @@ $$
 
 ## Onda en una cuerda
 
+```ad-note
+title: Ecuación de onda lineal
+
+
+```
+
+
 La velocidad de una onda de vibración en una cuerda es igual a
 
 $$
