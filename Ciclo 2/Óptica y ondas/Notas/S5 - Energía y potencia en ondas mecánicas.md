@@ -78,6 +78,8 @@ y = 2A\cos\left( \frac{\phi}{2} \right)\sin\left( kx-\omega t + \frac{\phi}{2} \
 
 ### Caso particular: Ondas estacionarias
 
+Las ondas estacionarias ocurren cuando dos ondas **iguales** pero **opuestas en sentido** interactúan en un **entorno fijo**. El resultado es una "onda estacionaria": una onda que no se mueve, pero cuya amplitud oscila.
+
 Sean las ondas
 
 $$
