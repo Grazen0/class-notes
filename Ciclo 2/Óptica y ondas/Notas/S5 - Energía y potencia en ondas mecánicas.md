@@ -56,8 +56,22 @@ $$
 
 ### Descripción matemática
 
-Sean
+```ad-note
+title: Nota
+
+Trataremos la interferencia de ondas cuya **única diferencia** sea el **desfase**.
+
+```
+
+
+Sean las ondas definidas por
 
 $$
 y_1 = A\sin(kx - \omega t) \qquad y_2 = A\sin(k_2 - \omega + \phi)
+.$$
+
+Entonces, sumando y aplicando trigonometría, obtenemos
+
 $$
+y = 2A\cos\left( \frac{\phi}{2} \right)\sin\left( kx-\omega t + \frac{\phi}{2} \right)
+.$$
