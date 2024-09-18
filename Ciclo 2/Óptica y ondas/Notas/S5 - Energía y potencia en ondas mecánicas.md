@@ -67,11 +67,25 @@ Trataremos la interferencia de ondas cuya **única diferencia** sea el **desfase
 Sean las ondas definidas por
 
 $$
-y_1 = A\sin(kx - \omega t) \qquad y_2 = A\sin(k_2 - \omega + \phi)
+y_1 = A\sin(kx - \omega t) \qquad y_2 = A\sin(k_2 - \omega t + \phi)
 .$$
 
 Entonces, sumando y aplicando trigonometría, obtenemos
 
 $$
 y = 2A\cos\left( \frac{\phi}{2} \right)\sin\left( kx-\omega t + \frac{\phi}{2} \right)
+.$$
+
+### Caso particular: Ondas estacionarias
+
+Sean las ondas
+
+$$
+y_1 = A\sin(kx - \omega t) \qquad y_2 = A\sin(kx + \omega t)
+.$$
+
+Entonces, sumando y aplicando algo más de trigonometría, obtenemos
+
+$$
+y = 2A\sin(kx)\cos(\omega t)
 .$$
