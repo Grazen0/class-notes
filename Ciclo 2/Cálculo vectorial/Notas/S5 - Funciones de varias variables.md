@@ -29,6 +29,13 @@ f_x(x,y) = \frac{\partial f}{\partial x} = D_xf \qquad f_y(x,y) = \frac{\partial
 
 ### Derivadas sucesivas
 
+```ad-theorem
+
+
+
+```
+
+
 La notación, digamos, de derivar con respecto a $x$ y luego a $y$ es
 
 $$
