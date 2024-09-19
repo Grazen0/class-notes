@@ -45,3 +45,9 @@ está **incorrectamente puntuada**. Hace falta comas: no hay por qué *especific
 
 1. Especificación.
 2. Confirmativos, vocativos, intersección.
+
+### Construcción absoluta
+
+- *Una vez limpios los mariscos*, se añaden a la sartén.
+- El presidente, *terminada la reunión* convocó una rueda de prensa.
+- Los viajeros, *viendo su vuelo anulado*, reclamaron la devolución de sus billetes.
