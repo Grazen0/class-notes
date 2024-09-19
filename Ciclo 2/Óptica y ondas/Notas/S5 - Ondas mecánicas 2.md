@@ -76,7 +76,8 @@ $$
 y = 2A\cos\left( \frac{\phi}{2} \right)\sin\left( kx-\omega t + \frac{\phi}{2} \right)
 .$$
 
-### Caso particular: Ondas estacionarias
+```ad-info
+title: Caso particular: Ondas estacionarias
 
 Las ondas estacionarias ocurren cuando dos ondas **iguales** pero **opuestas en sentido** interactúan en un **entorno fijo**. El resultado es una "onda estacionaria": una onda que no se mueve, pero cuya amplitud oscila.
 
@@ -91,3 +92,10 @@ Entonces, sumando y aplicando algo más de trigonometría, obtenemos
 $$
 y = 2A\sin(kx)\cos(\omega t)
 .$$
+
+- **Nodos:** Los puntos de amplitud $0$.
+	- $x = 0, \frac{\lambda}{2} \lambda, \frac{3\lambda}{2}, \ldots, \frac{n\lambda}{2}$ donde $n = 0, 1, 2, \ldots$
+- **Antinodos:** Los puntos de amplitud máxima.
+	- $x = \frac{\lambda}{4}, \frac{3\lambda}{4} \frac{5\lambda}{4}, \ldots, \frac{n\lambda}{4}$ donde $n = 1, 3, 5, \ldots$
+
+```
