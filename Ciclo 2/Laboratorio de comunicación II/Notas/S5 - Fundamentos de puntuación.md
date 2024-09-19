@@ -27,3 +27,14 @@ Existe una diferencia que puede ocurrir al decidir usar o no la coma:
 2. Mi hermano Arturo estuvo ahí. *(especificación)*
 
 La primera oración **explica** que el (único) hermano, "por cierto", se llama Arturo. La segunda oración **especifica** que, de entre *varios hermanos*, hablamos de Arturo.
+
+```ad-important
+title: Nota
+
+El **contexto** puede determinar la correctitud del uso de la coma. Por ejemplo, la oración
+
+> *La ciudad y los perros* de Mario Vargas Llosa es una novela sobre la adolescencia brutal en un colegio militar.
+
+está **incorrectamente puntuada**. Hace falta comas: no hay por qué *especificar* el nombre del autor de dicha obra famosa, debería ser una explicación.
+
+```
