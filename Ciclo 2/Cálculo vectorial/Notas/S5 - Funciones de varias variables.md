@@ -32,11 +32,16 @@ f_x(x,y) = \frac{\partial f}{\partial x} = D_xf \qquad f_y(x,y) = \frac{\partial
 ```ad-theorem
 title: Teorema (simetría de la segunda derivada).
 
-La segunda derivada es **conmutativa**. Es decir,
+La segunda derivada de una función $f$, bajo ciertas condiciones, es **conmutativa**. Es decir,
 
 $$
 \frac{\partial^{2} f}{\partial x \partial y} = \frac{\partial^{2} f}{\partial y \partial x} 
 .$$
+
+Dichas condiciones son
+
+1. que exista alguna **vecindad** alrededor de $(x,y)$ donde $f$ está definida, y
+2. que las **segundas derivadas parciales** de $f$ sean **continuas** en dicha vecindad.
 
 ```
 
