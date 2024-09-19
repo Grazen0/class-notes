@@ -38,3 +38,8 @@ El **contexto** puede determinar la correctitud del uso de la coma. Por ejemplo,
 está **incorrectamente puntuada**. Hace falta comas: no hay por qué *especificar* el nombre del autor de dicha obra famosa, debería ser una explicación.
 
 ```
+
+#### Grados de dependencia
+
+1. Especificación.
+2. Confirmativos, vocativos, intersección.
