@@ -25,8 +25,9 @@ title: Grados de (in)dependencia
 (Ordenados de más dependiente a más independiente)
 
 1. Especificación.
-2. Construcción absoluta.
-3. Confirmativos, vocativos, intersección.
+2. Explicación.
+3. Construcción absoluta.
+4. Apéndices confirmativos, vocativos, intersección.
 
 ```
 
@@ -56,8 +57,24 @@ está **incorrectamente puntuada**. Hace falta comas: no hay por qué *especific
 - El presidente, *terminada la reunión* convocó una rueda de prensa.
 - Los viajeros, *viendo su vuelo anulado*, reclamaron la devolución de sus billetes.
 
-### "Chocolateo"
+#### "Chocolateo"
 
 La coma se utiliza cuando **se modifica la estructura básica de la oración**.
 
 - Una hamburguesa, Fernando compró para mí en el Listo.
+
+### Construcción de carácter accesorio
+
+- A cenar, ¡con lo rico que cocina!, me quedaré.
+
+### Vocativos
+
+- Has de saber, *muchacho*, que tu padre era un gran amigo mío.
+- Estoy a sus órdenes, mi coronel.
+- Usted, acérquese inmediatamente.
+
+### Apéndices confirmativos
+
+- No te gusta esta ciudad, *¿verdad?*
+- Confías en mí, *¿no?*
+- Así que quería irse in avisar, *¿eh?*
