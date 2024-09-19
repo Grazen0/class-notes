@@ -30,11 +30,15 @@ f_x(x,y) = \frac{\partial f}{\partial x} = D_xf \qquad f_y(x,y) = \frac{\partial
 ### Derivadas sucesivas
 
 ```ad-theorem
+title: Teorema (simetría de la segunda derivada).
 
+La segunda derivada es **conmutativa**. Es decir,
 
+$$
+\frac{\partial^{2} f}{\partial x \partial y} = \frac{\partial^{2} f}{\partial y \partial x} 
+.$$
 
 ```
-
 
 La notación, digamos, de derivar con respecto a $x$ y luego a $y$ es
 
