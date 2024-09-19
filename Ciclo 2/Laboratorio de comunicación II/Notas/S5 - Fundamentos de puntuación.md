@@ -19,6 +19,17 @@ La puntuación **no responde a pausas, entonaciones ni otras necesidades de la l
 1. Delimitar incisos y unidades con **alto grado de independencia**. (interjecciones, vocativos y apéndices confirmativos)
 2. Delimitar ciertos **miembros o grupos sintácticos** en la oración simple.
 
+```ad-summary
+title: Grados de (in)dependencia
+
+(Ordenados de más dependiente a más independiente)
+
+1. Especificación.
+2. Construcción absoluta.
+3. Confirmativos, vocativos, intersección.
+
+```
+
 ### Explicación vs. especificación
 
 Existe una diferencia que puede ocurrir al decidir usar o no la coma:
@@ -38,13 +49,6 @@ El **contexto** puede determinar la correctitud del uso de la coma. Por ejemplo,
 está **incorrectamente puntuada**. Hace falta comas: no hay por qué *especificar* el nombre del autor de dicha obra famosa, debería ser una explicación.
 
 ```
-
-#### Grados de dependencia
-
-(De máximo grado de *dependencia* a máximo grado de *independencia*)
-
-1. Especificación.
-2. Confirmativos, vocativos, intersección.
 
 ### Construcción absoluta
 
