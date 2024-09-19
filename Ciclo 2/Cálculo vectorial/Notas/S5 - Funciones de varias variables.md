@@ -26,3 +26,21 @@ La derivadas parciales de una función $f(x,y)$, por ejemplo, se denotan como
 $$
 f_x(x,y) = \frac{\partial f}{\partial x} = D_xf \qquad f_y(x,y) = \frac{\partial f}{\partial y} = D_yf
 .$$
+
+### Derivadas sucesivas
+
+La notación, digamos, de derivar con respecto a $x$ y luego a $y$ es
+
+$$
+f_{xy} = \frac{\partial^{2} f}{\partial y \partial x} = D_{xy}f
+.$$
+
+```ad-note
+title: Nota
+
+Un poco confuso, pero el orden para colocar las variables derivadas es
+
+- **Leibniz:** derecha a izquierda,y 
+- **las demás:** izquierda a derecha.
+
+```
