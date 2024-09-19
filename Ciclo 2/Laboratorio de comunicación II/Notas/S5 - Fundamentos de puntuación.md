@@ -19,5 +19,11 @@ La puntuación **no responde a pausas, entonaciones ni otras necesidades de la l
 1. Delimitar incisos y unidades con **alto grado de independencia**. (interjecciones, vocativos y apéndices confirmativos)
 2. Delimitar ciertos **miembros o grupos sintácticos** en la oración simple.
 
-### Ejemplos
+### Explicación vs. especificación
 
+Existe una diferencia que puede ocurrir al decidir usar o no la coma:
+
+1. Mi hermano, Arturo, estuvo ahí. *(explicativo)*
+2. Mi hermano Arturo estuvo ahí. *(especificación)*
+
+La primera oración **explica** que el (único) hermano, "por cierto", se llama Arturo. La segunda oración **especifica** que, de entre *varios hermanos*, hablamos de Arturo.
