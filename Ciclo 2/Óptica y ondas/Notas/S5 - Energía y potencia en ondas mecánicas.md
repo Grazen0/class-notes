@@ -67,7 +67,7 @@ Trataremos la interferencia de ondas cuya **única diferencia** sea el **desfase
 Sean las ondas definidas por
 
 $$
-y_1 = A\sin(kx - \omega t) \qquad y_2 = A\sin(k_2 - \omega t + \phi)
+y_1 = A\sin(kx - \omega t) \qquad y_2 = A\sin(k - \omega t + \phi)
 .$$
 
 Entonces, sumando y aplicando trigonometría, obtenemos
