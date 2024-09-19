@@ -43,6 +43,8 @@ Dichas condiciones son
 1. que exista alguna **vecindad** alrededor de $(x,y)$ donde $f$ está definida, y
 2. que las **segundas derivadas parciales** de $f$ sean **continuas** en dicha vecindad.
 
+Alternativamente, una condición suficiente (ya que implica lo anterior) es que las **segundas derivadas parciales** de $f$ sean diferenciables.
+
 ```
 
 La notación, digamos, de derivar con respecto a $x$ y luego a $y$ es
