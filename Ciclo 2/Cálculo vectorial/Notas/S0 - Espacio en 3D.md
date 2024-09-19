@@ -59,7 +59,7 @@ $$
 ### Paraboloide
 
 $$
-\frac{x^{2}}{a^{2}} + y^{2} = z
+x^{2} + y^{2} = z
 $$
 
 ![[paraboloide.png]]
@@ -67,7 +67,7 @@ $$
 ### Hiperboloide
 
 $$
--\frac{x^{2}}{a^{2}} - \frac{y^{2}}{b^{2}} + \frac{z^{2}}{c^{2}} = 1
+-x^{2} - y^{2} + z^{2} = 1
 $$
 
 ![[hiperboloide.png]]
