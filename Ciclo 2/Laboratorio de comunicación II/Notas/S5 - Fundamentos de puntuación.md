@@ -41,5 +41,7 @@ está **incorrectamente puntuada**. Hace falta comas: no hay por qué *especific
 
 #### Grados de dependencia
 
+(De máximo grado de *dependencia* a máximo grado de *independencia*)
+
 1. Especificación.
 2. Confirmativos, vocativos, intersección.
