@@ -10,6 +10,10 @@ kanban-plugin: board
 	
 	#lineal #teo #grupal
 	@{22-09-2024}
+- [ ] **Óptica - Trabajo desarrollado 1**
+	
+	@{27-09-2024} @@{12:00} 
+	#optica #teo
 
 
 ## 📚 Lecturas
