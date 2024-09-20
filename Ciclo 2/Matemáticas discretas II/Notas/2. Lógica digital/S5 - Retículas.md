@@ -74,7 +74,7 @@ $$
 
 entonces (se puede demostrar) que se cumplen las propiedades de idempotencia, conmutatividad, asociatividad y absorción, así conectando ambas definiciones.
 
-## Propiedades de las retículas
+## Tipos de retículas
 
 ```ad-definition
 title: Definición (retícula acotada).
@@ -82,3 +82,39 @@ title: Definición (retícula acotada).
 Una retícula es **acotada** si tiene un mínimo y un máximo. 
 
 ```
+
+Cuando una retícula es acotada, se denota al elemento mínimo con $0$ y al elemento máximo con $1$.
+
+```ad-definition
+title: Definición (retículo complementario).
+
+Sea $(A, \lor, \land)$ una retícula acotada. Para todo $a \in A$, decimos que $a'$ es **elemento complementario** de $a$ si y sólo si
+
+$$
+a \lor a' = 1 \qquad a \land a' = 0
+.$$
+
+Una retícula es **complementaria** si es acotada y todos sus elementos tienen al menos un complementario.
+
+```
+
+Nótese que un elemento puede tener más de un elemento complementario.
+
+```ad-proposition
+title: Observación.
+
+Para toda retícula acotada se cumple que $0$ y $1$ son complementarios.
+
+```
+
+```ad-definition
+
+Una retícula es **distributiva** si y sólo si para todo $a,b,c \in A$ se cumple que
+
+$$
+a \lor (b \land c) = (a \lor b) \land (a \lor c)
+.$$
+
+```
+
+Es decir, una retícula es distributiva cuando sus operadores $\lor$, $\land$ se distribuyen.
