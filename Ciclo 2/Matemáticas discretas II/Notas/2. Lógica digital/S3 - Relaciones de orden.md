@@ -1,5 +1,4 @@
-Ver también: **[[S12A - Relaciones de equivalencia y orden#Relaciones de
-orden|Relaciones de orden en Matemáticas Discretas I]]**
+Ver también: **[[S12A - Relaciones de equivalencia y orden#Relaciones de orden|Relaciones de orden en Matemáticas Discretas I]]**
 
 ```ad-definition
 title: Definición (orden parcial).

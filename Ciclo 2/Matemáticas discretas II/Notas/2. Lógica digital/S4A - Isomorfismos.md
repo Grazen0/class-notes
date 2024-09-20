@@ -21,3 +21,10 @@ Adicionalmente, decimos que $(X, \preceq)$ y $(X', \preceq')$ son **isomorfos** 
 ```
 
 Es decir, un isomorfismo es un encaje que **cubre todo el segundo CPO**.
+
+```ad-proposition
+title: Observación.
+
+Dos CPOs son isomorfos cuando se pueden representar con **el mismo diagrama de Hasse**.
+
+```
