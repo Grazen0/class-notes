@@ -164,3 +164,13 @@ title: Corolario.
 Si una retícula acotada tiene un elemento con **más de un complementario**, entonces **no es distributiva**.
 
 ```
+
+```ad-theorem
+
+Sea $D_n$ el conjunto de los divisores positivos de $n$.
+
+Entonces, $(D_n, \mid)$ es distributiva para todo entero positivo $n$.
+
+```
+
+Este teorema es fuerte, porque nos permite demostrar distributividad en **retículas isomorfas** a alguna retícula $(D_n, \mid)$.
