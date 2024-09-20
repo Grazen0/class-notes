@@ -21,7 +21,7 @@ En una retícula, se cumple lo siguiente:
 ```ad-proposition
 title: Observación.
 
-Todo conjunto totalmente ordenado es un retículo.
+Todo conjunto totalmente ordenado es una retícula.
 
 ```
 
@@ -73,3 +73,12 @@ a \lor b &= \operatorname{sup}\left\{ a,b \right\}
 $$
 
 entonces (se puede demostrar) que se cumplen las propiedades de idempotencia, conmutatividad, asociatividad y absorción, así conectando ambas definiciones.
+
+## Propiedades de las retículas
+
+```ad-definition
+title: Definición (retícula acotada).
+
+Una retícula es **acotada** si tiene un mínimo y un máximo. 
+
+```
