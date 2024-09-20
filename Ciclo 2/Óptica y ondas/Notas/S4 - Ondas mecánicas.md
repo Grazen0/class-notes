@@ -25,15 +25,6 @@ donde
 - $k = \frac{2\pi}{\lambda}$: el **número de onda** ($\mathrm{\frac{rad}{m}}$), y
 - $\omega = \frac{2\pi}{T} = 2\pi f$.
 
-```ad-note
-title: Nota
-
-Todo esto es si la onda se mueve **en dirección positiva del eje X**.
-
-Si la onda se mueve hacia X negativo, hay que tomar las precauciones necesarias.
-
-```
-
 ### Velocidad de una onda mecánica
 
 La rapidez de una onda (la velocidad a la que se mueve horizontalmente) es igual a
