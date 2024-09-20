@@ -112,9 +112,20 @@ Para toda retícula acotada se cumple que $0$ y $1$ son complementarios.
 Una retícula es **distributiva** si y sólo si para todo $a,b,c \in A$ se cumple que
 
 $$
-a \lor (b \land c) = (a \lor b) \land (a \lor c)
+\begin{align}
+a \lor (b \land c) &= (a \lor b) \land (a \lor c) \\
+a \land (b \lor c) &= (a \land b) \lor (a \land c)
+\end{align}
 .$$
 
 ```
 
 Es decir, una retícula es distributiva cuando sus operadores $\lor$, $\land$ se distribuyen.
+
+### Teoremas
+
+```ad-theorem
+
+Toda retícula finita es acotada.
+
+```
