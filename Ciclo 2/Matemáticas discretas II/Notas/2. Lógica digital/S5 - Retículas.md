@@ -132,12 +132,18 @@ title: Teorema 1.
 Toda retícula finita es acotada.
 
 ```ad-proof
+collapse: closed
 
-Sea la retícula $(A, \lor, \land)$ tal que $A = \left\{ x_1, x_2, \ldots, x_k \right\}$. Entonces
+Sea la retícula $(A, \lor, \land)$ tal que $A = \left\{ x_1, x_2, \ldots, x_k \right\}$. Entonces, consideremos la expresión
 
 $$
 m = x_1 \land x_2 \land \ldots \land x_k
-$$
+.$$
+
+Se cumple que $m \in A$, y, como $\land$ es asociativo y conmutativo, entonces $m$ está relacionado con todos los elementos de $A$. Esto es: $m$ es el mínimo de $A$.
+
+Una demostración análoga se puede realizar para el máximo.
+$$\qed$$
 
 ```
 
