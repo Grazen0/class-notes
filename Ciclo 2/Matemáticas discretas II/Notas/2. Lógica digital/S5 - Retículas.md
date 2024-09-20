@@ -107,6 +107,8 @@ Para toda retícula acotada se cumple que $0$ y $1$ son complementarios.
 
 ```
 
+### Distributividad
+
 ```ad-definition
 
 Una retícula es **distributiva** si y sólo si para todo $a,b,c \in A$ se cumple que
