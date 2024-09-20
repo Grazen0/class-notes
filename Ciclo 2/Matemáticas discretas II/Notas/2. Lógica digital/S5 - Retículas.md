@@ -126,8 +126,35 @@ Es decir, una retícula es distributiva cuando sus operadores $\lor$, $\land$ se
 
 ### Teoremas
 
-```ad-theorem
+````ad-theorem
+title: Teorema 1.
 
 Toda retícula finita es acotada.
+
+```ad-proof
+
+Sea la retícula $(A, \lor, \land)$ tal que $A = \left\{ x_1, x_2, \ldots, x_k \right\}$. Entonces
+
+$$
+m = x_1 \land x_2 \land \ldots \land x_k
+$$
+
+```
+
+````
+
+```ad-theorem
+title: Teorema 2.
+
+En una retícula **acotada** y **distributiva**, el complementario de un elemento, de existir, es único.
+
+```
+
+El teorema 2 nos provee de un criterio para demostrar que una retícula **no sea distributiva**:
+
+```ad-proposition
+title: Corolario.
+
+Si una retícula acotada tiene un elemento con **más de un complementario**, entonces **no es distributiva**.
 
 ```
