@@ -115,8 +115,8 @@ $$
 \begin{align}
 a \lor (b \land c) &= (a \lor b) \land (a \lor c) \\
 a \land (b \lor c) &= (a \land b) \lor (a \land c)
-\end{align}
-.$$
+.\end{align}
+$$
 
 ```
 
