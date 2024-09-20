@@ -96,7 +96,7 @@ y = 2A\sin(kx)\cos(\omega t)
 Aquí identificamos que la **amplitud** del elemento de posición $x$ es igual a $2A\sin(kx)$.
 
 - **Nodos:** Los puntos de amplitud $0$.
-	- $x = 0, \frac{\lambda}{2} \lambda, \frac{3\lambda}{2}, \ldots, \frac{n\lambda}{2}$ donde $n = 0, 1, 2, \ldots$
+	- $x = 0, \frac{\lambda}{2}, \lambda, \frac{3\lambda}{2}, \ldots, \frac{n\lambda}{2}$ donde $n = 0, 1, 2, \ldots$
 - **Antinodos:** Los puntos de amplitud máxima.
 	- $x = \frac{\lambda}{4}, \frac{3\lambda}{4} \frac{5\lambda}{4}, \ldots, \frac{n\lambda}{4}$ donde $n = 1, 3, 5, \ldots$
 
