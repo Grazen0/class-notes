@@ -35,7 +35,7 @@ collapse: closed
 
 Sea el siguiente CPO:
 
-![[ejemplo de reticula.excalidraw|width:25%]]
+![[ejemplo de reticula.excalidraw|width:40%]]
 
 Este CPO es una retícula, ya que:
 
