@@ -25,7 +25,7 @@ Sean $V \subseteq \R^m$. Entonces, $V$ es un **subespacio vectorial** de $\R^m$ 
 Los subespacios vectoriales de $\R^2$, por ejemplo, son
 
 1. el mismo $\R^2$,
-2. todas las rectas que pasan por el origen, y
+2. todas las rectas que pasan por el oriGen, y
 3. el conjunto unitario $\left\{ \mathbf{0} \right\}$.
 
 ## Combinaciones lineales
@@ -87,7 +87,26 @@ title: Definición (espacio generado).
 Sea $\left\{ \mathbf{v}_1, \mathbf{v}_2, \ldots, \mathbf{v}_n \right\} \subseteq \R^m$ un conjunto de vectores. Entonces, el **espacio generado** de estos vectores es el conjunto de **todas las combinaciones lineales** de ellos. Esto es,
 
 $$
-\operatorname{gen}(\left\{ \mathbf{v}_1, \mathbf{v}_2, \ldots, \mathbf{v}_n \right\}) = \left\{ \mathbf{x} \in \R^m \lmid \mathbf{x} = x_1\mathbf{v}_1 + x_2\mathbf{v}_2 + \ldots + x_n\mathbf{v}_n, x_i \in \R \right\}
+\operatorname{Gen}(\left\{ \mathbf{v}_1, \mathbf{v}_2, \ldots, \mathbf{v}_n \right\}) = \left\{ \mathbf{x} \in \R^m \lmid \mathbf{x} = x_1\mathbf{v}_1 + x_2\mathbf{v}_2 + \ldots + x_n\mathbf{v}_n, x_i \in \R \right\}
 $$
+
+```
+
+Es decir, el espacio generado de un conjunto de vectores es todo el espacio que pueden "alcanzar" con combinaciones lineales.
+
+```ad-definition
+title: Definición (base).
+
+Sea $V \subseteq \R^m$ un subespacio vectorial y $\left\{ \mathbf{v}_1, \mathbf{v}_2, \ldots, \mathbf{v}_n \right\} \subseteq V$ un conjunto de vectores. Entonces, estos vectores forman una **base** de $V$ si y sólo si
+
+1. $\left\{ \mathbf{v}_1, \mathbf{v}_2, \ldots, \mathbf{v}_n \right\}$ son linealmente independientes, y
+2. $\operatorname{Gen}(\left\{ \mathbf{v}_1, \mathbf{v}_2, \ldots, \mathbf{v}_n \right\}) = V$ (es decir, los vectores generan $V$).
+
+```
+
+```ad-definition
+title: Definición (dimensión).
+
+La **dimensión** de un espacio vectorial $V$, denotado como $\operatorname{dim}(V)$ es la cantidad de vectores que tiene su base.
 
 ```
