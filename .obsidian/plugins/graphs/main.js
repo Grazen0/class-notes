@@ -27,7 +27,7 @@ __export(main_exports, {
   default: () => ObsidianGraphs
 });
 module.exports = __toCommonJS(main_exports);
-var import_obsidian3 = require("obsidian");
+var import_obsidian5 = require("obsidian");
 
 // node_modules/jsxgraph/src/jxg.js
 var jxg = {};
@@ -71885,13 +71885,46 @@ JXG.themes["obsidian"] = {
 var obsidian_default = JXG;
 
 // src/settings.ts
+var import_obsidian2 = require("obsidian");
+
+// src/LocationSuggester.ts
 var import_obsidian = require("obsidian");
+var LocationSuggester = class extends import_obsidian.AbstractInputSuggest {
+  constructor(app, inputEl) {
+    super(app, inputEl);
+    this.inputEl = inputEl;
+    this.paths = this.app.vault.getAllLoadedFiles().filter((file) => file instanceof import_obsidian.TFolder);
+  }
+  getSuggestions(inputStr) {
+    const suggestions = [];
+    const lowerCaseInputStr = inputStr.toLowerCase();
+    this.paths.forEach((path) => {
+      if (path.path.toLowerCase().contains(lowerCaseInputStr)) {
+        suggestions.push(path.path);
+      }
+    });
+    return suggestions;
+  }
+  renderSuggestion(path, el) {
+    el.setText(path);
+  }
+  selectSuggestion(path) {
+    this.inputEl.value = path;
+    this.inputEl.trigger("input");
+    this.inputEl.blur();
+    this.close();
+  }
+};
+
+// src/settings.ts
 var DEFAULT_SETTINGS = {
   height: 300,
   width: 700,
-  alignment: "0 auto" /* center */
+  alignment: "0 auto" /* center */,
+  defaultExportLocation: "",
+  transparentBackground: false
 };
-var ObsidianGraphsSettingsTab = class extends import_obsidian.PluginSettingTab {
+var ObsidianGraphsSettingsTab = class extends import_obsidian2.PluginSettingTab {
   constructor(app, plugin) {
     super(app, plugin);
     this.plugin = plugin;
@@ -71899,24 +71932,39 @@ var ObsidianGraphsSettingsTab = class extends import_obsidian.PluginSettingTab {
   display() {
     const { containerEl } = this;
     containerEl.empty();
-    new import_obsidian.Setting(this.containerEl).setName("Height").setDesc("Height of the graph in pixels").addText(
+    this.containerEl.createEl("h2", { text: "Graph Style" });
+    new import_obsidian2.Setting(this.containerEl).setName("Height").setDesc("Height of the graph in pixels").addText(
       (text) => text.setValue(this.plugin.settings.height.toString()).setPlaceholder("Enter a number").onChange(async (value) => {
         this.plugin.settings.height = parseInt(value);
         document.documentElement.style.setProperty("--graph-height", this.plugin.settings.height + "px");
         await this.plugin.saveSettings();
       })
     );
-    new import_obsidian.Setting(this.containerEl).setName("Width").setDesc("Width of the graph in pixels").addText(
+    new import_obsidian2.Setting(this.containerEl).setName("Width").setDesc("Width of the graph in pixels").addText(
       (text) => text.setValue(this.plugin.settings.width.toString()).setPlaceholder("Enter a number").onChange(async (value) => {
         this.plugin.settings.width = parseInt(value);
         document.documentElement.style.setProperty("--graph-width", this.plugin.settings.width + "px");
         await this.plugin.saveSettings();
       })
     );
-    new import_obsidian.Setting(this.containerEl).setName("Alignment").setDesc("The horizontal alignment of the graph").addDropdown((dropdown) => {
+    new import_obsidian2.Setting(this.containerEl).setName("Alignment").setDesc("The horizontal alignment of the graph").addDropdown((dropdown) => {
       dropdown.addOption("0 auto 0 0" /* left */, "left").addOption("0 auto" /* center */, "center").addOption("0 0 0 auto" /* right */, "right").setValue(this.plugin.settings.alignment).onChange(async (value) => {
         this.plugin.settings.alignment = value;
         document.documentElement.style.setProperty("--graph-alignment", this.plugin.settings.alignment);
+        await this.plugin.saveSettings();
+      });
+    });
+    this.containerEl.createEl("h2", { text: "Export" });
+    new import_obsidian2.Setting(this.containerEl).setName("Default location").addSearch((search) => {
+      new LocationSuggester(this.app, search.inputEl);
+      search.setPlaceholder("Default is vault root").setValue(this.plugin.settings.defaultExportLocation).onChange((0, import_obsidian2.debounce)(async (path) => {
+        this.plugin.settings.defaultExportLocation = path;
+        await this.plugin.saveSettings();
+      }));
+    });
+    new import_obsidian2.Setting(this.containerEl).setName("Transparent background").addToggle((toggle) => {
+      toggle.setValue(this.plugin.settings.transparentBackground).onChange(async (value) => {
+        this.plugin.settings.transparentBackground = value;
         await this.plugin.saveSettings();
       });
     });
@@ -71924,7 +71972,7 @@ var ObsidianGraphsSettingsTab = class extends import_obsidian.PluginSettingTab {
 };
 
 // src/utils.ts
-var import_obsidian2 = require("obsidian");
+var import_obsidian3 = require("obsidian");
 var Utils = class {
   constructor() {
     this.argsArray = Object.getOwnPropertyNames(Math);
@@ -71952,7 +72000,7 @@ var Utils = class {
       return graph;
     }
     try {
-      graph = (0, import_obsidian2.parseYaml)(source);
+      graph = (0, import_obsidian3.parseYaml)(source);
       if (graph.maxBoundingBox == void 0) {
         graph.maxBoundingBox = JXG.Options.board.maxBoundingBox;
       }
@@ -72088,7 +72136,9 @@ var Utils = class {
       if (index >= 0) {
         def2[i2] = createdElements[index].element;
       }
-      def2[i2] = this.checkFunction(def2[i2], createdElements);
+      if (typeof def2[i2] === "string") {
+        def2[i2] = this.checkFunction(def2[i2], createdElements);
+      }
     }
   }
   checkComposedElements(item, createdElements) {
@@ -72155,10 +72205,11 @@ var Utils = class {
     }
   }
   checkFunction(item, createdElements) {
-    const f = RegExp("f:");
-    if (typeof item === "string" && f.test(item)) {
+    const f = RegExp(/f:|f\(([^,]*)?(?:,([^,]*)?(?:,([^,]*))?)?\):/g);
+    const func = f.exec(item);
+    if (typeof item === "string" && func != void 0) {
       const re = RegExp(/e[0-9]+/);
-      item = item.replace(f, "");
+      item = item.replace(func[0], "");
       if (typeof item === "string" && re.test(item)) {
         let composed = re.exec(item);
         while (composed != null) {
@@ -72172,14 +72223,142 @@ var Utils = class {
         }
       }
       const equation = item;
-      return new Function(...this.argsArray, "createdElements", "x", "y", "z", "return " + equation + ";").bind({}, ...this.mathFunctions, createdElements);
+      let functionParams = ["x", "y", "z"];
+      if (func[1] != void 0) {
+        functionParams = func.slice(1, func.length);
+      }
+      const functionDef = "return " + equation + ";";
+      return new Function(...this.argsArray, "createdElements", ...functionParams, functionDef).bind({}, ...this.mathFunctions, createdElements);
     }
     return item;
+  }
+  exportGraph(graph, transparentBackground) {
+    const text = graph.renderer.dumpToDataURI();
+    const ar = text.split(",");
+    let decoded = decodeURIComponent(escape(atob(ar[1])));
+    const re = RegExp(/var\(\s*(--[\w-]+)\s*\)/g);
+    let matches = re.exec(decoded);
+    while (matches != null) {
+      decoded = decoded.replace(matches[0], document.body.getCssPropertyValue(matches[1]));
+      matches = re.exec(decoded);
+    }
+    const insertPosition = decoded.indexOf(">") + 1;
+    let begining = decoded.slice(0, insertPosition);
+    const ending = decoded.slice(insertPosition);
+    if (!transparentBackground) {
+      begining = begining.replace('style="', 'style="background-color: ' + document.body.getCssPropertyValue("--background-secondary") + "; ");
+    }
+    const style = "<style>.JXG_navigation {display: none;}</style>";
+    decoded = begining + style + ending;
+    return decoded;
+  }
+};
+
+// src/ExportModal.ts
+var import_obsidian4 = require("obsidian");
+var ExportModal = class extends import_obsidian4.Modal {
+  constructor(plugin, boards2) {
+    super(plugin.app);
+    this.plugin = plugin;
+    this.saveLocation = this.plugin.settings.defaultExportLocation;
+    this.transparentBackground = this.plugin.settings.transparentBackground;
+    this.exportButtons = [];
+    this.graphs = [];
+    this.boards = boards2;
+    this.utils = new Utils();
+    this.svgs = [];
+  }
+  async onOpen() {
+    var _a;
+    const { contentEl } = this;
+    contentEl.empty();
+    if (contentEl.parentElement != void 0) {
+      contentEl.parentElement.addClass("exportGraphModal");
+    }
+    contentEl.createEl("h1", { text: "Export Graphs" });
+    contentEl.createEl("p", { text: "Export graphs as SVGs. If a graph in this file is not appearing it has not been rendered in view yet and you need to scroll down in reading mode." });
+    contentEl.createEl("p", { text: "Graphs will no longer be interactable or adapt colors to Obsidian theme." }).style.color = "var(--text-faint)";
+    const settings = contentEl.createDiv();
+    const locationInput = new import_obsidian4.Setting(settings).setName("Export location").addSearch((search) => {
+      new LocationSuggester(this.app, search.inputEl);
+      search.setPlaceholder("Default is vault root").setValue(this.saveLocation).onChange((0, import_obsidian4.debounce)(async (path) => {
+        this.saveLocation = path;
+      }));
+    });
+    locationInput.settingEl.style.borderTop = "1px solid var(--background-modifier-border)";
+    locationInput.settingEl.style.paddingTop = "0.75em";
+    new import_obsidian4.Setting(settings).setName("Transparent background").addToggle((toggle) => {
+      toggle.setValue(this.transparentBackground).onChange(async (value) => {
+        this.transparentBackground = value;
+        for (let i2 = 0; i2 < this.graphs.length; i2++) {
+          const svg = this.graphs[i2].getElementsByTagName("svg").item(0);
+          if (svg) {
+            if (this.transparentBackground) {
+              svg.style.backgroundColor = "transparent";
+            } else {
+              svg.style.backgroundColor = document.body.getCssPropertyValue("--background-secondary").toString();
+            }
+          }
+        }
+      });
+    });
+    new import_obsidian4.Setting(settings).addButton((btn) => {
+      btn.setButtonText("Export All").setCta().onClick(() => {
+        for (const button of this.exportButtons) {
+          button.click();
+        }
+      });
+    });
+    for (let i2 = 0; i2 < this.boards.length; i2++) {
+      const container = settings.createDiv();
+      let graphNumber = this.svgs.length + 1;
+      container.addClass("exportGraph");
+      container.createEl("h1", { text: "Graph " + graphNumber });
+      let fileName = this.plugin.getCurrentFileName() + "-graph-" + graphNumber;
+      const svgContainer = container.createDiv();
+      svgContainer.empty();
+      svgContainer.addClass("svgContainer");
+      const svg = this.utils.exportGraph(this.boards[i2], this.transparentBackground);
+      svgContainer.innerHTML = svg;
+      if (((_a = svgContainer.firstElementChild) == null ? void 0 : _a.getAttribute("width")) == "0") {
+        graphNumber--;
+        container.remove();
+        continue;
+      }
+      this.svgs.push(svg);
+      const settingsContainer = container.createDiv();
+      settingsContainer.addClass("exportGraphSettings");
+      const nameInput = new import_obsidian4.Setting(settingsContainer).setName("File name").addText((text) => {
+        text.onChange(async (value) => {
+          fileName = value;
+        }).setValue(fileName);
+      });
+      nameInput.settingEl.style.borderTop = "1px solid var(--background-modifier-border)";
+      nameInput.settingEl.style.paddingTop = "0.75em";
+      new import_obsidian4.Setting(settingsContainer).addButton((btn) => {
+        btn.setButtonText("Export").setCta().onClick(async () => {
+          if (this.saveLocation.length > 1 && this.saveLocation.at(this.saveLocation.length - 1) != "/") {
+            this.saveLocation += "/";
+          } else if (this.saveLocation == "/") {
+            this.saveLocation = "";
+          }
+          const path = this.saveLocation + fileName + ".svg";
+          const file = this.app.vault.getFileByPath(path);
+          if (!file) {
+            this.app.vault.create(path, this.svgs[graphNumber - 1]);
+          } else {
+            new import_obsidian4.Notice('File "' + path + '" already exists', 5e3);
+          }
+        });
+        this.exportButtons.push(btn.buttonEl);
+        this.graphs.push(container);
+      });
+    }
   }
 };
 
 // main.ts
-var ObsidianGraphs = class extends import_obsidian3.Plugin {
+var ObsidianGraphs = class extends import_obsidian5.Plugin {
   constructor() {
     super(...arguments);
     this.count = 0;
@@ -72189,7 +72368,7 @@ var ObsidianGraphs = class extends import_obsidian3.Plugin {
     await this.loadSettings();
     this.addSettingTab(new ObsidianGraphsSettingsTab(this.app, this));
     window.CodeMirror.defineMode("graph", (config) => window.CodeMirror.getMode(config, "javascript"));
-    await (0, import_obsidian3.loadMathJax)();
+    await (0, import_obsidian5.loadMathJax)();
     if (typeof MathJax !== "undefined") {
       MathJax.config.tex.inlineMath = [["$", "$"]];
       MathJax.config.tex.processEscapes = true;
@@ -72202,7 +72381,30 @@ var ObsidianGraphs = class extends import_obsidian3.Plugin {
     this.app.workspace.on("window-close", () => {
       this.cullBoards();
     });
+    this.addCommand({
+      id: "export-graphs",
+      name: "Export graphs",
+      checkCallback: (checking) => {
+        var _a;
+        const view = (_a = this.app.workspace.getActiveViewOfType(import_obsidian5.MarkdownView)) == null ? void 0 : _a.getMode();
+        if (view == "preview") {
+          if (!checking) {
+            const graphs = [];
+            for (const key in boards) {
+              const div = boards[key].containerObj;
+              if (div.hasClass(this.getCurrentFileName()) && !div.hasClass("LivePreview")) {
+                graphs.push(boards[key]);
+              }
+            }
+            new ExportModal(this, graphs).open();
+          }
+          return true;
+        }
+        return false;
+      }
+    });
     this.registerMarkdownCodeBlockProcessor("graph", (source, element) => {
+      var _a;
       let graphInfo;
       try {
         graphInfo = this.utils.parseCodeBlock(source);
@@ -72213,6 +72415,9 @@ var ObsidianGraphs = class extends import_obsidian3.Plugin {
       let graph;
       const currentFileName = this.getCurrentFileName();
       const graphDiv = element.createEl("div", { cls: "jxgbox " + currentFileName });
+      if (((_a = this.app.workspace.getActiveViewOfType(import_obsidian5.MarkdownView)) == null ? void 0 : _a.getMode()) == "source") {
+        graphDiv.addClass("LivePreview");
+      }
       graphDiv.id = "graph" + this.count;
       this.count++;
       try {

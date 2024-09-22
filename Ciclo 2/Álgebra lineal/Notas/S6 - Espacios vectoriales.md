@@ -15,10 +15,10 @@ Los elementos de $\R^m$ son llamados **vectores** de $m$ dimensiones.
 ```ad-definition
 title: Definición (subespacio vectorial).
 
-Sean $V \subseteq \R^m$. Entonces, $V$ es un **subespacio vectorial** si y sólo si
+Sean $V \subseteq \R^m$. Entonces, $V$ es un **subespacio vectorial** de $\R^m$ si y sólo si
 
 1. $\mathbf{0} \in V$, y
-2. $V$ está cerrado bajo la suma y producto por escalar.
+2. $V$ está **cerrado** bajo la suma y producto por escalar.
 
 ```
 
@@ -26,6 +26,10 @@ Sean $V \subseteq \R^m$. Entonces, $V$ es un **subespacio vectorial** si y sólo
 title: Definición (combinación lineal).
 
 
-Un vector $\mathbf{v} \in \R^m$ es una **combinación lineal de **
+Un vector $\mathbf{v} \in \R^m$ es una **combinación lineal** de los vectores $\mathbf{u}_1, \mathbf{u}_2,\ldots, \mathbf{u}_n \in \R^m$ si y sólo si existen $x_1,x_2,\ldots,x_n$ tales que
+
+$$
+\mathbf{v} = x_1\mathbf{u}_1 + x_2\mathbf{u}_2 + \ldots + x_n\mathbf{u}_n
+.$$
 
 ```
