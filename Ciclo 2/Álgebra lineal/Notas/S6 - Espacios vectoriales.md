@@ -22,6 +22,14 @@ Sean $V \subseteq \R^m$. Entonces, $V$ es un **subespacio vectorial** de $\R^m$ 
 
 ```
 
+Los subespacios vectoriales de $\R^2$, por ejemplo, son
+
+1. el mismo $\R^2$,
+2. todas las rectas que pasan por el origen, y
+3. el conjunto unitario $\left\{ \mathbf{0} \right\}$.
+
+## Combinaciones lineales
+
 ```ad-definition
 title: Definición (combinación lineal).
 
@@ -31,5 +39,55 @@ Un vector $\mathbf{v} \in \R^m$ es una **combinación lineal** de los vectores $
 $$
 \mathbf{v} = x_1\mathbf{u}_1 + x_2\mathbf{u}_2 + \ldots + x_n\mathbf{u}_n
 .$$
+
+```
+
+Como resultado, podemos observar que un vector $\mathbf{v}$ es combinación lineal de $\mathbf{u}_1, \mathbf{u}_2, \ldots, \mathbf{u}_n$ si y sólo si el sistema
+
+$$
+\begin{bmatrix}
+\mathbf{u}_1 & \mathbf{u}_2 & \dots & \mathbf{u}_n
+\end{bmatrix} \begin{bmatrix}
+x_1 \\
+x_2 \\
+\vdots \\
+x_n
+\end{bmatrix} = \mathbf{v}
+$$
+
+es consistente.
+
+## Independencia lineal
+
+```ad-definition
+
+Decimos que los vectores $\mathbf{v}_1, \mathbf{v}_2,\ldots \mathbf{v}_n$ son **linealmente independientes** si y sólo si el sistema
+
+$$
+\begin{bmatrix}
+\mathbf{v}_1 & \mathbf{v}_2 & \dots & \mathbf{v}_n
+\end{bmatrix} \begin{bmatrix}
+x_1 \\ x_2 \\ \vdots \\ x_n
+\end{bmatrix} = \mathbf{0}
+$$
+
+tiene **solución única**.
+
+```
+
+Nótese que esto es equivalente a decir que un conjunto de vectores son linealmente independientes cuando, por así decirlo, "no se puede regresar al $0$" con ellos.
+
+Comprobar la independencia lineal de un conjunto de vectores es **analizar un sistema de ecuaciones homogéneo**.
+
+## Base y dimensión
+
+```ad-definition
+title: Definición (espacio generado).
+
+Sea $\left\{ \mathbf{v}_1, \mathbf{v}_2, \ldots, \mathbf{v}_n \right\} \subseteq \R^m$ un conjunto de vectores. Entonces, el **espacio generado** de estos vectores es el conjunto de **todas las combinaciones lineales** de ellos. Esto es,
+
+$$
+\operatorname{gen}(\left\{ \mathbf{v}_1, \mathbf{v}_2, \ldots, \mathbf{v}_n \right\}) = \left\{ \mathbf{x} \in \R^m \lmid \mathbf{x} = x_1\mathbf{v}_1 + x_2\mathbf{v}_2 + \ldots + x_n\mathbf{v}_n, x_i \in \R \right\}
+$$
 
 ```
