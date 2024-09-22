@@ -104,9 +104,13 @@ Sea $V \subseteq \R^m$ un subespacio vectorial y $\left\{ \mathbf{v}_1, \mathbf{
 
 ```
 
+Es decir, la base de un subespacio vectorial es un conjunto de vectores que lo generan.
+
 ```ad-definition
 title: Definición (dimensión).
 
 La **dimensión** de un espacio vectorial $V$, denotado como $\operatorname{dim}(V)$ es la cantidad de vectores que tiene su base.
 
 ```
+
+La noción de "dimensión" encaja con la noción intuitiva de "dimensiones" de un espacio. Un subespacio vectorial que consiste de una recta, por ejemplo, tiene dimensión 1.
