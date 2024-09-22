@@ -6,10 +6,6 @@ kanban-plugin: board
 
 ## ☕ Tareas
 
-- [ ] **Evaluación RC1**
-	
-	#lineal #teo #grupal
-	@{22-09-2024}
 - [ ] **Óptica - Trabajo desarrollado 1**
 	
 	@{27-09-2024} @@{12:00} 
@@ -33,6 +29,10 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **Evaluación RC1**
+	
+	#lineal #teo #grupal
+	@{22-09-2024}
 - [x] **Cálculo - Tarea semanal 2**
 	
 	#calculo #teo
