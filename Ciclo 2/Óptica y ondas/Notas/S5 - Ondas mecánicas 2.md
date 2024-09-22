@@ -47,19 +47,17 @@ $$
 y(x,t) = y_1(x,t) + y_2(x,t)
 $$
 
-### Tipos de interferencia
+La interferencia de ondas mecánicas se clasifica en dos:
 
 - **Constructiva:** $y_1$ y $y_2$ van del mismo lado.
 	- La amplitud resultante es **mayor** que la de cada onda.
 - **Destructiva:** $y_1$ y $y_2$ van por lados opuestos.
 	- La amplitud resultante es **menor** que la de alguna de las ondas.
 
-### Descripción matemática
-
 ```ad-note
 title: Nota
 
-Trataremos la interferencia de ondas cuya **única diferencia** sea el **desfase**.
+Analizaremos la interferencia de ondas cuya **única diferencia** sea el **desfase**.
 
 ```
 
@@ -67,7 +65,7 @@ Trataremos la interferencia de ondas cuya **única diferencia** sea el **desfase
 Sean las ondas definidas por
 
 $$
-y_1 = A\sin(kx - \omega t) \qquad y_2 = A\sin(k - \omega t + \phi)
+y_1 = A\sin(kx - \omega t) \qquad y_2 = A\sin(kx - \omega t + \phi)
 .$$
 
 Entonces, sumando y aplicando trigonometría, obtenemos
@@ -76,8 +74,7 @@ $$
 y = 2A\cos\left( \frac{\phi}{2} \right)\sin\left( kx-\omega t + \frac{\phi}{2} \right)
 .$$
 
-```ad-info
-title: Caso particular: Ondas estacionarias
+### Ondas estacionarias
 
 Las ondas estacionarias ocurren cuando dos ondas **iguales** pero **opuestas en sentido** interactúan en un **entorno fijo**. El resultado es una "onda estacionaria": una onda que no se mueve, pero cuya amplitud oscila.
 
@@ -100,4 +97,3 @@ Aquí identificamos que la **amplitud** del elemento de posición $x$ es igual a
 - **Antinodos:** Los puntos de amplitud máxima.
 	- $x = \frac{\lambda}{4}, \frac{3\lambda}{4} \frac{5\lambda}{4}, \ldots, \frac{n\lambda}{4}$ donde $n = 1, 3, 5, \ldots$
 
-```
