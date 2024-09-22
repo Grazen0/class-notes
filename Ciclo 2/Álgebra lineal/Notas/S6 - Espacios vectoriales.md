@@ -46,7 +46,7 @@ Como resultado, podemos observar que un vector $\mathbf{v}$ es combinación line
 
 $$
 \begin{bmatrix}
-\mathbf{u}_1 & \mathbf{u}_2 & \dots & \mathbf{u}_n
+\mathbf{u}_1 & \mathbf{u}_2 & \cdots & \mathbf{u}_n
 \end{bmatrix} \begin{bmatrix}
 x_1 \\
 x_2 \\
@@ -65,7 +65,7 @@ Decimos que los vectores $\mathbf{v}_1, \mathbf{v}_2,\ldots \mathbf{v}_n$ son **
 
 $$
 \begin{bmatrix}
-\mathbf{v}_1 & \mathbf{v}_2 & \dots & \mathbf{v}_n
+\mathbf{v}_1 & \mathbf{v}_2 & \cdots & \mathbf{v}_n
 \end{bmatrix} \begin{bmatrix}
 x_1 \\ x_2 \\ \vdots \\ x_n
 \end{bmatrix} = \mathbf{0}
