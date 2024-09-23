@@ -12,6 +12,17 @@ En otras palabras, un espacio vectorial es **un conjunto de vectores** equipado 
 
 Los elementos de $\R^m$ son llamados **vectores** de $m$ dimensiones.
 
+Cumplen las siguientes propiedades:
+
+- $\mathbf{x} + (\mathbf{y} + \mathbf{z}) = (\mathbf{x} + \mathbf{y}) + \mathbf{z}$.
+- $\mathbf{x} + \mathbf{y} = \mathbf{y} + \mathbf{x}$.
+- Existe un elemento $\mathbf{0}$ tal que $\mathbf{x} + \mathbf{0} = \mathbf{x}$.
+- Existe un elemento $\mathbf{1}$ tal que $\mathbf{1}\mathbf{x} = \mathbf{x}$.
+- Para todo $\mathbf{x}$ existe un $\mathbf{y}$ tal que $\mathbf{x} + \mathbf{y} = \mathbf{0}$.
+- $a(b\mathbf{x}) = (ab)\mathbf{x}$.
+- $a(\mathbf{x} + \mathbf{y}) = a\mathbf{x} + a\mathbf{y}$.
+- $(a + b)\mathbf{x} = a\mathbf{x} + b\mathbf{x}$.
+
 ```ad-definition
 title: Definición (subespacio vectorial).
 
