@@ -76,3 +76,9 @@ por lo que podemos obtener una **normal** del plano tangente en $(x,y,z)$ con
 $$
 \vec{n} = \vec{v} \times \vec{w} = \left< -\frac{\partial f}{\partial x}, -\frac{\partial f}{\partial y}, 1 \right> 
 .$$
+
+Con esto, la ecuación del plano tangente sería
+
+$$
+z = f(x_0, y_0) + \frac{\partial f}{\partial x} (x-x_0) + \frac{\partial f}{\partial y} (y-y_0)
+.$$
