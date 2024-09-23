@@ -9,4 +9,4 @@ Entonces, $A$ es una **subretícula de $L$** si y sólo si $\lor$ y $\land$ est�
 
 ```
 
-Es decir, u
+Es decir, una subretícula es un subconjunto de una retícula donde el supremo y el ínfimo se "quedan dentro" de ella.
