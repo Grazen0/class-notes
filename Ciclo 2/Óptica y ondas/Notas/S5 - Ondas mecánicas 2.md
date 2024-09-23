@@ -49,10 +49,6 @@ $$
 
 La interferencia de ondas mecánicas se clasifica en dos:
 
-- **Constructiva:** $y_1$ y $y_2$ van del mismo lado.
-	- La amplitud resultante es **mayor** que la de cada onda.
-- **Destructiva:** $y_1$ y $y_2$ van por lados opuestos.
-	- La amplitud resultante es **menor** que la de alguna de las ondas.
 
 ```ad-note
 title: Nota
@@ -74,6 +70,14 @@ $$
 y = 2A\cos\left( \frac{\phi}{2} \right)\sin\left( kx-\omega t + \frac{\phi}{2} \right)
 .$$
 
+### Interferencia constructiva y destructiva
+
+- **Constructiva:** $y_1$ y $y_2$ van del mismo lado.
+	- La amplitud resultante es **mayor** que la de cada onda.
+	- La diferencia en desfases es $\Delta r = n\lambda$.
+- **Destructiva:** $y_1$ y $y_2$ van por lados opuestos.
+	- La amplitud resultante es **menor** que la de alguna de las ondas.
+	- La diferencia en desfases es $\Delta r = \frac{n\lambda}{2}$.
 ### Ondas estacionarias
 
 Las ondas estacionarias ocurren cuando dos ondas **iguales** pero **opuestas en sentido** interactúan en un **entorno fijo**. El resultado es una "onda estacionaria": una onda que no se mueve, pero cuya amplitud oscila.
