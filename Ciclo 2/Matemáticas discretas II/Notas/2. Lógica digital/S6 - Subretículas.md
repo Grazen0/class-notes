@@ -8,3 +8,5 @@ Entonces, $A$ es una **subretícula de $L$** si y sólo si $\lor$ y $\land$ est�
 - $\forall a,b \in A \, (a \land b \in A)$.
 
 ```
+
+Es decir, u
