@@ -124,6 +124,13 @@ $$
 
 Es decir, una retícula es distributiva cuando sus operadores $\lor$, $\land$ se distribuyen.
 
+#### Cómo demostrar (o refutar) distributividad
+
+- No es necesario comprobar ternas que incluyan al **máximo** o al **mínimo**.
+- Distributividad con $a,b,c$ automáticamente implica con $a,c,b$.
+- Si la retícula es acotada y algún elemento tiene **más de un complemento**, entonces **no  es distributiva**.
+- Si la retícula es isomorfa a algún CPO $(D_n, \mid)$ (tienen el mismo diagrama de Hasse), entonces automáticamente **es distributiva.**
+
 ### Teoremas
 
 ````ad-theorem
