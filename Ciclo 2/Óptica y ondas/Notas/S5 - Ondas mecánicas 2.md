@@ -103,8 +103,14 @@ Aquí identificamos que la **amplitud** del elemento de posición $x$ es igual a
 
 #### Frecuencias fundamentales
 
-La frecuencia del $n$-ésimo armónico (es decir, una onda estacionaria de $n$ nodos) es igual a
+La frecuencia del $n$-ésimo armónico (es decir, una onda estacionaria de $n$ antinodos) es igual a
 
 $$
 f_n = n \frac{v}{2L} = nf_1
+,$$
+
+donde $L$ es la **longitud** de la cuerda. Esto significa que, si tenemos la longitud de onda $\lambda$, podemos calcular la longitud de la cuerda como
+
+$$
+L = \frac{n}{2}\lambda
 .$$
