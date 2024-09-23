@@ -102,3 +102,9 @@ Aquí identificamos que la **amplitud** del elemento de posición $x$ es igual a
 	- $x = \frac{\lambda}{4}, \frac{3\lambda}{4} \frac{5\lambda}{4}, \ldots, \frac{n\lambda}{4}$ donde $n = 1, 3, 5, \ldots$
 
 #### Frecuencias fundamentales
+
+La frecuencia del $n$-ésimo armónico (es decir, una onda estacionaria de $n$ nodos) es igual a
+
+$$
+f_n = n \frac{v}{2L} = nf_1
+.$$
