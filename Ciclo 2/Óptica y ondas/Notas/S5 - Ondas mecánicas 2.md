@@ -101,3 +101,4 @@ Aquí identificamos que la **amplitud** del elemento de posición $x$ es igual a
 - **Antinodos:** Los puntos de amplitud máxima.
 	- $x = \frac{\lambda}{4}, \frac{3\lambda}{4} \frac{5\lambda}{4}, \ldots, \frac{n\lambda}{4}$ donde $n = 1, 3, 5, \ldots$
 
+#### Frecuencias fundamentales
