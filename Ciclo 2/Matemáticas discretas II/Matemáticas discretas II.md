@@ -12,6 +12,7 @@
 		- [[S4A - Isomorfismos]]
 		- [[S4B - Ínfimos y supremos]]
 		- [[S5 - Retículas]]
+		- [[S6 - Subretículas]]
 
 %% End Waypoint %%
 
