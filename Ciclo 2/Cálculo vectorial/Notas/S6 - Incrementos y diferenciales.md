@@ -1,4 +1,4 @@
-Los diferenciale
+Al igual que con funciones de una variable, las derivadas de una función de varias variables nos pueden ayudar a *aproximar* incrementos (o decrementos).
 
 Sea $f(x,y)$ una función. Definimos el **incremento en $f$** como
 

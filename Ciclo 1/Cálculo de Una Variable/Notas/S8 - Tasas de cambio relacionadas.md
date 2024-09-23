@@ -31,5 +31,3 @@ $$
 $$
 
 ```
-
-![[problema tasas de cambio relacionadas.png]]
