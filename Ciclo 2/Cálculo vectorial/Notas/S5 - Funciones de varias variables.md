@@ -74,5 +74,5 @@ $$
 por lo que podemos obtener una **normal** del plano tangente en $(x,y,z)$ con
 
 $$
-\vec{n} = \vec{v} \times \vec{w} = \left< - \right> 
-$$
+\vec{n} = \vec{v} \times \vec{w} = \left< -\frac{\partial f}{\partial x}, -\frac{\partial f}{\partial y}, 1 \right> 
+.$$
