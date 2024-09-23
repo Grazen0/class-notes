@@ -69,4 +69,10 @@ Los vectores tangentes a $f(x,y)$ en el punto $(x, y, z)$ son
 
 $$
 \vec{v} = \left< 1, 0, \frac{\partial f}{\partial x}  \right> \qquad \vec{w} = \left< 0, 1, \frac{\partial f}{\partial y}  \right>
+,$$
+
+por lo que podemos obtener una **normal** del plano tangente en $(x,y,z)$ con
+
+$$
+\vec{n} = \vec{v} \times \vec{w} = \left< - \right> 
 $$
