@@ -62,3 +62,11 @@ Un poco confuso, pero el orden para colocar las variables derivadas es
 - **las demás:** izquierda a derecha.
 
 ```
+
+### Planos tangentes
+
+Los vectores tangentes a $f(x,y)$ en el punto $(x, y, z)$ son
+
+$$
+\vec{v} = \left< 1, 0, \frac{\partial f}{\partial x}  \right> \qquad \vec{w} = \left< 0, 1, \frac{\partial f}{\partial y}  \right>
+$$
