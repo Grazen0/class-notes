@@ -9,9 +9,8 @@ int mat[2][3] = {
 };
 
 for (int i = 0; i < 2; i++) {
-	for (int j = 0; j < 3; j++) {
+	for (int j = 0; j < 3; j++)
 		std::cout << std::setw(3) << mat[i][j] << ' ';
-	}
 
 	std::cout << std::endl;
 }
