@@ -31,4 +31,3 @@ title: Observación.
 No siempre existe un ínfimo y un supremo.
 
 ```
-

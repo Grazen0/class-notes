@@ -12,7 +12,8 @@
 		- [[S4A - Isomorfismos]]
 		- [[S4B - Ínfimos y supremos]]
 		- [[S5 - Retículas]]
-		- [[S6 - Subretículas]]
+		- [[S6A - Subretículas]]
+		- [[S6B - Álgebras booleanas]]
 
 %% End Waypoint %%
 
