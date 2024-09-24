@@ -33,6 +33,13 @@ for (int i = 0; i < 2; i++) {
 
 	std::cout << std::endl;
 }
+
+// Liberar el espacio
+for (int i = 0; i < 2; i++)
+	delete[] mat[i];
+
+delete[] mat;
+
 ```
 
 Al hacer esto, estamos
