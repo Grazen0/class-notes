@@ -1,4 +1,7 @@
+## Como retícula
+
 ```ad-definition
+title: Definición (álgebra boolleana).
 
 Una retícula acotada $S$ es una **álgebra booleana** si y sólo si:
 
@@ -31,3 +34,17 @@ Sea $n = p_1p_2\ldots p_n$ un producto de $n$ primos distintos.
 ```
 
 ````
+
+## Como estructura algebraica
+
+```ad-definition
+
+Un álgebra booleana es un conjunto $B$ con dos operaciones $+$ y $\cdot$ que cumplen los siguientes axiomas:
+
+1. **Conmutatividad:** $a + b = b + a$ y $a \cdot b = b \cdot a$.
+2. **Asociatividad:** $(a + b) + c = a + (b + c)$ y $(a \cdot b) \cdot c = a \cdot (b \cdot c)$.
+3. **Distributividad:** $a + (b \cdot c) = (a + b) \cdot (a + c)$ y $a \cdot (b + c) = (a \cdot b) + (a \cdot c)$.
+4. **Elementos neutros:** existen $0,1 \in B$ tales que $a + 0 = a$ y $a \cdot 1 = a$.
+5. **Complemento:** para todo elemento $a \in B$ existe un $\overline{a} \in B$ tal que $a + \overline{a} = 1$ y $a \cdot \overline{a} = 0$.
+
+```

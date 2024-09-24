@@ -54,7 +54,7 @@ Una definición equivalente para las retículas es la siguiente:
 
 ```ad-definition
 
-Una retícula es una terna $(A, \lor, \land)$ donde $A$ es un conjunto y $\lor$, $\land$ son operaciones definidas en $A$ tales que:
+Una retícula es una terna $(A, \lor, \land)$ donde $A$ es un conjunto y $\lor$, $\land$ son operaciones definidas en $A$ que cumplen los siguientes axiomas:
 
 1. **Idempotencia:** $a \lor a = a \land a = a$.
 2. **Conmutatividad:** $a \lor b = b \lor a$, $a \land b = b \land a$.
@@ -126,7 +126,9 @@ Es decir, una retícula es distributiva cuando sus operadores $\lor$, $\land$ se
 
 #### Cómo demostrar (o refutar) distributividad
 
-- No es necesario comprobar ternas que incluyan al **máximo** o al **mínimo**.
+- Ignoramos:
+	- Al **mínimo** y al **máximo**.
+	- Ternas $a,b,c$ donde $b \preceq c$ o $c \preceq b$.
 - Distributividad con $a,b,c$ implica distributividad con $a,c,b$.
 - Si la retícula es acotada y algún elemento tiene **más de un complemento**, entonces **no  es distributiva**.
 - Si la retícula es isomorfa a algún CPO $(D_n, \mid)$ (tienen el mismo diagrama de Hasse), entonces automáticamente **es distributiva.**
