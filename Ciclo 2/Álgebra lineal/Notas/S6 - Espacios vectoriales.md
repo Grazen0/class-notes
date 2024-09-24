@@ -1,10 +1,16 @@
 ```ad-definition
 title: Definición (espacio vectorial).
 
-Un espacio vectorial es un **espacio euclidiano** $\R^m$ junto con dos operaciones en $\R^m$:
+Un conjunto no vacío $V$, junto a operaciones de **suma** y **multiplicación por escalares** es un **espacio vectorial** si y sólo si sus operaciones cumplen las siguientes propiedades:
 
-1. **Suma:** $\mathbf{x} + \mathbf{y} = (x_1+y_1,x_2+y_2,\ldots,x_m+y_m)$
-2. **Producto por escalar:** $\lambda \mathbf{x} = (\lambda x_1, \lambda x_2, \ldots, \lambda x_m)$
+**Aximommas de la suma**:
+
+1. $\mathbf{x} + \mathbf{y} = \mathbf{y} + \mathbf{x}$.
+2. $(\mathbf{x} + \mathbf{y}) + \mathbf{z} = \mathbf{x} + (\mathbf{y} + \mathbf{z})$.
+3. Existe un elemento $\mathbf{0}$ tal que $\mathbf{x} + \mathbf{0} = \mathbf{x}$.
+4. Para todo $\mathbf{x}$ existe un $\mathbf{-x} \in V$ tal que $\mathbf{x} + (-\mathbf{x}) = \mathbf{0}$.
+
+**Axiomas de**
 
 ```
 
