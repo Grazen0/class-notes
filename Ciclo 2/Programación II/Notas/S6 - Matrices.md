@@ -15,3 +15,13 @@ for (int i = 0; i < 2; i++) {
 	std::cout << std::endl;
 }
 ```
+
+Al igual que los arrays, las matrices también se pueden **alojar dinámicamente**. El ejemplo anterior es equivalente a lo siguiente:
+
+```cpp
+int** mat = new int*[2];
+
+for (int i = 0; i < 2; i++) {
+	mat[i]
+}
+```
