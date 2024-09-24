@@ -134,7 +134,6 @@ Es decir, una retícula es distributiva cuando sus operadores $\lor$, $\land$ se
 ### Teoremas
 
 ````ad-theorem
-title: Teorema 1.
 
 Toda retícula finita es acotada.
 
@@ -157,7 +156,6 @@ $$\qed$$
 ````
 
 ```ad-theorem
-title: Teorema 2.
 
 En una retícula **acotada** y **distributiva**, el complementario de un elemento, de existir, es único.
 
