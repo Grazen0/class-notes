@@ -48,3 +48,13 @@ Un álgebra booleana es un conjunto $B$ con dos operaciones $+$ y $\cdot$ que cu
 5. **Complemento:** para todo elemento $a \in B$ existe un $\overline{a} \in B$ tal que $a + \overline{a} = 1$ y $a \cdot \overline{a} = 0$.
 
 ```
+
+Bajo esta definición, se cumplen las siguientes propiedades:
+
+
+1. $\overline{a}$ es único,
+2. $0$ y $1$ son únicos,
+3. $a + a = a \cdot a = a$,
+4. $\overline{\overline{a}} = a$,
+5. $a + 1 = 1$ y $a \cdot 0 = 0$, y
+6. $\overline{a + b} = \overline{a} \cdot \overline{b}$ y $\overline{a \cdot b} = \overline{a} + \overline{b}$.
