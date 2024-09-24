@@ -111,6 +111,12 @@ $$
 
 Es decir, el espacio generado de un conjunto de vectores es todo el espacio que pueden "alcanzar" con combinaciones lineales.
 
+```ad-theorem
+
+Sean $\mathbf{v}_1, \mathbf{v}_2, \ldots, \mathbf{v}_n$ vectores en un espacio vectorial $V$. Entonces $\operatorname{Gen}(\left\{ \mathbf{v}_1, \mathbf{v}_2, \ldots, \mathbf{v}_n \right\})$ es un subespacio vectorial.
+
+```
+
 ```ad-definition
 title: Definición (base).
 
