@@ -99,6 +99,8 @@ La **única** excepción a esta norma ocurre con "etc".
 
 ```
 
+- Los pretendientes que se acercaron a ella durante los años de su juventud, o bien acabaron huyendo despavoridos, o bien, los más heroicos, tuvieron que retirarse con el rabo entre las piernas.
+
 ### Conjunciones
 
 **Se coloca coma detrás de conectores de conjunción**. ("pero", "sino", "mas", etc.)
