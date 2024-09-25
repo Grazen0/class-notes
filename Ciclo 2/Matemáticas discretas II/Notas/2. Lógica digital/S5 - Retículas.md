@@ -129,6 +129,7 @@ Es decir, una retícula es distributiva cuando sus operadores $\lor$, $\land$ se
 - Ignoramos:
 	- Al **mínimo** y al **máximo**.
 	- Ternas $a,b,c$ donde $b \preceq c$ o $c \preceq b$.
+	- Ternas $a,b,c$ donde $a \preceq b \preceq c$ (en cualquier orden).
 - Distributividad con $a,b,c$ implica distributividad con $a,c,b$.
 - Si la retícula es acotada y algún elemento tiene **más de un complemento**, entonces **no  es distributiva**.
 - Si la retícula es isomorfa a algún CPO $(D_n, \mid)$ (tienen el mismo diagrama de Hasse), entonces automáticamente **es distributiva.**
