@@ -28,6 +28,18 @@ kanban-plugin: board
 
 ## 📄 Evaluaciones
 
+- [ ] **Cálculo - EA 2**
+	
+	@{26-09-2024} 
+	#calculo #lab
+- [ ] **Discretas - Examen 1**
+	
+	@{27-09-2024} 
+	#discretas
+- [ ] **Óptica - EA 3**
+	
+	@{27-09-2024} 
+	#optica #lab
 
 
 ## 👍 Completado
