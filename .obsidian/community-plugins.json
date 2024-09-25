@@ -1,11 +1,9 @@
 [
-  "calendar",
   "obsidian-excalidraw-plugin",
   "obsidian-latex",
   "obsidian-git",
   "homepage",
   "obsidian-latex-suite",
-  "obsidian-functionplot",
   "omnisearch",
   "obsidian-vimrc-support",
   "obsidian-plugin-update-tracker",
@@ -20,7 +18,7 @@
   "vim-yank-highlight",
   "persistent-graph",
   "obsidian-checklist-plugin",
-  "obsidian-charts",
   "obsidian-admonition",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "calendar"
 ]
