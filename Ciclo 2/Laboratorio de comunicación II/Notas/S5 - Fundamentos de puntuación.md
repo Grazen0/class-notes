@@ -86,7 +86,7 @@ La coma se utiliza cuando **se modifica la estructura básica de la oración**.
 - Confías en mí, *¿no?*
 - Así que quería irse in avisar, *¿eh?*
 
-### Coma entre sujeto y predicado
+### Sujeto y predicado
 
 **Nunca se pone coma entre sujeto y predicado**. Si en una oración correcta parece que fuera así, no se la está analizando correctamente.
 
@@ -100,6 +100,11 @@ La **única** excepción a esta norma ocurre con "etc".
 ```
 
 - Los pretendientes que se acercaron a ella durante los años de su juventud, o bien acabaron huyendo despavoridos, o bien, los más heroicos, tuvieron que retirarse con el rabo entre las piernas.
+
+### Atributo
+
+- Ahora sería no un rey desterrado, sino un rey secreto libre de traiciones, de conjuras y de intrigas.
+	- "no un rey desterrado, sino..." es el **atributo**. Lleva algunas comas por el "sino" y por la enumeración.
 
 ### Conjunciones
 
