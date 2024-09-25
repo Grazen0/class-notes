@@ -14,6 +14,12 @@ La puntuación **no responde a pausas, entonaciones ni otras necesidades de la l
 
 ```
 
+## Clasificación de conectores
+
+- **Coordinantes:** y, o, pero.
+- **Subordinantes:** si
+- **Coord**
+
 ## La coma
 
 1. Delimitar incisos y unidades con **alto grado de independencia**. (interjecciones, vocativos y apéndices confirmativos)
@@ -83,6 +89,15 @@ La coma se utiliza cuando **se modifica la estructura básica de la oración**.
 ### Coma entre sujeto y predicado
 
 **Nunca se pone coma entre sujeto y predicado**. Si en una oración correcta parece que fuera así, no se la está analizando correctamente.
+
+```ad-warning
+title: Una excepción a la regla
+
+La **única** excepción a esta norma ocurre con "etc".
+
+- El novio, los parientes, los invitados, etc., esperaban ya la llegada de la novia.
+
+```
 
 ### Conjunciones
 
