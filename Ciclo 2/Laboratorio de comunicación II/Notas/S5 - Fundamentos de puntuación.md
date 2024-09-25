@@ -70,6 +70,20 @@ La coma se utiliza cuando **se modifica la estructura básica de la oración**.
 
 - Una hamburguesa, Fernando compró para mí en el Listo.
 
+```ad-warning
+title: Una excepción
+
+**No se escribe coma** si el O.D se mueve detrás del verbo.
+
+Todas las siguientes oraciones son correctas:
+
+- Luis comió arroz con pollo en el restaurante.
+- Arroz con pollo comió Luis en el restaurante.
+- Arroz con pollo, Luis comió en el restaurante.
+- En el restaurante, comió Luis arroz con pollo.
+
+```
+
 #### Construcción de carácter accesorio
 
 - A cenar, ¡con lo rico que cocina!, me quedaré.
