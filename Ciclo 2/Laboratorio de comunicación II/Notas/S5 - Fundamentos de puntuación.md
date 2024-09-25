@@ -30,8 +30,9 @@ title: Grados de (in)dependencia
 4. Vocativos, interjección, apéndices confirmativos.
 
 ```
+### Separación de estructuras gramaticales
 
-### Explicación vs. especificación
+#### Explicación y especificación
 
 Existe una diferencia que puede ocurrir al decidir usar o no la coma:
 
@@ -51,30 +52,42 @@ está **incorrectamente puntuada**. Hace falta comas: no hay por qué *especific
 
 ```
 
-### Construcción absoluta
+#### Construcción absoluta
 
 - *Una vez limpios los mariscos*, se añaden a la sartén.
 - El presidente, *terminada la reunión* convocó una rueda de prensa.
 - Los viajeros, *viendo su vuelo anulado*, reclamaron la devolución de sus billetes.
 
-#### "Chocolateo"
+##### "Chocolateo"
 
 La coma se utiliza cuando **se modifica la estructura básica de la oración**.
 
 - Una hamburguesa, Fernando compró para mí en el Listo.
 
-### Construcción de carácter accesorio
+#### Construcción de carácter accesorio
 
 - A cenar, ¡con lo rico que cocina!, me quedaré.
 
-### Vocativos
+#### Vocativos
 
 - Has de saber, *muchacho*, que tu padre era un gran amigo mío.
 - Estoy a sus órdenes, mi coronel.
 - Usted, acérquese inmediatamente.
 
-### Apéndices confirmativos
+#### Apéndices confirmativos
 
 - No te gusta esta ciudad, *¿verdad?*
 - Confías en mí, *¿no?*
 - Así que quería irse in avisar, *¿eh?*
+
+### Coma entre sujeto y predicado
+
+**Nunca se pone coma entre sujeto y predicado**. Si en una oración correcta parece que fuera así, no se la está analizando correctamente.
+
+### Conjunciones
+
+**Se coloca coma detrás de conectores de conjunción**. ("pero", "sino", "mas", etc.)
+
+- Fueron convocados no los padres, sino los alumnos.
+
+En el primer caso: "no los padres, sino los alumnos" es el sujeto.
