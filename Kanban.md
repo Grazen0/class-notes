@@ -10,6 +10,10 @@ kanban-plugin: board
 	
 	@{27-09-2024} @@{12:00} 
 	#optica #teo
+- [ ] **Cálculo - Tarea semanal 2**
+	
+	#calculo #teo
+	@{27-09-2024}
 
 
 ## 📚 Lecturas
@@ -24,27 +28,11 @@ kanban-plugin: board
 
 ## 📄 Evaluaciones
 
-- [ ] **Cálculo - EA 2**
-	
-	@{26-09-2024} 
-	#calculo #lab
-- [ ] **Discretas - Examen 1**
-	
-	@{27-09-2024} 
-	#discretas
-- [ ] **Óptica - EA 3**
-	
-	@{27-09-2024} 
-	#optica #lab
 
 
 ## 👍 Completado
 
 **Complete**
-- [x] **Cálculo - Tarea semanal 2**
-	
-	#calculo #teo
-	@{27-09-2024}
 - [x] **Evaluación RC1**
 	
 	#lineal #teo #grupal
