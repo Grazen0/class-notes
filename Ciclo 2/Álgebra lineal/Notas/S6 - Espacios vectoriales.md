@@ -26,7 +26,7 @@ Los elementos de $\R^m$ son llamados **vectores** de $m$ dimensiones.
 ```ad-definition
 title: Definición (subespacio vectorial).
 
-Sean $V \subseteq \R^m$. Entonces, $V$ es un **subespacio vectorial** de $\R^m$ si y sólo si
+Sea $V$ un espacio vectorial. Un subconjunto $W \subseteq V$ es un **subespacio vectorial** de $V$ si y sólo si está **cerrado bajo la suma**.
 
 1. $\mathbf{0} \in V$, y
 2. $V$ está **cerrado** bajo la suma y producto por escalar.
