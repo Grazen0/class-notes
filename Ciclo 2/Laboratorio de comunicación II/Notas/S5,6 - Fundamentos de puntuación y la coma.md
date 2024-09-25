@@ -7,8 +7,8 @@ Los **criterios para la puntuación** son dos:
 1. Sintaxis
 2. Lógica
 
-```ad-warning
-title: Nota importante
+```ad-hint
+title: Nota
 
 La puntuación **no responde a pausas, entonaciones ni otras necesidades de la lengua hablada**. Responde únicamente a los dos criterios mencionados arriba.
 
@@ -116,6 +116,8 @@ La **única** excepción a esta norma ocurre con "etc".
 - Los pretendientes que se acercaron a ella durante los años de su juventud, o bien acabaron huyendo despavoridos, o bien, los más heroicos, tuvieron que retirarse con el rabo entre las piernas.
 
 ### Atributo
+
+(El atributo es como un O.D cuando se usa el verbo "ser")
 
 - Ahora sería no un rey desterrado, sino un rey secreto libre de traiciones, de conjuras y de intrigas.
 	- "no un rey desterrado, sino..." es el **atributo**. Lleva algunas comas por el "sino" y por la enumeración.

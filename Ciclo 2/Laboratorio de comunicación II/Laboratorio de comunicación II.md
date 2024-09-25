@@ -8,7 +8,8 @@
 - **Notas**
 	- [[S1 - Cómo hacer cosas con textos]]
 	- [[S2 - Stanislaw Lem]]
-	- [[S5 - Fundamentos de puntuación]]
+	- [[S5,6 - Fundamentos de puntuación y la coma]]
+	- [[S6 - Puntuación con conectores]]
 
 %% End Waypoint %%
 
