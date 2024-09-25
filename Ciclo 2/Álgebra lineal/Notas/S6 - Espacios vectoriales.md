@@ -3,31 +3,25 @@ title: Definición (espacio vectorial).
 
 Un conjunto no vacío $V$, junto a operaciones de **suma** y **multiplicación por escalares** es un **espacio vectorial** si y sólo si sus operaciones cumplen las siguientes propiedades:
 
-**Aximommas de la suma**:
+**Aximommas de la suma:**
 
 1. $\mathbf{x} + \mathbf{y} = \mathbf{y} + \mathbf{x}$.
 2. $(\mathbf{x} + \mathbf{y}) + \mathbf{z} = \mathbf{x} + (\mathbf{y} + \mathbf{z})$.
-3. Existe un elemento $\mathbf{0}$ tal que $\mathbf{x} + \mathbf{0} = \mathbf{x}$.
+3. Existe un $\mathbf{0} \in V$ tal que $\mathbf{x} + \mathbf{0} = \mathbf{x}$.
 4. Para todo $\mathbf{x}$ existe un $\mathbf{-x} \in V$ tal que $\mathbf{x} + (-\mathbf{x}) = \mathbf{0}$.
 
-**Axiomas de**
+**Axiomas del producto por escalar:**
+
+1. $a(\mathbf{x} + \mathbf{y}) = a\mathbf{x} + a\mathbf{y}$.
+2. $(a + b)\mathbf{x} = a\mathbf{x} + b\mathbf{x}$.
+3. $a(b\mathbf{x}) = (ab)\mathbf{x}$.
+4. Existe un $\mathbf{1} \in V$ tal que $\mathbf{1} \mathbf{x} = \mathbf{x}$.
 
 ```
 
-En otras palabras, un espacio vectorial es **un conjunto de vectores** equipado con reglas de suma y multiplicación por números reales.
+En otras palabras, un espacio vectorial es un conjunto equipado con reglas de suma y multiplicación por números reales que satisfacen sus reglas habituales.
 
 Los elementos de $\R^m$ son llamados **vectores** de $m$ dimensiones.
-
-Cumplen las siguientes propiedades:
-
-- $\mathbf{x} + (\mathbf{y} + \mathbf{z}) = (\mathbf{x} + \mathbf{y}) + \mathbf{z}$.
-- $\mathbf{x} + \mathbf{y} = \mathbf{y} + \mathbf{x}$.
-- Existe un elemento $\mathbf{0}$ tal que $\mathbf{x} + \mathbf{0} = \mathbf{x}$.
-- Existe un elemento $\mathbf{1}$ tal que $\mathbf{1}\mathbf{x} = \mathbf{x}$.
-- Para todo $\mathbf{x}$ existe un $\mathbf{y}$ tal que $\mathbf{x} + \mathbf{y} = \mathbf{0}$.
-- $a(b\mathbf{x}) = (ab)\mathbf{x}$.
-- $a(\mathbf{x} + \mathbf{y}) = a\mathbf{x} + a\mathbf{y}$.
-- $(a + b)\mathbf{x} = a\mathbf{x} + b\mathbf{x}$.
 
 ```ad-definition
 title: Definición (subespacio vectorial).
@@ -42,7 +36,7 @@ Sean $V \subseteq \R^m$. Entonces, $V$ es un **subespacio vectorial** de $\R^m$ 
 Los subespacios vectoriales de $\R^2$, por ejemplo, son
 
 1. el mismo $\R^2$,
-2. todas las rectas que pasan por el oriGen, y
+2. todas las rectas que pasan por el origen, y
 3. el conjunto unitario $\left\{ \mathbf{0} \right\}$.
 
 ## Combinaciones lineales

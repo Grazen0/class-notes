@@ -27,7 +27,7 @@ title: Grados de (in)dependencia
 1. Especificación.
 2. Explicación.
 3. Construcción absoluta.
-4. Apéndices confirmativos, vocativos, intersección.
+4. Vocativos, interjección, apéndices confirmativos.
 
 ```
 
