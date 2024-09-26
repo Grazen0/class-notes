@@ -10,6 +10,10 @@ kanban-plugin: board
 	
 	@{27-09-2024} @@{12:00} 
 	#optica #teo
+- [ ] **Evaluación RC 2**
+	
+	@{10-10-2024} 
+	#lineal #teo #grupal
 
 
 ## 📚 Lecturas
