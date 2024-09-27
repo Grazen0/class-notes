@@ -53,10 +53,24 @@ $$
 \text{(Potencia)}_\text{prom} = \frac{1}{2} \rho A \omega^2 (s_\text{máx})^2v
 $$
 
-donde $A$ es el área de la superficie abarcada por la onda ($4\pi r$).
-
-De aquí, hallamos que la **intensidad** de una onda de sonido es igual a
+donde $A$ es el área de la superficie abarcada por la onda ($4\pi r$). De aquí, hallamos que la **intensidad** de una onda de sonido es igual a
 
 $$
 I = \frac{1}{2}\rho \omega^2 (s_\text{máx})^2 v = \frac{(\Delta P_\text{máx})^2}{2\rho v}
 .$$
+
+## Interferencia de ondas sonoras
+
+Ver [[S5 - Ondas mecánicas 2#Interferencia de ondas mecánicas]].
+
+## Nivel sonoro
+
+Se define al **nivel sonoro** de una onda como
+
+$$
+\beta = (10 \, \mathrm{dB}) \log\left( \frac{I}{I_0} \right)
+,$$
+
+donde $I_0 = 10^{-12} \mathrm{\frac{W}{m^2}}$ es el **umbral de la audición**.
+
+El nivel sonoro se trata de una escala logarítmica de la intensidad del sonido que definimos *arbitrariamente*.
