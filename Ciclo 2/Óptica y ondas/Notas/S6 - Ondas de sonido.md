@@ -4,7 +4,7 @@ Estas perturbaciones se miden por **cambios en densidad y presión** a lo largo 
 
 Las ondas de sonido son **ondas mecánicas**, por lo que requieren de un medio para propagarse. Por ejemplo, el sonido no puede viajar a través del espacio.
 
-## Descripción matemática
+## Movimiento de partículas
 
 El **desplazamiento relativo** de una partícula se describe como
 
@@ -24,3 +24,39 @@ title: Nota
 Se escribe $\Delta P$ (y no simplemente $P$) porque $\Delta P = P - P_\text{atmosférica}$.
 
 ```
+
+La **rapidez** de una onda sonora depende del medio.
+
+- **Fluido:** $v = \sqrt{\frac{B}{\rho}}$, donde
+	- $B$: Módulo volumétrico del fluido
+	- $\rho$: Densidad del fluido
+- **Varilla sólida:** $v = \sqrt{\frac{Y}{\rho}}$
+	- $Y$: Módulo de Young del material de la varilla
+	- $\rho$: Densidad del material de la varilla
+- **Gas ideal**: $v = \sqrt{\frac{\gamma RT}{M}}$
+	- $\gamma$: Coeficiente de capacidades caloríficas
+	- $R$: Constante de los gases
+	- $T$: Temperatura absoluta
+	- $M$: Masa molar
+
+## Intensidad de las ondas sonoras
+
+La variación máxima de presión se halla con
+
+$$
+\Delta P_\text{máx} = \rho v \omega s_\text{máx}
+$$
+
+y la potencia promedio se halla con
+
+$$
+\text{(Potencia)}_\text{prom} = \frac{1}{2} \rho A \omega^2 (s_\text{máx})^2v
+$$
+
+donde $A$ es el área de la superficie abarcada por la onda ($4\pi r$).
+
+De aquí, hallamos que la **intensidad** de una onda de sonido es igual a
+
+$$
+I = \frac{1}{2}\rho \omega^2 (s_\text{máx})^2 v = \frac{(\Delta P_\text{máx})^2}{2\rho v}
+.$$
