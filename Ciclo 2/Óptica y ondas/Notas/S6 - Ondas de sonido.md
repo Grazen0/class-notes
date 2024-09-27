@@ -65,15 +65,15 @@ Ver [[S5 - Ondas mecánicas 2#Interferencia de ondas mecánicas]].
 
 ## Nivel sonoro
 
-Se define al **nivel sonoro** de una onda como
+El **nivel sonoro** de una onda se mide en *decibelios*, y se define como
 
 $$
-\beta = (10 \, \mathrm{dB}) \log\left( \frac{I}{I_0} \right)
+\beta = (10 \, \mathrm{dB}) \log_{10}\left( \frac{I}{I_0} \right)
 ,$$
 
 donde $I_0 = 10^{-12} \mathrm{\frac{W}{m^2}}$ es el **umbral de la audición**.
 
-El nivel sonoro se trata de una escala logarítmica de la intensidad del sonido que definimos *arbitrariamente*.
+El nivel sonoro se trata de una escala logarítmica de la intensidad del sonido. En realidad, es algo así como una definición *arbitraria*, pero es útil para fines de medición.
 
 ## Efecto Doppler
 
@@ -82,7 +82,7 @@ El efecto Doppler es lo que ocurre cuando un observador o emisor de sonido está
 La **frecuencia percibida** de un sonido bajo el efecto Doppler es igual a
 
 $$
-f' = \left( \frac{v \pm v_o}{v \pm v_s} \right)f
+f' = \left( \frac{v + v_o}{v + v_s} \right)f
 $$
 
 donde:
@@ -91,7 +91,12 @@ donde:
 - $v_o$ es la velocidad del observador, y
 - $v_s$ es la velocidad de la fuente.
 
-Los **signos** de $v_o$ y $v_s$ depende:
+Los **signos** de $v_o$ y $v_s$ dependen de las direcciones del movimiento.
 
-- $+$: se **acerca** al otro, y
-- $-$: se **aleja** del otro.
+La estrategia es **definir un sentido positivo** del observador hacia la fuente. Es decir,
+
+$$
+\text{O} \xrightarrow{+} \text{S}
+.$$
+
+Las velocidades las medimos según este sentido.
