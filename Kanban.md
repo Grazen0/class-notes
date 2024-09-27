@@ -6,10 +6,6 @@ kanban-plugin: board
 
 ## ☕ Tareas
 
-- [ ] **Progra - Ejercicio 3**
-	
-	@{27-09-2024} 
-	#progra #teo
 - [ ] **Óptica - Trabajo desarrollado 1**
 	
 	@{28-09-2024} 
@@ -37,6 +33,10 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **Progra - Ejercicio 3**
+	
+	@{27-09-2024} 
+	#progra #teo
 - [x] **Evaluación RC1**
 	
 	#lineal #teo #grupal
