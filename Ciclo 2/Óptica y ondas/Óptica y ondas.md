@@ -9,7 +9,6 @@
 	- [[S3 - Movimiento armónico simple]]
 	- [[S4 - Ondas mecánicas]]
 	- [[S5 - Ondas mecánicas 2]]
-	- [[S6 - Ondas de sonido]]
 
 %% End Waypoint %%
 
