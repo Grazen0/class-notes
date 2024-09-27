@@ -8,8 +8,12 @@ kanban-plugin: board
 
 - [ ] **Óptica - Trabajo desarrollado 1**
 	
-	@{27-09-2024} @@{12:00} 
+	@{26-09-2024} 
 	#optica #teo
+- [ ] **Progra - Ejercicio 3**
+	
+	@{27-09-2024} 
+	#progra #teo
 - [ ] **Evaluación RC 2**
 	
 	@{10-10-2024} 
