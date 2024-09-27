@@ -9,7 +9,8 @@
     "mathjax",
     "kanagawa-font-fix",
     "image-alignment",
-    "mathjax-font-size"
+    "mathjax-font-size",
+    "alignment"
   ],
   "nativeMenus": false,
   "textFontFamily": "",

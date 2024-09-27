@@ -77,7 +77,7 @@ y = 2A\cos\left( \frac{\phi}{2} \right)\sin\left( kx-\omega t + \frac{\phi}{2} \
 	- La diferencia de caminos es $\Delta r = n\lambda$.
 - **Destructiva:** $y_1$ y $y_2$ van por lados opuestos.
 	- La amplitud resultante es **menor** que la de alguna de las ondas.
-	- La diferencia de caminos es $\Delta r = (2n + 1)\frac{\lambda}{2}$.
+	- La diferencia de caminos es $\Delta r = \left( n + \frac{1}{2} \right)\lambda$.
 ### Ondas estacionarias
 
 Las ondas estacionarias ocurren cuando dos ondas **iguales** pero **opuestas en sentido** interactúan en un **entorno fijo**. El resultado es una "onda estacionaria": una onda que no se mueve, pero cuya amplitud oscila.

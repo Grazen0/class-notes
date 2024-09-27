@@ -74,3 +74,24 @@ $$
 donde $I_0 = 10^{-12} \mathrm{\frac{W}{m^2}}$ es el **umbral de la audición**.
 
 El nivel sonoro se trata de una escala logarítmica de la intensidad del sonido que definimos *arbitrariamente*.
+
+## Efecto Doppler
+
+El efecto Doppler es lo que ocurre cuando un observador o emisor de sonido está **en movimiento**.
+
+La **frecuencia percibida** de un sonido bajo el efecto Doppler es igual a
+
+$$
+f' = \left( \frac{v \pm v_o}{v \pm v_s} \right)f
+$$
+
+donde:
+
+- $v$ es la velocidad de la onda,
+- $v_o$ es la velocidad del observador, y
+- $v_s$ es la velocidad de la fuente.
+
+Los **signos** de $v_o$ y $v_s$ depende:
+
+- $+$: se **acerca** al otro, y
+- $-$: se **aleja** del otro.

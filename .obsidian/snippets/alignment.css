@@ -1,0 +1,26 @@
+img {
+  display: block !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+img[alt*="left"] {
+  float: left !important;
+  clear: left !important;
+  margin-right: 1rem !important;
+  margin-bottom: 2px !important;
+  margin-top: 2px !important;
+}
+
+img[alt*="right"] {
+  float: right !important;
+  clear: right !important;
+  margin-left: 1rem !important;
+  margin-bottom: 2px !important;
+  margin-top: 2px !important;
+}
+
+table {
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
