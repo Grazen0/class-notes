@@ -13,3 +13,9 @@ $$
 .$$
 
 A esta expresión se le llama también **diferencial total** o **error**.
+
+|         Expresión          | Nombre           |
+| :------------------------: | ---------------- |
+|            $df$            | Error propagado  |
+|       $\frac{df}{f}$       | Error relativo   |
+| $\frac{df}{f} \cdot 100\%$ | Error porcentual |

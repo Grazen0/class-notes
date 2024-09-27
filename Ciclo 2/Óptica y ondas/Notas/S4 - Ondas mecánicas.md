@@ -4,7 +4,7 @@
 Las ondas se clasifican según su medio de propagación:
 
 1. **Mecánicas**: Requieren de un medio físico para propagarse.
-	1. **Longitudinales**: Las partículas se mueven  *paralelamente* de propagación.
+	1. **Longitudinales**: Las partículas se mueven  *paralelo* a la propagación.
 	2. **Transversales**: Las partículas se mueven *perpendicularmente* a la propagación.
 2. **Electromagnéticas**: Se pueden propagar en el vacío.
 

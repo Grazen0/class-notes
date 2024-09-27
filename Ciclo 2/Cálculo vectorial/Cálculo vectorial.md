@@ -12,7 +12,8 @@
 	- [[S3 - Rectas y planos en el espacio]]
 	- [[S4 - Funciones vectoriales]]
 	- [[S5 - Funciones de varias variables]]
-	- [[S6 - Incrementos y diferenciales]]
+	- [[S6A - Incrementos y diferenciales]]
+	- [[S6B - Linelización]]
 
 %% End Waypoint %%
 
