@@ -63,6 +63,22 @@ I = \frac{1}{2}\rho \omega^2 (s_\text{máx})^2 v = \frac{(\Delta P_\text{máx})^
 
 Ver [[S5 - Ondas mecánicas 2#Interferencia de ondas mecánicas]].
 
+### Ondas estacionarias en tubos
+
+![[onda sonora en tubo.png]]
+
+En un tubo **abierto**:
+
+$$
+\lambda_n = \frac{2L}{n} \qquad f_n = n\frac{v}{2L}
+,$$
+
+mientras que  en un tubo **cerrado**:
+
+$$
+\lambda_n = \frac{4L}{n} \qquad f_n = n\frac{v}{4L}
+.$$
+
 ## Nivel sonoro
 
 El **nivel sonoro** de una onda se mide en *decibelios*, y se define como
