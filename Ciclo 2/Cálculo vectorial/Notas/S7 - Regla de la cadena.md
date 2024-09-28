@@ -21,7 +21,7 @@ El gradiente se define análogamente para $n$ dimensiones.
 Se define la **derivada direccional** de la función $f(x,y)$ en la dirección $\vec{u}$ como
 
 $$
-D_\vec{u} f(x,y) = \vec{u} \cdot \nabla f(x,y)
+D_\vec{u} f(x,y) = \nabla f(x,y) \cdot \vec{u}
 ,$$
 
 donde $\vec{u}$ **tiene que ser un vector unitario**.
