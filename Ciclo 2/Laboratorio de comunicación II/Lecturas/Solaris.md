@@ -1,6 +1,11 @@
 [[Solaris.pdf]]
 
+## El forastero
 
+- Kelvin parte hacia Solaris
+	- Moddard (quizá su amigo) programa su despegue.
+- Kelvin despega hacia Solaris.
+	- 
 
 ## Los monstruos
 
