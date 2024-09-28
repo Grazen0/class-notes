@@ -29,22 +29,6 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
-- [x] **Óptica - Trabajo desarrollado 1**
-	
-	@{28-09-2024} 
-	#optica #teo
-- [x] **Progra - Ejercicio 3**
-	
-	@{27-09-2024} 
-	#progra #teo
-- [x] **Evaluación RC1**
-	
-	#lineal #teo #grupal
-	@{22-09-2024}
-- [x] **Cálculo - Tarea semanal 2**
-	
-	#calculo #teo
-	@{27-09-2024}
 
 
 ***
@@ -428,6 +412,22 @@ kanban-plugin: board
 	
 	#calculo #teo
 	@{15-09-2024} @@{12:00}
+- [x] **Progra - Ejercicio 3**
+	
+	@{27-09-2024} 
+	#progra #teo
+- [x] **Cálculo - Tarea semanal 2**
+	
+	#calculo #teo
+	@{27-09-2024}
+- [x] **Evaluación RC1**
+	
+	#lineal #teo #grupal
+	@{22-09-2024}
+- [x] **Óptica - Trabajo desarrollado 1**
+	
+	@{28-09-2024} 
+	#optica #teo
 
 %% kanban:settings
 ```
