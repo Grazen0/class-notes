@@ -29,7 +29,7 @@ kanban-plugin: board
 	
 	@{03-10-2024} 
 	#calculo #lab #grupal
-- [ ] **Solaris**
+- [ ] **[[Solaris]]**
 	
 	@{03-10-2024} 
 	#comu
