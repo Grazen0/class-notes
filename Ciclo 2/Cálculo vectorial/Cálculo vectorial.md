@@ -14,6 +14,7 @@
 	- [[S5 - Funciones de varias variables]]
 	- [[S6A - Incrementos, diferenciales y errores]]
 	- [[S6B - Linelización]]
+	- [[S7 - Regla de la cadena]]
 
 %% End Waypoint %%
 
