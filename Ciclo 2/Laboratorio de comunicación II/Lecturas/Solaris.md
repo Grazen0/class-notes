@@ -5,6 +5,7 @@
 - Kelvin parte hacia Solaris
 	- Moddard (quizá su amigo) programa su despegue.
 - Kelvin despega hacia Solaris.
+	- Solaris está **desolado**. Sólo le responden robots a Kelvin.
 	- 
 
 ## Los monstruos
