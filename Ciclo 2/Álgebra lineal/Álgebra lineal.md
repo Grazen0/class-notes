@@ -11,7 +11,6 @@
 	- [[S4 - Sistemas de ecuaciones]]
 	- [[S5 - Transformaciones lineales]]
 	- [[S6 - Espacios vectoriales]]
-- [[Referencia MATLAB]]
 
 %% End Waypoint %%
 
