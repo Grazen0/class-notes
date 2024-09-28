@@ -9,9 +9,9 @@ $$
 Este incremento cualquiera en $z$ puede ser aproximado con el **diferencial de $f$**, el cual definimos como
 
 $$
-\Delta f \approx df = \frac{\partial f}{\partial x} dx + \frac{\partial f}{\partial y} dy
+df = \frac{\partial f}{\partial x} dx + \frac{\partial f}{\partial y} dy \approx \Delta f
 .$$
-
+	
 A esta expresión se le llama también **diferencial total** o **error**.
 
 |         Expresión          | Nombre           |
