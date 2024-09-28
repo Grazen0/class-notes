@@ -6,12 +6,22 @@ $$
 
 ## Gradiente
 
-Definimos la **gradiente** de una función $f(x,y,z)$ como
+Definimos la **gradiente** de una función $f(x,y)$ como el vector compuesto por las derivadas parciales de $f$. Es decir,
 
 $$
-\nabla f(x,y,z) = \left< \frac{\partial f}{\partial x} , \frac{\partial f}{\partial y}, \frac{\partial f}{\partial z}  \right> 
+\nabla f(x,y) = \left< \frac{\partial f}{\partial x} , \frac{\partial f}{\partial y} \right> 
 .$$
 
 Al operador $\nabla$ se le conoce como **nabla**.
 
+El gradiente se define análogamente para $n$ dimensiones.
+
 ## Derivadas direccionales
+
+Se define la **derivada direccional** de la función $f(x,y)$ en la dirección $\vec{u}$ como
+
+$$
+D_\vec{u} f(x,y) = \vec{u} \cdot \nabla f(x,y)
+,$$
+
+donde $\vec{u}$ **tiene que ser un vector unitario**.
