@@ -6,7 +6,7 @@ kanban-plugin: board
 
 ## ☕ Tareas
 
-- [ ] **Evaluación RC 2**
+- [ ] **Proyecto RC 2**
 	
 	@{10-10-2024} 
 	#lineal #teo #grupal
@@ -14,21 +14,55 @@ kanban-plugin: board
 
 ## 📚 Lecturas
 
-- [ ] **Solaris**
-	
-	Stanislaw Lem
-	
-	#comu
-	@{03-10-2024}
 
 
 ## 📄 Evaluaciones
 
+- [ ] **Cálculo - EA 3**
+	
+	- Funciones vectoriales
+		- Vector unitario normal y tangencial
+	- Derivadas parciales
+	- Curvas de nivel
+	- Diferenciales y errores
+	
+	@{03-10-2024} 
+	#calculo #lab #grupal
+- [ ] **Solaris**
+	
+	@{03-10-2024} 
+	#comu
+- [ ] **Discretas - Examen 1**
+	
+	- Inducción
+	- Retículas
+	- Álgebras booleanas
+	
+	@{04-10-2024} 
+	#discretas
+- [ ] **Óptica - EA 3**
+	
+	@{04-10-2024} 
+	#optica #lab
+- [ ] **Lineal - Examen parcial**
+	
+	@{07-10-2024} 
+	#lineal #lab
+- [ ] **Examen de puntuación**
+	
+	@{09-10-2024} 
+	#comu
 
 
 ## 👍 Completado
 
 **Complete**
+- [x] **Solaris**
+	
+	Stanislaw Lem
+	
+	#comu
+	@{03-10-2024}
 
 
 ***
