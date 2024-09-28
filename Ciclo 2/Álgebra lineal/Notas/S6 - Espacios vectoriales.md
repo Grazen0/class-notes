@@ -3,19 +3,19 @@ title: Definición (espacio vectorial).
 
 Un conjunto no vacío $V$, junto a operaciones de **suma** y **multiplicación por escalares** es un **espacio vectorial** si y sólo si sus operaciones cumplen las siguientes propiedades:
 
-**Aximommas de la suma:**
+**Axiomas de la suma:**
 
-1. $\mathbf{x} + \mathbf{y} = \mathbf{y} + \mathbf{x}$.
-2. $(\mathbf{x} + \mathbf{y}) + \mathbf{z} = \mathbf{x} + (\mathbf{y} + \mathbf{z})$.
-3. Existe un $\mathbf{0} \in V$ tal que $\mathbf{x} + \mathbf{0} = \mathbf{x}$.
-4. Para todo $\mathbf{x}$ existe un $\mathbf{-x} \in V$ tal que $\mathbf{x} + (-\mathbf{x}) = \mathbf{0}$.
+1. **Conmutatividad:** $\mathbf{x} + \mathbf{y} = \mathbf{y} + \mathbf{x}$.
+2. **Asociatividad:** $(\mathbf{x} + \mathbf{y}) + \mathbf{z} = \mathbf{x} + (\mathbf{y} + \mathbf{z})$.
+3. **Neutro aditivo:** Existe un $\mathbf{0} \in V$ tal que $\mathbf{x} + \mathbf{0} = \mathbf{x}$.
+4. **Inverso aditivo:** Para todo $\mathbf{x}$ existe un $\mathbf{-x} \in V$ tal que $\mathbf{x} + (-\mathbf{x}) = \mathbf{0}$.
 
 **Axiomas del producto por escalar:**
 
-1. $a(\mathbf{x} + \mathbf{y}) = a\mathbf{x} + a\mathbf{y}$.
-2. $(a + b)\mathbf{x} = a\mathbf{x} + b\mathbf{x}$.
-3. $a(b\mathbf{x}) = (ab)\mathbf{x}$.
-4. Existe un $\mathbf{1} \in V$ tal que $\mathbf{1} \mathbf{x} = \mathbf{x}$.
+1. **Distributividad 1:** $a(\mathbf{x} + \mathbf{y}) = a\mathbf{x} + a\mathbf{y}$.
+2. **Distributividad 2:** $(a + b)\mathbf{x} = a\mathbf{x} + b\mathbf{x}$.
+3. **Asociatividad:** $a(b\mathbf{x}) = (ab)\mathbf{x}$.
+4. **Neutro multiplicativo:** Existe un $\mathbf{1} \in V$ tal que $\mathbf{1} \mathbf{x} = \mathbf{x}$.
 
 ```
 

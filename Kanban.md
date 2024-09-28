@@ -20,11 +20,12 @@ kanban-plugin: board
 
 - [ ] **Cálculo - EA 3**
 	
-	- Funciones vectoriales
-		- Vector unitario normal y tangencial
-	- Derivadas parciales
-	- Curvas de nivel
-	- Diferenciales y errores
+	- [x] Funciones vectoriales
+		- [x] Vector unitario normal y tangencial
+		- [x] Componente tangencial y normal de la aceleración
+	- [x] Derivadas parciales
+	- [x] Curvas de nivel
+	- [x] Diferenciales y errores
 	
 	@{03-10-2024} 
 	#calculo #lab #grupal
@@ -34,17 +35,33 @@ kanban-plugin: board
 	#comu
 - [ ] **Discretas - Examen 1**
 	
-	- Inducción
-	- Retículas
-	- Álgebras booleanas
+	- [x] Inducción
+	- [ ] Retículas
+		- [ ] Complementaridad
+		- [ ] Distributividad
+	- [ ] Álgebras booleanas
 	
 	@{04-10-2024} 
 	#discretas
 - [ ] **Óptica - EA 3**
 	
+	- [ ] Ondas mecánicas
+		- [ ] Ondas en una cuerda
+		- [ ] Interferencia
+		- [ ] Ondas estacionarias
+	- [ ] Ondas sonoras
+	
 	@{04-10-2024} 
 	#optica #lab
 - [ ] **Lineal - Examen parcial**
+	
+	- [ ] Propiedades de los determinantes
+	- [x] Sistemas de ecuaciones
+	- [x] Transformaciones lineales
+	- [ ] Espacios vectoriales
+		- [ ] Combinaciones lineales
+		- [ ] Espacio generado
+		- [ ] Independencia lineal
 	
 	@{07-10-2024} 
 	#lineal #lab
