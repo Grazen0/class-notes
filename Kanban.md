@@ -6,10 +6,6 @@ kanban-plugin: board
 
 ## ☕ Tareas
 
-- [ ] **Óptica - Trabajo desarrollado 1**
-	
-	@{28-09-2024} 
-	#optica #teo
 - [ ] **Evaluación RC 2**
 	
 	@{10-10-2024} 
@@ -33,6 +29,10 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **Óptica - Trabajo desarrollado 1**
+	
+	@{28-09-2024} 
+	#optica #teo
 - [x] **Progra - Ejercicio 3**
 	
 	@{27-09-2024} 
