@@ -1,3 +1,5 @@
+## Regla de la cadena multivariable
+
 Si $z$ es una función de $x$ y $y$, y estos últimos son funciones de $t$, entonces
 
 $$
@@ -16,7 +18,7 @@ Al operador $\nabla$ se le conoce como **nabla**.
 
 El gradiente se define análogamente para $n$ dimensiones.
 
-## Derivadas direccionales
+## Derivada direccional
 
 Se define la **derivada direccional** de la función $f(x,y)$ en la dirección $\vec{u}$ como
 
