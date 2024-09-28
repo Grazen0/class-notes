@@ -24,7 +24,7 @@ $$
 \vec{T}(t) = \hat{r}'(t) = \frac{\vec{r}'(t)}{\lVert \vec{r}'(t) \rVert }
 .$$
 
-Y definimos al **vector normal unitario** como el vector unitario de la derivada de $T(t)$:
+Y definimos al **vector normal unitario** como el vector unitario de la derivada de $\vec{T}(t)$:
 
 $$
 \vec{N}(t) = \frac{\vec{T}'(t)}{\lVert \vec{T}'(t) \rVert }
@@ -37,6 +37,26 @@ Los vectores tangente unitario y normal unitario **son perpendiculares**, y ello
 Sea $\vec{r}(t)$ un vector. Si se cumple que $\lVert \vec{r}'(t) \rVert = c$ (es decir, que la magnitud de su velocidad se mantiene constante), entonces $\vec{r}(t) \cdot \vec{r}'(t) = 0$.
 
 ```
+
+#### Componentes de la aceleración
+
+La aceleración $\vec{a} = \vec{r}''(t)$ de una función vectorial se puede descomponer como
+
+$$
+\vec{a} = a_T \vec{T}(t) + a_N \vec{N}(t)
+$$
+
+donde
+
+$$
+a_T = \frac{\lvert \vec{a} \cdot \vec{v} \rvert}{\lVert \vec{v} \rVert } \qquad a_N = \frac{\lVert \vec{a} \times \vec{v} \rVert }{\lVert \vec{v} \rVert }
+.$$
+
+De aquí obtenemos una equivalencia útil:
+
+$$
+(a_T)^2 + (a_N)^2 = \lVert \vec{a} \rVert ^2
+.$$
 
 ### Recta tangente
 
