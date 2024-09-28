@@ -14,8 +14,6 @@ $$
 \vec{r}'(t) = \left< x'(t), y'(t), z'(t) \right> 
 $$
 
-Nótese que esta derivada **no necesariamente es un vector unitario**.
-
 ### Vectores tangente y normal unitarios
 
 Definimos al **vector tangente unitario** como el vector unitario de la derivada de $\vec{r}(t)$:
@@ -68,7 +66,7 @@ $$
 
 ### Longitud de una curva
 
-La longitud de una curva $\vec{r}(t)$ con $t \in [a,b]$ se obtiene **sumando todos los pedazos ínfimos** del módulo de la derivada de la curva.
+La longitud de una curva $\vec{r}(t)$ en $t \in [a,b]$ se obtiene **sumando todos los pedazos ínfimos** del módulo de la derivada de la curva.
 
 $$
 L = \int_a^b \lVert \vec{r}'(t) \rVert  \, dt = \int_a^b \sqrt{(x'(t))^2 + (y'(t))^2 + (z'(t))^2} \, dt

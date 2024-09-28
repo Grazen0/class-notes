@@ -11,7 +11,7 @@ $$
 Definimos la **gradiente** de una función $f(x,y)$ como el vector compuesto por las derivadas parciales de $f$. Es decir,
 
 $$
-\nabla f(x,y) = \left< \frac{\partial f}{\partial x} , \frac{\partial f}{\partial y} \right> 
+\nabla f = \left< \frac{\partial f}{\partial x} , \frac{\partial f}{\partial y} \right> 
 .$$
 
 Al operador $\nabla$ se le conoce como **nabla**.
@@ -20,10 +20,12 @@ El gradiente se define análogamente para $n$ dimensiones.
 
 ## Derivada direccional
 
-Se define la **derivada direccional** de la función $f(x,y)$ en la dirección $\vec{u}$ como
+Se define la **derivada direccional** de la función $f$ en la dirección $\vec{u}$ como
 
 $$
-D_\vec{u} f(x,y) = \nabla f(x,y) \cdot \vec{u}
+D_\vec{u} f = \nabla f \cdot \vec{u}
 ,$$
 
 donde $\vec{u}$ **tiene que ser un vector unitario**.
+
+La derivada direccional representa la **tasa de cambio** de $f$ en la dirección de $\vec{u}$.
