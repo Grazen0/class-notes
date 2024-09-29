@@ -15,7 +15,10 @@
 	- Cibernético, sustituto de Gibarian.
 	- Da vibras de estar medio loco, aunque quizá no lo está.
 - **Sartorius**
-	- Científico en la estación de Solaris
+	- Científico en la estación de Solaris.
+	- No sale de su laboratorio, investiga a los visitantes.
+- **Harey**
+	- 
 
 ## Historia
 
