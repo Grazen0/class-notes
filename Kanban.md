@@ -61,7 +61,7 @@ kanban-plugin: board
 	- [ ] Espacios vectoriales
 		- [ ] Combinaciones lineales
 		- [ ] Espacio generado
-		- [ ] Independencia lineal
+		- [x] Independencia lineal
 	
 	@{07-10-2024} 
 	#lineal #lab
