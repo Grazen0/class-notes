@@ -11,7 +11,7 @@ $$
 Definimos la **gradiente** de una función $f(x_1,x_2,\ldots,x_n)$ como el vector compuesto por las derivadas parciales de $f$. Es decir,
 
 $$
-\nabla f = \left< \frac{\partial f}{\partial x_1}, \frac{\partial f}{\partial x_2}, \ldots, \frac{\partial f}{\partial x_n} \right> 
+\nabla f := \left< \frac{\partial f}{\partial x_1}, \frac{\partial f}{\partial x_2}, \ldots, \frac{\partial f}{\partial x_n} \right> 
 .$$
 
 Al operador $\nabla$ se le conoce como **nabla**.
@@ -27,7 +27,7 @@ La gradiente $\nabla f(x_0,y_0)$ es **perpendicular** a la **curva (o superficie
 Se define la **derivada direccional** de la función $f$ en la dirección $\vec{u}$ como
 
 $$
-D_\vec{u} f = \nabla f \cdot \vec{u}
+D_\vec{u} f := \nabla f \cdot \vec{u}
 ,$$
 
 donde $\vec{u}$ **tiene que ser un vector unitario**.
