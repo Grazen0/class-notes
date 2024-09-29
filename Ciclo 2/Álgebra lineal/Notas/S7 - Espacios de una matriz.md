@@ -20,6 +20,67 @@ $$
 ```ad-definition
 title: Definición (espacio fila).
 
-El **espacio fila** de una matriz es el **subespacio generado por sus filas**.
+El **espacio fila** de una matriz es el **subespacio generado por sus filas**. Es decir, sea
+
+$$
+A = \begin{bmatrix}
+\mathbf{f}_1 \\
+\mathbf{f}_2 \\
+\vdots \\
+\mathbf{f}_n
+\end{bmatrix}
+,$$
+
+entonces
+
+$$
+\operatorname{row}(A) = \operatorname{Gen}(\left\{ \mathbf{f}_1, \mathbf{f}_2, \ldots, \mathbf{f}_n \right\})
+.$$
 
 ```
+
+A partir de este punto, podemos comenzar a pensar en las matrices como *colecciones de vectores* (ya sea en vertical u horizontal) y analizar sus propiedades con esto en mente.
+
+```ad-proposition
+title: Propiedad.
+
+Las operaciones elementales no cambian el espacio fila de una matriz.
+
+```
+
+## Rango y nulidad
+
+Usando los conceptos que hemos aprendido hasta el momento, finalmente podemos definir apropiadamente al rango de una matriz.
+
+```ad-definition
+title: Definición (rango).
+
+El **rango** de una matriz $A$, denotado como $\operatorname{rank}(A)$, es la dimensión común de su espacio fila y espacio columna.
+
+```
+
+```ad-definition
+title: Definición (nulidad).
+
+La **nulidad** de una matriz $A$, denotada como $\operatorname{v}(A)$, es la dimensión de su espacio nulo.
+
+```
+
+*(No tengo ni idea de por qué se escribe con $\operatorname{v}$, pero yo que sé)*
+
+Existe un teorema importante que relaciona a estas dos ideas.
+
+```ad-theorem
+
+Sea $A$ una matriz de $n$ columnas. Entonces,
+
+$$
+\operatorname{rank}(A) + \operatorname{v}(A) = n
+.$$
+
+```
+
+### Relaciones con los sistemas de ecuaciones
+
+1. El **rango** de $A$ es igual al número de **variables pivotes** en $A\mathbf{x} = \mathbf{0}$.
+2. La **nulidad** de $A$ es igual al número de **variables libres** en $A\mathbf{x} = \mathbf{0}$.

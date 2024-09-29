@@ -1,4 +1,4 @@
-## Como retícula
+## Definición como retícula
 
 ```ad-definition
 title: Definición (álgebra boolleana).
@@ -14,7 +14,7 @@ Un ejemplo de álgebra booleana es $B_n = (P(X), \subseteq)$ donde $X = \left\{ 
 
 ```ad-theorem
 
-Todas las álgebras booleanas finitas son isomorfas a algún $B_n$.
+Todos los álgebras booleanas finitas son isomorfas a algún $B_n$.
 
 ```
 
@@ -23,19 +23,13 @@ Este teorema nos da **otro criterio para refutar distributividad**. Si hemos dem
 1. si $S$ no es isomorfa a $B_n$, entonces no es distributiva, y
 2. si $|S| \neq 2^{k}$, entonces $S$ no es una álgebra booleana.
 
-````ad-theorem
+```ad-theorem
 
 $B_n$ es isomorfo a $(D_n, \mid)$, donde $n$ sea producto de primos distintos.
 
-```ad-proof
-
-Sea $n = p_1p_2\ldots p_n$ un producto de $n$ primos distintos.
-
 ```
 
-````
-
-## Como estructura algebraica
+## Definición como estructura algebraica
 
 ```ad-definition
 
