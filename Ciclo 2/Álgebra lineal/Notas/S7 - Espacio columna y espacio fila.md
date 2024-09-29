@@ -44,7 +44,9 @@ A partir de este punto, podemos comenzar a pensar en las matrices como *coleccio
 ```ad-proposition
 title: Propiedad.
 
-Las operaciones elementales no cambian el espacio fila de una matriz.
+Las operaciones elementales **por filas** no cambian el espacio fila de una matriz.
+
+Análogamente, las operaciones elementales **por columnas** no cambian el espacio columna de una matriz.
 
 ```
 
