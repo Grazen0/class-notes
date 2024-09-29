@@ -61,7 +61,17 @@
 
 ### 3. Los visitantes
 
-
+- Kelvin sigue en el cuarto de GIbarian.
+	- Se queda con algunos apuntes de Gibarian.
+	- Encuentra una carta dirigida a él.
+	- La carta refiere a Kelvin hacia dos libros: El primer anuario solarista y *Pequeño Apócrifo*.
+	- Kelvin sale del cuarto.
+- Kelvin se (encuentra) a la "Afrodita".
+	- Kelvin va a donde Snaut.
+- Snaut llega y entra al cuarto con Kelvin.
+	- Snaut le cuenta a Kelvin sobre cómo murió Gibarian.
+	- Kelvin le cuenta a Snaut sobre la mujer.
+	- 
 
 ### Los monstruos
 
