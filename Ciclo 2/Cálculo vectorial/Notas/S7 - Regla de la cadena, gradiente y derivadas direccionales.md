@@ -6,7 +6,7 @@ $$
 \frac{dz}{dt} = \frac{\partial z}{\partial x} \cdot \frac{dx}{dt} + \frac{\partial z}{\partial y} \cdot \frac{dy}{dt}
 .$$
 
-## Gradiente y derivada
+## Gradiente
 
 Definimos la **gradiente** de una función $f(x_1,x_2,\ldots,x_n)$ como el vector compuesto por las derivadas parciales de $f$. Es decir,
 

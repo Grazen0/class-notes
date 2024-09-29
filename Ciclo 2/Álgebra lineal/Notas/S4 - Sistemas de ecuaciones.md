@@ -73,7 +73,7 @@ Ax = 0
 Sea $A$ una matriz de $n \times n$. Entonces, el **espacio nulo** de $A$ es igual a
 
 $$
-N(A) = \left\{ x \in \R^{n} \lmid Ax = 0 \right\}
+N(A) = \left\{ \mathbf{x} \in \R^{n} \lmid A\mathbf{x} = \mathbf{0} \right\}
 .$$
 
 ```
@@ -85,6 +85,6 @@ También se le llama **núcleo** o **kernel** de la matriz.
 ```ad-proposition
 title: Observación.
 
-Toda matriz tiene un elemento trivial en su espacio nulo: el $0$.
+Toda matriz tiene un elemento trivial en su espacio nulo: el $\mathbf{0}$.
 
 ```

@@ -72,6 +72,7 @@
 	- Snaut le cuenta a Kelvin sobre cómo murió Gibarian.
 	- Kelvin le cuenta a Snaut sobre la mujer.
 	- Kelvin y Snaut tienen una discusión: no confían en el otro y no quieren contar lo que cada uno sabe.
+- Kelvin sale con una pistola de gas.
 
 ### 4. Sartorius
 

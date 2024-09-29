@@ -89,7 +89,9 @@ $$
 1. El **rango** de $A$ es igual al número de **variables pivotes** en $A\mathbf{x} = \mathbf{0}$.
 2. La **nulidad** de $A$ es igual al número de **variables libres** en $A\mathbf{x} = \mathbf{0}$.
 
-## Bases del espacio columna y fila
+## Bases de los espacios fundamentales
+
+Existe un proceso para hallar algunas bases de los espacios fundamentales de una matriz.
 
 Sea $A$ una matriz de $m \times n$. Si la escalonamos y convertimos en
 
