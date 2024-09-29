@@ -6,19 +6,15 @@ $$
 \frac{dz}{dt} = \frac{\partial z}{\partial x} \cdot \frac{dx}{dt} + \frac{\partial z}{\partial y} \cdot \frac{dy}{dt}
 .$$
 
-## Gradiente
+## Gradiente y derivada direccional
 
-Definimos la **gradiente** de una función $f(x,y)$ como el vector compuesto por las derivadas parciales de $f$. Es decir,
+Definimos la **gradiente** de una función $f(x_1,x_2,\ldots,x_n)$ como el vector compuesto por las derivadas parciales de $f$. Es decir,
 
 $$
-\nabla f = \left< \frac{\partial f}{\partial x} , \frac{\partial f}{\partial y} \right> 
+\nabla f = \left< \frac{\partial f}{\partial x_1}, \frac{\partial f}{\partial x_2}, \ldots, \frac{\partial f}{\partial x_n} \right> 
 .$$
 
 Al operador $\nabla$ se le conoce como **nabla**.
-
-El gradiente se define análogamente para $n$ dimensiones.
-
-## Derivada direccional
 
 Se define la **derivada direccional** de la función $f$ en la dirección $\vec{u}$ como
 
