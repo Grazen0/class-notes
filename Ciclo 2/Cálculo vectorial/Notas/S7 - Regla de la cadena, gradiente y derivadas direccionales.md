@@ -18,7 +18,7 @@ Al operador $\nabla$ se le conoce como **nabla**.
 
 ```ad-theorem
 
-La gradiente $\nabla f(x_0,y_0)$ es **perpendicular** a la **curva (o superficie) de nivel** de $f$.
+La gradiente $\nabla f(x_0,y_0)$ es **perpendicular** a la **curva (o superficie) de nivel** en $f(x,y) = k$ en $(x_0,y_0)$.
 
 ```
 
