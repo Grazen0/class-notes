@@ -22,6 +22,7 @@
 	- Además de que se suicidó, poco sabemos de ella.
 - **"Harey"**
 	- La "visitante" de Kelvin.
+	- No puede estar separada de Kelvin: de lo contrario, se vuelve muy violenta.
 
 ## Historia
 
