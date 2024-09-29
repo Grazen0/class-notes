@@ -44,14 +44,25 @@
 - Kelvin se asienta en su cuarto.
 	- Todo está desordenado.
 	- Kelvin está un poco paranoico.
-		- Piensa que alguien lo está observando. Sólo es su reflejo en el espejo.
 	- Kelvin piensa un poco sobre la muerte de Gibarian.
 - Kelvin narra la historia de la **solarística**.
 	- El planeta Solaris tiene una órbita cambiante, provocada por su océano.
 		- El océano incluso modela el espacio-tiempo.
 	- Se construyen muchísimas hipótesis de la naturaleza de Solaris.
 	- Los científicos pecan de **antropocentrismo**: piensan en el océano de Solaris en términos de la biología del ser humano.
-	- 
+	- Se muestra imposible realizar contacto con el océano.
+	- La solarística eventualmente declina, aunque no se quiere aceptar fracaso.
+	- Dos puntos de vista: "Océano yogui" vs. "Océano autista".
+- Kelvin se aparta de los libros
+	- Piensa que alguien lo está observando, pero sólo es su reflejo en el espejo.
+- Kelvin pasa por el cuarto de Gibarian
+	- Checa algunos folios y papeles.
+	- Se entera de que usaron rayos X en el océano sin permiso de la Tierra.
+	- Kelvin escucha a alguien en la puerta. (Luego nos enteramos de que era Snaut)
+
+### 3. Los visitantes
+
+
 
 ### Los monstruos
 
