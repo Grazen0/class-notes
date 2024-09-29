@@ -26,6 +26,8 @@
 		- Físico. Murió en la expedición de Shannahan.
 	- **Carucci**
 		- Radiólogo. Acompañaba a Fechner cuando ocurrió el accidente.
+	- **Berton**
+		- Pilotó un helicóptero durante la primera expedición. Tuvo actitud extraña después del accidente ocurrido.
 
 ## Historia
 
@@ -82,7 +84,8 @@
 
 - Kelvin va a la biblioteca a buscar los tomos a los que le refería la carta.
 - Kelvin narra sobre la expedición de Shannahan a Solaris.
-	- En la expedición, murió Fechner.
+	- En la expedición murió Fechner. Probablemente cayó al océano.
+	- Berton, el último piloto de rescate en regresar, mostró actitud frenética.
 
 ### Los monstruos
 
