@@ -5,7 +5,6 @@
 - **Kris Kelvin**
 	- Psicólogo.
 	- Era novio de Harey, hasta que ella se suicidó. Vive con el remordimiento de no haber hecho nada por evitarlo.
-	- 
 - **Moddard**
 	- Mencionado brevemente al inicio: es quien programa el despegue de Kelvin.
 	- Puede que sea amigo de Kelvin.
