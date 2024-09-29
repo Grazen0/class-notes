@@ -97,4 +97,4 @@ entonces:
 
 1. Una base para $\operatorname{row}(A)$ son las $r$ filas pivote de $R$.
 2. Una base para $\operatorname{col}(A)$ son las $r$ columnas pivote de $R$.
-3. Una base para $\operatorname{null}(A^{T})$ son las últimas $r - m$ filas de $E$.
+3. Una base para $\operatorname{null}(A^{T})$ son las últimas $m - r$ filas de $E$.
