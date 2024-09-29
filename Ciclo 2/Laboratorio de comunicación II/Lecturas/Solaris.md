@@ -17,12 +17,12 @@
 - **Sartorius**
 	- Científico en la estación de Solaris.
 	- No sale de su laboratorio, investiga a los visitantes.
-- **Harey**
-	- Ex-novia de Kelvin.
-	- Además de que se suicidó, poco sabemos de ella.
 - **"Harey"**
 	- La "visitante" de Kelvin.
 	- No puede estar separada de Kelvin: de lo contrario, se vuelve muy violenta.
+- Exploradores de Solaris:
+	- **Shannahan**
+		- Líder de la primera gran misión en Solaris.
 
 ## Historia
 
@@ -47,6 +47,10 @@
 		- Piensa que alguien lo está observando. Sólo es su reflejo en el espejo.
 	- Kelvin piensa un poco sobre la muerte de Gibarian.
 - Kelvin narra la historia de la **solarística**.
+	- El planeta Solaris tiene una órbita cambiante, provocada por su océano.
+		- El océano incluso modela el espacio-tiempo.
+	- Se construyen muchísimas hipótesis de la naturaleza de Solaris.
+	- Los científicos pecan de **antropocentrismo**: piensan en el océano de Solaris en términos de la biología del ser humano.
 	- 
 
 ### Los monstruos
