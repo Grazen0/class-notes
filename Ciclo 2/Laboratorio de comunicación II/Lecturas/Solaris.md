@@ -18,7 +18,10 @@
 	- Científico en la estación de Solaris.
 	- No sale de su laboratorio, investiga a los visitantes.
 - **Harey**
-	- Ex-novia de Kelvin, se
+	- Ex-novia de Kelvin.
+	- Además de que se suicidó, poco sabemos de ella.
+- **"Harey"**
+	- La "visitante" de Kelvin.
 
 ## Historia
 
