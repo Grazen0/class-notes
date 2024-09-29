@@ -39,6 +39,8 @@ $$
 
 ```
 
+Al espacio columna, fila y nulo se les conoce como **subespacios fundamentales** de la matriz $A$.
+
 A partir de este punto, podemos comenzar a pensar en las matrices como *colecciones de vectores* (ya sea en vertical u horizontal) y analizar sus propiedades con esto en mente.
 
 ```ad-proposition

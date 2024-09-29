@@ -11,7 +11,7 @@
 	- [[S4 - Sistemas de ecuaciones]]
 	- [[S5 - Transformaciones lineales]]
 	- [[S6 - Espacios vectoriales]]
-	- [[S7 - Espacio columna y espacio fila]]
+	- [[S7 - Subespacios fundamentales]]
 - [[Referencia MATLAB]]
 
 %% End Waypoint %%
