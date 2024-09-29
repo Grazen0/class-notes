@@ -71,7 +71,11 @@
 - Snaut llega y entra al cuarto con Kelvin.
 	- Snaut le cuenta a Kelvin sobre cómo murió Gibarian.
 	- Kelvin le cuenta a Snaut sobre la mujer.
-	- 
+	- Kelvin y Snaut tienen una discusión: no confían en el otro y no quieren contar lo que cada uno sabe.
+
+### 4. Sartorius
+
+- 
 
 ### Los monstruos
 
