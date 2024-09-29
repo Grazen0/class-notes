@@ -18,7 +18,7 @@
 	- Científico en la estación de Solaris.
 	- No sale de su laboratorio, investiga a los visitantes.
 - **Harey**
-	- 
+	- Ex-novia de Kelvin, se
 
 ## Historia
 
