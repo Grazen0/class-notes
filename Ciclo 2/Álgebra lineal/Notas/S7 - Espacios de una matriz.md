@@ -80,7 +80,21 @@ $$
 
 ```
 
-### Relaciones con los sistemas de ecuaciones
+### Relación con los sistemas de ecuaciones
 
 1. El **rango** de $A$ es igual al número de **variables pivotes** en $A\mathbf{x} = \mathbf{0}$.
 2. La **nulidad** de $A$ es igual al número de **variables libres** en $A\mathbf{x} = \mathbf{0}$.
+
+## Bases del espacio columna y fila
+
+Sea $A$ una matriz de $m \times n$. Si la escalonamos y convertimos en
+
+$$
+[A \mid I_m] \longrightarrow [R  \mid E]
+,$$
+
+entonces:
+
+1. Una base para $\operatorname{row}(A)$ son las $r$ filas pivote de $R$.
+2. Una base para $\operatorname{col}(A)$ son las $r$ columnas pivote de $R$.
+3. Una base para $\operatorname{null}(A^{T})$ son las últimas $r - m$ filas de $E$.

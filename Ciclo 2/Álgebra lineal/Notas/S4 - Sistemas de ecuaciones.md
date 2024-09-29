@@ -28,9 +28,9 @@ title: Teorema (soluciones de un sistema de ecuaciones).
 
 Sea el sistema de ecuaciones $Ax = b$ con $n$ incógnitas. Entonces:
 
-- Si $\operatorname{rang}(A) = \operatorname{rang}([A | b]) = n$, entonces el sistema tiene **una solución**.
-- Si $\operatorname{rang}(A) = \operatorname{rang}([A | b]) \neq n$, entonces el sistema tiene **infinitas soluciones**.
-- Si $\operatorname{rang}(A) \neq \operatorname{rang}([A | b])$, entonces el sistema **no tiene solución**.
+- Si $\operatorname{rank}(A) = \operatorname{rank}([A | b]) = n$, entonces el sistema tiene **una solución**.
+- Si $\operatorname{rank}(A) = \operatorname{rank}([A | b]) \neq n$, entonces el sistema tiene **infinitas soluciones**.
+- Si $\operatorname{rank}(A) \neq \operatorname{rank}([A | b])$, entonces el sistema **no tiene solución**.
 
 ```
 
