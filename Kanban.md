@@ -55,11 +55,11 @@ kanban-plugin: board
 	#optica #lab
 - [ ] **Lineal - Examen parcial**
 	
-	- [ ] Propiedades de los determinantes
+	- [x] Propiedades de los determinantes
 	- [x] Sistemas de ecuaciones
 	- [x] Transformaciones lineales
 	- [ ] Espacios vectoriales
-		- [ ] Combinaciones lineales
+		- [x] Combinaciones lineales
 		- [ ] Espacio generado
 		- [x] Independencia lineal
 	
