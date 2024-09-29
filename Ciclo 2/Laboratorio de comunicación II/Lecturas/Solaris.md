@@ -31,17 +31,22 @@
 - Kelvin parte hacia Solaris
 	- Moddard (quizá su amigo) programa su despegue.
 - Kelvin llega a Solaris.
-	- Solaris está **desolado**. Sólo le responden robots a Kelvin.
+	- Solaris está desolado. Sólo le responden robots a Kelvin.
 	- La estación está sucia y desordenada.
-- Kelvin se encuentra con **Snaut**.
+- Kelvin se encuentra con Snaut.
 	- Snaut se asusta al verlo. (Probablemente piensa que Kelvin es un visitante)
 	- Kelvin *piensa* que Snaut está ebrio.
+	- Snaut le cuenta a Kelvin de la muerte de Gibarian.
 	- Snaut advierte crípticamente a Kelvin de los "visitantes".
 
 ### 2. Los solaristas
 
 - Kelvin se asienta en su cuarto.
 	- Todo está desordenado.
+	- Kelvin está un poco paranoico.
+		- Piensa que alguien lo está observando. Sólo es su reflejo en el espejo.
+	- Kelvin piensa un poco sobre la muerte de Gibarian.
+- Kelvin narra la historia de la **solarística**.
 	- 
 
 ### Los monstruos
