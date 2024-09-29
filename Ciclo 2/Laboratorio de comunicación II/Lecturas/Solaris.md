@@ -36,6 +36,13 @@
 - Kelvin se encuentra con **Snaut**.
 	- Snaut se asusta al verlo. (Probablemente piensa que Kelvin es un visitante)
 	- Kelvin *piensa* que Snaut está ebrio.
+	- Snaut advierte crípticamente a Kelvin de los "visitantes".
+
+### 2. Los solaristas
+
+- Kelvin se asienta en su cuarto.
+	- Todo está desordenado.
+	- 
 
 ### Los monstruos
 
