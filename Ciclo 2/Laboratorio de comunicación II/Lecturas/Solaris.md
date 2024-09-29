@@ -22,6 +22,10 @@
 - Exploradores de Solaris:
 	- **Shannahan**
 		- Líder de la primera gran misión en Solaris.
+	- **Fechner**
+		- Físico. Murió en la expedición de Shannahan.
+	- **Carucci**
+		- Radiólogo. Acompañaba a Fechner cuando ocurrió el accidente.
 
 ## Historia
 
@@ -76,7 +80,9 @@
 
 ### 4. Sartorius
 
-- 
+- Kelvin va a la biblioteca a buscar los tomos a los que le refería la carta.
+- Kelvin narra sobre la expedición de Shannahan a Solaris.
+	- En la expedición, murió Fechner.
 
 ### Los monstruos
 
