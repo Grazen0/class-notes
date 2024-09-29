@@ -2,7 +2,7 @@
 
 ## Personajes
 
-- **Kelvin**
+- **Kris Kelvin**
 	- Psicólogo.
 	- Era novio de Harey, hasta que ella se suicidó. Vive con el remordimiento de no haber hecho nada por evitarlo.
 	- 
