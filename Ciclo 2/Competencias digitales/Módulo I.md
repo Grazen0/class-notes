@@ -139,4 +139,6 @@ Datos a verificar:
 	- WolframAlpha
 	- Desmos
 	- Photomath
-- Para 
+- Es recomendable usar estas herramientas sólo como **soporte**.
+
+### Gradescope
