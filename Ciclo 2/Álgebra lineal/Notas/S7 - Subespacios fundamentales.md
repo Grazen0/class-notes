@@ -52,6 +52,16 @@ Análogamente, las operaciones elementales **por columnas** no cambian el espaci
 
 ```
 
+### Relación con los sistemas de ecuaciones
+
+Resulta que el sistema
+
+$$
+A\mathbf{x} = \mathbf{b}
+$$
+
+tiene alguna solución si $\mathbf{b} \in \operatorname{col}(A)$.
+
 ## Rango y nulidad
 
 Usando los conceptos que hemos aprendido hasta el momento, finalmente podemos definir apropiadamente al rango de una matriz.
