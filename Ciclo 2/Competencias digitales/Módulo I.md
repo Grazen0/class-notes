@@ -24,3 +24,25 @@ Una **competencia** es:
 	- **Seguridad**: Ser conscientes de la protección de los dispositivos, protección de la información, de la privacidad y debemos promover la protección del bienestar y del medio ambiente.
 	- **Resolución de problemas**: Ser capaces de ajustar y personalizar entornos digitales a las necesidades personales, para crear conocimiento, innovar procesos y productos.
 - Es importante que los estudiantes universitarios desarrollen competencias digitales para que tengan las habilidades necesarias para  intercambiar contenidos digitales, para conocer las herramientas que utilizarán los docentes y presentar de forma adecuada sus tareas.
+
+## 2. El foro como herramienta de comunicación activa
+
+- Un foro es considerado como un **espacio de debate o encuentro**. Estos espacios de comunicaciones los podemos encontrar en un curso o en un proyecto.
+- El foro es un ejercicio **asíncrono**, es decir, lo podrán completar en tiempos diferentes.
+- **Ventajas**
+	- Flexibilidad de participación.
+	- Promueve la participación.
+	- Los comentarios son más meditados y reflexivos.
+	- La información se almacena.
+	- Facilita la evaluación del profesor.
+- **Desventajas**
+	- Se puede sentir **aislamiento** al no recibir respuestas inmediatas.
+	- Es más complejo identificar cuándo se ha agotado el tema.
+	- La discusión del tema se puede **desviar**.
+	- Si hay muchos participantes, se puede dificultar.
+	- La participación del docente requiere de más tiempo y complejidad.
+- **Características**
+	- Multidireccional, asín
+- Existen foros públicos, privados y protegidos.
+- Existen foros según su funcionalidad foros de debate, de bienvenida, prácticas, dudas y consultas.
+- Fomentan el aprendizaje colaborativo, el aprendizaje colaborativo y dan respuestas a dudas comunes.
