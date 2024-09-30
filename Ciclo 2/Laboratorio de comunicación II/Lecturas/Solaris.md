@@ -87,7 +87,6 @@
 - Kelvin narra sobre la expedición de Shannahan a Solaris.
 	- En la expedición murió Fechner. Probablemente cayó al océano.
 	- Berton, el último piloto de rescate en regresar, mostró una actitud frenética.
-- 
 
 ### Los monstruos
 
