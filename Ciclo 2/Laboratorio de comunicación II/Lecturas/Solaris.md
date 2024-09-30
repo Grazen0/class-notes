@@ -86,7 +86,8 @@
 - Kelvin va a la biblioteca a buscar los tomos a los que le refería la carta.
 - Kelvin narra sobre la expedición de Shannahan a Solaris.
 	- En la expedición murió Fechner. Probablemente cayó al océano.
-	- Berton, el último piloto de rescate en regresar, mostró actitud frenética.
+	- Berton, el último piloto de rescate en regresar, mostró una actitud frenética.
+- 
 
 ### Los monstruos
 

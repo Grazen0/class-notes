@@ -10,14 +10,6 @@
     }
   ],
   "obsidian-excalidraw-plugin:insert-link-to-element": [],
-  "omnisearch:show-modal": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "O"
-    }
-  ],
   "file-explorer:new-file": [],
   "editor:toggle-source": [
     {
@@ -66,5 +58,14 @@
       "key": "L"
     }
   ],
-  "editor:toggle-checklist-status": []
+  "editor:toggle-checklist-status": [],
+  "omnisearch:show-modal": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "O"
+    }
+  ]
 }
