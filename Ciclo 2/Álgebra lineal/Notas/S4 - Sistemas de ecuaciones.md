@@ -73,7 +73,7 @@ Ax = 0
 Sea $A$ una matriz de $n \times n$. Entonces, el **espacio nulo** de $A$ es igual a
 
 $$
-N(A) = \left\{ \mathbf{x} \in \R^{n} \lmid A\mathbf{x} = \mathbf{0} \right\}
+N(A) = \left\{ x \in \R^{n} \lmid Ax = 0 \right\}
 .$$
 
 ```

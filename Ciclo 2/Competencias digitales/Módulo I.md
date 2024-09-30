@@ -79,3 +79,64 @@ Ez.
 - Plataforma de creación de cuestionarios.
 - Destaca por su **simplicidad**.
 - Sirve para **aprender y reforzar** conceptos mediante concursos.
+
+### Mentimeter
+
+- Permite hacer **presentaciones interactivas**.
+- Fácil de uso, permite ver las **respuestas de la audiencia** de forma interactiva.
+- Sirve para:
+	- Crear presentaciones.
+	- Recopilar encuestas, datos y opiniones.
+	- Análisis de tendencias.
+
+### Padlet
+
+- **Murales colaborativos**.
+- Online, sencilla.
+- Multiplataforma.
+- Sin registro.
+- Sirve para:
+	- Trabajos colaborativos.
+	- Tablones de anuncios.
+	- Novedades
+	- Lluvias de ideas.
+	- Notas.
+	- Recoger opiniones.
+	- Compartir ideas.
+
+### Socrative
+
+- Herramienta de **evaluación educativa**.
+- Permite gestionar el aprendizaje del alumno.
+- Permite al profesor ver las respuestas del alumno en **tiempo real**.
+
+## 5. Instalación de software
+
+Datos a verificar:
+
+- Sistema operativo
+	- Windows, MacOS o Linux
+- Requisitos de **hardware**
+	- Procesador
+	- Memoria
+	- Disco duro
+	- Resolución de pantalla
+	- Conexión a internet
+- Posesión de licencia educativa
+	1. Revisar si el software tiene licencia educativa.
+	2. Registrarnos con el correo UTEC.
+	3. Activar la licencia educativa.
+
+## 6. Herramientas TIC en ciencias
+
+### GeoGebra
+
+- Herramienta de evaluación educativa en entornos digitales.
+- Completa, útil para cursor de primer a tercer ciclo.
+- Sirve para **comprobar resultados**, **visualizar modelos matemáticos** y crear **recursos dinámicos**.
+- Algunas alternativas son:
+	- Symbolab
+	- WolframAlpha
+	- Desmos
+	- Photomath
+- Para 

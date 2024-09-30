@@ -62,14 +62,29 @@ $$
 
 tiene alguna solución si $\mathbf{b} \in \operatorname{col}(A)$.
 
+Es decir, el sistema tiene alguna solución si $\mathbf{b}$ se puede expresar como combinación lineal de las columnas de $A$.
+
 ## Rango y nulidad
 
 Usando los conceptos que hemos aprendido hasta el momento, finalmente podemos definir apropiadamente al rango de una matriz.
 
+Por alguna razón, el rango tiene dos significados diferentes.
+
 ```ad-definition
-title: Definición (rango).
+title: Definición (rango de una matriz).
 
 El **rango** de una matriz $A$, denotado como $\operatorname{rank}(A)$, es la dimensión común de su espacio fila y espacio columna.
+
+```
+
+```ad-definition
+title: Definición (rango de una transformación).
+
+Sea $T$ una transformación. El **rango** o **imagen** de $T$ son todos los vectores en $W$ que son imágenes bajo $T$ de al menos un vector en $V$. Es decir,
+
+$$
+\operatorname{Im}(A) = \left\{ \mathbf{b} \in W \lmid \mathbf{b} = T(\mathbf{x}), \mathbf{x} \in V \right\}
+.$$
 
 ```
 
