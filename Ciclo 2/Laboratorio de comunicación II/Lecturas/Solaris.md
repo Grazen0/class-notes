@@ -28,6 +28,7 @@
 		- Radiólogo. Acompañaba a Fechner cuando ocurrió el accidente.
 	- **Berton**
 		- Pilotó un helicóptero durante la primera expedición. Tuvo actitud extraña después del accidente ocurrido.
+		- Avanzada la historia, se muestra su recuento de lo que lo asustó tanto.
 
 ## Historia
 
