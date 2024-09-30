@@ -62,3 +62,20 @@ Una **competencia** es:
 	- Construir aprendizaje **en conjunto**.
 
 ## 3. Conociendo Google Drive
+
+- Drive
+- Calendar
+- Forms
+- Docs
+- Sheets
+- Slides
+
+Ez.
+
+## 4. Herramientas de interacción
+
+### Kahoot
+
+- Plataforma de creación de cuestionarios.
+- Destaca por su **simplicidad**.
+- Sirve para **aprender y reforzar** conceptos mediante concursos.
