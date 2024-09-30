@@ -42,7 +42,25 @@ Una **competencia** es:
 	- Si hay muchos participantes, se puede dificultar.
 	- La participación del docente requiere de más tiempo y complejidad.
 - **Características**
-	- Multidireccional, asín
+	- Multidireccional, asíncrona y pública.
+	- Ayuda al **aprendizaje colaborativo**.
+	- Es un **espacio activo y participativo** para todos, sin límite de aforo.
 - Existen foros públicos, privados y protegidos.
-- Existen foros según su funcionalidad foros de debate, de bienvenida, prácticas, dudas y consultas.
+- Foros **según su funcionalidad**
+	- Debate
+	- Bienvenida / social: Generan comunidad
+	- Exposición / creación de conocimiento: Reflexión y debate.
+	- Prácticas
+	- Consultas
+	- Dudas: Donde se responden preguntas de forma pública.
 - Fomentan el aprendizaje colaborativo, el aprendizaje colaborativo y dan respuestas a dudas comunes.
+- Hay foros en el modo virtual UTEC.
+- **Recomendaciones**
+	- Identificar foros en los cursos que los promuevan.
+	- **Valorar las opiniones** de otros compañeros.
+	- Comentar dudas.
+	- Construir aprendizaje **en conjunto**.
+
+## 3. Conociendo Google Drive
+
+
