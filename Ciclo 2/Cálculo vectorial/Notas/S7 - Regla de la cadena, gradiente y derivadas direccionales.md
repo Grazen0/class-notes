@@ -1,9 +1,15 @@
 ## Regla de la cadena multivariable
 
-Si $z$ es una función de $x$ y $y$, y estos últimos son funciones de $t$, entonces
+Sea $z(x,y)$ con $x(t)$ y $y(t)$. Entonces, la derivada de $z$ con respecto a $z$ es
 
 $$
-\frac{dz}{dt} = \frac{\partial z}{\partial x} \cdot \frac{dx}{dt} + \frac{\partial z}{\partial y} \cdot \frac{dy}{dt}
+\frac{dz}{dt} = \frac{\partial z}{\partial x} \frac{dx}{dt} + \frac{\partial z}{\partial y} \frac{dy}{dt}
+.$$
+
+Ahora, sea $z(x,y)$ con $x(s,t)$ y $y(s,t)$. Entonces, las derivadas parciales de $z$ con respecto a $t$ y $s$ son
+
+$$
+\frac{\partial z}{\partial t} = \frac{\partial z}{\partial x} \frac{\partial x}{\partial t} + \frac{\partial z}{\partial y} \frac{\partial y}{\partial t}  \qquad \frac{\partial z}{\partial s} = \frac{\partial z}{\partial x} \frac{\partial x}{\partial s} + \frac{\partial z}{\partial y} \frac{\partial y}{\partial s} 
 .$$
 
 ## Gradiente
