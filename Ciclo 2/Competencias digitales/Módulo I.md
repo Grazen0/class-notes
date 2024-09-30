@@ -62,5 +62,3 @@ Una **competencia** es:
 	- Construir aprendizaje **en conjunto**.
 
 ## 3. Conociendo Google Drive
-
-
