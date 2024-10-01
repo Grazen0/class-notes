@@ -33,12 +33,11 @@ table {
 body {
   /* --background-primary: red; */
   /* --background-secondary: blue; */
-  --font-text-theme: "JetBrainsMonoNL Nerd Font" !important;
-  --font-monospace-theme: "JetBrainsMonoNL Nerd Font" !important;
-  letter-spacing: -0.075rem !important;
+  font-family: "JetBrainsMonoNL Nerd Font", monospace !important;
+  letter-spacing: -0.07rem !important;
 }
 
-pre,
-code {
-  letter-spacing: 1rem;
+pre *,
+code * {
+  color: red;
 }

@@ -47,7 +47,7 @@ A([i j],:) = A([j i],:)
 A(i,:) = k * A(i,:)
 ```
 
-#### Adición de una fila por un escalar ($f_{i} \to f_{i} + k\,f_{j}$)
+#### Adición de una fila por un escalar ($f_{i} \to f_{i} + kf_{j}$)
 
 ```
 A(i,:) = A(i,:) + k * A(j,:)
