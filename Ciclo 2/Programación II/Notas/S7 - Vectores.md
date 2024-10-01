@@ -48,4 +48,4 @@ En general, se recomienda **pasar siempre vectores por referencia**. Si no quere
 - `begin()`: Dirección de memoria del inicio del vector.
 - `end()`: Dirección de memoria del final del vector (pasado el último elemento).
 - `size()`: Cantidad de elementos en el vector.
-- `capacity()`:
+- `capacity()`: La capacidad que tiene el vector (es decir el espacio que tiene reservado)
