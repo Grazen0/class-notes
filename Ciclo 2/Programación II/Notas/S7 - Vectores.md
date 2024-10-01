@@ -52,3 +52,8 @@ En general, se recomienda **pasar siempre vectores por referencia**. Si no quere
 - `clear()`: Vacía el vector.
 - `erase(T* pos)`: Borra el elemento en la dirección `pos`.
 - `insert(T* pos, T el)`: Inserta `el` en la dirección `pos`.
+
+## Tips
+
+- Se recomienda **reservar algo de memoria** desde la declaración del vector para mayor eficiencia.
+- Se recomienda **pasar vectores por referencia** (para evitar hacer clones). Si no se quiere mutar el vector original, se puede usar `const`.
