@@ -60,3 +60,29 @@ En general, se recomienda **pasar siempre vectores por referencia**. Si no quere
 
 - Se recomienda **reservar algo de memoria** desde la declaración del vector para mayor eficiencia.
 - Se recomienda **pasar vectores por referencia** (para evitar hacer clones). Si no se quiere mutar el vector original, se puede usar `const`.
+
+## Iterando con iteradores
+
+Un vector se puede iterar de varias maneras.
+
+```cpp
+#include <vector>
+
+std::vector<int> vec { 42, 13, 121 };
+
+for (int i = 0; i < vec.size(); i++) {
+	std::cout << vec[i] << ' ';
+}
+std::cout << std::endl;
+
+for (auto n : vec) {
+	std::cout << n << ' ';
+}
+std::cout << std::endl;
+
+for (auto it = vec.begin(); it < vec.end(); it++) {
+	std::cout << *it << ' ';
+}
+std::cout << std::endl;
+
+```
