@@ -78,7 +78,7 @@ Entonces, esta función se puede representar como
 $$
 \begin{align}
 f(x,y) &= \overline{x} \cdot y + x \cdot \overline{y} \\
-f(x,y) &= (\overline{x} + \overline{y}) \cdot (x + y)
+f(x,y) &=  (x + y) \cdot (\overline{x} + \overline{y})
 \end{align}
 .$$
 
