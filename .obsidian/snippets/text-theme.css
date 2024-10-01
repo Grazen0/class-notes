@@ -1,0 +1,19 @@
+* {
+  border: none !important;
+  box-shadow: none !important;
+}
+
+body {
+  /* --background-primary: red; */
+  /* --background-secondary: blue; */
+  font-family: "JetBrainsMonoNL Nerd Font", monospace !important;
+  letter-spacing: -0.07rem !important;
+}
+
+.titlebar {
+  background-color: green !important;
+}
+
+.mark {
+  background-color: magenta !important;
+}

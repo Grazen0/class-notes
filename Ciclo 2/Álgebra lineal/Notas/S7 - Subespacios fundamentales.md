@@ -73,7 +73,11 @@ Por alguna razón, el rango tiene dos significados diferentes.
 ```ad-definition
 title: Definición (rango de una matriz).
 
-El **rango** de una matriz $A$, denotado como $\operatorname{rank}(A)$, es la dimensión común de su espacio fila y espacio columna.
+El **rango** de una matriz $A$ es la dimensión común de su espacio fila y espacio columna. Es decir,
+
+$$
+\operatorname{rank}(A) = \operatorname{dim}(\operatorname{col}(A)) = \operatorname{dim}(\operatorname{row}(A))
+.$$
 
 ```
 
@@ -83,7 +87,7 @@ title: Definición (rango de una transformación).
 Sea $T$ una transformación. El **rango** o **imagen** de $T$ son todos los vectores en $W$ que son imágenes bajo $T$ de al menos un vector en $V$. Es decir,
 
 $$
-\operatorname{Im}(A) = \left\{ \mathbf{b} \in W \lmid \mathbf{b} = T(\mathbf{x}), \mathbf{x} \in V \right\}
+\operatorname{Im}(T) = \left\{ \mathbf{b} \in W \lmid \mathbf{b} = T(\mathbf{x}), \mathbf{x} \in V \right\}
 .$$
 
 ```
@@ -127,5 +131,5 @@ $$
 entonces:
 
 1. Una base para $\operatorname{row}(A)$ son las $r$ filas pivote de $R$.
-2. Una base para $\operatorname{col}(A)$ son las $r$ columnas pivote de $R$.
+2. Una base para $\operatorname{col}(A)$ son las $r$ columnas pivote de $A$.
 3. Una base para $\operatorname{null}(A^{T})$ son las últimas $m - r$ filas de $E$.
