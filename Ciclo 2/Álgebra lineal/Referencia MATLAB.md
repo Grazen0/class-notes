@@ -90,3 +90,14 @@ A = [
 [R, p] = rref(A); % Matriz escalonada reducida + índices de pivotes
 V = A(:,p) % Espacio columna de A
 ```
+
+Otra forma de calcular el espacio columna es con `syms`.
+
+```
+A = syms([
+	1 2 3
+	4 5 6
+	7 8 9
+]);
+V = colspace(A)
+```
