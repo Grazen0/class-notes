@@ -50,9 +50,36 @@ Un conjunto de $n$ variables booleanas posee $2^n$ mintérminos y maxtérminos.
 
 ```
 
+### Representación de funciones booleanas
+
 Cualquier función booleana se puede representar como
 
 1. una **suma** de **mintérminos**, y
 2. un **producto** de **maxtérminos**.
 
 Esencialmente, se trata de usar la [[S5 - Forma normal conjuntiva y disyuntiva|forma normal conjuntiva/disyuntiva]].
+
+```ad-example
+title: Ejemplo.
+collapse: closed
+
+Sea la función $f: B^2 \to B$ definida por:
+
+
+| $x$ | $y$ | $f(x,y)$ |
+| :-: | :-: | :------: |
+| $0$ | $0$ | $0$      |
+| $0$ | $1$ | $1$      |
+| $1$ | $0$ | $1$      |
+| $1$ | $1$ | $0$      |
+
+Entonces, esta función se puede representar como
+
+$$
+\begin{align}
+f(x,y) &= \overline{x} \cdot y + x \cdot \overline{y} \\
+f(x,y) &= (\overline{x} + \overline{y}) \cdot (x + y)
+\end{align}
+.$$
+
+```
