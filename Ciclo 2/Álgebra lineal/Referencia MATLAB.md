@@ -80,6 +80,8 @@ solution3 = inv(A) * b
 
 ## Espacios fundamentales
 
+### Espacio columna
+
 ```
 A = [
 	10   5   5 -20
@@ -100,4 +102,15 @@ A = syms([
 	7 8 9
 ]);
 V = colspace(A)
+```
+
+### Espacio nulo
+
+```
+A = [
+	1 2 3
+	4 5 6
+	7 8 9
+];
+V = null(A, 'r') % El 'r' indica que queremos elementos racionales
 ```
