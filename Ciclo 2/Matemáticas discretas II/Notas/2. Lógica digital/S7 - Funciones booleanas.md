@@ -6,6 +6,19 @@ Dado $B = \left\{ 0, 1 \right\}$, sea $B^n = \left\{ (x_1,x_2,\ldots,x_n) \lmid 
 
 Es decir, una función booleana toma uno o más variables $0$ o $1$ y produce un $0$ o $1$ como salida.
 
+La igualdad de funciones booleanas se define intuitivamente.
+
+```ad-definition
+title: Definición (igualdad de funciones booleanas).
+
+Dos funciones booleanas $f: B^n \to B$ y $g: B^n \to B$ son **iguales** si y sólo si
+
+$$
+\forall (b_1,b_2,\ldots,b_n) \in B^n \, (f(b_1,b_2,\ldots,b_n) = g(b_1,b_2,\ldots,b_n))
+.$$
+
+```
+
 Resulta que para cada $n$ específico, en realidad no existen muchas funciones booleanas.
 
 ```ad-proposition
@@ -42,4 +55,4 @@ Cualquier función booleana se puede representar como
 1. una **suma** de **mintérminos**, y
 2. un **producto** de **maxtérminos**.
 
-Esencialmente, se trata de la [[S5 - Forma normal conjuntiva y disyuntiva|forma normal conjuntiva/disyuntiva]].
+Esencialmente, se trata de usar la [[S5 - Forma normal conjuntiva y disyuntiva|forma normal conjuntiva/disyuntiva]].
