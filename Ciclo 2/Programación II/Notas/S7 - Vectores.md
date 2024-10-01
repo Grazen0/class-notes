@@ -3,10 +3,11 @@ En C++, un **vector** es básicamente un **arreglo dinámico** (una lista de lon
 ```cpp
 #include <vector>
 
-std::vector<int> vec(10); // Vector con 10 ceros
+std::vector<int> vec_1(10); // { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 }
+std::vector<int> vec_2(3, 5); // { 5, 5, 5 }
 ```
 
-Los vectores se pasan **por valor** en las funciones. Contrario a los arrays, pasar un vector a una función que lo pueda modificar implica **pasar una referencia o puntero**, no sólamente el vector.
+Los vectores se pasan **por valor** en las funciones. Contrario a los arrays, pasar un vector a una función que lo pueda modificar implica **pasar una referencia o puntero**, no solamente el vector.
 
 ```cpp
 #include <vector>
@@ -50,6 +51,8 @@ En general, se recomienda **pasar siempre vectores por referencia**. Si no quere
 - `size()`: Cantidad de elementos en el vector.
 - `capacity()`: La capacidad que tiene el vector (es decir el espacio que tiene reservado)
 - `clear()`: Vacía el vector.
+- `resize(size_t new_size)`: Cambia la capacidad del vector a `new_size`.
+- `shrink_to_fit()`: Encoge la capacidad del vector a su tamaño.
 - `erase(T* pos)`: Borra el elemento en la dirección `pos`.
 - `insert(T* pos, T el)`: Inserta `el` en la dirección `pos`.
 
