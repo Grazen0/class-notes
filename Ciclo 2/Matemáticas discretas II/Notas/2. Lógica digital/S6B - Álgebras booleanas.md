@@ -52,3 +52,4 @@ Bajo esta definición, se cumplen las siguientes propiedades:
 4. $\overline{\overline{a}} = a$,
 5. $a + 1 = 1$ y $a \cdot 0 = 0$, y
 6. $\overline{a + b} = \overline{a} \cdot \overline{b}$ y $\overline{a \cdot b} = \overline{a} + \overline{b}$.
+7. $a \cdot (a + b) = a + (a \cdot b) = a$

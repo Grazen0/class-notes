@@ -14,6 +14,7 @@
 		- [[S5 - Retículas]]
 		- [[S6A - Subretículas]]
 		- [[S6B - Álgebras booleanas]]
+		- [[S7 - Funciones booleanas]]
 
 %% End Waypoint %%
 
