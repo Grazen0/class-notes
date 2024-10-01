@@ -5,7 +5,7 @@ Sea $A = (a_{ij})$ una matriz cuadrada de $n \times n$. Entonces, la determinant
 $$
 \lvert A \rvert = \begin{cases}
 1 & n = 0 \\
-\sum_{j=1}^{n} (-1)^{i+j} \cdot a_{ij} \cdot \lvert A_{ij} \rvert & n > 0
+\sum_{j=1}^{n} (-1)^{i+j} a_{ij} \lvert A_{ij} \rvert & n > 0
 ,\end{cases}
 $$
 

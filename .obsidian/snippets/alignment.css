@@ -24,3 +24,12 @@ table {
   margin-left: auto !important;
   margin-right: auto !important;
 }
+
+* {
+  border: none !important;
+}
+
+body {
+  /* --background-primary: blue; */
+  /* --background-secondary: red; */
+}
