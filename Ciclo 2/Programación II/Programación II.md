@@ -11,6 +11,7 @@
 	- [[S4B - Arrays]]
 	- [[S5 - Memoria dinámica]]
 	- [[S6 - Matrices]]
+	- [[S7 - Vectores]]
 
 %% End Waypoint %%
 
