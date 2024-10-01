@@ -12,7 +12,7 @@ Los vectores se pasan **por valor** en las funciones. Contrario a los arrays, pa
 ```cpp
 #include <vector>
 				  
-void print_vector(std::vector<int>& vec) {
+void print_vector(const std::vector<int>& vec) {
 	for (int n : vec)
 		std::cout << n << ' ';
 
