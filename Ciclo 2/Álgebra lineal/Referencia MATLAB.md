@@ -64,7 +64,7 @@ C = inv(A)
 ```
 n = size(A,1) % Orden de la matriz
 Au = [A eye(n)] % Matriz aumentada
-Aur = rref(Au) % Forma escalonada reducida de Au
+Aur = rref(Au) % Forma escalonada reducida de Au...
 ```
 
 ## Sistemas de ecuaciones lineales
@@ -76,4 +76,17 @@ Existen tres maneras resolver sistemas de ecuaciones:
 solution1 = linsolve(A, b)
 solution2 = A \ b
 solution3 = inv(A) * b
+```
+
+## Espacios fundamentales
+
+```
+A = [
+	10   5   5 -20
+	 1   2  -1   4
+	40  10  30  30
+	 9   8   1   6
+];
+[R, p] = rref(A);
+V = A(:,p) 
 ```
