@@ -50,3 +50,5 @@ En general, se recomienda **pasar siempre vectores por referencia**. Si no quere
 - `size()`: Cantidad de elementos en el vector.
 - `capacity()`: La capacidad que tiene el vector (es decir el espacio que tiene reservado)
 - `clear()`: Vacía el vector.
+- `erase(T* pos)`: Borra el elemento en la dirección `pos`.
+- `insert(T* pos, T el)`: Inserta `el` en la dirección `pos`.
