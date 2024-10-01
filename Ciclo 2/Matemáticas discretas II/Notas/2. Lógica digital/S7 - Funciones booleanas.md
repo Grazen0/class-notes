@@ -50,6 +50,24 @@ Un conjunto de $n$ variables booleanas posee $2^n$ mintérminos y maxtérminos.
 
 ```
 
+```ad-exercise
+collapse: closed
+
+Represente $f(x,y) = \overline{x}$ como suma de mintérminos.
+
+**Resolución:**
+
+$$
+\begin{align}
+f(x,y) &= \overline{x} \\
+       &= \overline{x} \cdot 1 \\
+       &= \overline{x} \cdot (y + \overline{y}) \\
+f(x,y) &= \overline{x} \cdot y + \overline{x} \cdot \overline{y}
+.\end{align}
+$$
+
+```
+
 ### Representación de funciones booleanas
 
 Cualquier función booleana se puede representar como
