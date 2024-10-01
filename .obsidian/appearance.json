@@ -10,11 +10,12 @@
     "kanagawa-font-fix",
     "image-alignment",
     "mathjax-font-size",
-    "alignment"
+    "alignment",
+    "text-theme"
   ],
   "nativeMenus": false,
   "textFontFamily": "",
-  "cssTheme": "Kanagawa",
+  "cssTheme": "",
   "theme": "obsidian",
   "interfaceFontFamily": "",
   "monospaceFontFamily": "",
