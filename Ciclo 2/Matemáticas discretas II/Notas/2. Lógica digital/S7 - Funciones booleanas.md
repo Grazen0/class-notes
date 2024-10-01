@@ -30,30 +30,30 @@ Existen $2^{2n}$ funciones booleanas de $n$ variables.
 
 Esto implica que es posible caracterizar por completo a una función booleana en base a sus valores de salida.
 
-## Mintérminos y maxtérminos
+## min-términos y max-términos
 
 ```ad-definition
 
-Un **mintérmino** de las variables booleanas $x_1,x_2,\ldots,x_n$ es un producto booleano $y_1,y_2,\ldots,y_n$ donde $y_i = x_i$ o $y_i = \overline{x_i}$.
+Un **min-término** de las variables booleanas $x_1,x_2,\ldots,x_n$ es un producto booleano $y_1,y_2,\ldots,y_n$ donde $y_i = x_i$ o $y_i = \overline{x_i}$.
 
 
-Un **maxtérmino** de las variables booleanas $x_1,x_2,\ldots,x_n$ es una suma booleana $y_1 + y_2 + \ldots + y_n$ donde $y_i = x_i$ o $y_i = \overline{x_i}$.
+Un **max-término** de las variables booleanas $x_1,x_2,\ldots,x_n$ es una suma booleana $y_1 + y_2 + \ldots + y_n$ donde $y_i = x_i$ o $y_i = \overline{x_i}$.
 
 ```
 
-Por ejemplo, algunos mintérminos de $x$, $y$ y $z$ son $x \cdot \overline{y} \cdot z$, $x \cdot y \cdot z$ y $\overline{x} \cdot \overline{y} \cdot z$.
+Por ejemplo, algunos min-términos de $x$, $y$ y $z$ son $x \cdot \overline{y} \cdot z$, $x \cdot y \cdot z$ y $\overline{x} \cdot \overline{y} \cdot z$.
 
 ```ad-proposition
 title: Observación.
 
-Un conjunto de $n$ variables booleanas posee $2^n$ mintérminos y maxtérminos.
+Un conjunto de $n$ variables booleanas posee $2^n$ min-términos y max-términos.
 
 ```
 
 ```ad-exercise
 collapse: closed
 
-Represente $f(x,y) = \overline{x}$ como suma de mintérminos.
+Represente $f(x,y) = \overline{x}$ como suma de min-términos.
 
 **Resolución:**
 
@@ -68,36 +68,48 @@ $$
 
 ```
 
-### Representación de funciones booleanas
+### Representación en FND y FNC
 
 Cualquier función booleana se puede representar como
 
-1. una **suma** de **mintérminos**, y
-2. un **producto** de **maxtérminos**.
+1. una **suma** de **min-términos**, y
+2. un **producto** de **max-términos**.
 
-Esencialmente, se trata de usar la [[S5 - Forma normal conjuntiva y disyuntiva|forma normal conjuntiva/disyuntiva]].
+Esencialmente, se trata de usar la [[S5 - Forma normal conjuntiva y disyuntiva|forma normal conjuntiva/disyuntiva]] que vimos en lógica proposicional, sólo que con símbolos diferentes.
+
+Los procesos para hallar estas formas de una función booleana son los siguientes:
+
+1. **FND:** Generamos min-términos a partir de cada $1$, complementando los $0$s.
+2. **FNC:** Generamos max-términos a partir de cada $0$, complementando los $1$s.
 
 ```ad-example
 title: Ejemplo.
-collapse: closed
+collapse: open
 
 Sea la función $f: B^2 \to B$ definida por:
 
 
 | $x$ | $y$ | $f(x,y)$ |
 | :-: | :-: | :------: |
-| $0$ | $0$ | $0$      |
-| $0$ | $1$ | $1$      |
+| $0$ | $0$ | $1$      |
+| $0$ | $1$ | $0$      |
 | $1$ | $0$ | $1$      |
-| $1$ | $1$ | $0$      |
+| $1$ | $1$ | $1$      |
 
 Entonces, esta función se puede representar como
 
 $$
 \begin{align}
-f(x,y) &= \overline{x} \cdot y + x \cdot \overline{y} \\
-f(x,y) &=  (x + y) \cdot (\overline{x} + \overline{y})
-\end{align}
-.$$
+f(x,y) &= (\overline{x} \cdot \overline{y}) + (x \cdot \overline{y}) + (x \cdot y) \\
+f(x,y) &= x + \overline{y}
+.\end{align}
+$$
+
+```
+
+```ad-proposition
+title: Observación.
+
+La FND de una función es única (salvo el orden).
 
 ```
