@@ -87,6 +87,6 @@ A = [
 	40  10  30  30
 	 9   8   1   6
 ];
-[R, p] = rref(A);
-V = A(:,p) 
+[R, p] = rref(A); % Matriz escalonada reducida + índices de pivotes
+V = A(:,p) % Espacio columna de A
 ```
