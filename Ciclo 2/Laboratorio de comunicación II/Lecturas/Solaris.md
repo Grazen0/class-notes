@@ -96,7 +96,13 @@
 	- Parece que Sartorius está mucho más preocupado por lo que hay detrás de la puerta (hay algo que la intenta abrir).
 	- Sartorius le exclama a Kelvin que, por favor, se vaya por ahora.
 	- Sartorius entra de nuevo. Se escucha la risa de un niño.
-		- 
+- Kelvin camina un poco alrededor del laboratorio, intentando espiar.
+- Kelvin pasa por Snaut, y, nuevamente, éste comenta de forma críptica la situación.
+- Kelvin baja a los almacenes de refrigeración.
+	- Se encuentra al cuerpo de Gibarian, con la mujer negra encima echada cerca.
+	- Kelvin sale del almacén.
+- Kelvin hace un **experimentum crucis** para demostrarse que no está loco.
+	- 
 
 ### Los monstruos
 
@@ -105,3 +111,4 @@
 		- *¿Fue sueño de Harey, o Kelvin dijo eso mientras dormía?*
 	- Kelvin la trata de calmar
 - A la mañana, Kelvin recibe una **carta de Snaut**.
+- 
