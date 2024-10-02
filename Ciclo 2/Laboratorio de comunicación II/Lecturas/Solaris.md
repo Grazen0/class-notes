@@ -186,4 +186,39 @@
 			- Son formaciones simétricas.
 			- Sus formas se pueden describir con matemáticas avanzadas.
 			- Se intenta comparar una simetriada al proceso de evolución de la arquitectura humana.
-			- 
+- Snaut llega y habla con Kelvin de los proyectos con Snaut
+	- Proyecto "**pensamiento**": Plasmar el consciente (los pensamientos) de Kelvin al océano para prevenir más visitantes.
+	- Proyecto "**libertad**": Usar el aniquilador de neutrinos.
+	- Kelvin se opone a matar a los visitantes, y pone de excusa que el proceso puede causar un accidente grave.
+
+### 9. Oxígeno líquido
+
+- Gibarian se le aparece a Kelvin (*pareciera una especie de visitante*).
+	- Le discute sobre lo que piensa de Harey.
+	- Le dice que Sartorius ha convencido a Snaut de que Kelvin lo ha engañado.
+- Kelvin "vuelve a despertar" (algo así) y ahora está con Harey.
+	- Kelvin no encuentra un magnetófono (*Harey lo había usado para grabar a Kelvin con Gibarian*).
+	- Hay mucha tensión entre Kelvin y Harey.
+		- Harey está entre enojada y triste.
+- Kelvin y Harey discuten, porque Harey sabe que Kris le esconde algo.
+- Por la noche, Harey se intenta suicidar tomando oxígeno líquido.
+	- Kelvin hace todo por intentar revivir a Harey (quien está agonizando), pero no puede hacer nada.
+	- Repentinamente, Harey se encuentra bien tras haberse regenerado.
+	- Harey rompe en llanto, no sabe lo que le pasa.
+- Harey deduce lo que es en realidad.
+	- Kris le cuenta el resto de la situación.
+- *(Pareciera que Harey se encuentra un poco mejor después de todo esto)*
+
+### 10. Conversación
+
+- Kelvin va a ver a Snaut
+	- Harey tiene que acompañarlo. Está tensa, se prepara para luchar consigo misma cuando tenga que separarse de Kelvin.
+	- Kelvin le cuenta a Snaut que Harey ya sabe todo, y que quiere abandonar la estación con ella.
+		- Snaut intenta convencer a Kelvin de que no puede conservar a Harey.
+		- Snaut teoriza que el mar podría estar "atándoles las manos" con los visitantes.
+	- *Snaut parece estar escondiendo a su visitante en el armario.*
+- Kelvin reflexiona sobre lo que pasará cuando envíen su encefalograma al mar.
+	- Se preocupa porque Harey podría desaparecer.
+	- Reflexiona que el ser humano busca explorar el cosmos sin conocer si quiera el funcionamiento de su propio cerebro.
+
+### 11. Los pensadores
