@@ -118,12 +118,28 @@
 	- Harey siente que tiene que estar con Kelvin en todo momento.
 	- Kelvin observa que Harey tiene una fuerza extremadamente inusual.
 - Kelvin piensa cómo escapar de ahí.
+	- Intenta usar un somnífero en Harey, pero no le hace efecto.
 - Kelvin lleva a Harey a la plataforma de despegue y la manda al espacio.
 	- Harey, en sus intentos de salir del cohete, lograba tumbarlo de lado a lado con una fuerza increíble mientras que gritaba.
+- Kelvin termina con quemaduras al igual que Snaut.
 
 ### 6. Pequeño apócrifo
 
-- 
+- Kelvin se encuentra de nuevo con Snaut.
+	- Kelvin le cuenta a Snaut de su encuentro.
+	- Snaut le explica por qué no se lo advirtió más claramente antes.
+	- Snaut le cuenta que Gibarian fue el primero en tener un visitante
+		- Se encerró en su laboratorio para investigar.
+		- Al tercer día, lo encontraron muerto en el armario.
+	- Kelvin le cuenta un poquito sobre Harey.
+	- Snaut reflexiona sobre los motivos del ser humano para explorar el espacio.
+	- Snaut le da a Kelvin el *Pequeño apócrifo*.
+- Kelvin lee el informe de Berton sobre lo que vio el día de la expedición.
+	- Berton se adentró en la niebla a pocos metros sobre el mar.
+	- Observa lo que parece ser un **jardín** a grandes rasgos, formado por el mar.
+		- Luego del jardín, Berton ve la figura de un **niño gigante**.
+			- El niño hacía movimientos anormales: posibles, pero muy metódicos.
+			- 
 
 ### Los monstruos
 
