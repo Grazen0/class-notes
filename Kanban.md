@@ -74,12 +74,6 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
-- [x] **Solaris**
-	
-	Stanislaw Lem
-	
-	#comu
-	@{03-10-2024}
 
 
 ***
@@ -479,6 +473,12 @@ kanban-plugin: board
 	
 	@{28-09-2024} 
 	#optica #teo
+- [x] **Solaris**
+	
+	Stanislaw Lem
+	
+	#comu
+	@{03-10-2024}
 
 %% kanban:settings
 ```
