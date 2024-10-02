@@ -109,7 +109,7 @@ La coma se obvia cuando "sino" **no tiene valor contrastivo o sustitutivo** , si
 
 ## Construcciones causales y finales
 
-Causal de **enunciación**:
+Causal de **enunciado**:
 
 - El suelo está mojado porque ha llovido.
 - Tienes que estudiar para aprobar el examen.
@@ -121,7 +121,7 @@ Este último es un caso de chocolateo.
 
 La colocación de una coma denota **que la causa no es del hecho, sino de por qué se afirma algo**.
 
-Causal de **enunciado**:
+Causal de **enunciación**:
 
 - Ha llovido, porque está el suelo mojado. *\[¿Por qué lo digo?]*
 - Mi amigo tiene dinero, porque usa reloj *Rolex*.
