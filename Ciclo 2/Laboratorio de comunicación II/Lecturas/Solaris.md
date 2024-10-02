@@ -139,7 +139,17 @@
 	- Observa lo que parece ser un **jardín** a grandes rasgos, formado por el mar.
 		- Luego del jardín, Berton ve la figura de un **niño gigante**.
 			- El niño hacía movimientos anormales: posibles, pero muy metódicos.
-			- 
+	- La comisión cuestiona mucho a Berton, diciéndole que fue un síntoma de intoxicación.
+		- Berton está seguro de que lo que vio era real.
+	- Al final de todo, la comisión declara que Berton estaba alucinando, y no toman en cuenta su testimonio.
+	- El doctor físico Messenger cree que lo ocurrido podría ser verdad. De hecho, parece estar convencido.
+		- Teoriza que el accidente de Fechner dió al océano las herramientas para generar esas visiones de Berton.
+- Harey vuelve a aparecérsele a Kelvin.
+
+### 7. La conferencia
+
+- Kelvin habla un poco con Harey en la cama.
+	- Harey sospecha de que Kelvin le escode algo.
 
 ### Los monstruos
 
