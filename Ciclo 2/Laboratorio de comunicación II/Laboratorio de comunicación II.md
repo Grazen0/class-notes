@@ -10,6 +10,7 @@
 	- [[S2 - Stanislaw Lem]]
 	- [[S5,6 - Fundamentos de puntuación y la coma]]
 	- [[S6 - Coma con conectores]]
+	- [[S7 - Notas adicionales de puntuación]]
 
 %% End Waypoint %%
 
