@@ -91,6 +91,7 @@
 - Kelvin va al laboratorio de Sartorius
 	- Kelvin no deja de vociferar para que Sartorius abra, pero ni caso.
 		- Kelvin termina amenazando con tirar abajo la puerta.
+	- Finalmente, Sartorius acepta salir del laboratorio.
 	- 
 
 ### Los monstruos
