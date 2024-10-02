@@ -136,6 +136,8 @@ También se aplica para **causales explicativas** (es decir, donde la "causa" es
 
 ## Construcciones condicionales y recesivas
 
+**Siempre se coloca coma entre la condición y el resultado**.
+
 - Si vas a llegar tarde, no dejes de avisarme.
 - Como vuelva a salir un ocho, nos hacemos ricos.
 - Aunque no quieras, te llevaré al hospital.
