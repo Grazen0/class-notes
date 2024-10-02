@@ -134,7 +134,7 @@ También se aplica para **causales explicativas** (es decir, donde la "causa" es
 - Tuvimos que alquilar dos coches, ya que al final vinieron seis.
 - No te visité, pues no me llamaste.
 
-## Construcciones condicionales y recesivas
+## Construcciones condicionales y concesivas
 
 **Siempre se coloca coma entre la condición y el resultado**.
 
@@ -143,7 +143,14 @@ También se aplica para **causales explicativas** (es decir, donde la "causa" es
 - Aunque no quieras, te llevaré al hospital.
 - Así me arrepienta toda la vida, no pienso hacer esa llamada.
 
-Cuando movemos la prótasis al final, el uso de la coma **depende del sentido de la "razón**
+También aplica para **prótasis de valor condicional**.
+
+- En caso de que acepten, haremos un buen negocio.
+- Siempre y cuando se respete el medio ambiente, el turismo es positivo para las poblaciones rurales.
+- A sabiendas de que lo pasaría mal, se presentó en su casa para hablar con ella.
+- Pese a que nunca ha ido a Italia, habla un italiano perfecto. *\[Aunque]*
+
+Cuando movemos la prótasis al final, el uso de la coma **depende del sentido de la "razón"**.
 
 - Iré si me necesitas.
 - El tren llegará a las tres, si he entendido bien.
