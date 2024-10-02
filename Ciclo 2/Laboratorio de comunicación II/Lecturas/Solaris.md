@@ -150,12 +150,40 @@
 
 - Kelvin habla un poco con Harey en la cama.
 	- Harey sospecha de que Kelvin le escode algo.
+	- Está algo asustada.
+- Kelvin experimenta: sale del cuarto, cierra la puerta y sujeta el picaporte.
+	- Harey destruye la puerta, y sus uñas y carne estaban en sangre viva.
+	- Harey no sabe lo que acaba de pasar, y pronto se regenera.
+	- Ella misma está asustada.
+- Kelvin examina en el laboratorio la sangre de Harey.
+	- La estructura de sus moléculas no es natural, se forma de neutrinos, y la sangre se regenera al contacto con ácido.
+- Kelvin entra en conferencia con Snaut y Sartorius
+	- Kelvin les cuenta lo que ha inspeccionado.
+	- Discuten sobre la naturaleza de los visitantes.
+	- Sartorius es interrumpido (*¿por su visitante?*), por lo que termina la conferencia.
+	- Snaut está cansado.
 
-### Los monstruos
+### 8. Los monstruos
 
 - Kelvin duerme con Harey
 	- Harey está llorando, dice que Kelvin no la quiere allí, que lo ha escuchado decirlo.
 		- *¿Fue sueño de Harey, o Kelvin dijo eso mientras dormía?*
 	- Kelvin la trata de calmar
 - A la mañana, Kelvin recibe una **carta de Snaut**.
-- 
+	- Sartorius cree que puede destruir a los visitantes, y encarga a Kelvin recolectar plasma del océano.
+- Kelvin y Harey van a la biblioteca un rato.
+	- Kelvin piensa escapar con Harey antes de que la destruyan.
+	- Kelvin encuentra un tomo de **Giese**.
+		- El tomo recopila y clasifica información y hechos de Solaris.
+		- Describe varias estructuras observadas en Solaris.
+		- **Los mimoides:**
+			- Son formaciones que se asemejan a ciudades cuando se ven desde arriba.
+			- Imitan formas y figuras en sus alrededores hasta varios kilómetros, excepto a seres vivos.
+			- Muchas veces crea patrones incomprensibles.
+		- **Las simetriadas**:
+			- Eruptan del océano y emiten ruido.
+			- Pueden *suspender* ciertas leyes físicas.
+			- Son formaciones simétricas.
+			- Sus formas se pueden describir con matemáticas avanzadas.
+			- Se intenta comparar una simetriada al proceso de evolución de la arquitectura humana.
+			- 
