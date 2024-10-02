@@ -10,6 +10,7 @@
 	- [[S4 - Ondas mecánicas]]
 	- [[S5 - Ondas mecánicas 2]]
 	- [[S6 - Ondas de sonido]]
+	- [[S7 - Electricidad y magnetismo]]
 
 %% End Waypoint %%
 

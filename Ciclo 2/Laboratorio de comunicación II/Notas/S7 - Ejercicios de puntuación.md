@@ -90,6 +90,7 @@ No llegué a apuntar esto antes, pero los **nexos subordinantes** son:
 
 ```ad-info
 title: Respuestas
+collapse: closed
 
 1. B
 2. A
