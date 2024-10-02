@@ -102,7 +102,28 @@
 	- Se encuentra al cuerpo de Gibarian, con la mujer negra encima echada cerca.
 	- Kelvin sale del almacén.
 - Kelvin hace un **experimentum crucis** para demostrarse que no está loco.
-	- 
+	- Pide unos números de información al sateloide que hay en órbita, y luego los calcula manualmente con ayuda de la calculadora de la estación.
+	- El hecho de que los resultados sean casi iguales implica que la calculadora de la estación es *real*, que todo es real.
+- A Kelvin **se le apaga la esperanza** al saber que no está loco.
+	- *(Parece que Kelvin preferiría estar loco ante todo lo que ha vivido)*
+
+### 5. Harey
+
+- Kelvin va a dormir, y se le aparece Harey.
+	- Kelvin piensa que es un sueño, pero no se puede despertar.
+	- Kelvin y Harey se besan, pero Kelvin está un poco asustado porque todo parezca tan real.
+	- Los dos hablan.
+		- Harey no sabe cómo está aquí.
+		- Harey tiene una sensación extraña, como si algo hubiera ocurrido.
+	- Harey siente que tiene que estar con Kelvin en todo momento.
+	- Kelvin observa que Harey tiene una fuerza extremadamente inusual.
+- Kelvin piensa cómo escapar de ahí.
+- Kelvin lleva a Harey a la plataforma de despegue y la manda al espacio.
+	- Harey, en sus intentos de salir del cohete, lograba tumbarlo de lado a lado con una fuerza increíble mientras que gritaba.
+
+### 6. Pequeño apócrifo
+
+- 
 
 ### Los monstruos
 
