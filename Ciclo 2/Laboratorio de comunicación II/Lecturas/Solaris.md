@@ -87,6 +87,11 @@
 - Kelvin narra sobre la expedición de Shannahan a Solaris.
 	- En la expedición murió Fechner. Probablemente cayó al océano.
 	- Berton, el último piloto de rescate en regresar, mostró una actitud frenética.
+		- La gente sospecha que ha sido envenenado (*en realidad no lo fue*).
+- Kelvin va al laboratorio de Sartorius
+	- Kelvin no deja de vociferar para que Sartorius abra, pero ni caso.
+		- Kelvin termina amenazando con tirar abajo la puerta.
+	- 
 
 ### Los monstruos
 
