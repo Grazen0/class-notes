@@ -116,3 +116,24 @@ $$
 
 Nótese que estas funciones **producen vectores**. Cada una incluye una **dirección** ($\hat{j}$ y $\hat{k}$ respectivamente).
 
+Adicionalmente, tenemos **para el vacío**:
+
+1. La **amplitud** del **campo eléctrico** es igual a
+
+$$
+E_\text{máx} = cB_\text{máx}
+.$$
+
+2. La **magnitud** del **campo eléctrico** es igual a
+
+$$
+E = cB
+.$$
+
+3. La **magnitud** del **campo magnético** es igual a
+
+$$
+B = \varepsilon_0\mu_0 cE
+.$$
+
+(Recordemos que $c = 3 \times 10^{8}$ es la **velocidad de la luz** en el vacío)
