@@ -35,6 +35,7 @@
 
 ```ad-note
 title: Nota
+collapse: open
 
 "Tanto ... como ..." **solo se usa para dos elementos**. Ni más ni menos.
 
@@ -93,7 +94,7 @@ title: Excepción
 Se *puede* obviar la coma si se oponen dos adjetivos o adverbios.
 
 - Era una orden imprecisa pero terminante.
-- Su proyecto camina conun ritmo lento pero seguro.
+- Su proyecto camina con un ritmo lento pero seguro.
 
 ```
 

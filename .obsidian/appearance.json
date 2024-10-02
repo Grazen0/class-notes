@@ -1,6 +1,6 @@
 {
   "accentColor": "",
-  "baseFontSizeAction": true,
+  "baseFontSizeAction": false,
   "baseFontSize": 16,
   "enabledCssSnippets": [
     "style",
@@ -10,8 +10,7 @@
     "kanagawa-font-fix",
     "image-alignment",
     "mathjax-font-size",
-    "alignment",
-    "text-theme"
+    "alignment"
   ],
   "nativeMenus": false,
   "textFontFamily": "",
