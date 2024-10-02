@@ -87,3 +87,32 @@ $$
 Estas dos consecuencias generan un **ciclo de retroalimentación continua**.
 
 Estas oscilaciones son las que generan **ondas electromagnéticas**.
+## Ondas electromagnéticas
+
+Una onda electromagnética se produce como el resultado de un campo eléctrico y un campo electromagnético.
+
+![[ondas electromagneticas.png]]
+
+- Se propagan en el vacío.
+- Se propagan a la velocidad de la luz ($c = 3 \times 10^{8} \mathrm{\frac{m}{s}}$).
+- Transportan energía.
+
+### Propagación de una onda electromagnética
+
+- **Eje X:** dirección de **propagación de la onda**.
+- **Eje Y:** dirección de oscilación del **campo eléctrico**.
+- **Eje Z:** dirección de oscilación del **campo magnético**.
+
+![[propagacion de onda electromagnetica.png]]
+
+Matemáticamente, describimos el campo eléctrico y magnético de la onda respectivamente como
+
+$$
+\begin{align}
+\vec{E}(x,t) &= E_\text{máx}\cos(kx - \omega t)\hat{j} \\
+\vec{B}(x,t) &= B_\text{máx}\sin(kx - \omega t)\hat{k}
+.\end{align}
+$$
+
+Nótese que estas funciones **producen vectores**. Cada una incluye una **dirección** ($\hat{j}$ y $\hat{k}$ respectivamente).
+
