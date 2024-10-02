@@ -92,7 +92,11 @@
 	- Kelvin no deja de vociferar para que Sartorius abra, pero ni caso.
 		- Kelvin termina amenazando con tirar abajo la puerta.
 	- Finalmente, Sartorius acepta salir del laboratorio.
-	- 
+	- Kelvin hace el intento por interrogarlo, pero Sartorius se muestra reacio.
+	- Parece que Sartorius está mucho más preocupado por lo que hay detrás de la puerta (hay algo que la intenta abrir).
+	- Sartorius le exclama a Kelvin que, por favor, se vaya por ahora.
+	- Sartorius entra de nuevo. Se escucha la risa de un niño.
+		- 
 
 ### Los monstruos
 
