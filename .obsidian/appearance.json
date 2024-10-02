@@ -7,10 +7,10 @@
     "typwriter-fix",
     "images",
     "mathjax",
-    "kanagawa-font-fix",
     "image-alignment",
+    "alignment",
     "mathjax-font-size",
-    "alignment"
+    "kanagawa-font-fix"
   ],
   "nativeMenus": false,
   "textFontFamily": "",
