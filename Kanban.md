@@ -33,8 +33,7 @@ kanban-plugin: board
 	- [ ] Ondas mecánicas
 		- [ ] Ondas en una cuerda
 		- [ ] Interferencia
-		- [ ] Ondas estacionarias
-	- [ ] Ondas sonoras
+		- [ ] Ondas estacionariaS
 	
 	@{04-10-2024} 
 	#optica #lab
@@ -59,21 +58,6 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
-- [x] **[[Solaris]]**
-	
-	@{03-10-2024} 
-	#comu
-- [x] **Cálculo - EA 3**
-	
-	- [x] Funciones vectoriales
-		- [x] Vector unitario normal y tangencial
-		- [x] Componente tangencial y normal de la aceleración
-	- [x] Derivadas parciales
-	- [x] Curvas de nivel
-	- [x] Diferenciales y errores
-	
-	@{03-10-2024} 
-	#calculo #lab #grupal
 
 
 ***
@@ -479,6 +463,21 @@ kanban-plugin: board
 	
 	#comu
 	@{03-10-2024}
+- [x] **Cálculo - EA 3**
+	
+	- [x] Funciones vectoriales
+		- [x] Vector unitario normal y tangencial
+		- [x] Componente tangencial y normal de la aceleración
+	- [x] Derivadas parciales
+	- [x] Curvas de nivel
+	- [x] Diferenciales y errores
+	
+	@{03-10-2024} 
+	#calculo #lab #grupal
+- [x] **[[Solaris]]**
+	
+	@{03-10-2024} 
+	#comu
 
 %% kanban:settings
 ```
