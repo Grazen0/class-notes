@@ -51,13 +51,17 @@ La **permeabilidad magnética** $(\mu_0)$ de un medio es la capacidad que tiene 
 
 #### Ley de Gauss
 
-El flujo eléctrico a través de una superficie cerrada es proporcional a la carga total contenida en dicha **superficie**.
+El flujo eléctrico a través de una superficie cerrada es proporcional a la carga total contenida en dicha **superficie**. Matemáticamente,
 
 $$
 \oint \vec{E} \, d\vec{A} = \frac{Q_\text{enc}}{\varepsilon_0}
 $$
 
+donde $Q_\text{enc}$ es la carga eléctrica contenida en la superficie.
+
 #### Ley de Gauss del magnetismo
+
+El flujo magnético a través de una superficie cerrada es cero.
 
 $$
 \oint \vec{B} \, d\vec{A} = 0
@@ -65,19 +69,23 @@ $$
 
 #### Ley de Faraday
 
-"Un campo magnético que varía en el tiempo induce la presencia de un campo eléctrico."
+Un campo magnético que varía en el tiempo induce la presencia de un campo eléctrico. Matemáticamente,
 
 $$
 \oint \vec{E} \, d\vec{l} = -\frac{d\Phi_B}{dt}
 $$
 
+donde $\Phi_B$ es el flujo magnético.
+
 #### Ley de Ampere
 
-"Un campo eléctrico que varía en el tiempo genera la presencia de un campo magnético."
+Un campo eléctrico que varía en el tiempo genera un campo magnético. Matemáticamente,
 
 $$
 \oint \vec{B} \, d\vec{l} = \mu_0\left( i_C + \varepsilon_0 \frac{d\Phi_E}{dt} \right)
 $$
+
+donde $i_C$ es la **corriente eléctrica** y - $\Phi_E$ es el **flujo eléctrico**.
 
 ### Consecuencias de las leyes de Maxwell
 
@@ -97,7 +105,7 @@ Una onda electromagnética se produce como el resultado de un campo eléctrico y
 - Se propagan a la velocidad de la luz ($c = 3 \times 10^{8} \mathrm{\frac{m}{s}}$).
 - Transportan energía.
 
-### Propagación de una onda electromagnética
+### Propagación
 
 - **Eje X:** dirección de **propagación de la onda**.
 - **Eje Y:** dirección de oscilación del **campo eléctrico**.
@@ -116,7 +124,9 @@ $$
 
 Nótese que estas funciones **producen vectores**. Cada una incluye una **dirección** ($\hat{j}$ y $\hat{k}$ respectivamente).
 
-Adicionalmente, tenemos **para el vacío**:
+### Campos
+
+Para el caso especial de una **onda electromagnética en el vacío**, tenemos:
 
 1. La **amplitud** del **campo eléctrico** es igual a
 
@@ -136,4 +146,26 @@ $$
 B = \varepsilon_0\mu_0 cE
 .$$
 
-(Recordemos que $c = 3 \times 10^{8}$ es la **velocidad de la luz** en el vacío)
+(Recordemos que $c = 3 \times 10^{8} \mathrm{\frac{m}{s}}$ es la **velocidad de la luz** en el vacío)
+
+### Rapidez
+
+1. En el **vacío**:
+
+$$
+c = \frac{1}{\sqrt{\varepsilon_0\mu_0}} = 3 \cdot 10^{8} \mathrm{\frac{m}{s}}
+$$
+
+2. En un **medio** (dieléctrico):
+
+$$
+v = \frac{1}{\sqrt{KK_m}}
+$$
+
+Además, se sigue cumpliendo que la velocidad de la onda es igual a
+
+$$
+v = \lambda f
+$$
+
+donde $\lambda$ es la **longitud de onda** y $f$ es la **frecuencia**.
