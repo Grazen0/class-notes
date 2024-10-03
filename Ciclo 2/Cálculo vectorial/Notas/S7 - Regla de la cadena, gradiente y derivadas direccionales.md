@@ -33,7 +33,7 @@ La gradiente $\nabla f(x_0,y_0)$ es **perpendicular** a la **curva (o superficie
 Se define la **derivada direccional** de la función $f$ en la dirección $\vec{u}$ como
 
 $$
-D_\vec{u} f := \nabla f \cdot \vec{u}
+D_\vec{u} f = \nabla f \cdot \vec{u}
 ,$$
 
 donde $\vec{u}$ **tiene que ser un vector unitario**.
