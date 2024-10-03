@@ -225,4 +225,3 @@
 
 - Kelvin sigue preocupado por su rol en el experimento.
 	- Reflexiona un poco más sobre Solaris.
-- 
