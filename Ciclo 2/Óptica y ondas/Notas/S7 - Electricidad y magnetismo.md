@@ -61,11 +61,11 @@ donde $Q_\text{enc}$ es la carga eléctrica contenida en la superficie.
 
 #### Ley de Gauss del magnetismo
 
-El flujo magnético a través de una superficie cerrada es cero.
+El flujo magnético a través de una superficie cerrada es cero. Matemáticamente,
 
 $$
 \oint \vec{B} \, d\vec{A} = 0
-$$
+.$$
 
 #### Ley de Faraday
 
