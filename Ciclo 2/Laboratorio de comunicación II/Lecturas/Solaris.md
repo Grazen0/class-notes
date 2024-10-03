@@ -222,3 +222,4 @@
 	- Reflexiona que el ser humano busca explorar el cosmos sin conocer si quiera el funcionamiento de su propio cerebro.
 
 ### 11. Los pensadores
+
