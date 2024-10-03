@@ -18,17 +18,6 @@ kanban-plugin: board
 
 ## 📄 Evaluaciones
 
-- [ ] **Cálculo - EA 3**
-	
-	- [x] Funciones vectoriales
-		- [x] Vector unitario normal y tangencial
-		- [x] Componente tangencial y normal de la aceleración
-	- [x] Derivadas parciales
-	- [x] Curvas de nivel
-	- [x] Diferenciales y errores
-	
-	@{03-10-2024} 
-	#calculo #lab #grupal
 - [ ] **[[Solaris]]**
 	
 	@{03-10-2024} 
@@ -74,6 +63,17 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **Cálculo - EA 3**
+	
+	- [x] Funciones vectoriales
+		- [x] Vector unitario normal y tangencial
+		- [x] Componente tangencial y normal de la aceleración
+	- [x] Derivadas parciales
+	- [x] Curvas de nivel
+	- [x] Diferenciales y errores
+	
+	@{03-10-2024} 
+	#calculo #lab #grupal
 
 
 ***
