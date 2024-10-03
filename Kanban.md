@@ -18,10 +18,6 @@ kanban-plugin: board
 
 ## 📄 Evaluaciones
 
-- [ ] **[[Solaris]]**
-	
-	@{03-10-2024} 
-	#comu
 - [ ] **Discretas - Examen 1**
 	
 	- [x] Inducción
@@ -63,6 +59,10 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **[[Solaris]]**
+	
+	@{03-10-2024} 
+	#comu
 - [x] **Cálculo - EA 3**
 	
 	- [x] Funciones vectoriales
