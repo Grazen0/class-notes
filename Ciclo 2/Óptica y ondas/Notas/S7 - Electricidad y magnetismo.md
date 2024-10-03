@@ -49,7 +49,7 @@ La **permeabilidad magnética** $(\mu_0)$ de un medio es la capacidad que tiene 
 
 ### Las leyes
 
-#### Ley de Gauss
+#### Ley de Gauss de la electricidad
 
 El flujo eléctrico a través de una superficie cerrada es proporcional a la carga total contenida en dicha **superficie**. Matemáticamente,
 
