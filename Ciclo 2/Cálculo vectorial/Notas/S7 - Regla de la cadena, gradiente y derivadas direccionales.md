@@ -45,3 +45,5 @@ La derivada direccional representa la **tasa de cambio** de $f$ en la dirección
 El máximo valor de $D_\vec{u}f$ en $(x_0,y_0,z_0)$ es igual a $\lVert \nabla f(x_0,y_0,z_0) \rVert$, y va en la dirección de este último.
 
 ```
+
+Este teorema significa que podemos hallar la **mayor tasa de cambio** de $f$ en un punto cualquiera $(x_0,y_0)$. Simplemente evaluamos $\nabla f$ en $(x_0,y_0)$ y calculamos su módulo.
