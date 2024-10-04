@@ -128,25 +128,25 @@ Nótese que estas funciones **producen vectores**. Cada una incluye una **direcc
 
 Para el caso especial de una **onda electromagnética en el vacío**, tenemos:
 
-1. La **amplitud** del **campo eléctrico** es igual a
+1. La **magnitud** del **campo eléctrico** es igual a
+
+$$
+\lVert \vec{E} \rVert  = c\lVert \vec{B} \rVert 
+.$$
+
+	- En particular,
 
 $$
 E_\text{máx} = cB_\text{máx}
 .$$
 
-2. La **magnitud** del **campo eléctrico** es igual a
-
-$$
-E = cB
-.$$
-
-3. La **magnitud** del **campo magnético** es igual a
+2. La **magnitud** del **campo magnético** es igual a
 
 $$
 B = \varepsilon_0\mu_0 cE
 .$$
 
-(Recordemos que $c = 3 \times 10^{8} \mathrm{\frac{m}{s}}$ es la **velocidad de la luz** en el vacío)
+(Recordemos que $c = 3 \cdot 10^{8} \mathrm{\frac{m}{s}}$ es la **velocidad de la luz** en el vacío)
 
 ### Rapidez
 
