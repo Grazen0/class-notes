@@ -1,4 +1,4 @@
-Vamos a describir a la luz como una **onda**.
+Para propósitos de este curso, describimos a la luz como una **onda**.
 
 ## Fuerza y campos eléctricos
 
