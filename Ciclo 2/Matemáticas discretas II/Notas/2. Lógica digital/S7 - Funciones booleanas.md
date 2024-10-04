@@ -30,7 +30,7 @@ Existen $2^{2n}$ funciones booleanas de $n$ variables.
 
 Esto implica que es posible caracterizar por completo a una función booleana en base a sus valores de salida.
 
-## min-términos y max-términos
+## Min-términos y max-términos
 
 ```ad-definition
 

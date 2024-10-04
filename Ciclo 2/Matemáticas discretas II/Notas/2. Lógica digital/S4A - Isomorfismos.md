@@ -1,7 +1,7 @@
 ```ad-definition
 title: Definición (encaje).
 
-Sean $(X, \preceq)$ y $(X', \preceq')$ dos CPOs. Una función $f : X \to X'$ es llamada un **encaje** de $(X, \preceq)$ en $(X', \preceq')$ si y sólo si
+Sean $(X, \preceq)$ y $(X', \preceq')$ dos [[S3 - Relaciones de orden|CPO]]s. Una función $f : X \to X'$ es llamada un **encaje** de $(X, \preceq)$ en $(X', \preceq')$ si y sólo si
 
 1. $f$ es inyectiva, y
 2. $f(x) \preceq' f(y) \iff x \preceq y$.

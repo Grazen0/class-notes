@@ -3,7 +3,7 @@
 ```ad-definition
 title: Definición (álgebra boolleana).
 
-Una retícula acotada $S$ es una **álgebra booleana** si y sólo si:
+Una [[S5 - Retículas|retícula]] acotada $S$ es una **álgebra booleana** si y sólo si:
 
 1. es **complementada**, y
 2. es **distributiva**.

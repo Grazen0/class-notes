@@ -1,3 +1,5 @@
+Ver también: [[S4 - Ondas mecánicas]]
+
 ## Ondas en una cuerda
 
 ### Energía mecánica

@@ -2,7 +2,7 @@
 
 ```ad-definition
 
-Un CPO $(A, \preceq)$ es una **retícula** si y sólo si todo par de elementos de $A$ tiene supremo e ínfimo. Esto es:
+Un CPO $(A, \preceq)$ es una **retícula** si y sólo si todo par de elementos de $A$ tiene [[S4B - Ínfimos y supremos|supremo e ínfimo]]. Esto es:
 
 $$
 \forall a,b \in A \, (\exists \operatorname{sup}\left\{ a,b \right\} \in A \land \exists \operatorname{inf}\left\{ a,b \right\} \in A)

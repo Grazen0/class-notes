@@ -1,3 +1,5 @@
+Ver también: [[S5 - Ondas mecánicas 2]].
+
 - Una onda es una **perturbación** que se propaga a través de un medio.
 - Una onda **transfiere energía** de un punto a otro **sin transferencia de materia**.
 

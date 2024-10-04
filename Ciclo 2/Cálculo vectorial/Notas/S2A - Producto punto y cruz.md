@@ -35,6 +35,8 @@ $$
 
 El producto cruz de $\vec{v}$ y $\vec{w}$ es un vector perpendicular a $\vec{v}$ y $\vec{w}$, cuyo largo es el área del paralelogramo que forman ambos vectores.
 
+Se calcula con una [[S3 - Determinantes|determinante]].
+
 $$
 \begin{align}
 \vec{v} \times \vec{w} &= \begin{vmatrix}
