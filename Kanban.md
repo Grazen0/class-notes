@@ -20,10 +20,10 @@ kanban-plugin: board
 
 - [ ] **Óptica - EA 3**
 	
-	- [ ] Ondas mecánicas
-		- [ ] Ondas en una cuerda
-		- [ ] Interferencia
-		- [ ] Ondas estacionariaS
+	- [x] Ondas mecánicas
+		- [x] Ondas en una cuerda
+		- [x] Interferencia
+		- [x] Ondas estacionariaS
 	
 	@{04-10-2024} 
 	#optica #lab
@@ -33,7 +33,7 @@ kanban-plugin: board
 	- [x] Sistemas de ecuaciones
 	- [x] Transformaciones lineales
 	- [ ] Espacios vectoriales
-		- [x] Combinaciones lineales
+		- [ ] Combinaciones lineales
 		- [ ] Espacio generado
 		- [x] Independencia lineal
 	
