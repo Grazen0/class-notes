@@ -119,8 +119,10 @@ $$
 \begin{align}
 \vec{E}(x,t) &= E_\text{máx}\cos(kx - \omega t)\hat{j} \\
 \vec{B}(x,t) &= B_\text{máx}\sin(kx - \omega t)\hat{k}
-.\end{align}
+,\end{align}
 $$
+
+donde $E_\text{máx}$ y $B_\text{máx}$ se miden en **teslas** ($\mathrm{T}$).
 
 Nótese que estas funciones **producen vectores**. Cada una incluye una **dirección** ($\hat{j}$ y $\hat{k}$ respectivamente).
 
