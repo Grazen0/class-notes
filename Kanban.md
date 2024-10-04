@@ -18,16 +18,6 @@ kanban-plugin: board
 
 ## 📄 Evaluaciones
 
-- [ ] **Discretas - Examen 1**
-	
-	- [x] Inducción
-	- [ ] Retículas
-		- [ ] Complementaridad
-		- [ ] Distributividad
-	- [ ] Álgebras booleanas
-	
-	@{04-10-2024} 
-	#discretas
 - [ ] **Óptica - EA 3**
 	
 	- [ ] Ondas mecánicas
@@ -58,6 +48,16 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **Discretas - Examen 1**
+	
+	- [x] Inducción
+	- [ ] Retículas
+		- [ ] Complementaridad
+		- [ ] Distributividad
+	- [ ] Álgebras booleanas
+	
+	@{04-10-2024} 
+	#discretas
 
 
 ***
