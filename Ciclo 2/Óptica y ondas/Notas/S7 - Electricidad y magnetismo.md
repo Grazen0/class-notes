@@ -43,9 +43,9 @@ Los campos magnéticos se generan con **flujo eléctrico**. Se denotan con $B$.
 
 ### Constantes involucradas
 
-La **permitividad eléctrica** ($\varepsilon_0$)  de un medio relaciona la **carga eléctrica** con los **efectos físicos** causados por los **campos eléctricos** en ese medio.
+La **permitividad eléctrica** ($\varepsilon$)  de un medio relaciona la **carga eléctrica** con los **efectos físicos** causados por los **campos eléctricos** en ese medio.
 
-La **permeabilidad magnética** $(\mu_0)$ de un medio es la capacidad que tiene de variar sus características físicas ante la presencia de un **campo magnético**.
+La **permeabilidad magnética** $(\mu)$ de un medio es la capacidad que tiene de variar sus características físicas ante la presencia de un **campo magnético**.
 
 ### Las leyes
 
