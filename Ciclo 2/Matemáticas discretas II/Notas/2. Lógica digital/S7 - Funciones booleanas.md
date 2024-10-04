@@ -24,7 +24,7 @@ Resulta que para cada $n$ específico, en realidad no existen muchas funciones b
 ```ad-proposition
 title: Observación.
 
-Existen $2^{2n}$ funciones booleanas de $n$ variables.
+Existen $2^{2n}$ funciones booleanas para una cantidad $n$ de variables.
 
 ```
 
