@@ -128,7 +128,7 @@ Nótese que estas funciones **producen vectores**. Cada una incluye una **direcc
 
 Para el caso especial de una **onda electromagnética en el vacío**, tenemos:
 
-1. La **magnitud** del **campo eléctrico** es igual a
+1. Las **magnitudes de los campos** se relacionan de la siguiente manera:
 
 $$
 \lVert \vec{E} \rVert  = c\lVert \vec{B} \rVert 
