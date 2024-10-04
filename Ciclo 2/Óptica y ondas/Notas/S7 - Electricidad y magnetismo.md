@@ -159,7 +159,7 @@ $$
 2. En un **medio** (dieléctrico):
 
 $$
-v = \frac{1}{\sqrt{KK_m}}
+v = \frac{1}{\sqrt{\varepsilon\mu}} = \frac{c}{\sqrt{KK_m}}
 $$
 
 Además, se sigue cumpliendo que la velocidad de la onda es igual a
