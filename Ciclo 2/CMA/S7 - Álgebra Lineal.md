@@ -21,6 +21,8 @@ $$
 .\end{align}
 $$
 
+Otro ejemplo de espacio vectorial es el siguiente:
+
 Sea $X$ un conjunto no vacío cualquiera, y sea $\mathcal{F}(X, \R)$ el conjunto de todas las funciones reales del tipo $X \to \R$. Entonces, $\mathcal{F}(X,\R)$ es un espacio vectorial cuando se definen las operaciones de suma y producto por escalar intuitivamente:
 
 $$
