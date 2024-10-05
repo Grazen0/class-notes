@@ -39,25 +39,6 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
-- [x] **Óptica - EA 3**
-	
-	- [x] Ondas mecánicas
-		- [x] Ondas en una cuerda
-		- [x] Interferencia
-		- [x] Ondas estacionariaS
-	
-	@{04-10-2024} 
-	#optica #lab
-- [x] **Discretas - Examen 1**
-	
-	- [x] Inducción
-	- [ ] Retículas
-		- [ ] Complementaridad
-		- [ ] Distributividad
-	- [ ] Álgebras booleanas
-	
-	@{04-10-2024} 
-	#discretas
 
 
 ***
@@ -478,6 +459,25 @@ kanban-plugin: board
 	
 	@{03-10-2024} 
 	#comu
+- [x] **Óptica - EA 3**
+	
+	- [x] Ondas mecánicas
+		- [x] Ondas en una cuerda
+		- [x] Interferencia
+		- [x] Ondas estacionariaS
+	
+	@{04-10-2024} 
+	#optica #lab
+- [x] **Discretas - Examen 1**
+	
+	- [x] Inducción
+	- [ ] Retículas
+		- [ ] Complementaridad
+		- [ ] Distributividad
+	- [ ] Álgebras booleanas
+	
+	@{04-10-2024} 
+	#discretas
 
 %% kanban:settings
 ```
