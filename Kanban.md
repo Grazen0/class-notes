@@ -23,9 +23,9 @@ kanban-plugin: board
 	- [x] Propiedades de los determinantes
 	- [x] Sistemas de ecuaciones
 	- [x] Transformaciones lineales
-	- [ ] Espacios vectoriales
-		- [ ] Combinaciones lineales
-		- [ ] Espacio generado
+	- [x] Espacios vectoriales
+		- [x] Combinaciones lineales
+		- [x] Espacio generado
 		- [x] Independencia lineal
 	
 	@{07-10-2024} 
