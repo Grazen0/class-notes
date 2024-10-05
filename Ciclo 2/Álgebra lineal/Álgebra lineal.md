@@ -12,6 +12,7 @@
 	- [[S5 - Transformaciones lineales]]
 	- [[S6 - Espacios vectoriales]]
 	- [[S7 - Subespacios fundamentales]]
+	- [[S8 - Vectores y valores propios]]
 - [[Referencia MATLAB]]
 
 %% End Waypoint %%
