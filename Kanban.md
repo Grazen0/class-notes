@@ -34,6 +34,9 @@ kanban-plugin: board
 	
 	@{09-10-2024} 
 	#comu
+- [ ] **Cálculo - EA 4**
+	
+	- [ ] Gradiente y derivada direccional
 
 
 ## 👍 Completado
