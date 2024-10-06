@@ -33,7 +33,7 @@ Las **fuentes** de campos magnéticos son **siempre dipolos** (norte y sur).
 
 Las líneas de campo magnético viajan **de norte a sur**.
 
-### Campos magnéticos ()
+### Campos magnéticos
 
 Los campos magnéticos se generan con **flujo eléctrico**. Se denotan con $B$.
 
@@ -130,22 +130,19 @@ Nótese que estas funciones **producen vectores**. Cada una incluye una **direcc
 
 Para el caso especial de una **onda electromagnética en el vacío**, tenemos:
 
-1. Las **magnitudes de los campos** se relacionan de la siguiente manera:
-
 $$
 \lVert \vec{E} \rVert  = c\lVert \vec{B} \rVert 
 .$$
 
-	- En particular,
+En particular:
 
 $$
 E_\text{máx} = cB_\text{máx}
 .$$
 
-2. La **magnitud** del **campo magnético** es igual a
-
+Y además:
 $$
-B = \varepsilon_0\mu_0 cE
+\lVert \vec{B} \rVert  = \varepsilon_0\mu_0 c\lVert \vec{E} \rVert 
 .$$
 
 (Recordemos que $c = 3 \cdot 10^{8} \mathrm{\frac{m}{s}}$ es la **velocidad de la luz** en el vacío)

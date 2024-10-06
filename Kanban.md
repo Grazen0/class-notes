@@ -36,7 +36,26 @@ kanban-plugin: board
 	#comu
 - [ ] **Cálculo - EA 4**
 	
-	- [ ] Gradiente y derivada direccional
+	- [x] Gradiente y derivada direccional.
+		- [x] Curvas de nivel
+	- [x] Diferenciales y errores
+	- [x] Linealización
+- [ ] **Óptica - EA 4**
+	
+	- [x] Ondas mecánicas
+	- [ ] Ondas de sonido
+		- [ ] Desplazamiento y presión
+			- [ ] Velocidad
+			- [ ] Presión máx.
+		- [ ] Intensidad
+		- [ ] Ondas estacionarias en un tubo
+		- [ ] Nivel sonoro
+		- [ ] Efecto Doppler
+	- [ ] Electricidad y magnetismo
+		- [ ] Ley de Coulomb
+		- [ ] Descripción matemática
+		- [ ] Relaciones entre las magnitudes
+		- [ ] Velocidad
 
 
 ## 👍 Completado
