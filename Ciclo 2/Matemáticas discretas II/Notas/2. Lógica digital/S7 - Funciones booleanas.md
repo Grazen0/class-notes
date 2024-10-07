@@ -116,6 +116,10 @@ La FND de una función es única (salvo el orden).
 
 ## Representación en código
 
+Al haber una cantidad determinada de funciones booleanas para una cantidad $n$ de variables, resulta que podemos ponerle un "código" a cada una.
+
+### Como suma de min-términos
+
 Dada una función booleana como suma de min-términos, le podemos asignar a cada variable un $1$ o $0$ dependiendo de si está complementada o no
 
 $$
@@ -174,3 +178,14 @@ f(x,y,z) = \sum_{m}(2,4,6)
 .$$
 
 ```
+
+### Como producto de max-términos
+
+El proceso es análogo al de los min-términos, sólo que se invierte el dígito binario asignado a las variables:
+
+$$
+\begin{align}
+x \to 0 \\
+\overline{x} \to 1
+.\end{align}
+$$
