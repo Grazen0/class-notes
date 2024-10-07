@@ -195,3 +195,12 @@ Además, una función $f$ se denota en este caso como
 $$
 \prod_{M}(k_1,k_2,\ldots,k_n)
 .$$
+
+### Relación entre las dos representaciones
+
+```ad-proposition
+title: Propiedad.
+
+Sea $f$ una función booleana. Entonces, $\overline{f}$ es una función que usa los **min-términos que $f$ no contiene**.
+
+```
