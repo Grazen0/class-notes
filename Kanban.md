@@ -18,18 +18,6 @@ kanban-plugin: board
 
 ## 📄 Evaluaciones
 
-- [ ] **Lineal - Examen parcial**
-	
-	- [x] Propiedades de los determinantes
-	- [x] Sistemas de ecuaciones
-	- [x] Transformaciones lineales
-	- [x] Espacios vectoriales
-		- [x] Combinaciones lineales
-		- [x] Espacio generado
-		- [x] Independencia lineal
-	
-	@{07-10-2024} 
-	#lineal #lab
 - [ ] **Examen de puntuación**
 	
 	@{09-10-2024} 
@@ -61,6 +49,18 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **Lineal - Examen parcial**
+	
+	- [x] Propiedades de los determinantes
+	- [x] Sistemas de ecuaciones
+	- [x] Transformaciones lineales
+	- [x] Espacios vectoriales
+		- [x] Combinaciones lineales
+		- [x] Espacio generado
+		- [x] Independencia lineal
+	
+	@{07-10-2024} 
+	#lineal #lab
 
 
 ***
