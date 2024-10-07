@@ -114,7 +114,7 @@ La FND de una función es única (salvo el orden).
 
 ```
 
-### "Códigos" para las funciones booleanas
+## Representación en código
 
 Dada una función booleana como suma de min-términos, le podemos asignar a cada variable un $1$ o $0$ dependiendo de si está complementada o no
 
@@ -135,9 +135,15 @@ $$
 
 donde $k_i$ es la representación binaria del $i$-ésimo min-término.
 
+Algunos ejemplos son:
+
+- $f(x,y,z) = (x \cdot y) + (\overline{x} \cdot z) = \sum_{m}(1,3,6,7)$.
+- $g(x,y,z) = 1 = \sum_{m}(0,1,2,3,4,5,6,7)$.
+- $h(x,y,z) = 0 = \sum_{m}()$.
+
 ```ad-example
 title: Ejemplo.
-collapse: open
+collapse: closed
 
 Sea la función booleana
 
