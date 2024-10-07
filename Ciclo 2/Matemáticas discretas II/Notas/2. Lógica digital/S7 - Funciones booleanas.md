@@ -120,12 +120,12 @@ Al haber una cantidad determinada de funciones booleanas para una cantidad $n$ d
 
 ### Como suma de min-términos
 
-Dada una función booleana como suma de min-términos, le podemos asignar a cada variable un $1$ o $0$ dependiendo de si está complementada o no
+Dada una función booleana como suma de min-términos, le podemos asignar a cada variable un $1$ o $0$ dependiendo de si está complementada o no.
 
 $$
 \begin{align}
-x \to 1 \\
-\overline{x} \to 0
+x &\to 1 \\
+\overline{x} &\to 0
 \end{align}
 $$
 
@@ -185,7 +185,13 @@ El proceso es análogo al de los min-términos, sólo que se invierte el dígito
 
 $$
 \begin{align}
-x \to 0 \\
-\overline{x} \to 1
+x &\to 0 \\
+\overline{x} &\to 1
 .\end{align}
 $$
+
+Además, una función $f$ se denota en este caso como
+
+$$
+\prod_{M}(k_1,k_2,\ldots,k_n)
+.$$
