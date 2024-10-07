@@ -24,7 +24,7 @@ Resulta que para cada $n$ específico, en realidad no existen muchas funciones b
 ```ad-proposition
 title: Observación.
 
-Existen $2^{2n}$ funciones booleanas para una cantidad $n$ de variables.
+Existen $2^{2^n}$ funciones booleanas para una cantidad $n$ de variables.
 
 ```
 
@@ -114,4 +114,57 @@ La FND de una función es única (salvo el orden).
 
 ```
 
-### 
+### "Códigos" para las funciones booleanas
+
+Dada una función booleana como suma de min-términos, le podemos asignar a cada variable un $1$ o $0$ dependiendo de si está complementada o no
+
+$$
+\begin{align}
+x \to 1 \\
+\overline{x} \to 0
+\end{align}
+$$
+
+A cada min-término entonces le asignamos un número binario en base a esto.
+
+Luego, denotamos la función como
+
+$$
+\sum_{m}(k_1,k_2,\ldots,k_n)
+$$
+
+donde $k_i$ es la representación binaria del $i$-ésimo min-término.
+
+```ad-example
+title: Ejemplo.
+collapse: open
+
+Sea la función booleana
+
+$$
+f(x,y,z) = x \cdot (y + \overline{y}) \cdot \overline{z} + (x + \overline{x}) \cdot y \cdot \overline{z}
+.$$
+
+Como suma de min-términos, es igual a
+
+$$
+f(x,y,z) = (x \cdot y \cdot \overline{z}) + (x \cdot \overline{y} \cdot \overline{z}) + (\overline{x} \cdot y \cdot \overline{z})
+.$$
+
+Estos min-términos tienen los siguientes "códigos":
+
+$$
+\begin{align}
+x \cdot y \cdot \overline{z} \to 110_{(2)} &= 6 \\
+x \cdot \overline{y} \cdot \overline{z} \to 100_{(2)} &= 4 \\
+\overline{x} \cdot y \cdot \overline{z} \to 010_{(2)} &= 2
+.\end{align}
+$$
+
+Por ende, podemos expresar $f$ como
+
+$$
+f(x,y,z) = \sum_{m}(2,4,6)
+.$$
+
+```
