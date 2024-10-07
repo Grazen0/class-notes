@@ -198,9 +198,13 @@ $$
 
 ### Relación entre las dos representaciones
 
+La dualidad de la suma y producto en el álgebra booleana nos da un resultado interesante.
+
 ```ad-proposition
 title: Propiedad.
 
-Sea $f$ una función booleana. Entonces, $\overline{f}$ es una función que usa los **min-términos que $f$ no contiene**.
+Sea $f$ una función booleana. Entonces, $\overline{f}$ es la función que usa los **min-términos que $f$ no contiene**.
 
 ```
+
+Es decir, uno puede obtener la FND a partir de los códigos que le faltan a la FNC, y viceversa.
