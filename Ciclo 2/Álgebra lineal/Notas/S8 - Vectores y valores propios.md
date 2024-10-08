@@ -6,7 +6,9 @@ $$
 A\mathbf{x} = \lambda \mathbf{x}
 $$
 
-para algún escalar $\lambda$. A $\lambda$ se le llama el **valor propio** asociado a $\mathbf{x}$.
+para algún escalar $\lambda$.
+
+A $\lambda$ se le llama el **valor propio** asociado a $\mathbf{x}$.
 
 ```
 
