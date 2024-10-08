@@ -8,7 +8,7 @@ kanban-plugin: board
 
 - [ ] **Proyecto RC 2**
 	
-	@{10-10-2024} 
+	@{10-10-2024} @@{20:00} 
 	#lineal #teo #grupal
 
 
@@ -37,7 +37,7 @@ kanban-plugin: board
 			- [ ] Presión máx.
 		- [ ] Intensidad
 		- [ ] Ondas estacionarias en un tubo
-		- [ ] Nivel sonoro
+		- [x] Nivel sonoro
 		- [ ] Efecto Doppler
 	- [ ] Electricidad y magnetismo
 		- [ ] Ley de Coulomb
