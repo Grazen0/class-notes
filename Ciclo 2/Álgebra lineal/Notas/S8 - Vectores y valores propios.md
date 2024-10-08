@@ -42,10 +42,24 @@ El polinomio característico de una matriz de orden $n$ tiene grado $n$, por lo 
 
 ## Espacio propio
 
+```ad-definition
+
+Sea $A$ una matriz y $\lambda$ un valor propio de $A$. Entonces, llamamos **espacio propio asociado a $\lambda$** (denotado por $E_\lambda$)
+
+$$
+\begin{align}
+E_\lambda &:= \left\{ \mathbf{x} \in \R^n \lmid (A - \lambda I_n)\mathbf{x} = \mathbf{0} \right\} \\
+    &= \operatorname{Nu}(A - \lambda I_n)
+\end{align}
+$$
+
+```
+
+
 Como para cada valor propio $\lambda$ existen varios vectores $\mathbf{x}$ tales que
 
 $$
 p_A(\lambda) = (A - \lambda I_n)\mathbf{x} = \mathbf{0}
 ,$$
 
-entonces a este conjunto de **vectores**
+entonces a este conjunto de vectores propios de $A$ le llamamos **espacio propio asociado a $\lambda$**, y se denota como $E_\lambda$
