@@ -23,6 +23,8 @@ p_A(\lambda) = |A - \lambda I_n|
 
 ```
 
+A los valores propios de la matriz $A$ se le llama **espectro** de $A$, y se denota como $\sigma(A)$.
+
 Para hallar valores propios, tenemos que resolver el sistema
 
 $$
@@ -30,3 +32,15 @@ p_A(\lambda) = \left| A - \lambda I_n \right| = 0
 .$$
 
 Esta es llamada la **ecuación característica**.
+
+```ad-proposition
+title: Observación.
+
+El polinomio característico de una matriz de orden $n$ tiene grado $n$, por lo que la ecuación característica tendrá $n$ raíces.
+
+```
+
+## Espacio propio
+
+Como para cada valor propio $\lambda$ existen varios vectores $\mathbf{x}$ tales que
+
