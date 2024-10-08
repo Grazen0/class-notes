@@ -44,3 +44,8 @@ El polinomio característico de una matriz de orden $n$ tiene grado $n$, por lo 
 
 Como para cada valor propio $\lambda$ existen varios vectores $\mathbf{x}$ tales que
 
+$$
+p_A(\lambda) = (A - \lambda I_n)\mathbf{x} = \mathbf{0}
+,$$
+
+entonces a este conjunto de **vectores**
