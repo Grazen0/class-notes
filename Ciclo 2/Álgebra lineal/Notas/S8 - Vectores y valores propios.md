@@ -55,11 +55,21 @@ $$
 
 ```
 
-
-Como para cada valor propio $\lambda$ existen varios vectores $\mathbf{x}$ tales que
+Es decir, el espacio propio asociado a $\lambda$ son los vectores $\mathbf{x}$ tales que
 
 $$
-p_A(\lambda) = (A - \lambda I_n)\mathbf{x} = \mathbf{0}
-,$$
+A\mathbf{x} = \lambda \mathbf{x}
+$$
 
-entonces a este conjunto de vectores propios de $A$ le llamamos **espacio propio asociado a $\lambda$**, y se denota como $E_\lambda$
+para este $\lambda$ en particular.
+
+```ad-definition
+title: Definición (multiplicidad geométrica de un valor propio).
+
+Sea $A$ una matriz y $\lambda$ un valor propio de $A$. Entonces, la **multiplicidad geométrica** de $\lambda$ es la **dimensión** de $E_\lambda$. Es decir:
+
+$$
+\operatorname{mg}(\lambda) = \operatorname{dim}(E_\lambda)
+.$$
+
+```
