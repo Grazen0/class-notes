@@ -2,6 +2,6 @@
 
 %% Begin Waypoint %%
 - **Notas**
-	- [[S7 - Álgebra Lineal]]
+	- [[S7 - Espacios vectoriales]]
 
 %% End Waypoint %%

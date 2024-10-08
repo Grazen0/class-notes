@@ -76,7 +76,7 @@ $$
 mientras que  en un tubo **cerrado**:
 
 $$
-\lambda_n = \frac{4L}{n} \qquad f_n = n\frac{v}{4L}
+\lambda_n = \frac{4L}{2n-1} \qquad f_n = (2n-1)\frac{v}{4L}
 .$$
 
 ## Nivel sonoro
