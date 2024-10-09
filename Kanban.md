@@ -18,10 +18,6 @@ kanban-plugin: board
 
 ## 📄 Evaluaciones
 
-- [ ] **Examen de puntuación**
-	
-	@{09-10-2024} 
-	#comu
 - [ ] **Cálculo - EA 4**
 	
 	- [x] Gradiente y derivada direccional.
@@ -49,6 +45,10 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **Examen de puntuación**
+	
+	@{09-10-2024} 
+	#comu
 - [x] **Lineal - Examen parcial**
 	
 	- [x] Propiedades de los determinantes
