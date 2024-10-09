@@ -8,7 +8,7 @@ kanban-plugin: board
 
 - [ ] **Proyecto RC 2**
 	
-	@{10-10-2024} @@{20:00} 
+	@{13-10-2024}  @@{20:00} 
 	#lineal #teo #grupal
 
 
