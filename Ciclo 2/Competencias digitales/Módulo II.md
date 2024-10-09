@@ -44,4 +44,8 @@ También es necesario **seleccionar el medio de comunicación apropiado**, en fu
 Las normas APA sirven para:
 
 1. presentar ideas de forma **clara** y **concisa**.
+2. centran al lector en las **ideas** del autor.
+3. ayuda a aplicar **citas** y **referencias** de manera adecuada y ética.
+
+
 
