@@ -6,11 +6,15 @@ $$
 u = \frac{1}{2}\varepsilon_0\lVert \vec{E} \rVert ^2 + \frac{1}{2\mu_0}\lVert \vec{B} \rVert ^2
 .$$
 
-Usando $\lVert \vec{B} \rVert = \frac{\lVert \vec{E} \rVert}c = \sqrt{\varepsilon_0}$
+Usando $\lVert \vec{B} \rVert = \frac{\lVert \vec{E} \rVert}c = \sqrt{\varepsilon_0\mu_0}\lVert \vec{E} \rVert$, obtenemos que
+
+$$
+u = \varepsilon_0E^2
+.$$
 
 ## Frentes de onda
 
-Los campos $\vec{E}$ y $\vec{B}$ forman un **plano perpendicualr** a la propagación de la onda.
+Los campos $\vec{E}$ y $\vec{B}$ forman un **plano perpendicular** a la propagación de la onda.
 
 A cada plano que se propaga con rapidez constante ($c$ o $v$, dependiendo del medio) se le llama **frente de onda**.
 
