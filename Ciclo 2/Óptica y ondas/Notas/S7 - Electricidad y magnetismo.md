@@ -126,6 +126,10 @@ donde $E_\text{máx}$ y $B_\text{máx}$ se miden en **teslas** ($\mathrm{T}$).
 
 Nótese que estas funciones **producen vectores**. Cada una incluye una **dirección** ($\hat{j}$ y $\hat{k}$ respectivamente).
 
+#### Regla de la mano derecha
+
+En general, una onda electromagnética viaja en la dirección de $\vec{E} \times \vec{B}$, por lo que podemos usar la regla de la mano derecha para 
+
 ### Campos
 
 Para el caso especial de una **onda electromagnética en el vacío**, tenemos:
