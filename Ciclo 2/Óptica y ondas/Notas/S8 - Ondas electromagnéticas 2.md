@@ -1,3 +1,5 @@
+Ver también: [[S7 - Ondas electromagnéticas]]
+
 ## Densidad de energía
 
 La **densidad de energía** ($u$) de una OEM es igual a
@@ -72,3 +74,50 @@ p_\text{rad} = \frac{S_\text{prom}}{c} = \frac{2I}{c}
 .$$
 
 ## Reflexión y refracción
+
+Cuando una onda electromagnética incide en una interfaz lisa que separa dos medios:
+
+1. parte de la onda se **refleja**, y
+2. la otra parte se **refracta**.
+
+![[reflexion y refraccion.png]]
+
+### Descripción matemática
+
+La dirección de los rayos de luz se describe en términos de los ángulos que forman **con la normal** a la superficie.
+
+![[angulos en la reflexion y refraccion.png]]
+
+Aquí, se cumple la **ley de reflexión**:
+
+$$
+\theta_a = \theta_r
+,$$
+
+y se cumple la **ley de refracción**:
+
+$$
+n_a\sin(\theta_a) = n_b\sin(\theta_u)
+.$$
+
+#### Índice de refracción
+
+Es una propiedad **intrínseca** al material. Varía según la longitud de onda, y es igual a
+
+$$
+n = \frac{c}{v}
+.$$
+
+### Reflexión total interna
+
+Existe un **ángulo crítico** de incidencia a partir del cual **la luz ya no se refracta**.
+
+$$
+\sin(\theta_\text{crít}) = \frac{n_b}{n_a}
+$$
+
+![[reflexion total interna.png]]
+
+### Tipos de reflexión
+
+![[tipos de reflexion.png]]
