@@ -70,3 +70,5 @@ Si la superficie **refleja** la onda:
 $$
 p_\text{rad} = \frac{S_\text{prom}}{c} = \frac{2I}{c}
 .$$
+
+## Reflexión y refracción
