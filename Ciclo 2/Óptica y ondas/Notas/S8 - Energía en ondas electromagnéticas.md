@@ -1,3 +1,5 @@
+## Densidad de energía
+
 La **densidad de energía** ($u$) de una OEM es igual a
 
 $$
