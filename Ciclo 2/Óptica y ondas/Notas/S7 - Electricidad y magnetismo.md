@@ -130,9 +130,17 @@ Nótese que estas funciones **producen vectores**. Cada una incluye una **direcc
 
 En general, una onda electromagnética viaja en la dirección de $\vec{E} \times \vec{B}$, por lo que podemos usar la regla de la mano derecha para 
 
-### Campos
+Algunas equivalencias útiles son:
 
-Para el caso especial de una **onda electromagnética en el vacío**, tenemos:
+$$
+\begin{align}
+\vec{E} \times \vec{B} &\parallel \vec{S} \\
+\vec{S} \times \vec{E} &\parallel \vec{B} \\
+\vec{B} \times \vec{S} &\parallel \vec{E}
+.\end{align}
+$$
+
+### Campos
 
 $$
 \lVert \vec{E} \rVert  = c\lVert \vec{B} \rVert 

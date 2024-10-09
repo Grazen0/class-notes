@@ -11,6 +11,7 @@
 	- [[S5 - Ondas mecánicas 2]]
 	- [[S6 - Ondas de sonido]]
 	- [[S7 - Electricidad y magnetismo]]
+	- [[S8 - Energía en ondas electromagnéticas]]
 
 %% End Waypoint %%
 
