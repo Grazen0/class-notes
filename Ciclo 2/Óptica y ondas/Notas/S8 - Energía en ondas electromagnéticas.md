@@ -18,6 +18,14 @@ Los campos $\vec{E}$ y $\vec{B}$ forman un **plano perpendicular** a la propagac
 
 A cada plano que se propaga con rapidez constante ($c$ o $v$, dependiendo del medio) se le llama **frente de onda**.
 
+```ad-seealso
+title: En otras palabras...
+
+El frente de onda es, esencialmente, **el frente de la onda a medida que viaja**.
+
+```
+
+
 ### Vector de Poynting
 
 Describe la **potencia de la OEM** por unidad de área. Se define como
@@ -46,3 +54,19 @@ title: Advertencia
 Esta ecuación sólo es válida para **ondas sinusoidales**.
 
 ```
+
+## Presión de radiación
+
+La **presión de radiación** es la **presión ejercida** sobre una superficie expuesta a la radiación electromagnética.
+
+Si la superficie **absorbe** la onda:
+
+$$
+p_\text{rad} = \frac{S_\text{prom}}{c} = \frac{I}{c}
+.$$
+
+Si la superficie **refleja** la onda:
+
+$$
+p_\text{rad} = \frac{S_\text{prom}}{c} = \frac{2I}{c}
+.$$
