@@ -11,3 +11,5 @@ Una **infografía interactiva** es un diagrama visual que incluye textos, imáge
 
 ## Creación y gestión de audio y video
 
+## Integra, combina y reelabora contenidos digitales
+
