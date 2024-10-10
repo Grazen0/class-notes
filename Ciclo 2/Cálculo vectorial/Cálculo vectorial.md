@@ -12,9 +12,7 @@
 	- [[S3 - Rectas y planos en el espacio]]
 	- [[S4 - Funciones vectoriales]]
 	- [[S5 - Funciones de varias variables]]
-	- [[S6A - Incrementos, diferenciales y errores]]
 	- [[S6B - Linelización]]
-	- [[S7 - Regla de la cadena, gradiente y derivadas direccionales]]
 
 %% End Waypoint %%
 
