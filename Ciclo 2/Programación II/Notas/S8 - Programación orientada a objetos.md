@@ -72,7 +72,7 @@ La implementación de la clase se delega a un archivo separado:
 
 ```cpp
 // dog.cpp
-#include <dog.h>
+#include "dog.h"
 
 class Dog {
 private:
