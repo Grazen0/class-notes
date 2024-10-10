@@ -40,3 +40,74 @@ Suele ser una buena práctica poner **atributos en privado** y **métodos en pú
 Las clases se suelen representar de forma abstracta en un diagrama como el siguiente:
 
 ![[diagrama uml.png]]
+
+## Clases con cabeceras
+
+Suele ser buena práctica declarar clases en archivos de cabeceras.
+
+```cpp
+// dog.h
+#ifndef DOG_H
+#define DOG_H
+
+class Dog {
+private:
+	std::string name;
+	std::string breed;
+
+public:
+	Dog(std::string name, std::string breed);
+
+	void bark();
+	std::string get_name();
+	std::string get_breed();
+
+	~Dog();
+};
+
+#endif DOG_H
+```
+
+La implementación de la clase se delega a un archivo separado:
+
+```cpp
+// dog.cpp
+#include <dog.h>
+
+class Dog {
+private:
+	std::string name;
+	std::string breed;
+
+public:
+	Dog(std::string name, std::string breed);
+
+	void bark();
+	std::string get_name();
+	std::string get_breed();
+
+	~Dog();
+};
+
+Dog::Dog(std::string name, std::string breed) {
+	this->name = name;
+	this->breed = breed;
+	std::cout << name << " ha nacido." << std::endl;
+}
+
+void Dog::bark() {
+	std::cout << this->name << " dice \"Guau!\"" << std::endl;
+}
+
+std::string Dog::get_name() {
+	return this->name;
+}
+
+std::string Dog::get_breed() {
+	return this->breed;
+}
+
+Dog::~Dog() {
+	std::cout << this->name << " ha dejado de existir" << std::endl;
+}
+```
