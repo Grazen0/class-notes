@@ -128,7 +128,7 @@ Nótese que estas funciones **producen vectores**. Cada una incluye una **direcc
 
 #### Regla de la mano derecha
 
-En general, una onda electromagnética viaja en la dirección de $\vec{E} \times \vec{B}$, por lo que podemos usar la regla de la mano derecha para 
+En general, una onda electromagnética viaja en la dirección de $\vec{E} \times \vec{B}$, por lo que podemos usar la regla de la mano derecha para determinar dicha dirección.
 
 Algunas equivalencias útiles son:
 

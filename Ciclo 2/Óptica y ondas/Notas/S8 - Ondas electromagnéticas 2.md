@@ -33,7 +33,7 @@ El frente de onda es, esencialmente, **el frente de la onda a medida que viaja**
 Describe la **potencia de la OEM** por unidad de área. Se define como
 
 $$
-\vec{S} = \frac{1}{\mu_0}(\vec{E} \times \vec{B})
+\vec{S} = \frac{\vec{E} \times \vec{B}}{\mu_0}
 ,$$
 
 y su magnitud (por ende) es igual a
