@@ -42,7 +42,7 @@ f(x,y) = \overline{x} + \overline{y}
 title: Ejemplo 2 (4 variables).
 collapse: closed
 
-El mapa de Karnough de la función
+El mapa de Karnaugh de la función
 
 $$
 g(x,y,z) = (x \cdot \overline{y} \cdot z) + (x \cdot \overline{y} \cdot \overline{z}) + (\overline{x} \cdot y \cdot z) + (\overline{x} \cdot \overline{y} \cdot z) + (\overline{x} \cdot \overline{y} \cdot \overline{z})
@@ -65,7 +65,7 @@ g(x,y,z) = \overline{y} + (\overline{x} \cdot \overline{y})
 title: Ejemplo 3 (8 variables).
 collapse: closed
 
-El mapa de Karnough de la expresión
+El mapa de Karnaugh de la expresión
 
 $$
 wxyz + wxy\overline{z} + wx\overline{y}\overline{z} + w\overline{x}yz + w\overline{x}\overline{y}z + w\overline{x}\overline{y}\overline{z} + \overline{w}x\overline{y}z + \overline{w}\overline{x}yz + \overline{w}\overline{x}y\overline{z}
