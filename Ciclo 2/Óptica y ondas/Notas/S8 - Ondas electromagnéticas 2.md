@@ -44,11 +44,11 @@ $$
 
 #### Intensidad de la onda electromagnética
 
-Usando el vector de Poynting, definimos la **intensidad de radiación en **
+Usando el vector de Poynting, definimos la **intensidad de radiación** en el frente de plano como
 
 $$
 I = S_\text{prom} = \frac{1}{2}\varepsilon_0c(E_\text{máx})^2
-$$
+.$$
 
 ```ad-warning
 title: Advertencia
