@@ -37,6 +37,10 @@ f(x,y) = \overline{x} + \overline{y}
 
 ```
 
+```ad-example
+title: Ejemplo 2.
+collapse: closed
+
 El mapa de Karnough de la función
 
 $$
@@ -46,3 +50,12 @@ $$
 es el siguiente:
 
 ![[4 variable kmap.excalidraw]]
+
+Por lo tanto, la suma minimal de productos de $g$ es igual a
+
+$$
+g(x,y,z) = \overline{y} + (\overline{x} \cdot \overline{y})
+.$$
+
+
+```
