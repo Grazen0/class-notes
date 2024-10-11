@@ -27,10 +27,6 @@ void pass_by_reference(std::vector<int>& vec) {
 	vec.push_back(42);
 }
 
-void pass_by_reference_2(std::vector<int>& vec) {
-	vec.push_back(42);
-}
-
 std::vector<int> my_vec { 1, 2, 3 };
 
 // No modifica al vector
