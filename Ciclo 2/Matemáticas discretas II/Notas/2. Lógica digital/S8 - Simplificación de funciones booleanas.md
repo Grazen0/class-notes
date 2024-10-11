@@ -37,8 +37,12 @@ f(x,y) = \overline{x} + \overline{y}
 
 ```
 
-Por otro lado, el mapa de Karnaugh de la función booleana
+El mapa de Karnough de la función
 
 $$
-g(x,y,z) = (x \cdot y \cdot \overline{z})
+g(x,y,z) = (x \cdot \overline{y} \cdot z) + (x \cdot \overline{y} \cdot \overline{z}) + (\overline{x} \cdot y \cdot z) + (\overline{x} \cdot \overline{y} \cdot z) + (\overline{x} \cdot \overline{y} \cdot \overline{z})
 $$
+
+es el siguiente:
+
+![[4 variable kmap.excalidraw]]
