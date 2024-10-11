@@ -79,7 +79,7 @@ $$
 \lambda_n = \frac{4L}{n} \qquad f_n = n\frac{v}{4L}
 $$
 
-para $n = 1,2,3,\ldots$
+para $n = 1,3,5,\ldots$
 
 ## Nivel sonoro
 
