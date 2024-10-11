@@ -6,3 +6,12 @@ Usaremos **mapas de Karnaugh** (k-maps): un método visual para simplificar expr
 
 - Se crea una celda para cada min-término.
 - Se dice que dos min-términos son **adyacentes** cuando difieren en exactamente un literal (variable).
+
+Por ejemplo, el mapa de Karnaugh de
+
+$$
+f(x,y) = (x \cdot \overline{y}) + (\overline{x} \cdot y)
+$$
+
+es el siguiente:
+![[2 variable kmap.excalidraw]]
