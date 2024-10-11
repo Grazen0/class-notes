@@ -18,12 +18,6 @@ kanban-plugin: board
 
 ## 📄 Evaluaciones
 
-- [ ] **Cálculo - EA 4**
-	
-	- [x] Gradiente y derivada direccional.
-		- [x] Curvas de nivel
-	- [x] Diferenciales y errores
-	- [x] Linealización
 - [ ] **Óptica - EA 4**
 	
 	- [x] Ondas mecánicas
@@ -45,6 +39,12 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **Cálculo - EA 4**
+	
+	- [x] Gradiente y derivada direccional.
+		- [x] Curvas de nivel
+	- [x] Diferenciales y errores
+	- [x] Linealización
 - [x] **Examen de puntuación**
 	
 	@{09-10-2024} 
