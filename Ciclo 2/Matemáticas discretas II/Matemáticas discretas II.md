@@ -15,6 +15,7 @@
 		- [[S6A - Subretículas]]
 		- [[S6B - Álgebras booleanas]]
 		- [[S7 - Funciones booleanas]]
+		- [[S8 - Simplificación de funciones booleanas]]
 
 %% End Waypoint %%
 
