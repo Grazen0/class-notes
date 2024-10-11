@@ -26,11 +26,11 @@ kanban-plugin: board
 			- [ ] Velocidad
 			- [ ] Presión máx.
 		- [ ] Intensidad
-		- [ ] Ondas estacionarias en un tubo
+		- [x] Ondas estacionarias en un tubo
 		- [x] Nivel sonoro
-		- [ ] Efecto Doppler
+		- [x] Efecto Doppler
 	- [ ] Electricidad y magnetismo
-		- [ ] Ley de Coulomb
+		- [x] Ley de Coulomb
 		- [ ] Descripción matemática
 		- [ ] Relaciones entre las magnitudes
 		- [ ] Velocidad
