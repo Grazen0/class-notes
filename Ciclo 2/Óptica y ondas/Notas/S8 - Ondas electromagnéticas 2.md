@@ -8,7 +8,7 @@ $$
 u = \frac{1}{2}\varepsilon_0\lVert \vec{E} \rVert ^2 + \frac{1}{2\mu_0}\lVert \vec{B} \rVert ^2
 .$$
 
-Usando $\lVert \vec{B} \rVert = \frac{\lVert \vec{E} \rVert}c = \sqrt{\varepsilon_0\mu_0}\lVert \vec{E} \rVert$, obtenemos que
+Usando $\lVert \vec{B} \rVert = \frac{\lVert \vec{E} \rVert}c = \sqrt{\varepsilon_0\mu_0}\lVert \vec{E} \rVert$, obtenemos que $u$ es simplemente
 
 $$
 u = \varepsilon_0E^2
