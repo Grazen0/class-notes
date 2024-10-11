@@ -18,49 +18,11 @@ kanban-plugin: board
 
 ## 📄 Evaluaciones
 
-- [ ] **Óptica - EA 4**
-	
-	- [x] Ondas mecánicas
-	- [ ] Ondas de sonido
-		- [ ] Desplazamiento y presión
-			- [ ] Velocidad
-			- [ ] Presión máx.
-		- [ ] Intensidad
-		- [x] Ondas estacionarias en un tubo
-		- [x] Nivel sonoro
-		- [x] Efecto Doppler
-	- [ ] Electricidad y magnetismo
-		- [x] Ley de Coulomb
-		- [ ] Descripción matemática
-		- [ ] Relaciones entre las magnitudes
-		- [ ] Velocidad
 
 
 ## 👍 Completado
 
 **Complete**
-- [x] **Cálculo - EA 4**
-	
-	- [x] Gradiente y derivada direccional.
-		- [x] Curvas de nivel
-	- [x] Diferenciales y errores
-	- [x] Linealización
-- [x] **Examen de puntuación**
-	
-	@{09-10-2024} 
-	#comu
-- [x] **Lineal - Examen parcial**
-	
-	- [x] Propiedades de los determinantes
-	- [x] Sistemas de ecuaciones
-	- [x] Transformaciones lineales
-	- [x] Espacios vectoriales
-		- [x] Combinaciones lineales
-		- [x] Espacio generado
-		- [x] Independencia lineal
-	
-	@{07-10-2024} 
-	#lineal #lab
 
 
 ***
@@ -500,6 +462,44 @@ kanban-plugin: board
 	
 	@{04-10-2024} 
 	#discretas
+- [x] **Lineal - Examen parcial**
+	
+	- [x] Propiedades de los determinantes
+	- [x] Sistemas de ecuaciones
+	- [x] Transformaciones lineales
+	- [x] Espacios vectoriales
+		- [x] Combinaciones lineales
+		- [x] Espacio generado
+		- [x] Independencia lineal
+	
+	@{07-10-2024} 
+	#lineal #lab
+- [x] **Examen de puntuación**
+	
+	@{09-10-2024} 
+	#comu
+- [x] **Cálculo - EA 4**
+	
+	- [x] Gradiente y derivada direccional.
+		- [x] Curvas de nivel
+	- [x] Diferenciales y errores
+	- [x] Linealización
+- [x] **Óptica - EA 4**
+	
+	- [x] Ondas mecánicas
+	- [ ] Ondas de sonido
+		- [ ] Desplazamiento y presión
+			- [ ] Velocidad
+			- [ ] Presión máx.
+		- [ ] Intensidad
+		- [x] Ondas estacionarias en un tubo
+		- [x] Nivel sonoro
+		- [x] Efecto Doppler
+	- [ ] Electricidad y magnetismo
+		- [x] Ley de Coulomb
+		- [ ] Descripción matemática
+		- [ ] Relaciones entre las magnitudes
+		- [ ] Velocidad
 
 %% kanban:settings
 ```
