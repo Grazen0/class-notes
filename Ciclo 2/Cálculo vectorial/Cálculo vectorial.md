@@ -15,7 +15,7 @@
 	- [[S6A - Incrementos, diferenciales y errores]]
 	- [[S6B - Linelización]]
 	- [[S7 - Regla de la cadena, gradiente y derivadas direccionales]]
-	- [[S9 -]]
+	- [[S9 - Optimización]]
 
 %% End Waypoint %%
 
