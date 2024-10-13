@@ -6,10 +6,16 @@ kanban-plugin: board
 
 ## ☕ Tareas
 
-- [ ] **Proyecto RC 2**
+- [ ] **Progra - Proyecto A**
 	
-	@{13-10-2024}  @@{20:00} 
-	#lineal #teo #grupal
+	- [x] Código
+	- [ ] Informe
+		- [ ] Diagrama de flujo
+		- [ ] Pregunta 2
+		- [ ] Pregunta 3
+	
+	@{18-10-2024} 
+	#progra #teo #grupal
 
 
 ## 📚 Lecturas
@@ -23,6 +29,10 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **Proyecto RC 2**
+	
+	@{13-10-2024}  @@{20:00} 
+	#lineal #teo #grupal
 
 
 ***
