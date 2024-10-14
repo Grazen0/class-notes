@@ -1,0 +1,20 @@
+{
+  "daysToSuppressNewUpdates": 0,
+  "dismissedVersionsByPluginId": {
+    "omnisearch": {
+      "pluginId": "omnisearch",
+      "pluginRepoPath": "scambier/obsidian-omnisearch",
+      "dismissedVersions": []
+    },
+    "homepage": {
+      "pluginId": "homepage",
+      "pluginRepoPath": "mirnovov/obsidian-homepage",
+      "dismissedVersions": []
+    }
+  },
+  "showIconOnMobile": true,
+  "excludeBetaVersions": true,
+  "excludeDisabledPlugins": false,
+  "minUpdateCountToShowIcon": 0,
+  "hoursBetweenCheckingForUpdates": 0.5
+}
