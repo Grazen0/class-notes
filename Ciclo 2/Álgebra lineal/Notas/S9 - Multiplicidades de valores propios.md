@@ -30,7 +30,7 @@ $$
 Por el teorema de rango-nulidad, la multiplicidad geométrica cumple con la relación
 
 $$
-\operatorname{mg}(\lambda) + \operatorname{rank}(A - \lambda I_n)
+\operatorname{mg}(\lambda) + \operatorname{rank}(A - \lambda I_n) = \text{\# de columnas}
 .$$
 
 ```ad-theorem

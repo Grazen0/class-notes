@@ -64,14 +64,3 @@ A\mathbf{x} = \lambda \mathbf{x}
 $$
 
 para este $\lambda$ en particular.
-
-```ad-definition
-title: Definición (multiplicidad geométrica de un valor propio).
-
-Sea $A$ una matriz y $\lambda$ un valor propio de $A$. Entonces, la **multiplicidad geométrica** de $\lambda$ es la **dimensión** de $E_\lambda$. Es decir:
-
-$$
-\operatorname{mg}(\lambda) = \operatorname{dim}(E_\lambda)
-.$$
-
-```
