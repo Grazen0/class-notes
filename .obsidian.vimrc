@@ -6,6 +6,9 @@ set clipboard=unnamed
 " <Esc> clears highlights
 nnoremap <Esc> :nohl
 
+" Better redo
+nnoremap <S-u> <C-R>
+
 " navigate visual lines rather than logical ones
 nnoremap j gj
 nnoremap k gk
