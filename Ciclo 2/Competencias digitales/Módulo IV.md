@@ -1,2 +1,0 @@
-## Protección de dispositivos
-
