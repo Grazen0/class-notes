@@ -16,6 +16,8 @@
 		- [[S6B - Álgebras booleanas]]
 		- [[S7 - Funciones booleanas]]
 		- [[S8 - Mapas de Karnaugh]]
+	- **3. Conteo y recurrencia**
+		- [[S9 - Principios básicos de conteo]]
 
 %% End Waypoint %%
 
