@@ -47,7 +47,7 @@ $$
 
 1. $A^n\mathbf{x} = \lambda^n\mathbf{x}$.
 	- Por lo tanto, $\lambda^n$ es valor propio de $A^n$.
-2. $A^{-1} = \frac{1}{\lambda}\mathbf{x}$.
+2. $A^{-1}\mathbf{x} = \frac{1}{\lambda}\mathbf{x}$.
 
 Estas propiedades son intuitivas:
 
