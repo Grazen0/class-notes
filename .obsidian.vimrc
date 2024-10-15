@@ -7,7 +7,7 @@ set clipboard=unnamed
 nnoremap <Esc> :nohl
 
 " Better redo
-nnoremap <S-u> <C-R>
+nnoremap U <C-r>
 
 " navigate visual lines rather than logical ones
 nnoremap j gj
