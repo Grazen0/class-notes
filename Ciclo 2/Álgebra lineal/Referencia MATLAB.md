@@ -114,3 +114,16 @@ A = [
 ];
 V = null(A, 'r') % El 'r' indica que queremos elementos racionales
 ```
+
+## Valores y vectores propios
+
+```
+syms x;
+A = [
+	0  0 -2
+	1  2  1
+	1  0  3
+];
+p_A = charpoly(A, x) % Polinomio característico de A
+L = solve(p_A) % Valores propios de A
+```
