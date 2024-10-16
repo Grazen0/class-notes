@@ -24,4 +24,4 @@ La puntuación **intraoracional** se divide de la siguiente forma:
 
 Hace mucho tiempo que no vamos todos juntos a visitar a mi primo. A todo esto, me escribió anoche para preguntarme cómo estábamos por aquí.
 
-Le debemos incontables teoremas matemáticos al célebre matemático Friedrich Gauss. Dicho sea de paso, Gauss también era físico.
+Le debemos incontables avances matemáticos al célebre matemático Friedrich Gauss. Dicho sea de paso, Gauss también era físico.
