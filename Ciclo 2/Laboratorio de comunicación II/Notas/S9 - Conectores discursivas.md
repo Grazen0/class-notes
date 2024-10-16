@@ -22,6 +22,4 @@ La puntuación **intraoracional** se divide de la siguiente forma:
 	3. **Consecutivas o ilativas** *(A, de ahí que B. / A, por lo que B. / A, conque B.)*
 3. **Conectores discursivos** *\[O1]. \[O2] - O1 y O2 independientes*
 
-Hace mucho tiempo que no vamos todos juntos a visitar a mi primo. A todo esto, me escribió anoche para preguntarme cómo estábamos por aquí.
-
 Le debemos incontables avances matemáticos al célebre matemático Friedrich Gauss. Dicho sea de paso, Gauss también era físico.
