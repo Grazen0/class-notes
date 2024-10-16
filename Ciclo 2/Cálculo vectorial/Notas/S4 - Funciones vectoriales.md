@@ -47,10 +47,12 @@ $$
 donde
 
 $$
-a_T = \frac{\lvert \vec{a} \cdot \vec{v} \rvert}{\lVert \vec{v} \rVert } \qquad a_N = \frac{\lVert \vec{a} \times \vec{v} \rVert }{\lVert \vec{v} \rVert }
-.$$
+a_T = \frac{\lvert \vec{a} \cdot \vec{v} \rvert}{\lVert \vec{v} \rVert } = \frac{d^2s}{dt^2} \qquad a_N = \frac{\lVert \vec{a} \times \vec{v} \rVert }{\lVert \vec{v} \rVert }
+,$$
 
-De aquí obtenemos una equivalencia útil:
+siendo $s(t) = \lVert r(t) \rVert$.
+
+De aquí también obtenemos una equivalencia útil:
 
 $$
 (a_T)^2 + (a_N)^2 = \lVert \vec{a} \rVert ^2
