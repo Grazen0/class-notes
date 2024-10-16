@@ -3,9 +3,6 @@ set tabstop=4
 " yank to system clipboard
 set clipboard=unnamed
 
-" <Esc> clears highlights
-nnoremap <Esc> :nohl
-
 " Better redo
 nnoremap U <C-r>
 
