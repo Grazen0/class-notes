@@ -24,37 +24,15 @@ kanban-plugin: board
 
 ## 📄 Evaluaciones
 
-- [ ] **Lineal - EA 3**
-	
-	@{22-10-2024}
-	#lineal #lab
-- [ ] **Óptica - Parcial**
-	
-	@{23-10-2024}
-	#optica #teo
-- [ ] **Vecto - Parcial**
-	
-	@{24-10-2024} 
-	#calculo #teo
-- [ ] **Comu - PC 2**
-	
-	Redacción sobre Solaris.
-	
-	@{24-10-2024}
-	#comu
-- [ ] **Discretas - PC 2**
-	
-	@{25-10-2024} 
-	#discretas #grupal
-- [ ] **Progra - PC 2**
-	
-	@{25-10-2024}
-	#progra #lab
 
 
 ## 👍 Completado
 
 **Complete**
+- [x] **Proyecto RC 2**
+	
+	@{13-10-2024}  @@{20:00} 
+	#lineal #teo #grupal
 
 
 ***
@@ -532,10 +510,6 @@ kanban-plugin: board
 		- [ ] Descripción matemática
 		- [ ] Relaciones entre las magnitudes
 		- [ ] Velocidad
-- [x] **Proyecto RC 2**
-	
-	@{13-10-2024}  @@{20:00} 
-	#lineal #teo #grupal
 
 %% kanban:settings
 ```
