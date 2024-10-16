@@ -11,7 +11,7 @@
 	- [[S5,6 - Fundamentos de puntuación y la coma]]
 	- [[S6 - Coma con conectores]]
 	- [[S7 - Ejercicios de puntuación]]
-	- [[S9 - Repaso de puntuación]]
+	- [[S9 - Construcciones ilativas]]
 
 %% End Waypoint %%
 
