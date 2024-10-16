@@ -19,3 +19,6 @@ La puntuación **intraoracional** se divide de la siguiente forma:
 		1. **Reales** *(Si A, B. / Aunque A, B. // B si A. / B aunque A.)*
 		2. **No reales** *(Si A, B. / Aunque A, B. // B, si A. / B, aunque A.)*
 		3. **Condicional de enunciación**
+	3. **Consecutivas o ilativas** *(A, de ahí que B / A, por lo que B / A, conque B)*
+3. **Conectores discursivos**
+	1. 

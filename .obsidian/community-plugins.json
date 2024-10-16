@@ -20,5 +20,6 @@
   "obsidian-checklist-plugin",
   "obsidian-admonition",
   "obsidian-style-settings",
-  "calendar"
+  "calendar",
+  "obsidian-relative-line-numbers"
 ]

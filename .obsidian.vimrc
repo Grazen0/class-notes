@@ -9,6 +9,12 @@ nnoremap <Esc> :nohl
 " Better redo
 nnoremap U <C-r>
 
+" Cycle tabs with HL
+exmap tabprev obcommand workspace:previous-tab
+exmap tabnext obcommand workspace:next-tab
+nnoremap H :tabprev
+nnoremap L :tabnext
+
 " navigate visual lines rather than logical ones
 nnoremap j gj
 nnoremap k gk
