@@ -46,7 +46,7 @@ El método de multiplicadores de Lagrange se usa para optimizar una función **b
 ```ad-proposition
 title: Método de multiplicadores de Lagrange.
 
-Sea $f$ la función objetivo, y $g(x,y,z) = k$ la función ligadura. Entonces, para optimizar $f$, realizamos lo siguiente:
+Sea $f$ la función objetivo, y $g(x,y,z) = k$ la función restricción. Entonces, para optimizar $f$, realizamos lo siguiente:
 
 1. Resolver los sistemas de ecuaciones para $x$, $y$, $z$ y $\lambda$:
 
