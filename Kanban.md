@@ -9,10 +9,10 @@ kanban-plugin: board
 - [ ] **Progra - Proyecto A**
 	
 	- [x] Código
-	- [ ] Informe
-		- [ ] Diagrama de flujo
-		- [ ] Pregunta 2
-		- [ ] Pregunta 3
+	- [x] Informe
+		- [x] Diagrama de flujo
+		- [x] Pregunta 2
+		- [x] Pregunta 3
 	
 	@{18-10-2024} 
 	#progra #teo #grupal
@@ -29,10 +29,6 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
-- [x] **Proyecto RC 2**
-	
-	@{13-10-2024}  @@{20:00} 
-	#lineal #teo #grupal
 
 
 ***
@@ -510,6 +506,10 @@ kanban-plugin: board
 		- [ ] Descripción matemática
 		- [ ] Relaciones entre las magnitudes
 		- [ ] Velocidad
+- [x] **Proyecto RC 2**
+	
+	@{13-10-2024}  @@{20:00} 
+	#lineal #teo #grupal
 
 %% kanban:settings
 ```
