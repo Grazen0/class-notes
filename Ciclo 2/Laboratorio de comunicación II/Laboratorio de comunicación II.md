@@ -11,7 +11,8 @@
 	- [[S5,6 - Fundamentos de puntuación y la coma]]
 	- [[S6 - Coma con conectores]]
 	- [[S7 - Ejercicios de puntuación]]
-	- [[S9 - Conectores discursivos]]
+	- [[S9A - Conectores discursivos]]
+	- [[S9B - El párrafo y sus tipos]]
 
 %% End Waypoint %%
 
