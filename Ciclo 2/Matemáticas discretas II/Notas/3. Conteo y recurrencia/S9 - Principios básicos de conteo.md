@@ -37,3 +37,6 @@ formas de desarrollar la tarea.
 ```
 
 Nótese que por "opciones disjuntas" nos referimos a opciones **que no se pueden dar simultáneamente**.
+
+## Principio de inclusión exclusión
+
