@@ -17,7 +17,8 @@
 		- [[S7 - Funciones booleanas]]
 		- [[S8 - Mapas de Karnaugh]]
 	- **3. Conteo y recurrencia**
-		- [[S9 - Principios básicos de conteo]]
+		- [[S9A - Principios básicos de conteo]]
+		- [[S9B - Permutaciones]]
 
 %% End Waypoint %%
 
