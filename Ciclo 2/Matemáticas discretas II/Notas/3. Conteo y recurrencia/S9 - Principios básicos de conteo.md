@@ -104,10 +104,30 @@ $$
 El conteo por complemento es útil para situaciones donde es más fácil contar lo que está fuera del conjunto que lo que está dentro.
 
 ```ad-exercise
+title: Ejercicio 1.
 collapse: closed
 
 ¿Cuántos subconjuntos de $A = \left\{ 1,2,3,4,5,6,7 \right\}$ tienen por lo menos un elemento impar?
 
 **Resolución:** Por el contrario, $A$ tiene $2^3$ subconjuntos que no tienen ningún número impar. Como $A$ tiene $2^7$ subconjuntos en total, entonces tiene $2^7 - 2^3$ subconjuntos con al menos un elemento impar.
+
+```
+
+```ad-exercise
+title: Ejercicio 2.
+collapse: closed
+
+¿Cuántos números naturales de $4$ dígitos cumplen que al multiplicar sus dígitos se obtiene un número par?
+
+
+**Resolución:** Esta proposición es equivalente a
+
+> ¿Cuántos números naturales de $4$ dígitos tienen al menos un dígito par? 
+
+Entonces, la negación de esta proposición sería la cantidad de números naturales de $4$ dígitos solamente de dígitos impares.
+
+Existen $5^4$ números de $4$ dígitos solamente impares. Además, existen $9000$ números de $4$ dígitos en total.
+
+Por lo tanto, existen $9000 - 5^4 = 8375$ números de $4$ dígitos tales que al menos uno de sus dígitos es par.
 
 ```
