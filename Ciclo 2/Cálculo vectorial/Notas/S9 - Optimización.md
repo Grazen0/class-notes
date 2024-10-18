@@ -30,6 +30,7 @@ D(x,y) = |H_f(x,y)| = f_{xx} f_{yy} - (f_{xy})^2
 .$$
 
 ```ad-theorem
+title: Teorema (prueba de la segunda derivada).
 
 - Si $D(a,b) > 0$ y $f_{xx}(a,b) > 0$, entonces $(a,b)$ es un **mínimo local**.
 - Si $D(a,b) > 0$ y $f_{xx}(a,b) < 0$, entonces $(a,b)$ es un **máximo local**.
