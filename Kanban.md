@@ -6,16 +6,6 @@ kanban-plugin: board
 
 ## ☕ Tareas
 
-- [ ] **Progra - Proyecto A**
-	
-	- [x] Código
-	- [x] Informe
-		- [x] Diagrama de flujo
-		- [x] Pregunta 2
-		- [x] Pregunta 3
-	
-	@{18-10-2024} 
-	#progra #teo #grupal
 
 
 ## 📚 Lecturas
@@ -29,6 +19,16 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **Progra - Proyecto A**
+	
+	- [x] Código
+	- [x] Informe
+		- [x] Diagrama de flujo
+		- [x] Pregunta 2
+		- [x] Pregunta 3
+	
+	@{18-10-2024} 
+	#progra #teo #grupal
 
 
 ***
