@@ -29,13 +29,13 @@ kanban-plugin: board
 	#optica #teo
 - [ ] **Vecto - Parcial**
 	
-	- [ ] Vectores
-		- [ ] Proyección
-	- [ ] Funciones vectoriales
+	- [x] Vectores
+		- [x] Proyección
+	- [x] Funciones vectoriales
 		- [x] Longitud de arco
 		- [x] Vector normal unitario
 		- [x] Vector tangente unitario
-		- [ ] Componentes de la aceleración
+		- [x] Componentes de la aceleración
 	- [x] Funciones multivariable
 		- [x] Derivadas parciales
 			- [x] Interpretación
