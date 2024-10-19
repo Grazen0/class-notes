@@ -29,13 +29,39 @@ kanban-plugin: board
 	#optica #teo
 - [ ] **Vecto - Parcial**
 	
+	- [ ] Vectores
+		- [ ] Proyección
+	- [ ] Funciones vectoriales
+		- [x] Longitud de arco
+		- [x] Vector normal unitario
+		- [x] Vector tangente unitario
+		- [ ] Componentes de la aceleración
+	- [x] Funciones multivariable
+		- [x] Derivadas parciales
+			- [x] Interpretación
+		- [x] Curvas de nivel
+	- [x] Diferenciales
+	- [x] Gradiente
+	- [x] Derivada direccional
+	
 	@{24-10-2024} 
 	#calculo #lab
 - [ ] **Comu - PC 2**
 	
+	- [ ] Conectores subordinantes
+	- [ ] Tipos de párrafo
+	- [ ] Lectura de Solaris
+	
 	@{24-10-2024} 
 	#comu
 - [ ] **Discretas - PC 2**
+	
+	- [ ] Álgebras booleanas
+	- [ ] Funciones booleanas
+		- [ ] Min/máx-términos
+		- [ ] Mapas de Karnaugh
+	- [ ] Conteo
+		- [ ] Permutaciones
 	
 	@{25-10-2024} 
 	#discretas #lab #grupal
