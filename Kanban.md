@@ -14,6 +14,30 @@ kanban-plugin: board
 
 ## 📄 Evaluaciones
 
+- [ ] **Lineal - EA 3**
+	
+	@{22-10-2024} 
+	#lineal #lab
+- [ ] **Óptica - Parcial**
+	
+	@{23-10-2024} 
+	#optica #teo
+- [ ] **Vecto - Parcial**
+	
+	@{24-10-2024} 
+	#calculo #lab
+- [ ] **Comu - PC 2**
+	
+	@{24-10-2024} 
+	#comu
+- [ ] **Discretas - PC 2**
+	
+	@{25-10-2024} 
+	#discretas #lab #grupal
+- [ ] **Progra - PC 2**
+	
+	@{25-10-2024} 
+	#progra #lab
 
 
 ## 👍 Completado
