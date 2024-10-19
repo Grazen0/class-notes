@@ -50,7 +50,7 @@ $$
 a_T = \frac{\lvert \vec{a} \cdot \vec{v} \rvert}{\lVert \vec{v} \rVert } = \frac{d^2s}{dt^2} \qquad a_N = \frac{\lVert \vec{a} \times \vec{v} \rVert }{\lVert \vec{v} \rVert }
 ,$$
 
-siendo $s(t) = \lVert r(t) \rVert$.
+siendo $s(t) = \lVert \vec{r}(t) \rVert$.
 
 De aquí también obtenemos una equivalencia útil:
 
