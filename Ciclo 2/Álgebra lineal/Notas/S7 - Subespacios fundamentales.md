@@ -133,3 +133,28 @@ entonces:
 1. Una base para $\operatorname{row}(A)$ son las $r$ filas pivote de $R$.
 2. Una base para $\operatorname{col}(A)$ son las $r$ columnas pivote de $A$.
 3. Una base para $\operatorname{null}(A^{T})$ son las últimas $m - r$ filas de $E$.
+
+
+Por ejemplo:
+
+Sea la matriz
+
+$$
+A = \begin{bmatrix}
+-1 & -2 & 0 & 4 & 5 & -3 \\
+-3 & -7 & 2 & 0 & 1 & 4 \\
+-2 & -5 & 2 & 4 & 6 & 1 \\
+-4 & -9 & 2 & -4 & -4 & 7
+\end{bmatrix}
+.$$
+
+Entonces, la forma escalonada de $[A \mid I_4]$ es igual a
+
+$$
+[R \mid E] = \begin{bmatrix}
+1 & 0 & -4 & -28 & -37 & 13 & 0 & 0 & -\frac{9}{2} & 1 \\
+0 & 1 & -2 & -12 & -16 & 5 & 0 & 0 & -2 & 1 \\
+0 & 0 & 0 & 0 & 0 & 0 & 1 & 0 & -\frac{1}{2} & \frac{1}{2} \\
+0 & 0 & 0 & 0 & 0 & 0 & 0 & 1 & -\frac{1}{2} & -\frac{1}{2}
+\end{bmatrix}
+$$
