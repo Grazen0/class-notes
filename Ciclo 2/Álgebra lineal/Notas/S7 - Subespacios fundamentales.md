@@ -162,5 +162,17 @@ $$
 por lo que
 
 $$
+\begin{align}
+\operatorname{row}(A) = \operatorname{Gen} \left\{ \begin{bmatrix}
+1 \\ 0 \\ -4 \\ -28 \\ -37 \\ 13
+\end{bmatrix}, \begin{bmatrix}
+0 \\ 1 \\ -2 \\ -12 \\ -16 \\ 5
+\
+\end{bmatrix} \right\} \\ \\
 
-$$
+\operatorname{col}(A) = \begin{bmatrix}
+-1 \\ -3 \\ -2 \\ -4
+-2 \\ -7 \\ -5 \\ -9
+\end{bmatrix}
+\end{align}
+.$$
