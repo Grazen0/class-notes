@@ -134,45 +134,56 @@ entonces:
 2. Una base para $\operatorname{col}(A)$ son las $r$ columnas pivote de $A$.
 3. Una base para $\operatorname{null}(A^{T})$ son las últimas $m - r$ filas de $E$.
 
-
-Por ejemplo:
+```ad-example
+title: Ejemplo
+collapse: closed
 
 Sea la matriz
 
 $$
 A = \begin{bmatrix}
--1 & -2 & 0 & 4 & 5 & -3 \\
--3 & -7 & 2 & 0 & 1 & 4 \\
--2 & -5 & 2 & 4 & 6 & 1 \\
--4 & -9 & 2 & -4 & -4 & 7
+\textcolor{red}{-1} & \textcolor{red}{-2} & 0 & 4 & 5 & -3 \\
+\textcolor{red}{-3} & \textcolor{red}{-7} & 2 & 0 & 1 & 4 \\
+\textcolor{red}{-2} & \textcolor{red}{-5} & 2 & 4 & 6 & 1 \\
+\textcolor{red}{-4} & \textcolor{red}{-9} & 2 & -4 & -4 & 7
 \end{bmatrix}
 .$$
 
 Entonces, la forma escalonada de $[A \mid I_4]$ es igual a
 
 $$
-[R \mid E] = \begin{bmatrix}
-1 & 0 & -4 & -28 & -37 & 13 & 0 & 0 & -\frac{9}{2} & 1 \\
-0 & 1 & -2 & -12 & -16 & 5 & 0 & 0 & -2 & 1 \\
-0 & 0 & 0 & 0 & 0 & 0 & 1 & 0 & -\frac{1}{2} & \frac{1}{2} \\
-0 & 0 & 0 & 0 & 0 & 0 & 0 & 1 & -\frac{1}{2} & -\frac{1}{2}
-,\end{bmatrix}
+[R \mid E] = \left[\begin{array}{cccccc|cccc}
+\textcolor{blue}{1} & \textcolor{blue}{0} & \textcolor{blue}{-4} & \textcolor{blue}{-28} & \textcolor{blue}{-37} & \textcolor{blue}{13} & 0 & 0 & -\frac{9}{2} & 1 \\
+\textcolor{blue}{0} & \textcolor{blue}{1} & \textcolor{blue}{-2} & \textcolor{blue}{-12} & \textcolor{blue}{-16} & \textcolor{blue}{{5}} & 0 & 0 & -2 & 1 \\
+0 & 0 & 0 & 0 & 0 & 0 & \textcolor{yellow}{1} & \textcolor{yellow}{0} & \textcolor{yellow}{-\frac{1}{2}} & \textcolor{yellow}{\frac{1}{2}} \\
+0 & 0 & 0 & 0 & 0 & 0 & \textcolor{yellow}{0} & \textcolor{yellow}{1} & \textcolor{yellow}{-\frac{1}{2}} & \textcolor{yellow}{-\frac{1}{2}}
+\end{array}\right]
 $$
 
 por lo que
 
 $$
 \begin{align}
-\operatorname{row}(A) = \operatorname{Gen} \left\{ \begin{bmatrix}
-1 \\ 0 \\ -4 \\ -28 \\ -37 \\ 13
+\operatorname{row}(A) &= \operatorname{Gen} \left\{ \begin{bmatrix}
+\textcolor{blue}{1} \\ \textcolor{blue}{0} \\ \textcolor{blue}{-4} \\ \textcolor{blue}{-28} \\ \textcolor{blue}{-37} \\ \textcolor{blue}{13}
 \end{bmatrix}, \begin{bmatrix}
-0 \\ 1 \\ -2 \\ -12 \\ -16 \\ 5
-\
-\end{bmatrix} \right\} \\ \\
+\textcolor{blue}{0} \\ \textcolor{blue}{1} \\ \textcolor{blue}{-2} \\ \textcolor{blue}{-12} \\ \textcolor{blue}{-16} \\ \textcolor{blue}{5}
+\end{bmatrix} \right\} \\
 
-\operatorname{col}(A) = \begin{bmatrix}
--1 \\ -3 \\ -2 \\ -4
--2 \\ -7 \\ -5 \\ -9
+\operatorname{col}(A) &= \operatorname{Gen} \left\{ \begin{bmatrix}
+\textcolor{red}{-1} \\ \textcolor{red}{-3} \\ \textcolor{red}{-2} \\ \textcolor{red}{-4}
+\end{bmatrix}, \begin{bmatrix}
+\textcolor{red}{-2} \\ \textcolor{red}{-7} \\ \textcolor{red}{-5} \\ \textcolor{red}{-9}
+\end{bmatrix} \right\} \\
+
+\operatorname{Nu}(A^T) &= \operatorname{Gen} \left\{
+\begin{bmatrix}
+\textcolor{yellow}{1} \\ \textcolor{yellow}{0} \\ \textcolor{yellow}{-\frac{1}{2}} \\ \textcolor{yellow}{\frac{1}{2}}
+\end{bmatrix}, \begin{bmatrix}
+\textcolor{yellow}{0} \\ \textcolor{yellow}{1} \\ \textcolor{yellow}{-\frac{1}{2}} \\ \textcolor{yellow}{-\frac{1}{2}}
 \end{bmatrix}
-\end{align}
-.$$
+\right\}
+.\end{align}
+$$
+
+```
