@@ -17,9 +17,9 @@ kanban-plugin: board
 - [ ] **Lineal - EA 3**
 	
 	- [ ] Subespacios fundamentales
-	- [ ] Valores propios
-		- [ ] Espacio propio
-		- [ ] Multiplicidades
+	- [x] Valores propios
+		- [x] Espacio propio
+		- [x] Multiplicidades
 	
 	@{22-10-2024} 
 	#lineal #lab
