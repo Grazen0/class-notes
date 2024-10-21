@@ -19,6 +19,7 @@
 	- **3. Conteo y recurrencia**
 		- [[S9A - Principios básicos de conteo]]
 		- [[S9B - Permutaciones]]
+		- [[S10 - Combinaciones]]
 
 %% End Waypoint %%
 
