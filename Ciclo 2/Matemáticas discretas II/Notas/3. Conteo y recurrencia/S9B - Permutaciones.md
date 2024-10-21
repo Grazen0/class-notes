@@ -14,13 +14,21 @@ Si tenemos $n$ elementos **distintos** que van a ser ubicados en $n$ lugares, es
 
 El siguiente principio responde a la pregunta "¿De cuántas formas podemos permutar cualquier subconjunto de $r$ elementos de un conjunto?"
 
-```ad-proposition
+````ad-proposition
 title: Propiedad (permutaciones de tamaño $r$).
 
 Dada una cantidad $n$ de elementos, el número de permutaciones de tamaño $r$ de dichos elementos es igual a
 
 $$
-n \cdot (n-1) \cdot (n-2) \cdot \ldots \cdot (n - r + 1) = \frac{n!}{(n-r)!}
+P_r^n = n \cdot (n-1) \cdot (n-2) \cdot \ldots \cdot (n - r + 1) = \frac{n!}{(n-r)!}
 .$$
 
+```ad-proof
+collapse: closed
+
+Trivial.
+$$\qed$$
+
 ```
+
+````
