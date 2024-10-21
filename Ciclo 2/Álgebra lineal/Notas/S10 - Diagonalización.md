@@ -60,7 +60,13 @@ También encontramos la siguiente relación directa con la multiplicidad geomét
 
 ```ad-theorem
 
-Una matriz $A$ es diagonalizable si y sólo si $\operatorname{mg}(\lambda) = \operatorname{ma}(\lambda)$ para todo valor propio $\lambda$ de $A$.
+Una matriz $A$ es diagonalizable si y sólo si
+
+$$
+\operatorname{mg}(\lambda) = \operatorname{ma}(\lambda)
+$$
+
+para todo valor propio $\lambda$ de $A$.
 
 ```
 
