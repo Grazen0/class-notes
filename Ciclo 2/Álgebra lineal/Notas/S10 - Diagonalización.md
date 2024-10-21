@@ -56,6 +56,15 @@ Una matriz de $n \times n$ con $n$ valores propios distintos es diagonalizable.
 
 ```
 
+También encontramos la siguiente relación directa con la multiplicidad geométrica.
+
+```ad-theorem
+
+Una matriz $A$ es diagonalizable si y sólo si $\operatorname{mg}(\lambda) = \operatorname{ma}(\lambda)$ para todo valor propio $\lambda$ de $A$.
+
+```
+
+
 ## Proceso de diagonalización
 
 ```ad-theorem
@@ -89,4 +98,6 @@ P = \begin{bmatrix}
 
 Por este teorema, podemos establecer el siguiente proceso para diagonalizar una matriz $A$:
 
-1. Verificar que $A$ es diagonalizable buscando sus $n$ vectores propios.
+1. Verificar que $A$ es diagonalizable buscando sus $n$ vectores propios y comprobando su independencia lineal.
+2. Construir la matriz $P$ con dichos vectores.
+3. Opcionalmente, construir la matriz $D$ con los valores propios obtenidos.
