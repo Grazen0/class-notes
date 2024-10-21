@@ -6,7 +6,7 @@ title: Principio de las combinaciones.
 Dado un conjunto de $n$ elementos, la cantidad de subconjuntos de tamaño $k$ que posee es igual a
 
 $$
-\binom{n}{k} = \frac{n!}{k!(n-k)!}
+C_k^n = \binom{n}{k} = \frac{n!}{k!(n-k)!}
 .$$
 
 ```
