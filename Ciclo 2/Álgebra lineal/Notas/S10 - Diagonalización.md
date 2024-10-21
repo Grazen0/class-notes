@@ -15,7 +15,7 @@ Si $B$ es semejante a $A$, se cumplen las siguientes propiedades:
 - $A$ es semejante a $B$.
 
 ```ad-definition
-title: Definición (diagonalizabilidad).
+title: Definición (diagonalización).
 
 Se dice que una matriz $A$ es **diagonalizable** si y sólo si es **semejante a alguna matriz diagonal**.
 
