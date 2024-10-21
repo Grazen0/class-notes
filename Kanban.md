@@ -23,10 +23,6 @@ kanban-plugin: board
 	
 	@{22-10-2024} 
 	#lineal #lab
-- [ ] **Óptica - Parcial**
-	
-	@{23-10-2024} 
-	#optica #teo
 - [ ] **Vecto - Parcial**
 	
 	- [x] Vectores
@@ -69,6 +65,10 @@ kanban-plugin: board
 	
 	@{25-10-2024} 
 	#progra #lab
+- [ ] **Óptica - Parcial**
+	
+	@{25-10-2024}  
+	#optica #teo
 
 
 ## 👍 Completado
