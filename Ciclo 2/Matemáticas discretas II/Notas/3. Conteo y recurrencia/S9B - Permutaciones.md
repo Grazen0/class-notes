@@ -10,21 +10,6 @@ Si tenemos $n$ elementos **distintos** que van a ser ubicados en $n$ lugares, es
 
 (Por ejemplo, $6$ personas se pueden sentar de $6!$ formas en un sillón para $6$ personas exactamente)
 
-La siguiente propiedad particular de las permutaciones también es interesante.
-
-```ad-proposition
-title: Propiedad (permutaciones en una mesa redonda).
-
-Dada una cantidad $n$ de personas en una mesa circular de $n$ sillas, las personas se pueden ordenar de
-
-$$
-(n-1)!
-$$
-
-maneras posibles (donde dos ordenamientos se consideran iguales si simplemente se tratan del mismo pero con la mesa rotada).
-
-```
-
 ## Ordenamientos con tamaño
 
 El siguiente principio responde a la pregunta "¿De cuántas formas podemos permutar cualquier subconjunto de $r$ elementos de un conjunto?"
@@ -47,3 +32,20 @@ $$\qed$$
 ```
 
 ````
+
+## Permutaciones circulares
+
+La siguiente propiedad particular de las permutaciones también es interesante.
+
+```ad-proposition
+title: Propiedad (permutaciones en una mesa redonda).
+
+Dada una cantidad $n$ de personas en una mesa circular de $n$ sillas, las personas se pueden ordenar de
+
+$$
+{\mathop{P}_c}^n = (n-1)!
+$$
+
+maneras posibles (donde dos ordenamientos se consideran iguales si simplemente se tratan del mismo pero con la mesa rotada).
+
+```
