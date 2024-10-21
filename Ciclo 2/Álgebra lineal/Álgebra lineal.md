@@ -14,6 +14,7 @@
 	- [[S7 - Subespacios fundamentales]]
 	- [[S8 - Vectores y valores propios]]
 	- [[S9 - Multiplicidades de valores propios]]
+	- [[S10 - Diagonalización]]
 - [[Referencia MATLAB]]
 
 %% End Waypoint %%
