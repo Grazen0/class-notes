@@ -43,7 +43,7 @@ Una matriz $A$ de $n \times n$ es diagonalizable si y sólo si tiene $n$ vectore
 
 ```ad-theorem
 
-Si $\lambda_1, \lambda_2,\ldots,\lambda_k$ son valores propios **distintos** de una matriz $A$, y $\mathbf{v}_1,\mathbf{v_2},\ldots,\mathbf{v}_k$ sus correspondientes vectores propios, entonces **estos últimos son linealmente independientes**.
+Si los valores propios de una matriz son **distintos**, entonces sus vectores propios correspondientes son **linealmente independientes**.
 
 ```
 
