@@ -14,15 +14,6 @@ kanban-plugin: board
 
 ## 📄 Evaluaciones
 
-- [ ] **Lineal - EA 3**
-	
-	- [ ] Subespacios fundamentales
-	- [x] Valores propios
-		- [x] Espacio propio
-		- [x] Multiplicidades
-	
-	@{22-10-2024} 
-	#lineal #lab
 - [ ] **Vecto - Parcial**
 	
 	- [x] Vectores
@@ -52,7 +43,7 @@ kanban-plugin: board
 	#comu
 - [ ] **Discretas - PC 2**
 	
-	- [ ] Álgebras booleanas
+	- [x] Álgebras booleanas
 	- [ ] Funciones booleanas
 		- [ ] Min/máx-términos
 		- [ ] Mapas de Karnaugh
@@ -74,6 +65,15 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **Lineal - EA 3**
+	
+	- [x] Subespacios fundamentales
+	- [x] Valores propios
+		- [x] Espacio propio
+		- [x] Multiplicidades
+	
+	@{22-10-2024} 
+	#lineal #lab
 - [x] **Progra - Proyecto A**
 	
 	- [x] Código
