@@ -9,8 +9,8 @@ nnoremap U <C-r>
 " Cycle tabs with HL
 exmap tabprev obcommand workspace:previous-tab
 exmap tabnext obcommand workspace:next-tab
-nnoremap H :tabprev
-nnoremap L :tabnext
+map H :tabprev
+map L :tabnext
 
 " navigate visual lines rather than logical ones
 nnoremap j gj
