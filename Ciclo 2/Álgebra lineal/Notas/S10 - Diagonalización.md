@@ -41,15 +41,9 @@ Una matriz $A$ de $n \times n$ es diagonalizable si y sólo si tiene $n$ vectore
 
 ```
 
+Otro criterio proviene de la propiedad que dice que si dos valores propios son distintos, entonces sus espacios propios respectivos son ortogonales.
+
 ```ad-theorem
-
-Si los valores propios de una matriz son **distintos**, entonces sus vectores propios correspondientes son **linealmente independientes**.
-
-```
-
-Por lo  tanto, tenemos el siguiente corolario.
-
-```ad-proposition
 title: Corolario.
 
 Una matriz de $n \times n$ con $n$ valores propios distintos es diagonalizable.
