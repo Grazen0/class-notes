@@ -65,25 +65,6 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
-- [x] **Lineal - EA 3**
-	
-	- [x] Subespacios fundamentales
-	- [x] Valores propios
-		- [x] Espacio propio
-		- [x] Multiplicidades
-	
-	@{22-10-2024} 
-	#lineal #lab
-- [x] **Progra - Proyecto A**
-	
-	- [x] Código
-	- [x] Informe
-		- [x] Diagrama de flujo
-		- [x] Pregunta 2
-		- [x] Pregunta 3
-	
-	@{18-10-2024} 
-	#progra #teo #grupal
 
 
 ***
@@ -565,6 +546,25 @@ kanban-plugin: board
 	
 	@{13-10-2024}  @@{20:00} 
 	#lineal #teo #grupal
+- [x] **Progra - Proyecto A**
+	
+	- [x] Código
+	- [x] Informe
+		- [x] Diagrama de flujo
+		- [x] Pregunta 2
+		- [x] Pregunta 3
+	
+	@{18-10-2024} 
+	#progra #teo #grupal
+- [x] **Lineal - EA 3**
+	
+	- [x] Subespacios fundamentales
+	- [x] Valores propios
+		- [x] Espacio propio
+		- [x] Multiplicidades
+	
+	@{22-10-2024} 
+	#lineal #lab
 
 %% kanban:settings
 ```
