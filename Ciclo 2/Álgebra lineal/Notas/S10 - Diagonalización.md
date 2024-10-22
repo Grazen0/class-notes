@@ -50,6 +50,8 @@ Una matriz de $n \times n$ con $n$ valores propios distintos es diagonalizable.
 
 ```
 
+### Con multiplicidades
+
 También encontramos la siguiente relación directa con la multiplicidad geométrica.
 
 ```ad-theorem
@@ -63,7 +65,6 @@ $$
 para todo valor propio $\lambda$ de $A$.
 
 ```
-
 
 ## Proceso de diagonalización
 
