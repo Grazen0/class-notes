@@ -21,5 +21,3 @@ La puntuación **intraoracional** se divide de la siguiente forma:
 		3. **Condicional de enunciación**
 	3. **Consecutivas o ilativas** *(A, de ahí que B. / A, por lo que B. / A, conque B.)*
 3. **Conectores discursivos** *\[O1]. \[O2] - O1 y O2 independientes*
-
----
