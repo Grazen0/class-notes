@@ -235,4 +235,5 @@
 	- Es un tomo **obsoleto**.
 		- Hoy en día era más una curiosidad con algo de valor histórico.
 	- Gravinski describe las **fases de la solarística**
-		1. 
+		1. **Fase optimista**
+			- 
