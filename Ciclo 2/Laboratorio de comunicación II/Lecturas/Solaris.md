@@ -225,4 +225,5 @@
 
 - Kelvin sigue preocupado por su rol en el experimento.
 	- Reflexiona un poco más sobre Solaris.
-- Al dia siguiente, Kelvin está más relajado
+- Al dia siguiente, Kelvin está más relajado sobre el experimento.
+- 
