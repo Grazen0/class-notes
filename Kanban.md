@@ -35,7 +35,7 @@ kanban-plugin: board
 	#calculo #lab
 - [ ] **Comu - PC 2**
 	
-	- [ ] Conectores subordinantes
+	- [x] Conectores subordinantes
 	- [ ] Tipos de párrafo
 	- [ ] Lectura de Solaris
 	
