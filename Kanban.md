@@ -46,7 +46,7 @@ kanban-plugin: board
 	- [x] Álgebras booleanas
 	- [ ] Funciones booleanas
 		- [ ] Min/máx-términos
-		- [ ] Mapas de Karnaugh
+		- [x] Mapas de Karnaugh
 	- [ ] Conteo
 		- [ ] Permutaciones
 	
