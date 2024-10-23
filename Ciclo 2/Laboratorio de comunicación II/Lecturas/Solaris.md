@@ -226,4 +226,13 @@
 - Kelvin sigue preocupado por su rol en el experimento.
 	- Reflexiona un poco más sobre Solaris.
 - Al dia siguiente, Kelvin está más relajado sobre el experimento.
-- 
+- Kelvin realiza el experimento, y tiene una especie de trance.
+	- Describe a un "público observador" (*podrían ser una metáfora para su mente agitada que se va relajando, o simplemente de la máquina que "observa" sus pensamientos*)
+- El experimento parece salir bien, Kelvin está seguro.
+- Kelvin y Harey van a la biblioteca
+- Kelvin encuentra el **compendio de Gravinski**.
+	- Es una **compilación de hipótesis Solarianas**.
+	- Es un tomo **obsoleto**.
+		- Hoy en día era más una curiosidad con algo de valor histórico.
+	- Gravinski describe las **fases de la solarística**
+		1. 
