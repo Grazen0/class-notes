@@ -198,7 +198,14 @@ $$
 
 ### Relación entre las dos representaciones
 
-La dualidad de la suma y producto en el álgebra booleana nos da un resultado interesante.
+La dualidad de la suma y producto en el álgebra booleana nos da algunos resultados interesantes.
+
+```ad-proposition
+title: Propiedad.
+
+Sea $f$ una función booleana. Entonces, la representación de $f$ como producto de max-términos utiliza los min-términos que $f$ no contiene.
+
+```
 
 ```ad-proposition
 title: Propiedad.
@@ -208,3 +215,15 @@ Sea $f$ una función booleana. Entonces, $\overline{f}$ es la función que usa l
 ```
 
 Es decir, uno puede obtener la FND a partir de los códigos que le faltan a la FNC, y viceversa.
+
+Por ejemplo, si
+
+$$
+f = \sum_m (0,2,3,4,7)
+,$$
+
+entonces
+
+$$
+f = \prod_{M}(1,5,6) \qquad \text{y} \qquad \overline{f} = \sum_{M}(1,5,6)
+.$$
