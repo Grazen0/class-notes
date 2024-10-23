@@ -55,7 +55,7 @@ es el siguiente:
 Por lo tanto, la suma minimal de productos de $g$ es igual a
 
 $$
-g(x,y,z) = \overline{y} + (\overline{x} \cdot \overline{y})
+g(x,y,z) = \overline{y} + (\overline{x} \cdot z)
 .$$
 
 
