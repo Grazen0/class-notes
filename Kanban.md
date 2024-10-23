@@ -44,8 +44,8 @@ kanban-plugin: board
 - [ ] **Discretas - PC 2**
 	
 	- [x] Álgebras booleanas
-	- [ ] Funciones booleanas
-		- [ ] Min/máx-términos
+	- [x] Funciones booleanas
+		- [x] Min/máx-términos
 		- [x] Mapas de Karnaugh
 	- [ ] Conteo
 		- [ ] Permutaciones

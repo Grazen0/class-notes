@@ -225,5 +225,5 @@ f = \sum_m (0,2,3,4,7)
 entonces
 
 $$
-f = \prod_{M}(1,5,6) \qquad \text{y} \qquad \overline{f} = \sum_{M}(1,5,6)
+f = \prod_{M}(1,5,6) \qquad \text{y} \qquad \overline{f} = \sum_{m}(1,5,6)
 .$$
