@@ -22,9 +22,12 @@ La puntuación **intraoracional** se divide de la siguiente forma:
 	3. **Consecutivas o ilativas** *(A, de ahí que B. / A, por lo que B. / A, conque B.)*
 3. **Conectores discursivos** *\[O1]. \[O2] - O1 y O2 independientes*
 
-1. La solarística que describe Lem en su obra *Solaris* pasa por dos fases.
+---
+
+1. La solarística que describe Lem en su obra *Solaris* atraviesa dos fases principales.
 	1. El nacimiento
 		1. 
 	2. El decaimiento
 		1. Se caracteriza por una falta de innovación en las teorías e hipótesis.
 		2. 
+		
