@@ -14,30 +14,11 @@ kanban-plugin: board
 
 ## 📄 Evaluaciones
 
-- [ ] **Vecto - Parcial**
-	
-	- [x] Vectores
-		- [x] Proyección
-	- [x] Funciones vectoriales
-		- [x] Longitud de arco
-		- [x] Vector normal unitario
-		- [x] Vector tangente unitario
-		- [x] Componentes de la aceleración
-	- [x] Funciones multivariable
-		- [x] Derivadas parciales
-			- [x] Interpretación
-		- [x] Curvas de nivel
-	- [x] Diferenciales
-	- [x] Gradiente
-	- [x] Derivada direccional
-	
-	@{24-10-2024} 
-	#calculo #lab
 - [ ] **Comu - PC 2**
 	
 	- [x] Conectores subordinantes
-	- [ ] Tipos de párrafo
-	- [ ] Lectura de Solaris
+	- [x] Tipos de párrafo
+	- [x] Lectura de Solaris
 	
 	@{24-10-2024} 
 	#comu
@@ -65,6 +46,25 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **Vecto - Parcial**
+	
+	- [x] Vectores
+		- [x] Proyección
+	- [x] Funciones vectoriales
+		- [x] Longitud de arco
+		- [x] Vector normal unitario
+		- [x] Vector tangente unitario
+		- [x] Componentes de la aceleración
+	- [x] Funciones multivariable
+		- [x] Derivadas parciales
+			- [x] Interpretación
+		- [x] Curvas de nivel
+	- [x] Diferenciales
+	- [x] Gradiente
+	- [x] Derivada direccional
+	
+	@{24-10-2024} 
+	#calculo #lab
 
 
 ***
