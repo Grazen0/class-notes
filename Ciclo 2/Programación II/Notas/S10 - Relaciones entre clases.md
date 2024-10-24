@@ -1,0 +1,5 @@
+- **Composición:**
+- **Agregación**
+- **Asociación:** "A tiene un B"
+	- A y B son **independientes**, pero tienen cierta relación|.
+- **Herencia:** "A es una subclase de B"

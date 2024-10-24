@@ -13,6 +13,7 @@
 	- [[S6 - Matrices]]
 	- [[S7 - Vectores e iteradores]]
 	- [[S8 - Programación orientada a objetos]]
+	- [[S10 - Relaciones entre clases]]
 
 %% End Waypoint %%
 
