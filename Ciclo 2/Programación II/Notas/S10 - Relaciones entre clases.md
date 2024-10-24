@@ -39,3 +39,7 @@ Order pizza(2);
 john.set_order(&pizza);
 john.print_order();
 ```
+
+## Agregación
+
+> "A tiene varios B"
