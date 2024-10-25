@@ -11,7 +11,7 @@ u = \frac{1}{2}\varepsilon_0\lVert \vec{E} \rVert ^2 + \frac{1}{2\mu_0}\lVert \v
 Usando $\lVert \vec{B} \rVert = \frac{\lVert \vec{E} \rVert}c = \sqrt{\varepsilon_0\mu_0}\lVert \vec{E} \rVert$, obtenemos que $u$ es simplemente
 
 $$
-u = \varepsilon_0\lVert E \rVert ^2
+u = \varepsilon_0\lVert \vec{E} \rVert ^2
 .$$
 
 ## Frentes de onda
