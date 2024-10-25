@@ -49,3 +49,18 @@ $$
 maneras posibles (donde dos ordenamientos se consideran iguales si simplemente se tratan del mismo pero con la mesa rotada).
 
 ```
+
+## Permutaciones con repetición
+
+```ad-proposition
+title: Propiedad (permutaciones con repetición).
+
+Sean las secuencias de $n$ elementos que contengan $n_1$ elementos del tipo $1$, $n_2$ elementos del tipo $2$ y así sucesivamente. Entonces, la cantidad total de estas secuencias es igual a
+
+$$
+\frac{n!}{n_1!n_2!\ldots n_t!}
+.$$
+
+(Nótese que $n = n_1 + n_2 + \ldots + n_t$.)
+
+```
