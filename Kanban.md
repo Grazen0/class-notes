@@ -14,14 +14,6 @@ kanban-plugin: board
 
 ## 📄 Evaluaciones
 
-- [ ] **Comu - PC 2**
-	
-	- [x] Conectores subordinantes
-	- [x] Tipos de párrafo
-	- [x] Lectura de Solaris
-	
-	@{24-10-2024} 
-	#comu
 - [ ] **Discretas - PC 2**
 	
 	- [x] Álgebras booleanas
@@ -65,6 +57,14 @@ kanban-plugin: board
 	
 	@{24-10-2024} 
 	#calculo #lab
+- [x] **Comu - PC 2**
+	
+	- [x] Conectores subordinantes
+	- [x] Tipos de párrafo
+	- [x] Lectura de Solaris
+	
+	@{24-10-2024} 
+	#comu
 
 
 ***
