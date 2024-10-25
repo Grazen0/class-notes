@@ -16,7 +16,7 @@ Se mide en **joules** ($\text{J}$).
 El trabajo ($W$) se calcula como el producto escalar de la fuerza $\vec{F}$ y el cambio en distancia $\Delta \vec{r}$:
 
 $$
-W = \vec{F} \cdot \Delta \vec{r} = \lVert \vec{F} \rVert \lVert \Delta \vec{r} \rVert \cos(\theta)
+W = \vec{F} \cdot \Delta \vec{r}
 $$
 
 ## Trabajo de una fuerza variable
