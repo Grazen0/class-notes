@@ -28,7 +28,6 @@ kanban-plugin: board
 
 **Complete**
 
-
 ***
 
 ## Archive
