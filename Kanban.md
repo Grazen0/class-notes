@@ -14,25 +14,6 @@ kanban-plugin: board
 
 ## 📄 Evaluaciones
 
-- [ ] **Comu - PC 2**
-	
-	- [x] Conectores subordinantes
-	- [x] Tipos de párrafo
-	- [x] Lectura de Solaris
-	
-	@{24-10-2024} 
-	#comu
-- [ ] **Discretas - PC 2**
-	
-	- [x] Álgebras booleanas
-	- [x] Funciones booleanas
-		- [x] Min/máx-términos
-		- [x] Mapas de Karnaugh
-	- [ ] Conteo
-		- [ ] Permutaciones
-	
-	@{25-10-2024} 
-	#discretas #lab #grupal
 - [ ] **Óptica - Parcial**
 	
 	@{25-10-2024}  
@@ -46,25 +27,6 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
-- [x] **Vecto - Parcial**
-	
-	- [x] Vectores
-		- [x] Proyección
-	- [x] Funciones vectoriales
-		- [x] Longitud de arco
-		- [x] Vector normal unitario
-		- [x] Vector tangente unitario
-		- [x] Componentes de la aceleración
-	- [x] Funciones multivariable
-		- [x] Derivadas parciales
-			- [x] Interpretación
-		- [x] Curvas de nivel
-	- [x] Diferenciales
-	- [x] Gradiente
-	- [x] Derivada direccional
-	
-	@{24-10-2024} 
-	#calculo #lab
 
 
 ***
@@ -565,6 +527,44 @@ kanban-plugin: board
 	
 	@{22-10-2024} 
 	#lineal #lab
+- [x] **Discretas - PC 2**
+	
+	- [x] Álgebras booleanas
+	- [x] Funciones booleanas
+		- [x] Min/máx-términos
+		- [x] Mapas de Karnaugh
+	- [ ] Conteo
+		- [ ] Permutaciones
+	
+	@{25-10-2024} 
+	#discretas #lab #grupal
+- [x] **Comu - PC 2**
+	
+	- [x] Conectores subordinantes
+	- [x] Tipos de párrafo
+	- [x] Lectura de Solaris
+	
+	@{24-10-2024} 
+	#comu
+- [x] **Vecto - Parcial**
+	
+	- [x] Vectores
+		- [x] Proyección
+	- [x] Funciones vectoriales
+		- [x] Longitud de arco
+		- [x] Vector normal unitario
+		- [x] Vector tangente unitario
+		- [x] Componentes de la aceleración
+	- [x] Funciones multivariable
+		- [x] Derivadas parciales
+			- [x] Interpretación
+		- [x] Curvas de nivel
+	- [x] Diferenciales
+	- [x] Gradiente
+	- [x] Derivada direccional
+	
+	@{24-10-2024} 
+	#calculo #lab
 
 %% kanban:settings
 ```
