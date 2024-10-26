@@ -102,3 +102,41 @@ Por este teorema, podemos establecer el siguiente proceso para diagonalizar una 
 1. Verificar que $A$ es diagonalizable buscando sus $n$ vectores propios y comprobando su independencia lineal.
 2. Construir la matriz $P$ con dichos vectores.
 3. Opcionalmente, construir la matriz $D$ con los valores propios obtenidos.
+
+## Aplicación de diagonalización
+
+Una definición reformulada de la diagonalización es la siguiente.
+
+```ad-definition
+title: Definición (diagonalización).
+
+Una matriz es **diagonalizable** si y sólo si existe una matriz invertible $P$ tal que
+
+$$
+A = PDP^{-1}
+$$
+
+es diagonal.
+
+En dicho caso, se dice que $P$ **diagonaliza** a $A$.
+
+```
+
+En particular, una diagonalización nos permite **calcular potencias de matrices** mucho más eficientemente, ya que
+
+$$
+A^k = PD^kP^{-1}
+,$$
+
+y recordemos que si $D$ es diagonal, entonces
+
+$$
+D^k = \begin{bmatrix}
+(d_{11})^k & 0 & \cdots & 0 \\
+0 & (d_{22})^k & \cdots & 0 \\
+0 & 0 & \ddots & 0 \\
+0 & 0 & \cdots & (d_{nn})^k
+\end{bmatrix}
+,$$
+
+lo cual es computacionalmente eficiente.
