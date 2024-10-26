@@ -14,10 +14,6 @@ kanban-plugin: board
 
 ## 📄 Evaluaciones
 
-- [ ] **Óptica - Parcial**
-	
-	@{25-10-2024}  
-	#optica #teo
 - [ ] **Progra - PC 2**
 	
 	@{31-10-2024} 
@@ -27,6 +23,11 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **Óptica - Parcial**
+	
+	@{25-10-2024}  
+	#optica #teo
+
 
 ***
 
