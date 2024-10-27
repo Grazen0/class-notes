@@ -16,6 +16,7 @@
 	- [[S6B - Linelización]]
 	- [[S7 - Regla de la cadena, gradiente y derivadas direccionales]]
 	- [[S9 - Optimización]]
+	- [[S11 - Integrales dobles]]
 
 %% End Waypoint %%
 
