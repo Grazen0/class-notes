@@ -23,10 +23,6 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
-- [x] **Óptica - Parcial**
-	
-	@{25-10-2024}  
-	#optica #teo
 
 
 ***
@@ -565,6 +561,10 @@ kanban-plugin: board
 	
 	@{24-10-2024} 
 	#calculo #lab
+- [x] **Óptica - Parcial**
+	
+	@{25-10-2024}  
+	#optica #teo
 
 %% kanban:settings
 ```
