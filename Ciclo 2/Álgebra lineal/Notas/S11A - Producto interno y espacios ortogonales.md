@@ -75,15 +75,11 @@ Algunas propiedades de $W^{\perp}$ son:
 
 1. $W^{\perp}$ es subespacio de $V$.
 2. $W \cap W^{\perp} = \left\{ \mathbf{0} \right\}$.
-
-Además, si $W$ tiene **dimensión finita**, entonces
-
-$$
-(W^{\perp})^{\perp} = W
-.$$
+3. $(W^{\perp})^{\perp} = W$.
 
 ```ad-example
 title: Ejemplos.
+collapse: closed
 
 1. El complemento ortogonal de una recta $W \subseteq \mathbb{R}^2$ que pasa por el origen es la recta que pasa por el origen y es perpendicular a $W$.
 2. El complemento ortogonal de un plano $W \subseteq \mathbb{R}^3$ que pasa por el origen es la recta normal a $W$.
@@ -93,6 +89,6 @@ title: Ejemplos.
 ```ad-theorem
 
 1. $\operatorname{row}(A)^{\perp} = \operatorname{null}(A)$.
-2. $$
+2. $\operatorname{col}(A)^{\perp} = \operatorname{null}(A^T)$.
 
 ```
