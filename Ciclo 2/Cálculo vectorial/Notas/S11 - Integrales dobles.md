@@ -12,6 +12,29 @@ $$
 
 La integral doble representa el **volumen** por debajo de una función de dos variables en un dominio dado.
 
+Para calcular integrales en un dominio rectangular, podemos usar el siguiente teorema.
+
+```ad-theorem
+
+Sea $D$ una región delimitada por
+
+$$
+\begin{align}
+a \leq x \leq b \\
+c \leq y \leq d
+.\end{align}
+$$
+
+Entonces, se cumple que
+
+$$
+\iint_D f(x,y) dA = \int_a^b \int_c^d f(x,y) \, dy \, dx
+.$$
+
+```
+
+Es decir, para integrar sobre una región rectangular, podemos simplemente integrar iteradamente.
+
 ```ad-note
 title: Nota
 
