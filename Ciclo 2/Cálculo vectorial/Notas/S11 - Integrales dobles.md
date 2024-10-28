@@ -2,14 +2,13 @@ Formalmente, la integral doble se define de la siguiente manera.
 
 ```ad-definition
 
-Sea $f(x,y)$ una función. Entonces,
+Sea $f(x,y)$ una función. Entonces, la **integral de $f$ sobre la región $D$** es igual a
 
 $$
-\int\int f(x,y) \, dA = 
+\iint_D f(x,y) \, dA = \sum_{j=1}^{m} \sum_{i=1}^{n}f(x_i^*, y_j^*) \Delta A
 .$$
 
 ```
-
 
 La integral doble representa el **volumen** por debajo de una función de dos variables en un dominio dado.
 
