@@ -1,3 +1,5 @@
+## Producto interno
+
 ```ad-definition
 title: Definición (producto interno).
 
@@ -9,6 +11,8 @@ Un producto interno en un espacio vectorial $V$ es una función $V \times V \to 
 4. **Positividad:** $\left< \mathbf{v}, \mathbf{v} \right> \geq 0$, y además $\left< \mathbf{v}, \mathbf{v} \right> = 0 \iff \mathbf{v} = \mathbf{0}$.
 
 ```
+
+A un espacio $V$ equipado con el producto interno se le llama **espacio producto interno**.
 
 En el espacio euclidiano $\mathbb{R}^n$, el producto interno de dos vectores se define como el **producto punto**. Es decir,
 
@@ -55,6 +59,8 @@ $$
 
 ```
 
+## Ortogonalidad
+
 ```ad-definition
 title: Definición (ortogonalidad).
 
@@ -86,9 +92,8 @@ collapse: closed
 
 ```
 
-```ad-theorem
+Otras propiedades interesantes del complemento ortogonal son:
 
 1. $\operatorname{row}(A)^{\perp} = \operatorname{null}(A)$.
 2. $\operatorname{col}(A)^{\perp} = \operatorname{null}(A^T)$.
 
-```
