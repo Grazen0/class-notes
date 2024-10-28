@@ -15,7 +15,6 @@ $$
 
 ```
 
-
 ```ad-definition
 title: Definición (multiplicidad geométrica de un valor propio).
 

@@ -73,7 +73,7 @@ Nótese que, en el espacio euclidiano, el vector $\mathbf{0}$ es ortogonal a tod
 ```ad-definition
 title: Definición (complemento ortogonal).
 
-Sea $W$ un subespacio de $V$. Entonces, el **complemento ortogonal** de $W$, denotado por $W^{\perp}$, es el conjunto de todos los vectores de $V$ que son ortogonales a cada vector de $W.
+Sea $W$ un subespacio de $V$. Entonces, el **complemento ortogonal** de $W$, denotado por $W^{\perp}$, es el conjunto de todos los vectores de $V$ que son ortogonales a cada vector de $W$.
 
 ```
 
@@ -130,11 +130,102 @@ Este es un resultado intuitivo debido a que los vectores $\mathbf{v}_i$ son unit
 
 ```ad-definition
 
-$$
+Sean $\mathbf{a}, \mathbf{u}$ vectores en $\mathbb{R}^n$. Entonces, se define a la **proyección ortogonal** de $\mathbf{u}$ en $\mathbf{a}$ como
 
+$$
+\mathbf{w}_1 = \operatorname{proy}_\mathbf{a}(\mathbf{u}) = \frac{\mathbf{u} \cdot \mathbf{a}}{\lVert \mathbf{a} \rVert^2} \mathbf{a}
+.$$
+
+Además, se define al **componente vectorial de $\mathbf{u}$ ortogonal a $\mathbf{a}$** como
+
+$$
+\mathbf{w}_2 = \mathbf{u} - \mathbf{w}_1
 .$$
 
 ```
 
-
 Ver también: **[[S2C - Proyección de vectores]]**.
+
+```ad-theorem
+
+Dado un subespacio $W$ de dimensión finita, cada vector $\mathbf{u} \in V$ se puede expresar de manera **única** como
+
+$$
+\mathbf{u} = \mathbf{w}_1 + \mathbf{w}_2
+,$$
+
+donde $\mathbf{w}_1 \in W$ y $\mathbf{w}_2 \in W^{\perp}$.
+
+```
+
+Las fórmulas de $\mathbf{w}_1$ y $\mathbf{w}_2$ se suelen representar de la siguiente manera:
+
+$$
+\mathbf{w}_1 = \operatorname{proy}_W(\mathbf{u}) \qquad \mathbf{w}_2 = \operatorname{proy}_{W^{\perp}}(\mathbf{u})
+.$$
+
+```ad-theorem
+
+Sea $S = \left\{ \mathbf{v}_1, \mathbf{v}_2, \ldots, \mathbf{v}_n \right\}$ una base ortogonal para $W$, y $\mathbf{u}$ un vector en $V$. Entonces,
+
+$$
+\operatorname{proy}_W(\mathbf{u}) = \frac{\left< \mathbf{u}, \mathbf{v}_1 \right> }{\lVert \mathbf{v}_1 \rVert^2} \mathbf{v}_1 + \frac{\left< \mathbf{u}, \mathbf{v}_2 \right> }{ \lVert \mathbf{v}_2 \rVert^2} \mathbf{v}_2 + \ldots + \frac{\left< \mathbf{u}, \mathbf{v}_n \right> }{\lVert \mathbf{v}_n \rVert^2} \mathbf{v}_n
+.$$
+
+En el caso especial de que $S$ sea ortonormal, tenemos
+
+$$
+\operatorname{proy}_W(\mathbf{u}) = \left< \mathbf{u}, \mathbf{v}_1 \right> \mathbf{v}_1 + \left< \mathbf{u}, \mathbf{v}_2 \right> \mathbf{v}_2 + \ldots + \left< \mathbf{u}, \mathbf{v}_n \right> \mathbf{v}_n
+.$$
+
+```
+
+En otras palabras, la proyección de un vector $\mathbf{u}$ sobre un espacio $W$ se obtiene descomponiendo $\mathbf{u}$ en sus componentes en la base ortogonal de $W$.
+
+## Proceso de Gram-Schmidt
+
+El proceso de Gram-Schmidt es un algoritmo que nos permite transformar un conjunto de vectores linealmente independientes $\left\{ \mathbf{v}_1, \mathbf{v}_2, \ldots, \mathbf{v}_n \right\}$ en una base ortogonal $\left\{ \mathbf{u}_1, \mathbf{u}_2, \ldots, \mathbf{u}_n \right\}$.
+
+El proceso es el siguiente:
+
+$$
+\begin{align}
+\mathbf{u}_1 &= \mathbf{v}_1 \\
+\mathbf{u}_2 &= \mathbf{v}_2 - \operatorname{proy}_{\mathbf{u}_1}(\mathbf{v}_2) \\
+\mathbf{u}_3 &= \mathbf{v}_3 - \operatorname{proy}_{\mathbf{u}_1}(\mathbf{v}_3) - \operatorname{proy}_{\mathbf{u}_2}(\mathbf{v}_3) \\
+\mathbf{u}_4 &= \mathbf{v}_4 - \operatorname{proy}_{\mathbf{u}_1}(\mathbf{v}_4) - \operatorname{proy}_{\mathbf{u}_2}(\mathbf{v}_4) - \operatorname{proy}_{\mathbf{u}_3}(\mathbf{v}_4) \\
+\vdots 
+\end{align}
+$$
+
+En otras palabras, a cada vector subsiguiente se le resta su proyección sobre los vectores ortogonales que ya tenemos.
+
+$$
+\begin{align}
+\mathbf{u}_1 &= \mathbf{v}_1 & \mathbf{q}_1 = \frac{\mathbf{v}_1}{\lVert \mathbf{v}_1 \rVert } \\
+\mathbf{u}_2 &= \mathbf{v}_2 - \left< \mathbf{v}_2, \mathbf{q}_1 \right>\mathbf{q}_1 & \mathbf{q}_2 = \frac{\mathbf{v}_2}{\lVert \mathbf{v}_2 \rVert } \\
+\mathbf{u}_3 &= \mathbf{v}_3 - \left< \mathbf{v}_3, \mathbf{q}_1 \right>\mathbf{q}_1 - \left< \mathbf{v}_3, \mathbf{q}_2 \right>\mathbf{q}_2 & \mathbf{q}_3 = \frac{\mathbf{v}_3}{\lVert \mathbf{v}_3 \rVert } \\
+\mathbf{u}_4 &= \mathbf{v}_4 - \left< \mathbf{v}_4, \mathbf{q}_1 \right>\mathbf{q}_1 - \left< \mathbf{v}_4, \mathbf{q}_2 \right>\mathbf{q}_2 - \left< \mathbf{v}_4, \mathbf{q}_3 \right>\mathbf{q}_3 & \mathbf{q}_4 = \frac{\mathbf{v}_4}{\lVert \mathbf{v}_4 \rVert } \\
+\vdots 
+\end{align}
+$$
+
+### Para obtener una base ortonormal
+
+Si además de ortogonal, queremos que la base obtenida sea ortonormal, simplemente normalizamos los resultados.
+
+Sin embargo, aprovechando que podemos ir calculando los resultados normalizados en cada paso, podemos simplificar el proceso de la siguiente manera:
+
+
+
+## Factorización QR
+
+```ad-definition
+title: Definición (matriz ortogonal).
+
+Una matriz cuadrada $A$ es **ortogonal** si y sólo si $A^TA = AA^T = I$.
+
+```
+
+Es decir, una matriz es ortogonal cuando su traspuesta resulta ser su propia inversa.
+
