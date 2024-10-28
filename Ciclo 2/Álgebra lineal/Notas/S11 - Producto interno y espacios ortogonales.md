@@ -126,4 +126,15 @@ $$
 
 Este es un resultado intuitivo debido a que los vectores $\mathbf{v}_i$ son unitarios, por lo que esencialmente estamos **descomponiendo** $\mathbf{u}$ en sus componentes en la base $S$.
 
+### Proyecciones y componentes
+
+```ad-definition
+
+$$
+
+.$$
+
+```
+
+
 Ver también: **[[S2C - Proyección de vectores]]**.
