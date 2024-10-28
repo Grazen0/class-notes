@@ -15,7 +15,7 @@
 	- [[S8 - Vectores y valores propios]]
 	- [[S9 - Multiplicidades de valores propios]]
 	- [[S10 - Diagonalización]]
-	- [[S11 - Espacio producto interno]]
+	- [[S11 - Producto interno]]
 - [[Referencia MATLAB]]
 
 %% End Waypoint %%
