@@ -54,7 +54,7 @@ $$
 title: Teorema (desigualdad de Cauchy-Schwartz).
 
 $$
-| \left< \mathbf{u}, \mathbf{v} \right>  | = \lVert \mathbf{u} \rVert \lVert \mathbf{v} \rVert 
+| \left< \mathbf{u}, \mathbf{v} \right>  | \leq \lVert \mathbf{u} \rVert \lVert \mathbf{v} \rVert 
 .$$
 
 ```
