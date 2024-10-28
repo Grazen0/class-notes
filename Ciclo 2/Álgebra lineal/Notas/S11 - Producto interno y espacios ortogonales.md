@@ -113,3 +113,17 @@ Además, si todos sus vectores son unitarios, entonces se llama conjunto **orton
 Si $S$ es un conjunto ortogonal de vectores no nulos en un espacio producto interno, entonces $S$ **es linealmente independiente**.
 
 ```
+
+```ad-theorem
+
+Si $S = \left\{ \mathbf{v}_1, \mathbf{v}_2, \ldots, \mathbf{v}_n \right\}$ es una base ortonormal para $V$, entonces cualquier vector $\mathbf{u} \in V$ se puede representar como
+
+$$
+\mathbf{u} = \left< \mathbf{u}, \mathbf{v}_1 \right> \mathbf{v}_1 + \left< \mathbf{u}, \mathbf{v}_2 \right> \mathbf{v}_2 + \ldots + \left< \mathbf{u}, \mathbf{v}_n \right> \mathbf{v}_n
+.$$
+
+```
+
+Este es un resultado intuitivo debido a que los vectores $\mathbf{v}_i$ son unitarios, por lo que esencialmente estamos **descomponiendo** $\mathbf{u}$ en sus componentes en la base $S$.
+
+Ver también: **[[S2C - Proyección de vectores]]**.

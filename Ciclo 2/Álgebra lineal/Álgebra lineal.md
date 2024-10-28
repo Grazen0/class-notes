@@ -15,8 +15,7 @@
 	- [[S8 - Vectores y valores propios]]
 	- [[S9 - Multiplicidades de valores propios]]
 	- [[S10 - Diagonalización]]
-	- [[S11A - Producto interno y espacios ortogonales]]
-	- [[S11B - Factorización QR]]
+	- [[S11 - Producto interno y espacios ortogonales]]
 - [[Referencia MATLAB]]
 
 %% End Waypoint %%
