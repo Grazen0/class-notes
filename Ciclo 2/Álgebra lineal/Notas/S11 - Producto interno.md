@@ -67,6 +67,32 @@ Nótese que, en el espacio euclidiano, el vector $\mathbf{0}$ es ortogonal a tod
 ```ad-definition
 title: Definición (complemento ortogonal).
 
+Sea $W$ un subespacio de $V$. Entonces, el **complemento ortogonal** de $W$, denotado por $W^{\perp}$, es el conjunto de todos los vectores de $V$ que son ortogonales a cada vector de $W.
 
+```
+
+Algunas propiedades de $W^{\perp}$ son:
+
+1. $W^{\perp}$ es subespacio de $V$.
+2. $W \cap W^{\perp} = \left\{ \mathbf{0} \right\}$.
+
+Además, si $W$ tiene **dimensión finita**, entonces
+
+$$
+(W^{\perp})^{\perp} = W
+.$$
+
+```ad-example
+title: Ejemplos.
+
+1. El complemento ortogonal de una recta $W \subseteq \mathbb{R}^2$ que pasa por el origen es la recta que pasa por el origen y es perpendicular a $W$.
+2. El complemento ortogonal de un plano $W \subseteq \mathbb{R}^3$ que pasa por el origen es la recta normal a $W$.
+
+```
+
+```ad-theorem
+
+1. $\operatorname{row}(A)^{\perp} = \operatorname{null}(A)$.
+2. $$
 
 ```
