@@ -1,3 +1,18 @@
+Formalmente, la integral doble se define de la siguiente manera.
+
+```ad-definition
+
+Sea $f(x,y)$ una función. Entonces,
+
+$$
+\int\int f(x,y) \, dA = 
+.$$
+
+```
+
+
+La integral doble representa el **volumen** por debajo de una función de dos variables en un dominio dado.
+
 ```ad-note
 title: Nota
 
