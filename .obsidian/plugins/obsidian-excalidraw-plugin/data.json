@@ -5,6 +5,10 @@
   "embedUseExcalidrawFolder": true,
   "templateFilePath": "Plantilla.excalidraw",
   "scriptFolderPath": "Excalidraw/Scripts",
+  "fontAssetsPath": "Excalidraw/CJK Fonts",
+  "loadChineseFonts": false,
+  "loadJapaneseFonts": false,
+  "loadKoreanFonts": false,
   "compress": true,
   "decompressForMDView": true,
   "onceOffCompressFlagReset": true,
@@ -13022,6 +13026,7 @@
   "areaZoomLimit": 1,
   "longPressDesktop": 500,
   "longPressMobile": 500,
+  "doubleClickLinkOpenViewMode": true,
   "isDebugMode": false,
   "rank": "Bronze",
   "modifierKeyOverrides": [
