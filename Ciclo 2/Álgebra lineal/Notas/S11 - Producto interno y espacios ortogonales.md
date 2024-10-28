@@ -200,6 +200,12 @@ $$
 
 En otras palabras, a cada vector subsiguiente se le resta su proyección sobre los vectores ortogonales que ya tenemos.
 
+### Para obtener una base ortonormal
+
+Si además de ortogonal, queremos que la base obtenida sea ortonormal, simplemente normalizamos los resultados.
+
+Sin embargo, aprovechando que podemos ir calculando los resultados normalizados en cada paso, podemos simplificar el proceso de la siguiente manera:
+
 $$
 \begin{align}
 \mathbf{u}_1 &= \mathbf{v}_1 & \mathbf{q}_1 = \frac{\mathbf{v}_1}{\lVert \mathbf{v}_1 \rVert } \\
@@ -209,14 +215,6 @@ $$
 \vdots 
 \end{align}
 $$
-
-### Para obtener una base ortonormal
-
-Si además de ortogonal, queremos que la base obtenida sea ortonormal, simplemente normalizamos los resultados.
-
-Sin embargo, aprovechando que podemos ir calculando los resultados normalizados en cada paso, podemos simplificar el proceso de la siguiente manera:
-
-
 
 ## Factorización QR
 
