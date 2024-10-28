@@ -81,7 +81,7 @@ Algunas propiedades de $W^{\perp}$ son:
 
 1. $W^{\perp}$ es subespacio de $V$.
 2. $W \cap W^{\perp} = \left\{ \mathbf{0} \right\}$.
-3. $(W^{\perp})^{\perp} = W$.
+3. Si la dimensión de $W$ es finita, entonces $(W^{\perp})^{\perp} = W$.
 
 ```ad-example
 title: Ejemplos.
@@ -97,3 +97,11 @@ Otras propiedades interesantes del complemento ortogonal son:
 1. $\operatorname{row}(A)^{\perp} = \operatorname{null}(A)$.
 2. $\operatorname{col}(A)^{\perp} = \operatorname{null}(A^T)$.
 
+```ad-definition
+title: Definición (conjunto ortogonal y ortonormal).
+
+Un conjunto de vectores es **ortogonal** si y sólo si todos los pares de vectores que contiene son ortogonales.
+
+Además, si todos sus vectores son unitarios, entonces se llama conjunto **ortonormal**.
+
+```
