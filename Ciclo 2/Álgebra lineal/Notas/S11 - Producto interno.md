@@ -17,7 +17,7 @@ $$
 .$$
 
 ```ad-definition
-title: Definición (norma).
+title: Definición (norma y distancia).
 
 Si $V$ es un espacio de producto interno, entonces la **norma** (o longitud) de un vector $\mathbf{v} \in V$ se define como
 
@@ -30,5 +30,43 @@ Además, la **distancia** entre dos vectores $\mathbf{u}, \mathbf{v}$ se define 
 $$
 d(\mathbf{u}, \mathbf{v}) = \lVert \mathbf{u} - \mathbf{v} \rVert
 .$$
+
+```
+
+Un vector de norma $1$ se denomina **vector unitario**.
+
+```ad-definition
+title: Definición (esfera unitaria).
+
+Se le denomina **esfera unitaria en $V$** al conjunto de todos los vectores $\mathbf{u} \in V$ tales que
+
+$$
+\lVert \mathbf{u} \rVert = 1
+.$$
+
+```
+
+```ad-theorem
+title: Teorema (desigualdad de Cauchy-Schwartz).
+
+$$
+| \left< \mathbf{u}, \mathbf{v} \right>  | = \lVert \mathbf{u} \rVert \lVert \mathbf{v} \rVert 
+.$$
+
+```
+
+```ad-definition
+title: Definición (ortogonalidad).
+
+Dos vectores $\mathbf{u}, \mathbf{v} \in V$ son **ortogonales** si y sólo si $\left< \mathbf{u}, \mathbf{v} \right> = 0$.
+
+```
+
+Nótese que, en el espacio euclidiano, el vector $\mathbf{0}$ es ortogonal a todos los vectores.
+
+```ad-definition
+title: Definición (complemento ortogonal).
+
+
 
 ```
