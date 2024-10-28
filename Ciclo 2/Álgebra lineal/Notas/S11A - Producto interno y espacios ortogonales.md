@@ -97,11 +97,19 @@ Otras propiedades interesantes del complemento ortogonal son:
 1. $\operatorname{row}(A)^{\perp} = \operatorname{null}(A)$.
 2. $\operatorname{col}(A)^{\perp} = \operatorname{null}(A^T)$.
 
+### Conjuntos ortogonales
+
 ```ad-definition
 title: Definición (conjunto ortogonal y ortonormal).
 
 Un conjunto de vectores es **ortogonal** si y sólo si todos los pares de vectores que contiene son ortogonales.
 
 Además, si todos sus vectores son unitarios, entonces se llama conjunto **ortonormal**.
+
+```
+
+```ad-theorem
+
+Si $S$ es un conjunto ortogonal de vectores no nulos en un espacio producto interno, entonces $S$ **es linealmente independiente**.
 
 ```
