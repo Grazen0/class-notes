@@ -216,7 +216,7 @@ $$
 \end{align}
 $$
 
-## Factorización QR
+## Aplicaciones
 
 ```ad-definition
 title: Definición (matriz ortogonal).
@@ -226,3 +226,72 @@ Una matriz cuadrada $A$ es **ortogonal** si y sólo si $A^TA = AA^T = I$.
 ```
 
 Es decir, una matriz es ortogonal cuando su traspuesta resulta ser su propia inversa.
+
+### Diagonalización ortogonal
+
+```ad-definition
+
+Una matriz $A$ es **diagonalizable ortogonalmente** si y sólo si existe una matriz ortogonal $P$ tal que
+
+$$
+D = P^TAP
+,$$
+
+o equivalentemente
+
+$$
+A = PDP^T
+.$$
+
+En esta situación, decimos que $P$ **diagonaliza ortogonalmente** a $A$.
+```
+
+En otras palabras, una matriz es diagonalizable ortogonalmente cuando se puede diagonalizar con una matriz ortogonal.
+
+```ad-theorem
+
+Las siguientes afirmaciones sobre una matriz $A$ de $n \times n$ son equivalentes:
+
+1. $A$ es diagonalizable ortogonalmente.
+2. $A$ tiene algún conjunto de $n$ vectores propios ortonormales.
+3. $A$ es simétrica.
+
+```
+
+```ad-theorem
+
+Si $A$ es una matriz simétrica, entonces:
+
+1. Los **valores propios** de $A$ son todos **números reales**.
+2. Los **espacios propios** de $A$ son todos **ortogonales** entre sí.
+
+```
+
+#### Proceso de diagonalización ortogonal
+
+1. Encontar una base para cada espacio propio de $A$.
+2. Convertir dichas bases en ortonormales mediante el proceso Gram-Schmidt.
+3. Formar la matriz $P$ cuyas columnas sean los vectores del paso 2.
+
+Esta matriz $P$ diagonalizará ortogonalmente a $A$.
+
+Al igual que en el proceso usual de diagonalización, la matriz diagonal $D = P^TAP$ va a contener en su diagonal a los valores propios de $A$.
+
+### Factorización QR
+
+```ad-definition
+
+La descomposición QR de una matriz $A$ es una factorización de dicha matriz en la forma
+
+$$
+A = QR
+,$$
+
+donde $Q$ es ortonormal y del mismo tamaño de $A$, y $R$ es triangular superior.
+
+```
+
+Si $A$ es invertible, entonces esta factorización es única.
+
+#### Proceso de factorización QR
+
