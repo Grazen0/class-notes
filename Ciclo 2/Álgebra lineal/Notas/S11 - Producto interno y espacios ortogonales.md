@@ -39,26 +39,6 @@ d(\mathbf{u}, \mathbf{v}) = \lVert \mathbf{u} - \mathbf{v} \rVert
 
 Un vector de norma $1$ se denomina **vector unitario**.
 
-```ad-definition
-title: Definición (esfera unitaria).
-
-Se le denomina **esfera unitaria en $V$** al conjunto de todos los vectores $\mathbf{u} \in V$ tales que
-
-$$
-\lVert \mathbf{u} \rVert = 1
-.$$
-
-```
-
-```ad-theorem
-title: Teorema (desigualdad de Cauchy-Schwartz).
-
-$$
-| \left< \mathbf{u}, \mathbf{v} \right>  | \leq \lVert \mathbf{u} \rVert \lVert \mathbf{v} \rVert 
-.$$
-
-```
-
 ## Ortogonalidad
 
 ```ad-definition

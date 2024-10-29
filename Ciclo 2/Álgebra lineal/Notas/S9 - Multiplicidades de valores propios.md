@@ -62,7 +62,7 @@ Otras propiedades importantes son:
 1. $\sum\lambda_i = \operatorname{traz}(A)$.
 2. $\prod\lambda_i = |A|$.
 3. Las matrices **simétricas** *siempre* tienen valores propios reales.
-4. Si $\lambda_i \neq \lambda_j$, entonces $E_{\lambda_i}$ y $E_{\lambda_j}$ son **linealmente independientes**.
+4. Si $\lambda_i \neq \lambda_j$, entonces los vectores de $E_{\lambda_i}$ y $E_{\lambda_j}$ son **linealmente independientes**.
 
 ## Declaraciones equivalentes
 
