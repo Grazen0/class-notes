@@ -229,6 +229,23 @@ Una matriz cuadrada $A$ es **ortogonal** si y sólo si $A^TA = AA^T = I$.
 
 Es decir, una matriz es ortogonal cuando su traspuesta resulta ser su propia inversa.
 
+```ad-theorem
+
+Dada una matriz $A$, las siguientes afirmaciones son equivalentes:
+
+1. $A$ es ortogonal.
+2. Las columnas de $A$ son ortonormales.
+3. Las filas de $A$ son ortonormales.
+
+```
+
+Otras propiedades, dadas matrices ortogonales $A$ y $B$, son:
+
+1. $A^T$ es ortogonal.
+2. $A^{-1}$ es ortogonal.
+3. $AB$ es ortogonal es ortogonal.
+4. O bien $|A| = 1$, o bien $|A| = -1$.
+
 ### Diagonalización ortogonal
 
 ```ad-definition
