@@ -300,7 +300,8 @@ Si $A$ es invertible, entonces esta factorización es única.
 Sea la matriz $A = \begin{bmatrix} \mathbf{a}_1 & \mathbf{a}_2 & \cdots & \mathbf{a}_n \end{bmatrix}$. Entonces, el proceso es el siguiente:
 
 1. Convertir las columnas de $A$ en ortonormales con el proceso Gram-Schmidt.
-2. Formar la matriz $R$ mediante la siguiente fórmula:
+2. Formar la matriz $Q = \begin{bmatrix} \mathbf{q}_1 & \mathbf{q}_2 & \cdots & \mathbf{q}_n \end{bmatrix}$ con los vectores ortonormalizados.
+3. Formar la matriz $R$ mediante la siguiente fórmula:
 
 $$
 R = \begin{bmatrix}
