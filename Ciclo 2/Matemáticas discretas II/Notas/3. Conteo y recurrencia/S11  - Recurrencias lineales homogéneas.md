@@ -51,3 +51,33 @@ y su solución general (demostrable por inducción) es
 $$
 a_n = c^n a_0
 .$$
+
+## RLH de orden 2
+
+Son de la forma
+
+$$
+a_n = c_1a_{n-1} + c_2a_{n-2}
+,$$
+
+donde $c_2 \neq 0$.
+
+Su ecuación característica es
+
+$$
+x^2 = c_1x + c_2
+,$$
+
+cuyas raíces $s_1$ y $s_2$
+
+```ad-theorem
+
+Si $s_1 \neq s_2$, entonces la fórmula general para $a_n$ es de la forma
+
+$$
+a_n = A(s_1)^n + B(s_2)^n
+,$$
+
+donde $A$ y $B$ son constantes.
+
+```
