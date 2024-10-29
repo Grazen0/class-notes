@@ -295,3 +295,4 @@ Si $A$ es invertible, entonces esta factorización es única.
 
 #### Proceso de factorización QR
 
+1. 
