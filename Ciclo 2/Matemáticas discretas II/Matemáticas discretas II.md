@@ -20,6 +20,7 @@
 		- [[S9A - Principios básicos de conteo]]
 		- [[S9B - Permutaciones]]
 		- [[S10 - Combinaciones]]
+		- [[S11  - Recurrencia]]
 
 %% End Waypoint %%
 
