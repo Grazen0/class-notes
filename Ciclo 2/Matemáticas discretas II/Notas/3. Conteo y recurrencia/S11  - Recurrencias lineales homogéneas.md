@@ -81,3 +81,53 @@ a_n = A(s_1)^n + B(s_2)^n
 donde $A$ y $B$ son constantes.
 
 ```
+
+Para hallar $A$ y $B$, formamos un sistema de ecuaciones con los términos iniciales.
+
+```ad-example
+title: Ejemplo.
+collapse: closed
+
+Sea la sucesión definida por
+
+$$
+c_n = \begin{cases}
+5 & n = 1 \\
+3 & n = 2 \\
+3c_{n-1} - 2c_{n-2} & n > 2
+\end{cases}
+.$$
+
+Su ecuación característica es
+
+$$
+x^2 = 3x - 2
+,$$
+
+cuyas raíces son $(s_1, s_2) = (2, 1)$. Por lo tanto, la sucesión tiene la forma
+
+$$
+\begin{align}
+c_n &= A \cdot 2^n + B \cdot 1^n \\
+   &= A \cdot 2^n + B
+.\end{align}
+$$
+
+Usando los valores iniciales $c_1$ y $c_2$, formamos el sistema de ecuaciones
+
+$$
+\begin{cases}
+5 = 2A + B & (n = 1) \\
+3 = 4A + B & (n = 2)
+.\end{cases}
+,$$
+
+cuya solución es $(A, B) = (-1, 7)$.
+
+Finalmente, obtenemos que la fórmula general de $c_n$ es
+
+$$
+c_n = -2^n + 7
+.$$
+
+```
