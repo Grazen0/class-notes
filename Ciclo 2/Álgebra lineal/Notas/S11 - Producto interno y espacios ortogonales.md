@@ -226,4 +226,3 @@ Una matriz cuadrada $A$ es **ortogonal** si y sólo si $A^TA = AA^T = I$.
 ```
 
 Es decir, una matriz es ortogonal cuando su traspuesta resulta ser su propia inversa.
-
