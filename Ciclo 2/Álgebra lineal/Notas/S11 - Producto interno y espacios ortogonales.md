@@ -209,9 +209,9 @@ Sin embargo, aprovechando que podemos ir calculando los resultados normalizados 
 $$
 \begin{align}
 \mathbf{u}_1 &= \mathbf{v}_1 & \mathbf{q}_1 = \frac{\mathbf{v}_1}{\lVert \mathbf{v}_1 \rVert } \\
-\mathbf{u}_2 &= \mathbf{v}_2 - \left< \mathbf{v}_2, \mathbf{q}_1 \right>\mathbf{q}_1 & \mathbf{q}_2 = \frac{\mathbf{v}_2}{\lVert \mathbf{v}_2 \rVert } \\
-\mathbf{u}_3 &= \mathbf{v}_3 - \left< \mathbf{v}_3, \mathbf{q}_1 \right>\mathbf{q}_1 - \left< \mathbf{v}_3, \mathbf{q}_2 \right>\mathbf{q}_2 & \mathbf{q}_3 = \frac{\mathbf{v}_3}{\lVert \mathbf{v}_3 \rVert } \\
-\mathbf{u}_4 &= \mathbf{v}_4 - \left< \mathbf{v}_4, \mathbf{q}_1 \right>\mathbf{q}_1 - \left< \mathbf{v}_4, \mathbf{q}_2 \right>\mathbf{q}_2 - \left< \mathbf{v}_4, \mathbf{q}_3 \right>\mathbf{q}_3 & \mathbf{q}_4 = \frac{\mathbf{v}_4}{\lVert \mathbf{v}_4 \rVert } \\
+\mathbf{u}_2 &= \mathbf{v}_2 - (\mathbf{v}_2 \cdot \mathbf{q}_1) \mathbf{q}_1 & \mathbf{q}_2 = \frac{\mathbf{v}_2}{\lVert \mathbf{v}_2 \rVert } \\
+\mathbf{u}_3 &= \mathbf{v}_3 - (\mathbf{v}_3 \cdot \mathbf{q}_1) \mathbf{q}_1 - (\mathbf{v}_3 \cdot \mathbf{q}_2) \mathbf{q}_2 & \mathbf{q}_3 = \frac{\mathbf{v}_3}{\lVert \mathbf{v}_3 \rVert } \\
+\mathbf{u}_4 &= \mathbf{v}_4 - (\mathbf{v}_4 \cdot \mathbf{q}_1) \mathbf{q}_1 - (\mathbf{v}_4 \cdot \mathbf{q}_2) \mathbf{q}_2 - (\mathbf{v}_4 \cdot \mathbf{q}_3) \mathbf{q}_3 & \mathbf{q}_4 = \frac{\mathbf{v}_4}{\lVert \mathbf{v}_4 \rVert } \\
 \vdots 
 \end{align}
 $$
