@@ -270,7 +270,7 @@ Si $A$ es una matriz simétrica, entonces:
 #### Proceso de diagonalización ortogonal
 
 1. Encontar una base para cada espacio propio de $A$.
-2. Convertir dichas bases en ortonormales mediante el proceso Gram-Schmidt.
+2. Convertir cada base en ortonormal mediante el proceso Gram-Schmidt.
 3. Formar la matriz $P$ cuyas columnas sean los vectores del paso 2.
 
 Esta matriz $P$ diagonalizará ortogonalmente a $A$.
