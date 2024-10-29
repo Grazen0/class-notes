@@ -26,6 +26,8 @@ $$
 
 ```
 
+Equivalentemente, la multiplicidad geométrica es la **cantidad de variables libres** al resolver el sistema $[E_\lambda \mid \mathbf{0}]$.
+
 Por el teorema de rango-nulidad, la multiplicidad geométrica cumple con la relación
 
 $$
