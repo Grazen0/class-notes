@@ -28,7 +28,7 @@ $$
 a_n = r_1a_{n-1} + r_2a_{n-2} + \ldots + r_ka_{n-k}
 .$$
 
-Entonces, la **ecuación característica** de esta relación es
+Entonces, la **ecuación característica** de esta recurrencia es
 
 $$
 x^k = r_1x^{k-1} + r_2x^{k-2} + \ldots + r_k
