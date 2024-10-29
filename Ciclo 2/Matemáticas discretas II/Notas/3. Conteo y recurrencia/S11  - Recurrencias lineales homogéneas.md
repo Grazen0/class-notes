@@ -35,3 +35,19 @@ x^k = r_1x^{k-1} + r_2x^{k-2} + \ldots + r_k
 .$$
 
 ```
+
+La ecuación característica es crucial para resolver una RLH.
+
+## RLH de orden 1
+
+También son llamadas **progresiones geométricas**. Son del tipo
+
+$$
+a_n = ca_{n-1}
+,$$
+y
+y su solución general (demostrable por inducción) es
+
+$$
+a_n = c^n a_0
+.$$
