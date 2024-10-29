@@ -10,4 +10,10 @@ donde $r_i$ son constantes (reales) y $r_k \neq 0$.
 
 ```
 
-Es decir, es una sucesión donde cada término es algun combinación lineal de los términos anteriores.
+Es decir, es una sucesión donde cada término es algún combinación lineal de los términos anteriores.
+
+Algunos ejemplos de relaciones lineales homogéneas son:
+
+- $F_n = F_{n-1} + F_{n-2}$ (orden 2)
+- $F_{n+2} = F_n + F_{n+1}$ (orden 2)
+- $a_n = 2a_{n-1}$ (orden 1)
