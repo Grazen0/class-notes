@@ -194,7 +194,8 @@ $$
 \mathbf{u}_2 &= \mathbf{v}_2 - \operatorname{proy}_{\mathbf{u}_1}(\mathbf{v}_2) \\
 \mathbf{u}_3 &= \mathbf{v}_3 - \operatorname{proy}_{\mathbf{u}_1}(\mathbf{v}_3) - \operatorname{proy}_{\mathbf{u}_2}(\mathbf{v}_3) \\
 \mathbf{u}_4 &= \mathbf{v}_4 - \operatorname{proy}_{\mathbf{u}_1}(\mathbf{v}_4) - \operatorname{proy}_{\mathbf{u}_2}(\mathbf{v}_4) - \operatorname{proy}_{\mathbf{u}_3}(\mathbf{v}_4) \\
-\vdots 
+\vdots \\
+\mathbf{u}_n &= \mathbf{v}_n - \sum_{i=1}^{n-1} \operatorname{proy}_{\mathbf{u}_i}(\mathbf{v}_n)
 \end{align}
 $$
 
