@@ -13,3 +13,16 @@ La polarización de una onda electromagnético es la **dirección de oscilación
 ![[polarizacion.png]]
 
 Por ejemplo, la onda de este gráfico está polarizada en el eje $y$.
+
+### Casos particulares
+
+#### Polarización diagonal
+
+Ocurre cuando se componen ondas iguales pero con **distintas polarizaciones lineales**.
+
+![[polarizacion diagonal.png]]
+#### Polarización circular
+
+Ocurre cuando se componen ondas con **desfase de $90°$**. El campo $\vec{E}$ resultante rota en torno a las direcciones de polarización lineal.
+
+![[polarizacion circular.png]]
