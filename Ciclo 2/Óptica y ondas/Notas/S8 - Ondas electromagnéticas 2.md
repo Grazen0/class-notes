@@ -105,14 +105,8 @@ n_a\sin(\theta_a) = n_b\sin(\theta_b)
 Es una propiedad **intrínseca** al material. Varía según la longitud de onda, y es igual a
 
 $$
-n = \frac{c}{v}
+n = \frac{c}{v} = \frac{\lambda_0}{\lambda}
 .$$
-
-También se cumple que
-
-$$
-\lambda = \frac{\lambda_0}{n}
-,$$
 
 donde $\lambda_0$ es la longitud de onda en el vacío.
 
