@@ -97,7 +97,7 @@ $$
 y se cumple la **ley de refracción**:
 
 $$
-n_a\sin(\theta_a) = n_b\sin(\theta_u)
+n_a\sin(\theta_a) = n_b\sin(\theta_b)
 .$$
 
 #### Índice de refracción
@@ -107,6 +107,14 @@ Es una propiedad **intrínseca** al material. Varía según la longitud de onda,
 $$
 n = \frac{c}{v}
 .$$
+
+También se cumple que
+
+$$
+\lambda = \frac{\lambda_0}{n}
+,$$
+
+donde $\lambda_0$ es la longitud de onda en el vacío.
 
 ### Reflexión total interna
 
