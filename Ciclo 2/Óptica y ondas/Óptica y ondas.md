@@ -12,7 +12,7 @@
 	- [[S6 - Ondas de sonido]]
 	- [[S7 - Ondas electromagnéticas]]
 	- [[S8 - Ondas electromagnéticas 2]]
-	- [[S11 - Dispersión de la luz]]
+	- [[S11 - Dispersión y polarización de la luz]]
 
 %% End Waypoint %%
 
