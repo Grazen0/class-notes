@@ -51,7 +51,7 @@ $$
 Entonces, se cumple que
 
 $$
-\iint_D f(x,y) dA = \int_{a}^{b} \int_{f(x)}^{g(x)} f(x,y) \, dy \, dx
+\iint_D f(x,y) \, dA = \int_{a}^{b} \int_{f(x)}^{g(x)} f(x,y) \, dy \, dx
 .$$
 
 ```
