@@ -25,8 +25,6 @@ Ver también: [PPT del profesor](https://utec.instructure.com/courses/16602/file
 
 ### Capítulos
 
-Cada capítulo debe tener como máximo **tres niveles conceptuales**.
-
 Es recomendable hacer **un capítulo sobre el marco teórico**.
 
 - El título de cada capítulo del texto:
