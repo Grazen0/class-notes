@@ -14,15 +14,15 @@ kanban-plugin: board
 
 ## 📄 Evaluaciones
 
-- [ ] **Progra - PC 2**
-	
-	@{31-10-2024} 
-	#progra #lab
 
 
 ## 👍 Completado
 
 **Complete**
+- [x] **Progra - PC 2**
+	
+	@{31-10-2024} 
+	#progra #lab
 
 
 ***
