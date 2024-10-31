@@ -11,7 +11,7 @@ Ver también: [PPT del profesor](https://utec.instructure.com/courses/16602/file
 
 - Incluir **tabla de contenido**
 
-### Macro estructura
+### Macroestructura
 
 1. Carátula
 2. Índice
@@ -25,7 +25,7 @@ Ver también: [PPT del profesor](https://utec.instructure.com/courses/16602/file
 
 ### Capítulos
 
-El texto debe tener un capítulo.
+Cada capítulo debe tener como máximo **tres niveles conceptuales**.
 
 - El título de cada capítulo del texto:
 	- En la **línea 6**.
