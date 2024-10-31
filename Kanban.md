@@ -6,6 +6,11 @@ kanban-plugin: board
 
 ## ☕ Tareas
 
+- [ ] **Planificación Comu**
+	
+	- [x] Tema delimitado
+	- [ ] Esquema
+	- [ ] Bibliografía de cada capítulo
 
 
 ## 📚 Lecturas
