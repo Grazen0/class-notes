@@ -11,6 +11,18 @@ kanban-plugin: board
 	- [x] Tema delimitado
 	- [ ] Esquema
 	- [ ] Bibliografía de cada capítulo
+- [ ] **Lineal - RC 3**
+	
+	@{14-11-2024}
+	#lineal #teo #grupal
+- [ ] **Vecto - ABP**
+	
+	@{14-11-2024} 
+	#calculo #lab #grupal
+- [ ] **Progra - Proyecto final**
+	
+	@{01-12-2024} 
+	#progra #lab #grupal
 
 
 ## 📚 Lecturas
