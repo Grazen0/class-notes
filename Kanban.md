@@ -6,11 +6,17 @@ kanban-plugin: board
 
 ## ☕ Tareas
 
+- [ ] **Progra - Grupal 04**
+	
+	@{04-11-2024} 
+	#progra #teo #grupal
 - [ ] **Planificación Comu**
 	
 	- [x] Tema delimitado
 	- [ ] Esquema
 	- [ ] Bibliografía de cada capítulo
+	@{06-11-2024} 
+	#comu #grupal
 - [ ] **Lineal - RC 3**
 	
 	@{14-11-2024}
