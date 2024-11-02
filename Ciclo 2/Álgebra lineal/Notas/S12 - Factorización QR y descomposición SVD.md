@@ -49,9 +49,8 @@ Si $A$ es una matriz de $m \times n$, entonces $A$ y $A^T$ tienen el mismo espac
 
 ```
 
-### Valores singulares
-
 ```ad-definition
+title: Definición (valores singulares).
 
 Sea $A$ una matriz tal que $A^TA$ tiene valores propios $\lambda_1, \lambda_2, \ldots, \lambda_n$. Entonces, los números
 
@@ -61,5 +60,24 @@ $$
 $$
 
 son llamados **valores singulares** de $A$.
+
+```
+
+La descomposición SVD se define de la siguiente forma.
+
+```ad-theorem
+title: Teorema (descomposición de valores singulares).
+
+Si $A$ es una matriz $m \times n$ de rango $k$, entonces $A$ puede expresarse de la forma
+
+$$
+A = U\Sigma V^T
+,$$
+
+donde:
+
+1. $\Sigma$ es una matriz de $m \times n$ cuya diagonal son los valores singulares de $A$ en orden no decreciente,
+2. $U$ es una matriz ortogonal de $m \times n$, y
+3. $V^T$ es una matriz ortogonal de $n \times n$.
 
 ```
