@@ -20,8 +20,8 @@ Sea $D$ una región delimitada por
 
 $$
 \begin{align}
-a \leq x \leq b \\
-c \leq y \leq d
+a &\leq x \leq b \\
+c &\leq y \leq d
 .\end{align}
 $$
 
