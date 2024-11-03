@@ -30,8 +30,10 @@ $$
 .$$
 ```
 
+En realidad, el límite del que hablamos en esta definición no es exactamente la misma definición para límites de funciones reales, pero tiene las mismas propiedades.
+
 ```ad-theorem
 
-Si una sucesión tiene cota inferior y superior, y es creciente o decreciente, entonces es convergente.
+Si una sucesión tiene cota inferior y superior, y es o creciente o decreciente, entonces es convergente.
 
 ```
