@@ -16,7 +16,8 @@
 	- [[S7 - Regla de la cadena, gradiente y derivadas direccionales]]
 	- [[S9 - Optimización]]
 	- [[S11 - Integrales dobles]]
-	- [[S12 - Sucesiones]]
+	- [[S12 - Integrales dobles con coordenadas polares]]
+	- [[S13 - Sucesiones]]
 
 %% End Waypoint %%
 
