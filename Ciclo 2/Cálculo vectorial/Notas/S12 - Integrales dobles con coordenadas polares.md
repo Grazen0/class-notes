@@ -11,3 +11,5 @@ $$
 donde $P$ es una región en coordenadas polares equivalente a $D$.
 
 ```
+
+Cuando las regiones son más complejas que simplemente $a \leq \theta \leq$
