@@ -83,7 +83,14 @@ E = eig(A) % Valores propios de A
 ### Diagonalización
 
 ```
+[P, D] = eig(A)
 
+% Podemos comprobar que P * D * inv(P) = 1.
+% Si A es simétrica, P será ortogonal.
 ```
+
+## Factorizaciones
+
+### Factorización QR
 
 ### Descomposición SVD
