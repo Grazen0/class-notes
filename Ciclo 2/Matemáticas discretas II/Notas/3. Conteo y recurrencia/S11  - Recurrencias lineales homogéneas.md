@@ -45,7 +45,7 @@ También son llamadas **progresiones geométricas**. Son del tipo
 $$
 a_n = ca_{n-1}
 ,$$
-y
+
 y su solución general (demostrable por inducción) es
 
 $$
@@ -131,3 +131,5 @@ c_n = -2^n + 7
 .$$
 
 ```
+
+Sin embargo, si las raíces de la ecuación característica son iguales, la solución no tiene la misma forma.
