@@ -127,3 +127,19 @@ A = [
 p_A = charpoly(A, x) % Polinomio característico de A
 L = solve(p_A) % Valores propios de A
 ```
+
+```
+A = [
+	1 2
+	3 4
+];
+
+E = eig(A) % Vector con los valores propios de A
+
+% V: Vectores propios normalizados de A
+% D: Matriz diagonal con los valores propios de A
+[V, D] = eig(A)
+```
+
+### Diagonalización
+
