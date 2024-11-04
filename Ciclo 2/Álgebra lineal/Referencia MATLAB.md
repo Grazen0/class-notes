@@ -85,7 +85,7 @@ E = eig(A) % Valores propios de A
 ```
 [P, D] = eig(A)
 
-% Podemos comprobar que P * D * inv(P) = 1.
+% Podemos comprobar que P*D*inv(P) = 1.
 % Si A es simétrica, P será ortogonal.
 ```
 
@@ -93,4 +93,14 @@ E = eig(A) % Valores propios de A
 
 ### Factorización QR
 
+```
+Q = orth(A) % Ortogonalización de A
+R = 
+```
+
 ### Descomposición SVD
+
+```
+[U, S, V] = svd(A)
+% Podemos comprobar que U*S*V' = A
+```
