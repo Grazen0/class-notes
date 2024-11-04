@@ -70,6 +70,10 @@ x^2 = c_1x + c_2
 
 cuyas raíces $s_1$ y $s_2$
 
+Sin embargo, debemos tomar en cuenta dos posibles casos para estas raíces.
+
+### Para raíces diferentes
+
 ```ad-theorem
 
 Si $s_1 \neq s_2$, entonces la fórmula general para $a_n$ es de la forma
@@ -132,4 +136,16 @@ c_n = -2^n + 7
 
 ```
 
-Sin embargo, si las raíces de la ecuación característica son iguales, la solución no tiene la misma forma.
+### Para raíces iguales
+
+```ad-theorem
+
+Si $s_1 = s_2 = s$, entonces $a_n$ tiene la forma
+
+$$
+a_n = s^n(A + Bn)
+.$$
+
+```
+
+Nuevamente, para hallar $A$ y $B$ tenemos que formar un sistema de ecuaciones con los términos iniciales.
