@@ -41,11 +41,11 @@ R = \begin{bmatrix}
 
 ## Descomposición SVD
 
-Un resultado que necesitaremos más adelante son las siguientes.
-
 ```ad-theorem
 
-Si $A$ es una matriz de $m \times n$, entonces $A$ y $A^T$ tienen el mismo espacio nulo, espacio fila, espacio columna y rango.
+Si $A$ es una matriz, entonces $A^T A$ es simétrica.
+
+Además, los valores propios de $A^T A$ son todos **reales no negativos**.
 
 ```
 
@@ -78,6 +78,16 @@ donde:
 
 1. $\Sigma$ es una matriz de $m \times n$ cuya diagonal son los valores singulares de $A$ en orden no decreciente,
 2. $U$ es una matriz ortogonal de $m \times n$, y
-3. $V^T$ es una matriz ortogonal de $n \times n$.
+3. $V$ es una matriz de $n \times n$ que diagonaliza ortogonalmente a $A$.
 
 ```
+
+### Proceso de descomposición SVD
+
+1. Calcular $A^T A$.
+2. Formar $\Sigma$ con los valores singulares de $A$.
+3. Encontrar los vectores propios normalizados de $A^T A$.
+	1. Formar $V$ con estos vectores propios.
+4. Calcular $AA^T$.
+5. Encontrar los vectores propios normalizados de $AA^T$.
+	1. Formar $U$ con estos vectores propios.
