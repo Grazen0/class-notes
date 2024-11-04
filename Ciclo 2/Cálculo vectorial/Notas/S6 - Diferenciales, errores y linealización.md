@@ -1,3 +1,5 @@
+## Aproximaciones con diferenciales
+
 Al igual que con funciones de una variable, las derivadas de una [[S5 - Funciones de varias variables|función de varias variables]] nos pueden ayudar a *aproximar* incrementos (o decrementos).
 
 Sea $f(x,y)$ una función. Definimos el **incremento en $f$** como

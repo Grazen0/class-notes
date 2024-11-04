@@ -1,4 +1,4 @@
-## Producto punto/escalar/interno
+## Producto punto/escalar
 
 El producto escalar del [[S1A - Vectores|vector]] $\vec{v}$ con el vector $\vec{w}$ es la proyección de $\vec{v}$ sobre $\vec{w}$ multiplicado por $\lVert \vec{w} \rVert$ (o viceversa).
 
