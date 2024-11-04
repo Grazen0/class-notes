@@ -143,3 +143,6 @@ E = eig(A) % Vector con los valores propios de A
 
 ### Diagonalización
 
+```
+
+```
