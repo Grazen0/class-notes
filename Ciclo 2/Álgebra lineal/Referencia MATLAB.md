@@ -1,70 +1,46 @@
-## Creación de matrices
-
-### Matriz identidad
-
-```
-I = eye(n)
-I = eye(m, n)
-```
-
-### Matriz de números aleatorios
-
-```
-A = rand(n)
-A = rand(m, n)
-```
-
-## Propiedades de una matriz
-
-### Rango
-
-```
-A = [1 2; 3 4]
-r = rank(A)
-```
-
 ## Cálculo simbólico
 
-### Definir una variable simbólica
+```
+% Definir variables reales a, b, c
+syms a b c real
+
+% Sumar a, b y c y simplificar el resultado
+S = simplify(a + b + c)
+```
+
+## Operaciones y propiedades básicas
 
 ```
-syms a
-```
+% Matriz identidad
+I = eye(n) 
+I = eye(m, n)
 
-## Operaciones elementales e inversa
+% Números aleatorios
+A = rand(n)
+A = rand(m, n)
+
+% Rango de A
+r = rank(A)
+
+% Inversa de A
+C = inv(A)
+
+% Forma escalonada reducida de A
+Ar = rref(A)
+[Ar, p] = rref(A) % p contiene los índices de los pivotes
+```
 
 ### Operaciones elementales
 
-#### Intercambiar filas ($f_{i} \leftrightarrow f_{j}$)
-
 ```
+% Intercambiar filas i y j
 A([i j],:) = A([j i],:)
-```
 
-#### Multiplicar fila por un escalar ($f_{i} \to k\,f_{i}$)
-
-```
+% Multiplicar la fila i por k
 A(i,:) = k * A(i,:)
-```
 
-#### Adición de una fila por un escalar ($f_{i} \to f_{i} + kf_{j}$)
-
-```
+% Sumar a la fila i un múltiplo k de la fila j
 A(i,:) = A(i,:) + k * A(j,:)
-```
-
-### Inversa
-
-```
-C = inv(A)
-```
-
-### Forma escalonada reducida
-
-```
-n = size(A,1) % Orden de la matriz
-Au = [A eye(n)] % Matriz aumentada
-Aur = rref(Au) % Forma escalonada reducida de Au...
 ```
 
 ## Sistemas de ecuaciones lineales
@@ -80,38 +56,11 @@ solution3 = inv(A) * b
 
 ## Espacios fundamentales
 
-### Espacio columna
-
 ```
-A = [
-	10   5   5 -20
-	 1   2  -1   4
-	40  10  30  30
-	 9   8   1   6
-];
 [R, p] = rref(A); % Matriz escalonada reducida + índices de pivotes
-V = A(:,p) % Espacio columna de A
-```
+V = A(:,p) % Base de col(A)
 
-Otra forma de calcular el espacio columna es con `syms`.
-
-```
-A = syms([
-	1 2 3
-	4 5 6
-	7 8 9
-]);
-V = colspace(A)
-```
-
-### Espacio nulo
-
-```
-A = [
-	1 2 3
-	4 5 6
-	7 8 9
-];
+% Espacio nulo de A
 V = null(A, 'r') % El 'r' indica que queremos elementos racionales
 ```
 
@@ -119,22 +68,12 @@ V = null(A, 'r') % El 'r' indica que queremos elementos racionales
 
 ```
 syms x;
-A = [
-	0  0 -2
-	1  2  1
-	1  0  3
-];
 p_A = charpoly(A, x) % Polinomio característico de A
 L = solve(p_A) % Valores propios de A
 ```
 
 ```
-A = [
-	1 2
-	3 4
-];
-
-E = eig(A) % Vector con los valores propios de A
+E = eig(A) % Valores propios de A
 
 % V: Vectores propios normalizados de A
 % D: Matriz diagonal con los valores propios de A
@@ -146,3 +85,5 @@ E = eig(A) % Vector con los valores propios de A
 ```
 
 ```
+
+### Descomposición SVD
