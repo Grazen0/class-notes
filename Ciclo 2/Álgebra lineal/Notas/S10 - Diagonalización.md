@@ -17,9 +17,13 @@ Si $B$ es semejante a $A$, se cumplen las siguientes propiedades:
 ```ad-definition
 title: Definición (diagonalización).
 
-Se dice que una matriz $A$ es **diagonalizable** si y sólo si es **semejante a alguna matriz diagonal**.
+Se dice que una matriz $A$ es **diagonalizable** si y sólo si es **semejante a alguna matriz diagonal**. Es decir, cuando existe una matriz invertible $P$ tal que
 
-Es decir, cuando existe una matriz invertible $P$ tal que $P^{-1}AP = D$ es diagonal.
+$$
+D = P^{-1}AP
+,$$
+
+donde $D$ es diagonal.
 
 En dicho caso, se dice que $P$ **diagonaliza** a $A$.
 

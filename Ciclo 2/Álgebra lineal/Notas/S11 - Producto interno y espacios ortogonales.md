@@ -223,8 +223,8 @@ Otras propiedades, dadas matrices ortogonales $A$ y $B$, son:
 
 1. $A^T$ es ortogonal.
 2. $A^{-1}$ es ortogonal.
-3. $AB$ es ortogonal es ortogonal.
-4. O bien $|A| = 1$, o bien $|A| = -1$.
+3. $AB$ es ortogonal.
+4. $|A| = \pm1$.
 
 ### Diagonalización ortogonal
 
