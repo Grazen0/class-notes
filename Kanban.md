@@ -6,10 +6,6 @@ kanban-plugin: board
 
 ## ☕ Tareas
 
-- [ ] **Progra - Grupal 04**
-	
-	@{04-11-2024} 
-	#progra #teo #grupal
 - [ ] **Planificación Comu**
 	
 	- [x] Tema delimitado
@@ -42,10 +38,6 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
-- [x] **Progra - PC 2**
-	
-	@{31-10-2024} 
-	#progra #lab
 
 
 ***
@@ -588,6 +580,14 @@ kanban-plugin: board
 	
 	@{25-10-2024}  
 	#optica #teo
+- [x] **Progra - Grupal 04**
+	
+	@{04-11-2024} 
+	#progra #teo #grupal
+- [x] **Progra - PC 2**
+	
+	@{31-10-2024} 
+	#progra #lab
 
 %% kanban:settings
 ```
