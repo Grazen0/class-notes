@@ -13,6 +13,10 @@ kanban-plugin: board
 	- [ ] Bibliografía de cada capítulo
 	@{06-11-2024} 
 	#comu #grupal
+- [ ] **Óptica - TD2**
+	
+	@{11-11-2024} 
+	#optica #teo
 - [ ] **Lineal - RC 3**
 	
 	@{14-11-2024}
