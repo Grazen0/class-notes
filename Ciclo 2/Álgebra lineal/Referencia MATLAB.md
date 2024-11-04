@@ -80,13 +80,19 @@ E = eig(A) % Valores propios de A
 [V, D] = eig(A)
 ```
 
+## Ortogonalidad
+
+```
+% Ortogonalización de A
+O = orth(A)
+```
+
 ### Diagonalización
 
 ```
 [P, D] = eig(A)
-
-% Podemos comprobar que P*D*inv(P) = 1.
-% Si A es simétrica, P será ortogonal.
+% Se cumple que P*D*inv(P) = 1
+% Si A es simétrica, P será ortogonal
 ```
 
 ## Factorizaciones
@@ -94,13 +100,13 @@ E = eig(A) % Valores propios de A
 ### Factorización QR
 
 ```
-Q = orth(A) % Ortogonalización de A
-R = 
+[Q, R] = qr(A)
+% Se cumple que Q*R = A
 ```
 
 ### Descomposición SVD
 
 ```
 [U, S, V] = svd(A)
-% Podemos comprobar que U*S*V' = A
+% Se cumple que U*S*V' = A
 ```
