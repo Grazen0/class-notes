@@ -12,4 +12,4 @@ donde $P$ es una región en coordenadas polares equivalente a $D$.
 
 ```
 
-Cuando las regiones son más complejas que simplemente $a \leq \theta \leq$
+Cuando los límites de integración incluyen funciones, es necesario transformar dichas funciones también.
