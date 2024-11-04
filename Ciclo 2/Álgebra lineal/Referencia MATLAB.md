@@ -69,7 +69,7 @@ V = null(A, 'r') % El 'r' indica que queremos elementos racionales
 ```
 syms x;
 p_A = charpoly(A, x) % Polinomio característico de A
-L = solve(p_A) % Valores propios de A
+E = solve(p_A) % Valores propios de A
 ```
 
 ```
