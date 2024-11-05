@@ -77,8 +77,8 @@ A = U\Sigma V^T
 donde:
 
 1. $\Sigma$ es una matriz de $m \times n$ cuya diagonal son los valores singulares de $A$ en orden no decreciente,
-2. $U$ es una matriz ortogonal de $m \times n$, y
-3. $V$ es una matriz de $n \times n$ que diagonaliza ortogonalmente a $A$.
+2. $U$ es de $m \times n$ y diagonaliza ortogonalmente a $AA^T$, y
+3. $V$ es de $n \times n$ y diagonaliza ortogonalmente a $A^T A$.
 
 ```
 
@@ -86,8 +86,21 @@ donde:
 
 1. Calcular $A^T A$.
 2. Formar $\Sigma$ con los valores singulares de $A$.
-3. Encontrar los vectores propios normalizados de $A^T A$.
+3. Encontrar los vectores propios ortonormales de $A^T A$.
 	1. Formar $V$ con estos vectores propios.
 4. Calcular $AA^T$.
-5. Encontrar los vectores propios normalizados de $AA^T$.
+5. Encontrar los vectores propios ortonormales de $AA^T$.
 	1. Formar $U$ con estos vectores propios.
+
+Sin embargo, podemos abreviar este último paso mediante la fórmula
+
+$$
+\mathbf{u}_i = \frac{1}{\sigma_i}A\mathbf{v}_i
+.$$
+
+(Es decir, podemos calcular las primeras columnas de $U$ con los datos que ya tenemos: los VS de $A$ y las columnas de $V$.)
+
+Para hallar las columnas restantes de $U$, tenemos algunas opciones.
+
+1. Usar **producto cruz** ($\mathbf{u}_3 = \frac{\mathbf{u_1} \times \mathbf{u}_2}{\lVert \mathbf{u}_1 \times \mathbf{u}_2 \rVert}$).
+2. Armar un **sistema de ecuaciones** con el vector faltante, teniendo en cuenta que su **producto punto** con los vectores ya conocidos **debe ser $0$**
