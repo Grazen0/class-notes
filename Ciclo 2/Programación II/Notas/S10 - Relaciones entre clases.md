@@ -57,3 +57,7 @@ Es similar a la asociación. De lo que entiendo, es lo mismo, pero existe una re
 Es esencialmente una asociación donde **A es dueño de B**. Es decir, B no puede existir sin A.
 
 ![[composicion.png]]
+
+## Herencia
+
+Ver también: [[S12 - Polimorfismo]]

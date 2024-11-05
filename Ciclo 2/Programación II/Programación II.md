@@ -14,7 +14,7 @@
 	- [[S7 - Vectores e iteradores]]
 	- [[S8 - Programación orientada a objetos]]
 	- [[S10 - Relaciones entre clases]]
-	- [[S12 - Herencia]]
+	- [[S12 - Polimorfismo]]
 
 %% End Waypoint %%
 
