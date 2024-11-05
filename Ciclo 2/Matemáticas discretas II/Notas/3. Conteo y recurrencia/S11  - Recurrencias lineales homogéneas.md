@@ -149,3 +149,15 @@ a_n = s^n(A + Bn)
 ```
 
 Nuevamente, para hallar $A$ y $B$ tenemos que formar un sistema de ecuaciones con los términos iniciales.
+
+$$
+y(x) = \frac{a_0}{2} + \sum_{n=0}^{\infty} (a_n \cos(k_n x) + b_n\sin(k_nx))
+$$
+
+$$
+\left< \cos(k_nx), \cos(k_nx) \right> = \left< \sin(k_nx), \sin(k_nx) \right>  = \frac{\lambda}{2}
+$$
+
+$$
+\left< \cos(k_nx), \cos(k_mx) \right> = \left< \sin(k_nx), \sin(k_mx) \right>  = 0
+$$
