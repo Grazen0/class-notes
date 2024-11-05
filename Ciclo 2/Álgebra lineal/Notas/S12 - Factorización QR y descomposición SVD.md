@@ -77,8 +77,8 @@ A = U\Sigma V^T
 donde:
 
 1. $\Sigma$ es una matriz de $m \times n$ cuya diagonal son los valores singulares de $A$ en orden no decreciente,
-2. $U$ es una matriz ortogonal de $m \times n$, y
-3. $V$ es una matriz de $n \times n$ que diagonaliza ortogonalmente a $A$.
+2. $U$ es de $m \times n$ y diagonaliza ortogonalmente a $AA^T$, y
+3. $V$ es de $n \times n$ y diagonaliza ortogonalmente a $A^T A$.
 
 ```
 
@@ -86,8 +86,8 @@ donde:
 
 1. Calcular $A^T A$.
 2. Formar $\Sigma$ con los valores singulares de $A$.
-3. Encontrar los vectores propios normalizados de $A^T A$.
+3. Encontrar los vectores propios ortonormales de $A^T A$.
 	1. Formar $V$ con estos vectores propios.
 4. Calcular $AA^T$.
-5. Encontrar los vectores propios normalizados de $AA^T$.
+5. Encontrar los vectores propios ortonormales de $AA^T$.
 	1. Formar $U$ con estos vectores propios.

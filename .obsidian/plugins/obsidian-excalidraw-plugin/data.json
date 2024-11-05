@@ -31,6 +31,7 @@
   "previewMatchObsidianTheme": false,
   "width": "400",
   "height": "",
+  "overrideObsidianFontSize": false,
   "dynamicStyling": "colorful",
   "isLeftHanded": false,
   "iframeMatchExcalidrawTheme": true,
