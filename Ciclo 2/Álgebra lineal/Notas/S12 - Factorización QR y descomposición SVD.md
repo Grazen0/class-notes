@@ -91,3 +91,16 @@ donde:
 4. Calcular $AA^T$.
 5. Encontrar los vectores propios ortonormales de $AA^T$.
 	1. Formar $U$ con estos vectores propios.
+
+Sin embargo, podemos abreviar este último paso mediante la fórmula
+
+$$
+\mathbf{u}_i = \frac{1}{\sigma_i}A\mathbf{v}_i
+.$$
+
+(Es decir, podemos calcular las primeras columnas de $U$ con los datos que ya tenemos: los VS de $A$ y las columnas de $V$.)
+
+Para hallar las columnas restantes de $U$, tenemos algunas opciones.
+
+1. Usar **producto cruz** ($\mathbf{u}_3 = \frac{\mathbf{u_1} \times \mathbf{u}_2}{\lVert \mathbf{u}_1 \times \mathbf{u}_2 \rVert}$).
+2. Armar un **sistema de ecuaciones** con el vector faltante, teniendo en cuenta que su **producto punto** con los vectores ya conocidos **debe ser $0$**
