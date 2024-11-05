@@ -7,9 +7,9 @@
     "typwriter-fix",
     "images",
     "mathjax",
-    "kanagawa-font-fix",
     "image-alignment",
     "mathjax-font-size",
+    "kanagawa-font-fix",
     "alignment"
   ],
   "nativeMenus": false,
