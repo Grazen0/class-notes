@@ -1,16 +1,13 @@
 set tabstop=4
 
-" yank to system clipboard
-set clipboard=unnamed
-
 " Better redo
 nnoremap U <C-r>
 
 " Cycle tabs with HL
 exmap tabprev obcommand workspace:previous-tab
 exmap tabnext obcommand workspace:next-tab
-map H :tabprev
-map L :tabnext
+map H :tabprev<CR>
+map L :tabnext<CR>
 
 " navigate visual lines rather than logical ones
 nnoremap j gj
@@ -34,12 +31,12 @@ exmap surround_curly_brackets surround { }
 map [[ :surround_wiki
 nunmap S
 vunmap S
-map S" :surround_double_quotes
-map S' :surround_single_quotes
-map S` :surround_backticks
-map S( :surround_brackets
-map S) :surround_brackets
-map S[ :surround_square_brackets
-map S[ :surround_square_brackets
-map S{ :surround_curly_brackets
-map S} :surround_curly_brackets
+map S" :surround_double_quotes<CR>
+map S' :surround_single_quotes<CR>
+map S` :surround_backticks<CR>
+map S( :surround_brackets<CR>
+map S) :surround_brackets<CR>
+map S[ :surround_square_brackets<CR>
+map S[ :surround_square_brackets<CR>
+map S{ :surround_curly_brackets<CR>
+map S} :surround_curly_brackets<CR>
