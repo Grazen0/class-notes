@@ -37,6 +37,12 @@ kanban-plugin: board
 
 ## 📄 Evaluaciones
 
+- [ ] **Discretas - Examen 2**
+	
+	- [ ] Conteo
+		- [ ] Permutaciones
+		- [ ] Combinaciones
+	- [ ] Sucesiones de recurrencia
 
 
 ## 👍 Completado
