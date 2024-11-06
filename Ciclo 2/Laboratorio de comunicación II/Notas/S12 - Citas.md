@@ -17,4 +17,7 @@
 
 ### Consideraciones adicionales
 
-- **Parafrasear** si queremos transmitir las ideas originales con *más o menos detalle* que en el texto original.
+Podemos...
+
+- **parafrasear** si queremos transmitir las ideas originales con *más o menos detalle* que en el texto original.
+- **esquematizar** si queremos presentar la información de una forma más entendible o relevante para el texto.
