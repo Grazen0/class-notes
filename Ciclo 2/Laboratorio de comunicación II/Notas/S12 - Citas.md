@@ -14,3 +14,7 @@
 	- No queda más que citar textualmente, porque vamos a analizarlo.
 - Queremos **discutir** la posición de alguien más detalladamente.
 	- Evita *sesgos* al presentar la posición que queremos discutir.
+
+### Consideraciones adicionales
+
+- **Parafrasear** si queremos transmitir las ideas originales con *más o menos detalle* que en el texto original.
