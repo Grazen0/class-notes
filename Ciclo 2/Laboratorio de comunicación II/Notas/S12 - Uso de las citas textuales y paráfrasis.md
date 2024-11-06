@@ -6,3 +6,11 @@ Usamos los textos de otros para diversos fines, como:
 - **Extender:** darle *giros* a los términos o conceptos de otros textos.
 
 ## ¿Cuándo citar textualmente?
+
+- El lenguaje original es particularmente **elegante**, poderoso o memorable.
+- Quiero **confirmar la credibilidad** de un argumento con el apoyo de una autoridad en el tema.
+	- Evita *sesgos* al presentar el argumento a nuestro favor.
+- El pasaje **merece un mayor análisis**.
+	- No queda más que citar textualmente, porque vamos a analizarlo.
+- Queremos **discutir** la posición de alguien más detalladamente.
+	- Evita *sesgos* al presentar la posición que queremos discutir.
