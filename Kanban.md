@@ -36,8 +36,11 @@ kanban-plugin: board
 		- [ ] Permutaciones
 		- [ ] Combinaciones
 	- [ ] Sucesiones de recurrencia
+	
+	@{15-11-2024}
 - [ ] **Óptica - EA 5**
 	
+	@{15-11-2024} 
 	#optica #lab
 
 
