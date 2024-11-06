@@ -14,10 +14,35 @@ Las imágenes se pueden formar por:
 - **Distancia objeto ($p$)**
 - **Distancia imagen ($q$)**
 
-## Reflexión y espejos
+### Tipos de imágenes
 
-![[conceptos de optica geometrica.png]]
+#### Imagen real
+
+![[imagen real.png]]
+
+#### Imagen virtual
+
+## Reflexión y espejos
 
 En una reflexión, la imagen percibida es **virtual**.
 
 Para analizar un caso de reflexión, **extendemos hacia atrás los rayos reflejados**.
+
+![[imagen real.png]]
+
+En estos casos, sólo necesitamos **escoger dos rayos** para determinar dónde se formará la imagen extensa.
+
+Por las leyes de reflexión, tenemos:
+
+- El tamaño del objeto es $h$.
+- El rayo $PQ$ se refleja sobre sí mismo.
+- El rayo $PR$ se refleja con ángulo $\theta$.
+- Se forma una imagen **virtual** de tamaño $h'$.
+
+Como $p = q$ y $h = h'$, entonces la imagen virtual está a la misma distancia por detrás del espejo que el objeto al frente.
+
+### Convenciones de signos
+
+- La distancia objeto $p$ es **positiva**.
+- La distancia imagen $q$ es **negativa**.
+- Si la extensión vertical del objeto apunta hacia arriba, la longitud $h$ es **positiva**.
