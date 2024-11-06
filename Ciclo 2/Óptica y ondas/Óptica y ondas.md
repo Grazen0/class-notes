@@ -13,7 +13,7 @@
 	- [[S7 - Ondas electromagnéticas]]
 	- [[S8 - Ondas electromagnéticas 2]]
 	- [[S11 - Dispersión y polarización de la luz]]
-	- [[S12 -]]
+	- [[S12 - Óptica geométrica]]
 
 %% End Waypoint %%
 
