@@ -6,13 +6,6 @@ kanban-plugin: board
 
 ## ☕ Tareas
 
-- [ ] **Planificación Comu**
-	
-	- [x] Tema delimitado
-	- [x] Esquema
-	- [ ] Bibliografía de cada capítulo
-	@{06-11-2024} 
-	#comu #grupal
 - [ ] **Óptica - TD2**
 	
 	@{11-11-2024} 
@@ -43,11 +36,21 @@ kanban-plugin: board
 		- [ ] Permutaciones
 		- [ ] Combinaciones
 	- [ ] Sucesiones de recurrencia
+- [ ] **Óptica - EA 5**
+	
+	#optica #lab
 
 
 ## 👍 Completado
 
 **Complete**
+- [x] **Planificación Comu**
+	
+	- [x] Tema delimitado
+	- [x] Esquema
+	- [x] Bibliografía de cada capítulo
+	@{06-11-2024} 
+	#comu #grupal
 
 
 ***
