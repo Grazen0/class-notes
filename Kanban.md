@@ -24,10 +24,6 @@ kanban-plugin: board
 	#progra #lab #grupal
 
 
-## 📚 Lecturas
-
-
-
 ## 📄 Evaluaciones
 
 - [ ] **Discretas - Examen 2**
@@ -42,6 +38,10 @@ kanban-plugin: board
 	
 	@{15-11-2024} 
 	#optica #lab
+
+
+## 📚 Lecturas
+
 
 
 ## 👍 Completado
@@ -607,6 +607,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","tag-colors":[],"date-colors":[{"isToday":false,"distance":1,"unit":"days","direction":"after","backgroundColor":"rgba(177, 34, 34, 0.36)","color":"rgba(253, 203, 203, 1)"},{"isToday":false,"distance":7,"unit":"days","direction":"after","backgroundColor":"rgba(253, 139, 26, 0.29)","color":"rgba(255, 229, 199, 1)"}],"link-date-to-daily-note":false,"hide-tags-display":false,"tag-action":"kanban","list-collapse":[null,null,false],"hide-card-count":true,"move-dates":true,"move-tags":false,"date-format":"DD-MM-YYYY"}
+{"kanban-plugin":"board","tag-colors":[],"date-colors":[{"isToday":false,"distance":1,"unit":"days","direction":"after","backgroundColor":"rgba(177, 34, 34, 0.36)","color":"rgba(253, 203, 203, 1)"},{"isToday":false,"distance":7,"unit":"days","direction":"after","backgroundColor":"rgba(253, 139, 26, 0.29)","color":"rgba(255, 229, 199, 1)"}],"link-date-to-daily-note":false,"hide-tags-display":false,"tag-action":"kanban","list-collapse":[null,false,null],"hide-card-count":true,"move-dates":true,"move-tags":false,"date-format":"DD-MM-YYYY"}
 ```
 %%
