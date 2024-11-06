@@ -108,7 +108,7 @@ $$
 n = \frac{c}{v} = \frac{\lambda_0}{\lambda}
 .$$
 
-donde $\lambda_0$ es la longitud de onda en el vacío.
+donde $\lambda_0$ es la longitud de onda (de la onda que estemos analizando) en el vacío.
 
 ### Reflexión total interna
 
