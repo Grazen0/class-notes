@@ -10,6 +10,13 @@ kanban-plugin: board
 	
 	@{11-11-2024} 
 	#optica #teo
+- [ ] **Planificación Comu**
+	
+	- [x] Tema delimitado
+	- [x] Esquema
+	- [x] Bibliografía de cada capítulo
+	@{13-11-2024} 
+	#comu #grupal
 - [ ] **Lineal - RC 3**
 	
 	@{14-11-2024}
@@ -47,13 +54,6 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
-- [x] **Planificación Comu**
-	
-	- [x] Tema delimitado
-	- [x] Esquema
-	- [x] Bibliografía de cada capítulo
-	@{06-11-2024} 
-	#comu #grupal
 
 
 ***
