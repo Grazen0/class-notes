@@ -13,7 +13,7 @@ kanban-plugin: board
 - [ ] **Planificación Comu**
 	
 	- [x] Tema delimitado
-	- [x] Esquema
+	- [ ] Esquema
 	- [x] Bibliografía de cada capítulo
 	@{13-11-2024} 
 	#comu #grupal
