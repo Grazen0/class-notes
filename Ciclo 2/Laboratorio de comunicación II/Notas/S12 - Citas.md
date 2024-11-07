@@ -21,3 +21,17 @@ Podemos...
 
 - **parafrasear** si queremos transmitir las ideas originales con *más o menos detalle* que en el texto original.
 - **esquematizar** si queremos presentar la información de una forma más entendible o relevante para el texto.
+
+## Citas parentéticas y narrativas
+
+### Cita parentética
+
+Contiene al autor (o autores) entre paréntesis
+
+> ... (Pérez, 2021).
+
+### Cita narrativa
+
+Dígase que "integra" al autor como parte de la oración en sí.
+
+> Pérez (2021) afirma que...
