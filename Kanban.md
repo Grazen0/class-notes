@@ -38,7 +38,7 @@ kanban-plugin: board
 	- [ ] Conteo
 		- [ ] Permutaciones
 		- [ ] Combinaciones
-	- [ ] Sucesiones de recurrencia
+	- [x] Sucesiones de recurrencia
 	
 	@{08-11-2024}
 - [ ] **Óptica - EA 5**
