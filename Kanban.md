@@ -35,10 +35,10 @@ kanban-plugin: board
 
 - [ ] **Discretas - Examen 2**
 	
-	- [ ] Conteo
-		- [ ] Permutaciones
-		- [ ] Combinaciones
-	- [ ] Sucesiones de recurrencia
+	- [x] Conteo
+		- [x] Permutaciones
+		- [x] Combinaciones
+	- [x] Sucesiones de recurrencia
 	
 	@{08-11-2024}
 - [ ] **Óptica - EA 5**
