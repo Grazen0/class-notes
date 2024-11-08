@@ -33,10 +33,6 @@ kanban-plugin: board
 
 ## 📄 Evaluaciones
 
-- [ ] **Óptica - EA 5**
-	
-	@{08-11-2024} 
-	#optica #lab
 
 
 ## 📚 Lecturas
@@ -54,6 +50,10 @@ kanban-plugin: board
 	- [x] Sucesiones de recurrencia
 	
 	@{08-11-2024}
+- [x] **Óptica - EA 5**
+	
+	@{08-11-2024} 
+	#optica #lab
 
 
 ***
