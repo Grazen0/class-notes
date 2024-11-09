@@ -14,7 +14,7 @@ kanban-plugin: board
 	
 	- [x] Tema delimitado
 	- [x] Esquema
-	- [x] Bibliografía de cada capítulo
+	- [ ] Bibliografía de cada capítulo
 	@{14-11-2024} 
 	#comu #grupal
 - [ ] **Lineal - RC 3**
