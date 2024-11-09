@@ -6,10 +6,6 @@ kanban-plugin: board
 
 ## ☕ Tareas
 
-- [ ] **Óptica - TD2**
-	
-	@{11-11-2024} 
-	#optica #teo
 - [ ] **Planificación Comu**
 	
 	- [x] Tema delimitado
@@ -42,6 +38,10 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **Óptica - TD2**
+	
+	@{11-11-2024} 
+	#optica #teo
 - [x] **Discretas - Examen 2**
 	
 	- [x] Conteo
