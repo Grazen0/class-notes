@@ -19,11 +19,11 @@ kanban-plugin: board
 	#comu #grupal
 - [ ] **Lineal - RC 3**
 	
-	@{14-11-2024}
+	@{14-11-2024} @@{20:00} 
 	#lineal #teo #grupal
 - [ ] **Vecto - ABP**
 	
-	@{14-11-2024} 
+	@{14-11-2024} @@{09:00} 
 	#calculo #lab #grupal
 - [ ] **Progra - Proyecto final**
 	
