@@ -32,6 +32,23 @@ $$
 
 En realidad, el límite del que hablamos en esta definición no es exactamente la misma definición para límites de funciones reales, pero tiene las mismas propiedades.
 
+```ad-definition
+
+Se dice que 
+
+$$
+\lim_{n \to \infty} a_n = L
+$$
+
+si y sólo si
+
+$$
+\forall \varepsilon > 0 \, (\exists N > 0 \, (n > N \implies |a_n - L| < \varepsilon))
+.$$
+
+```
+
+
 ```ad-theorem
 
 Si una sucesión tiene cota inferior y superior, y es o creciente o decreciente, entonces es convergente.

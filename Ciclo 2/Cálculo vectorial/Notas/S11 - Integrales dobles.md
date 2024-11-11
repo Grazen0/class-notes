@@ -68,3 +68,11 @@ $$
 .$$
 
 ```
+
+## Áreas de superficies
+
+El área de la superficie formada por $f(x,y)$ sobre la región $D$ se puede calcular mediante
+
+$$
+A = \iint_D \sqrt{(f_x)^2 + (f_y)^2 + 1} \, dA
+.$$
