@@ -1,5 +1,7 @@
 {
   "lastOpenLanguageTab": "cpp",
+  "releaseNote2_0_0wasShowed": true,
+  "persistentOuput": false,
   "timeout": 10000,
   "allowInput": true,
   "wslMode": false,
@@ -133,6 +135,10 @@
   "ocamlPath": "ocaml",
   "ocamlArgs": "",
   "ocamlInject": "",
+  "phpPath": "php",
+  "phpArgs": "",
+  "phpFileExtension": "php",
+  "phpInject": "",
   "jsInteractive": true,
   "tsInteractive": false,
   "csInteractive": false,
@@ -165,5 +171,6 @@
   "maximaInteractive": false,
   "applescriptInteractive": false,
   "zigInteractive": false,
-  "ocamlInteractive": false
+  "ocamlInteractive": false,
+  "phpInteractive": false
 }

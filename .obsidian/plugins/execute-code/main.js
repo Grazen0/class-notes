@@ -10636,9 +10636,9 @@ __export(main_exports, {
   supportedLanguages: () => supportedLanguages
 });
 module.exports = __toCommonJS(main_exports);
-var import_obsidian44 = require("obsidian");
+var import_obsidian46 = require("obsidian");
 
-// src/Outputter.ts
+// src/output/Outputter.ts
 var import_events = require("events");
 
 // src/svgs/parseHTML.ts
@@ -10674,17 +10674,138 @@ var loadSpinner_default = () => {
   return svg2.cloneNode(true);
 };
 
-// src/Outputter.ts
+// src/output/FileAppender.ts
+var FileAppender = class {
+  constructor(view, blockElem) {
+    this.view = view;
+    this.codeBlockElement = blockElem;
+    try {
+      this.codeBlockRange = this.getRangeOfCodeBlock(blockElem);
+    } catch (e) {
+      console.error("Error finding code block range: Probably because of 'run-' prefix");
+      this.codeBlockRange = null;
+    }
+  }
+  clearOutput() {
+    if (this.codeBlockRange && this.outputPosition) {
+      const editor = this.view.editor;
+      const afterEndOfOutputCodeBlock = {
+        line: this.outputPosition.line + 1,
+        ch: "```".length + 1
+      };
+      editor.replaceRange("", this.codeBlockRange.to, afterEndOfOutputCodeBlock);
+      this.view.setViewData(editor.getValue(), false);
+      this.outputPosition = null;
+    }
+  }
+  addOutput(output) {
+    try {
+      this.findOutputTarget();
+    } catch (e) {
+      console.error("Error finding output target: Probably because of 'run-' prefix");
+      this.view.setViewData(this.view.editor.getValue(), false);
+      return;
+    }
+    const editor = this.view.editor;
+    editor.replaceRange(output, this.outputPosition);
+    const lines = output.split("\n");
+    this.outputPosition = {
+      line: this.outputPosition.line + (lines.length - 1),
+      ch: (lines.length == 1 ? this.outputPosition.ch : 0) + lines[lines.length - 1].length
+    };
+    this.view.setViewData(this.view.editor.getValue(), false);
+  }
+  findOutputTarget(addIfNotExist = true) {
+    const editor = this.view.editor;
+    const EXPECTED_SUFFIX = "\n```output\n";
+    const sigilEndIndex = editor.posToOffset(this.codeBlockRange.to) + EXPECTED_SUFFIX.length;
+    const outputBlockSigilRange = {
+      from: this.codeBlockRange.to,
+      to: {
+        ch: 0,
+        line: this.codeBlockRange.to.line + 2
+      }
+    };
+    const hasOutput = editor.getRange(outputBlockSigilRange.from, outputBlockSigilRange.to) == EXPECTED_SUFFIX;
+    if (hasOutput) {
+      const index = editor.getValue().indexOf("\n```\n", sigilEndIndex);
+      if (index == -1) {
+        this.outputPosition = outputBlockSigilRange.to;
+      } else {
+        this.outputPosition = editor.offsetToPos(index - 1);
+      }
+    } else if (addIfNotExist) {
+      editor.replaceRange(EXPECTED_SUFFIX + "```\n", this.codeBlockRange.to);
+      this.view.data = this.view.editor.getValue();
+      this.outputPosition = {
+        ch: 0,
+        line: this.codeBlockRange.to.line + 2
+      };
+    } else {
+      this.outputPosition = outputBlockSigilRange.to;
+    }
+  }
+  findExactCodeBlockRange(startLine, endLine, searchBlockIndex) {
+    const editor = this.view.editor;
+    const textContent = editor.getValue();
+    const startIndex = editor.posToOffset({ ch: 0, line: startLine });
+    const endIndex = editor.posToOffset({ ch: 0, line: endLine + 1 });
+    const PADDING = "\n\n\n\n\n";
+    let escaped, inBlock, blockI = 0, last5 = PADDING, blockStart;
+    for (let i2 = startIndex; i2 < endIndex + PADDING.length; i2++) {
+      const char = i2 < endIndex ? textContent[i2] : PADDING[0];
+      last5 = last5.substring(1) + char;
+      if (escaped) {
+        escaped = false;
+        continue;
+      }
+      if (char == "\\") {
+        escaped = true;
+        continue;
+      }
+      if (last5.substring(0, 4) == "\n```") {
+        inBlock = !inBlock;
+        if (inBlock) {
+          blockStart = i2 - 4;
+        } else {
+          if (blockI == searchBlockIndex) {
+            return {
+              from: this.view.editor.offsetToPos(blockStart),
+              to: this.view.editor.offsetToPos(i2)
+            };
+          } else {
+            blockI++;
+          }
+        }
+      }
+    }
+    return null;
+  }
+  getRangeOfCodeBlock(codeBlock) {
+    const parent = codeBlock.parentElement;
+    const index = Array.from(parent.children).indexOf(codeBlock);
+    const section = this.view.previewMode.renderer.sections.find((x) => x.el == parent);
+    if (section) {
+      return this.findExactCodeBlockRange(section.lineStart, section.lineEnd, index);
+    } else {
+      return null;
+    }
+  }
+};
+
+// src/output/Outputter.ts
 var TOGGLE_HTML_SIGIL = `TOGGLE_HTML_${Math.random().toString(16).substring(2)}`;
 var Outputter = class extends import_events.EventEmitter {
-  constructor(codeBlock, doInput) {
+  constructor(codeBlock, settings, view) {
     super();
-    this.inputState = doInput ? "INACTIVE" : "NOT_DOING";
+    this.settings = settings;
+    this.inputState = this.settings.allowInput ? "INACTIVE" : "NOT_DOING";
     this.codeBlockElement = codeBlock;
     this.hadPreviouslyPrinted = false;
     this.escapeHTML = true;
     this.htmlBuffer = "";
     this.blockRunState = "INITIAL";
+    this.saveToFile = new FileAppender(view, codeBlock.parentElement);
   }
   clear() {
     if (this.outputElement) {
@@ -10700,6 +10821,7 @@ var Outputter = class extends import_events.EventEmitter {
       this.clearButton.className = "clear-button-disabled";
     this.closeInput();
     this.inputState = "INACTIVE";
+    this.saveToFile.clearOutput();
     this.killBlock();
   }
   killBlock() {
@@ -10728,16 +10850,16 @@ var Outputter = class extends import_events.EventEmitter {
   writeRaw(text) {
     text = text.replace(/\x1b\\[;\d]*m/g, "");
     if (this.textPrinted(text)) {
-      this.escapeAwareAppend(this.addStdout(), text);
       this.makeOutputVisible();
     }
+    this.escapeAwareAppend(this.addStdout(), text);
   }
   writeErr(text) {
     text = text.replace(/\x1b\\[;\d]*m/g, "");
     if (this.textPrinted(text)) {
-      this.addStderr().appendText(text);
       this.makeOutputVisible();
     }
+    this.addStderr().appendText(text);
   }
   closeInput() {
     this.inputState = "CLOSED";
@@ -10845,6 +10967,9 @@ var Outputter = class extends import_events.EventEmitter {
   escapeAwareAppend(element, text) {
     if (this.escapeHTML) {
       element.appendChild(document.createTextNode(text));
+      if (this.settings.persistentOuput) {
+        this.saveToFile.addOutput(text);
+      }
     } else {
       this.htmlBuffer += text;
     }
@@ -10888,6 +11013,8 @@ var Outputter = class extends import_events.EventEmitter {
 // src/settings/Settings.ts
 var DEFAULT_SETTINGS = {
   lastOpenLanguageTab: void 0,
+  releaseNote2_0_0wasShowed: false,
+  persistentOuput: false,
   timeout: 1e4,
   allowInput: true,
   wslMode: false,
@@ -11021,6 +11148,10 @@ var DEFAULT_SETTINGS = {
   ocamlPath: "ocaml",
   ocamlArgs: "",
   ocamlInject: "",
+  phpPath: "php",
+  phpArgs: "",
+  phpFileExtension: "php",
+  phpInject: "",
   jsInteractive: true,
   tsInteractive: false,
   csInteractive: false,
@@ -11053,11 +11184,12 @@ var DEFAULT_SETTINGS = {
   maximaInteractive: false,
   applescriptInteractive: false,
   zigInteractive: false,
-  ocamlInteractive: false
+  ocamlInteractive: false,
+  phpInteractive: false
 };
 
 // src/settings/SettingsTab.ts
-var import_obsidian33 = require("obsidian");
+var import_obsidian34 = require("obsidian");
 
 // src/settings/languageDisplayName.ts
 var DISPLAY_NAMES = {
@@ -11071,6 +11203,7 @@ var DISPLAY_NAMES = {
   kotlin: "Kotlin",
   lua: "Lua",
   mathematica: "Mathematica",
+  php: "PHP",
   powershell: "Powershell",
   prolog: "Prolog",
   python: "Python",
@@ -11385,27 +11518,45 @@ var makeMathematicaSettings_default = (tab, containerEl) => {
   tab.makeInjectSetting(containerEl, "mathematica");
 };
 
-// src/settings/per-lang/makePowershellSettings.ts
+// src/settings/per-lang/makePhpSettings.ts
 var import_obsidian15 = require("obsidian");
+var makePhpSettings_default = (tab, containerEl) => {
+  containerEl.createEl("h3", { text: "PHP Settings" });
+  new import_obsidian15.Setting(containerEl).setName("php path").setDesc("Path to your php installation").addText((text) => text.setValue(tab.plugin.settings.phpPath).onChange((value) => __async(void 0, null, function* () {
+    const sanitized = tab.sanitizePath(value);
+    tab.plugin.settings.phpPath = sanitized;
+    console.log("php path set to: " + sanitized);
+    yield tab.plugin.saveSettings();
+  })));
+  new import_obsidian15.Setting(containerEl).setName("php arguments").addText((text) => text.setValue(tab.plugin.settings.phpArgs).onChange((value) => __async(void 0, null, function* () {
+    tab.plugin.settings.phpArgs = value;
+    console.log("php args set to: " + value);
+    yield tab.plugin.saveSettings();
+  })));
+  tab.makeInjectSetting(containerEl, "php");
+};
+
+// src/settings/per-lang/makePowershellSettings.ts
+var import_obsidian16 = require("obsidian");
 var makePowershellSettings_default = (tab, containerEl) => {
   containerEl.createEl("h3", { text: "Powershell Settings" });
-  new import_obsidian15.Setting(containerEl).setName("Powershell path").setDesc("The path to Powershell.").addText((text) => text.setValue(tab.plugin.settings.powershellPath).onChange((value) => __async(void 0, null, function* () {
+  new import_obsidian16.Setting(containerEl).setName("Powershell path").setDesc("The path to Powershell.").addText((text) => text.setValue(tab.plugin.settings.powershellPath).onChange((value) => __async(void 0, null, function* () {
     const sanitized = tab.sanitizePath(value);
     tab.plugin.settings.powershellPath = sanitized;
     console.log("Powershell path set to: " + sanitized);
     yield tab.plugin.saveSettings();
   })));
-  new import_obsidian15.Setting(containerEl).setName("Powershell arguments").addText((text) => text.setValue(tab.plugin.settings.powershellArgs).onChange((value) => __async(void 0, null, function* () {
+  new import_obsidian16.Setting(containerEl).setName("Powershell arguments").addText((text) => text.setValue(tab.plugin.settings.powershellArgs).onChange((value) => __async(void 0, null, function* () {
     tab.plugin.settings.powershellArgs = value;
     console.log("Powershell args set to: " + value);
     yield tab.plugin.saveSettings();
   })));
-  new import_obsidian15.Setting(containerEl).setName("Powershell file extension").setDesc("Changes the file extension for generated shell scripts. This is useful if you don't want to use PowerShell.").addText((text) => text.setValue(tab.plugin.settings.powershellFileExtension).onChange((value) => __async(void 0, null, function* () {
+  new import_obsidian16.Setting(containerEl).setName("Powershell file extension").setDesc("Changes the file extension for generated shell scripts. This is useful if you don't want to use PowerShell.").addText((text) => text.setValue(tab.plugin.settings.powershellFileExtension).onChange((value) => __async(void 0, null, function* () {
     tab.plugin.settings.powershellFileExtension = value;
     console.log("Powershell file extension set to: " + value);
     yield tab.plugin.saveSettings();
   })));
-  new import_obsidian15.Setting(containerEl).setName("PowerShell script encoding").setDesc('Windows still uses windows-1252 as default encoding on most systems for legacy reasons. If you change your encodings systemwide to UTF-8, you can change this setting to UTF-8 as well. Only use one of the following encodings: "ascii", "utf8", "utf-8", "utf16le", "ucs2", "ucs-2", "base64", "latin1", "binary", "hex" (default: "latin1")').addText((text) => text.setValue(tab.plugin.settings.powershellEncoding).onChange((value) => __async(void 0, null, function* () {
+  new import_obsidian16.Setting(containerEl).setName("PowerShell script encoding").setDesc('Windows still uses windows-1252 as default encoding on most systems for legacy reasons. If you change your encodings systemwide to UTF-8, you can change this setting to UTF-8 as well. Only use one of the following encodings: "ascii", "utf8", "utf-8", "utf16le", "ucs2", "ucs-2", "base64", "latin1", "binary", "hex" (default: "latin1")').addText((text) => text.setValue(tab.plugin.settings.powershellEncoding).onChange((value) => __async(void 0, null, function* () {
     value = value.replace(/["'`´]/, "").trim().toLowerCase();
     if (["ascii", "utf8", "utf-8", "utf16le", "ucs2", "ucs-2", "base64", "latin1", "binary", "hex"].includes(value)) {
       tab.plugin.settings.powershellEncoding = value;
@@ -11419,10 +11570,10 @@ var makePowershellSettings_default = (tab, containerEl) => {
 };
 
 // src/settings/per-lang/makePrologSettings.ts
-var import_obsidian16 = require("obsidian");
+var import_obsidian17 = require("obsidian");
 var makePrologSettings_default = (tab, containerEl) => {
   containerEl.createEl("h3", { text: "Prolog Settings" });
-  new import_obsidian16.Setting(containerEl).setName("Prolog Answer Limit").setDesc("Maximal number of answers to be returned by the Prolog engine. tab is to prevent creating too huge texts in the notebook.").addText((text) => text.setValue("" + tab.plugin.settings.maxPrologAnswers).onChange((value) => __async(void 0, null, function* () {
+  new import_obsidian17.Setting(containerEl).setName("Prolog Answer Limit").setDesc("Maximal number of answers to be returned by the Prolog engine. tab is to prevent creating too huge texts in the notebook.").addText((text) => text.setValue("" + tab.plugin.settings.maxPrologAnswers).onChange((value) => __async(void 0, null, function* () {
     if (Number(value) * 1e3) {
       console.log("Prolog answer limit set to: " + value);
       tab.plugin.settings.maxPrologAnswers = Number(value);
@@ -11433,26 +11584,26 @@ var makePrologSettings_default = (tab, containerEl) => {
 };
 
 // src/settings/per-lang/makePythonSettings.ts
-var import_obsidian17 = require("obsidian");
+var import_obsidian18 = require("obsidian");
 var makePythonSettings_default = (tab, containerEl) => {
   containerEl.createEl("h3", { text: "Python Settings" });
-  new import_obsidian17.Setting(containerEl).setName("Embed Python Plots").addToggle((toggle) => toggle.setValue(tab.plugin.settings.pythonEmbedPlots).onChange((value) => __async(void 0, null, function* () {
+  new import_obsidian18.Setting(containerEl).setName("Embed Python Plots").addToggle((toggle) => toggle.setValue(tab.plugin.settings.pythonEmbedPlots).onChange((value) => __async(void 0, null, function* () {
     tab.plugin.settings.pythonEmbedPlots = value;
     console.log(value ? "Embedding Plots into Notes." : "Not embedding Plots into Notes.");
     yield tab.plugin.saveSettings();
   })));
-  new import_obsidian17.Setting(containerEl).setName("Python path").setDesc("The path to your Python installation.").addText((text) => text.setValue(tab.plugin.settings.pythonPath).onChange((value) => __async(void 0, null, function* () {
+  new import_obsidian18.Setting(containerEl).setName("Python path").setDesc("The path to your Python installation.").addText((text) => text.setValue(tab.plugin.settings.pythonPath).onChange((value) => __async(void 0, null, function* () {
     const sanitized = tab.sanitizePath(value);
     tab.plugin.settings.pythonPath = sanitized;
     console.log("Python path set to: " + sanitized);
     yield tab.plugin.saveSettings();
   })));
-  new import_obsidian17.Setting(containerEl).setName("Python arguments").addText((text) => text.setValue(tab.plugin.settings.pythonArgs).onChange((value) => __async(void 0, null, function* () {
+  new import_obsidian18.Setting(containerEl).setName("Python arguments").addText((text) => text.setValue(tab.plugin.settings.pythonArgs).onChange((value) => __async(void 0, null, function* () {
     tab.plugin.settings.pythonArgs = value;
     console.log("Python args set to: " + value);
     yield tab.plugin.saveSettings();
   })));
-  new import_obsidian17.Setting(containerEl).setName("Run Python blocks in Notebook Mode").addToggle((toggle) => toggle.setValue(tab.plugin.settings.pythonInteractive).onChange((value) => __async(void 0, null, function* () {
+  new import_obsidian18.Setting(containerEl).setName("Run Python blocks in Notebook Mode").addToggle((toggle) => toggle.setValue(tab.plugin.settings.pythonInteractive).onChange((value) => __async(void 0, null, function* () {
     tab.plugin.settings.pythonInteractive = value;
     yield tab.plugin.saveSettings();
   })));
@@ -11460,26 +11611,26 @@ var makePythonSettings_default = (tab, containerEl) => {
 };
 
 // src/settings/per-lang/makeRSettings.ts
-var import_obsidian18 = require("obsidian");
+var import_obsidian19 = require("obsidian");
 var makeRSettings_default = (tab, containerEl) => {
   containerEl.createEl("h3", { text: "R Settings" });
-  new import_obsidian18.Setting(containerEl).setName("Embed R Plots created via `plot()` into Notes").addToggle((toggle) => toggle.setValue(tab.plugin.settings.REmbedPlots).onChange((value) => __async(void 0, null, function* () {
+  new import_obsidian19.Setting(containerEl).setName("Embed R Plots created via `plot()` into Notes").addToggle((toggle) => toggle.setValue(tab.plugin.settings.REmbedPlots).onChange((value) => __async(void 0, null, function* () {
     tab.plugin.settings.REmbedPlots = value;
     console.log(value ? "Embedding R Plots into Notes." : "Not embedding R Plots into Notes.");
     yield tab.plugin.saveSettings();
   })));
-  new import_obsidian18.Setting(containerEl).setName("Rscript path").setDesc("The path to your Rscript installation. Ensure you provide the Rscript binary instead of the ordinary R binary.").addText((text) => text.setValue(tab.plugin.settings.RPath).onChange((value) => __async(void 0, null, function* () {
+  new import_obsidian19.Setting(containerEl).setName("Rscript path").setDesc("The path to your Rscript installation. Ensure you provide the Rscript binary instead of the ordinary R binary.").addText((text) => text.setValue(tab.plugin.settings.RPath).onChange((value) => __async(void 0, null, function* () {
     const sanitized = tab.sanitizePath(value);
     tab.plugin.settings.RPath = sanitized;
     console.log("R path set to: " + sanitized);
     yield tab.plugin.saveSettings();
   })));
-  new import_obsidian18.Setting(containerEl).setName("R arguments").addText((text) => text.setValue(tab.plugin.settings.RArgs).onChange((value) => __async(void 0, null, function* () {
+  new import_obsidian19.Setting(containerEl).setName("R arguments").addText((text) => text.setValue(tab.plugin.settings.RArgs).onChange((value) => __async(void 0, null, function* () {
     tab.plugin.settings.RArgs = value;
     console.log("R args set to: " + value);
     yield tab.plugin.saveSettings();
   })));
-  new import_obsidian18.Setting(containerEl).setName("Run R blocks in Notebook Mode").addToggle((toggle) => toggle.setValue(tab.plugin.settings.rInteractive).onChange((value) => __async(void 0, null, function* () {
+  new import_obsidian19.Setting(containerEl).setName("Run R blocks in Notebook Mode").addToggle((toggle) => toggle.setValue(tab.plugin.settings.rInteractive).onChange((value) => __async(void 0, null, function* () {
     tab.plugin.settings.rInteractive = value;
     yield tab.plugin.saveSettings();
   })));
@@ -11487,16 +11638,16 @@ var makeRSettings_default = (tab, containerEl) => {
 };
 
 // src/settings/per-lang/makeRubySettings.ts
-var import_obsidian19 = require("obsidian");
+var import_obsidian20 = require("obsidian");
 var makeRubySettings_default = (tab, containerEl) => {
   containerEl.createEl("h3", { text: "Ruby Settings" });
-  new import_obsidian19.Setting(containerEl).setName("ruby path").setDesc("Path to your ruby installation").addText((text) => text.setValue(tab.plugin.settings.rubyPath).onChange((value) => __async(void 0, null, function* () {
+  new import_obsidian20.Setting(containerEl).setName("ruby path").setDesc("Path to your ruby installation").addText((text) => text.setValue(tab.plugin.settings.rubyPath).onChange((value) => __async(void 0, null, function* () {
     const sanitized = tab.sanitizePath(value);
     tab.plugin.settings.rubyPath = sanitized;
     console.log("ruby path set to: " + sanitized);
     yield tab.plugin.saveSettings();
   })));
-  new import_obsidian19.Setting(containerEl).setName("ruby arguments").addText((text) => text.setValue(tab.plugin.settings.rubyArgs).onChange((value) => __async(void 0, null, function* () {
+  new import_obsidian20.Setting(containerEl).setName("ruby arguments").addText((text) => text.setValue(tab.plugin.settings.rubyArgs).onChange((value) => __async(void 0, null, function* () {
     tab.plugin.settings.rubyArgs = value;
     console.log("ruby args set to: " + value);
     yield tab.plugin.saveSettings();
@@ -11505,10 +11656,10 @@ var makeRubySettings_default = (tab, containerEl) => {
 };
 
 // src/settings/per-lang/makeRustSettings.ts
-var import_obsidian20 = require("obsidian");
+var import_obsidian21 = require("obsidian");
 var makeRustSettings_default = (tab, containerEl) => {
   containerEl.createEl("h3", { text: "Rust Settings" });
-  new import_obsidian20.Setting(containerEl).setName("Cargo Path").setDesc("The path to your Cargo installation.").addText((text) => text.setValue(tab.plugin.settings.cargoPath).onChange((value) => __async(void 0, null, function* () {
+  new import_obsidian21.Setting(containerEl).setName("Cargo Path").setDesc("The path to your Cargo installation.").addText((text) => text.setValue(tab.plugin.settings.cargoPath).onChange((value) => __async(void 0, null, function* () {
     const sanitized = tab.sanitizePath(value);
     tab.plugin.settings.cargoPath = sanitized;
     console.log("Cargo path set to: " + sanitized);
@@ -11518,16 +11669,16 @@ var makeRustSettings_default = (tab, containerEl) => {
 };
 
 // src/settings/per-lang/makeScalaSettings.ts
-var import_obsidian21 = require("obsidian");
+var import_obsidian22 = require("obsidian");
 var makeScalaSettings_default = (tab, containerEl) => {
   containerEl.createEl("h3", { text: "Scala Settings" });
-  new import_obsidian21.Setting(containerEl).setName("scala path").setDesc("Path to your scala installation").addText((text) => text.setValue(tab.plugin.settings.scalaPath).onChange((value) => __async(void 0, null, function* () {
+  new import_obsidian22.Setting(containerEl).setName("scala path").setDesc("Path to your scala installation").addText((text) => text.setValue(tab.plugin.settings.scalaPath).onChange((value) => __async(void 0, null, function* () {
     const sanitized = tab.sanitizePath(value);
     tab.plugin.settings.scalaPath = sanitized;
     console.log("scala path set to: " + sanitized);
     yield tab.plugin.saveSettings();
   })));
-  new import_obsidian21.Setting(containerEl).setName("Scala arguments").addText((text) => text.setValue(tab.plugin.settings.scalaArgs).onChange((value) => __async(void 0, null, function* () {
+  new import_obsidian22.Setting(containerEl).setName("Scala arguments").addText((text) => text.setValue(tab.plugin.settings.scalaArgs).onChange((value) => __async(void 0, null, function* () {
     tab.plugin.settings.scalaArgs = value;
     console.log("Scala args set to: " + value);
     yield tab.plugin.saveSettings();
@@ -11536,16 +11687,16 @@ var makeScalaSettings_default = (tab, containerEl) => {
 };
 
 // src/settings/per-lang/makeRacketSettings.ts
-var import_obsidian22 = require("obsidian");
+var import_obsidian23 = require("obsidian");
 var makeRacketSettings_default = (tab, containerEl) => {
   containerEl.createEl("h3", { text: "Racket Settings" });
-  new import_obsidian22.Setting(containerEl).setName("racket path").setDesc("Path to your racket installation").addText((text) => text.setValue(tab.plugin.settings.racketPath).onChange((value) => __async(void 0, null, function* () {
+  new import_obsidian23.Setting(containerEl).setName("racket path").setDesc("Path to your racket installation").addText((text) => text.setValue(tab.plugin.settings.racketPath).onChange((value) => __async(void 0, null, function* () {
     const sanitized = tab.sanitizePath(value);
     tab.plugin.settings.racketPath = sanitized;
     console.log("racket path set to: " + sanitized);
     yield tab.plugin.saveSettings();
   })));
-  new import_obsidian22.Setting(containerEl).setName("Racket arguments").addText((text) => text.setValue(tab.plugin.settings.racketArgs).onChange((value) => __async(void 0, null, function* () {
+  new import_obsidian23.Setting(containerEl).setName("Racket arguments").addText((text) => text.setValue(tab.plugin.settings.racketArgs).onChange((value) => __async(void 0, null, function* () {
     tab.plugin.settings.racketArgs = value;
     console.log("Racket args set to: " + value);
     yield tab.plugin.saveSettings();
@@ -11554,26 +11705,26 @@ var makeRacketSettings_default = (tab, containerEl) => {
 };
 
 // src/settings/per-lang/makeShellSettings.ts
-var import_obsidian23 = require("obsidian");
+var import_obsidian24 = require("obsidian");
 var makeShellSettings_default = (tab, containerEl) => {
   containerEl.createEl("h3", { text: "Shell Settings" });
-  new import_obsidian23.Setting(containerEl).setName("Shell path").setDesc("The path to shell. Default is Bash but you can use any shell you want, e.g. bash, zsh, fish, ...").addText((text) => text.setValue(tab.plugin.settings.shellPath).onChange((value) => __async(void 0, null, function* () {
+  new import_obsidian24.Setting(containerEl).setName("Shell path").setDesc("The path to shell. Default is Bash but you can use any shell you want, e.g. bash, zsh, fish, ...").addText((text) => text.setValue(tab.plugin.settings.shellPath).onChange((value) => __async(void 0, null, function* () {
     const sanitized = tab.sanitizePath(value);
     tab.plugin.settings.shellPath = sanitized;
     console.log("Shell path set to: " + sanitized);
     yield tab.plugin.saveSettings();
   })));
-  new import_obsidian23.Setting(containerEl).setName("Shell arguments").addText((text) => text.setValue(tab.plugin.settings.shellArgs).onChange((value) => __async(void 0, null, function* () {
+  new import_obsidian24.Setting(containerEl).setName("Shell arguments").addText((text) => text.setValue(tab.plugin.settings.shellArgs).onChange((value) => __async(void 0, null, function* () {
     tab.plugin.settings.shellArgs = value;
     console.log("Shell args set to: " + value);
     yield tab.plugin.saveSettings();
   })));
-  new import_obsidian23.Setting(containerEl).setName("Shell file extension").setDesc("Changes the file extension for generated shell scripts. This is useful if you want to use a shell other than bash.").addText((text) => text.setValue(tab.plugin.settings.shellFileExtension).onChange((value) => __async(void 0, null, function* () {
+  new import_obsidian24.Setting(containerEl).setName("Shell file extension").setDesc("Changes the file extension for generated shell scripts. This is useful if you want to use a shell other than bash.").addText((text) => text.setValue(tab.plugin.settings.shellFileExtension).onChange((value) => __async(void 0, null, function* () {
     tab.plugin.settings.shellFileExtension = value;
     console.log("Shell file extension set to: " + value);
     yield tab.plugin.saveSettings();
   })));
-  new import_obsidian23.Setting(containerEl).setName("Shell WSL mode").setDesc('Run the shell script in Windows Subsystem for Linux. This option is used if the global "WSL Mode" is disabled.').addToggle(
+  new import_obsidian24.Setting(containerEl).setName("Shell WSL mode").setDesc('Run the shell script in Windows Subsystem for Linux. This option is used if the global "WSL Mode" is disabled.').addToggle(
     (toggle) => toggle.setValue(tab.plugin.settings.shellWSLMode).onChange((value) => __async(void 0, null, function* () {
       tab.plugin.settings.shellWSLMode = value;
       yield tab.plugin.saveSettings();
@@ -11583,21 +11734,21 @@ var makeShellSettings_default = (tab, containerEl) => {
 };
 
 // src/settings/per-lang/makeBatchSettings.ts
-var import_obsidian24 = require("obsidian");
+var import_obsidian25 = require("obsidian");
 var makeBatchSettings_default = (tab, containerEl) => {
   containerEl.createEl("h3", { text: "Batch Settings" });
-  new import_obsidian24.Setting(containerEl).setName("Batch path").setDesc("The path to the terminal. Default is command prompt.").addText((text) => text.setValue(tab.plugin.settings.batchPath).onChange((value) => __async(void 0, null, function* () {
+  new import_obsidian25.Setting(containerEl).setName("Batch path").setDesc("The path to the terminal. Default is command prompt.").addText((text) => text.setValue(tab.plugin.settings.batchPath).onChange((value) => __async(void 0, null, function* () {
     const sanitized = tab.sanitizePath(value);
     tab.plugin.settings.batchPath = sanitized;
     console.log("Batch path set to: " + sanitized);
     yield tab.plugin.saveSettings();
   })));
-  new import_obsidian24.Setting(containerEl).setName("Batch arguments").addText((text) => text.setValue(tab.plugin.settings.batchArgs).onChange((value) => __async(void 0, null, function* () {
+  new import_obsidian25.Setting(containerEl).setName("Batch arguments").addText((text) => text.setValue(tab.plugin.settings.batchArgs).onChange((value) => __async(void 0, null, function* () {
     tab.plugin.settings.batchArgs = value;
     console.log("Batch args set to: " + value);
     yield tab.plugin.saveSettings();
   })));
-  new import_obsidian24.Setting(containerEl).setName("Batch file extension").setDesc("Changes the file extension for generated batch scripts. Default is .bat").addText((text) => text.setValue(tab.plugin.settings.batchFileExtension).onChange((value) => __async(void 0, null, function* () {
+  new import_obsidian25.Setting(containerEl).setName("Batch file extension").setDesc("Changes the file extension for generated batch scripts. Default is .bat").addText((text) => text.setValue(tab.plugin.settings.batchFileExtension).onChange((value) => __async(void 0, null, function* () {
     tab.plugin.settings.batchFileExtension = value;
     console.log("Batch file extension set to: " + value);
     yield tab.plugin.saveSettings();
@@ -11606,16 +11757,16 @@ var makeBatchSettings_default = (tab, containerEl) => {
 };
 
 // src/settings/per-lang/makeTsSettings.ts
-var import_obsidian25 = require("obsidian");
+var import_obsidian26 = require("obsidian");
 var makeTsSettings_default = (tab, containerEl) => {
   containerEl.createEl("h3", { text: "TypeScript Settings" });
-  new import_obsidian25.Setting(containerEl).setName("ts-node path").addText((text) => text.setValue(tab.plugin.settings.tsPath).onChange((value) => __async(void 0, null, function* () {
+  new import_obsidian26.Setting(containerEl).setName("ts-node path").addText((text) => text.setValue(tab.plugin.settings.tsPath).onChange((value) => __async(void 0, null, function* () {
     const sanitized = tab.sanitizePath(value);
     tab.plugin.settings.tsPath = sanitized;
     console.log("ts-node path set to: " + sanitized);
     yield tab.plugin.saveSettings();
   })));
-  new import_obsidian25.Setting(containerEl).setName("TypeScript arguments").addText((text) => text.setValue(tab.plugin.settings.tsArgs).onChange((value) => __async(void 0, null, function* () {
+  new import_obsidian26.Setting(containerEl).setName("TypeScript arguments").addText((text) => text.setValue(tab.plugin.settings.tsArgs).onChange((value) => __async(void 0, null, function* () {
     tab.plugin.settings.tsArgs = value;
     console.log("TypeScript args set to: " + value);
     yield tab.plugin.saveSettings();
@@ -11624,16 +11775,16 @@ var makeTsSettings_default = (tab, containerEl) => {
 };
 
 // src/settings/per-lang/makeSQLSettings.ts
-var import_obsidian26 = require("obsidian");
+var import_obsidian27 = require("obsidian");
 var makeSQLSettings_default = (tab, containerEl) => {
   containerEl.createEl("h3", { text: "SQL Settings" });
-  new import_obsidian26.Setting(containerEl).setName("SQL path").setDesc("Path to your SQL installation. You can select the SQL dialect you prefer but you need to set the right arguments by yourself.").addText((text) => text.setValue(tab.plugin.settings.sqlPath).onChange((value) => __async(void 0, null, function* () {
+  new import_obsidian27.Setting(containerEl).setName("SQL path").setDesc("Path to your SQL installation. You can select the SQL dialect you prefer but you need to set the right arguments by yourself.").addText((text) => text.setValue(tab.plugin.settings.sqlPath).onChange((value) => __async(void 0, null, function* () {
     const sanitized = tab.sanitizePath(value);
     tab.plugin.settings.sqlPath = sanitized;
     console.log("ruby path set to: " + sanitized);
     yield tab.plugin.saveSettings();
   })));
-  new import_obsidian26.Setting(containerEl).setName("SQL arguments").setDesc("Set the right arguments for your database.").addText((text) => text.setValue(tab.plugin.settings.sqlArgs).onChange((value) => __async(void 0, null, function* () {
+  new import_obsidian27.Setting(containerEl).setName("SQL arguments").setDesc("Set the right arguments for your database.").addText((text) => text.setValue(tab.plugin.settings.sqlArgs).onChange((value) => __async(void 0, null, function* () {
     tab.plugin.settings.sqlArgs = value;
     console.log("SQL args set to: " + value);
     yield tab.plugin.saveSettings();
@@ -11642,16 +11793,16 @@ var makeSQLSettings_default = (tab, containerEl) => {
 };
 
 // src/settings/per-lang/makeOctaveSettings.ts
-var import_obsidian27 = require("obsidian");
+var import_obsidian28 = require("obsidian");
 var makeOctaveSettings_default = (tab, containerEl) => {
   containerEl.createEl("h3", { text: "Octave Settings" });
-  new import_obsidian27.Setting(containerEl).setName("Octave path").setDesc("The path to your Octave installation.").addText((text) => text.setValue(tab.plugin.settings.octavePath).onChange((value) => __async(void 0, null, function* () {
+  new import_obsidian28.Setting(containerEl).setName("Octave path").setDesc("The path to your Octave installation.").addText((text) => text.setValue(tab.plugin.settings.octavePath).onChange((value) => __async(void 0, null, function* () {
     const sanitized = tab.sanitizePath(value);
     tab.plugin.settings.octavePath = sanitized;
     console.log("Octave path set to: " + sanitized);
     yield tab.plugin.saveSettings();
   })));
-  new import_obsidian27.Setting(containerEl).setName("Octave arguments").addText((text) => text.setValue(tab.plugin.settings.octaveArgs).onChange((value) => __async(void 0, null, function* () {
+  new import_obsidian28.Setting(containerEl).setName("Octave arguments").addText((text) => text.setValue(tab.plugin.settings.octaveArgs).onChange((value) => __async(void 0, null, function* () {
     tab.plugin.settings.octaveArgs = value;
     console.log("Octave args set to: " + value);
     yield tab.plugin.saveSettings();
@@ -11660,16 +11811,16 @@ var makeOctaveSettings_default = (tab, containerEl) => {
 };
 
 // src/settings/per-lang/makeMaximaSettings.ts
-var import_obsidian28 = require("obsidian");
+var import_obsidian29 = require("obsidian");
 var makeMaximaSettings_default = (tab, containerEl) => {
   containerEl.createEl("h3", { text: "Maxima Settings" });
-  new import_obsidian28.Setting(containerEl).setName("Maxima path").setDesc("The path to your Maxima installation.").addText((text) => text.setValue(tab.plugin.settings.maximaPath).onChange((value) => __async(void 0, null, function* () {
+  new import_obsidian29.Setting(containerEl).setName("Maxima path").setDesc("The path to your Maxima installation.").addText((text) => text.setValue(tab.plugin.settings.maximaPath).onChange((value) => __async(void 0, null, function* () {
     const sanitized = tab.sanitizePath(value);
     tab.plugin.settings.maximaPath = sanitized;
     console.log("Maxima path set to: " + sanitized);
     yield tab.plugin.saveSettings();
   })));
-  new import_obsidian28.Setting(containerEl).setName("Maxima arguments").addText((text) => text.setValue(tab.plugin.settings.maximaArgs).onChange((value) => __async(void 0, null, function* () {
+  new import_obsidian29.Setting(containerEl).setName("Maxima arguments").addText((text) => text.setValue(tab.plugin.settings.maximaArgs).onChange((value) => __async(void 0, null, function* () {
     tab.plugin.settings.maximaArgs = value;
     console.log("Maxima args set to: " + value);
     yield tab.plugin.saveSettings();
@@ -11678,16 +11829,16 @@ var makeMaximaSettings_default = (tab, containerEl) => {
 };
 
 // src/settings/per-lang/makeApplescriptSettings.ts
-var import_obsidian29 = require("obsidian");
+var import_obsidian30 = require("obsidian");
 var makeApplescriptSettings_default = (tab, containerEl) => {
   containerEl.createEl("h3", { text: "Applescript Settings" });
-  new import_obsidian29.Setting(containerEl).setName("Osascript path").setDesc("The path to your osascript installation (only available on MacOS).").addText((text) => text.setValue(tab.plugin.settings.applescriptPath).onChange((value) => __async(void 0, null, function* () {
+  new import_obsidian30.Setting(containerEl).setName("Osascript path").setDesc("The path to your osascript installation (only available on MacOS).").addText((text) => text.setValue(tab.plugin.settings.applescriptPath).onChange((value) => __async(void 0, null, function* () {
     const sanitized = tab.sanitizePath(value);
     tab.plugin.settings.applescriptPath = sanitized;
     console.log("Applescript path set to: " + sanitized);
     yield tab.plugin.saveSettings();
   })));
-  new import_obsidian29.Setting(containerEl).setName("Applescript arguments").addText((text) => text.setValue(tab.plugin.settings.applescriptArgs).onChange((value) => __async(void 0, null, function* () {
+  new import_obsidian30.Setting(containerEl).setName("Applescript arguments").addText((text) => text.setValue(tab.plugin.settings.applescriptArgs).onChange((value) => __async(void 0, null, function* () {
     tab.plugin.settings.applescriptArgs = value;
     console.log("Applescript args set to: " + value);
     yield tab.plugin.saveSettings();
@@ -11696,16 +11847,16 @@ var makeApplescriptSettings_default = (tab, containerEl) => {
 };
 
 // src/settings/per-lang/makeZigSettings.ts
-var import_obsidian30 = require("obsidian");
+var import_obsidian31 = require("obsidian");
 var makeZigSettings_default = (tab, containerEl) => {
   containerEl.createEl("h3", { text: "Zig Settings" });
-  new import_obsidian30.Setting(containerEl).setName("zig path").setDesc("Path to your zig installation").addText((text) => text.setValue(tab.plugin.settings.zigPath).onChange((value) => __async(void 0, null, function* () {
+  new import_obsidian31.Setting(containerEl).setName("zig path").setDesc("Path to your zig installation").addText((text) => text.setValue(tab.plugin.settings.zigPath).onChange((value) => __async(void 0, null, function* () {
     const sanitized = tab.sanitizePath(value);
     tab.plugin.settings.zigPath = sanitized;
     console.log("zig path set to: " + sanitized);
     yield tab.plugin.saveSettings();
   })));
-  new import_obsidian30.Setting(containerEl).setName("zig arguments").addText((text) => text.setValue(tab.plugin.settings.zigArgs).onChange((value) => __async(void 0, null, function* () {
+  new import_obsidian31.Setting(containerEl).setName("zig arguments").addText((text) => text.setValue(tab.plugin.settings.zigArgs).onChange((value) => __async(void 0, null, function* () {
     tab.plugin.settings.zigArgs = value;
     console.log("zig args set to: " + value);
     yield tab.plugin.saveSettings();
@@ -11714,16 +11865,16 @@ var makeZigSettings_default = (tab, containerEl) => {
 };
 
 // src/settings/per-lang/makeOCamlSettings.ts
-var import_obsidian31 = require("obsidian");
+var import_obsidian32 = require("obsidian");
 var makeOCamlSettings_default = (tab, containerEl) => {
   containerEl.createEl("h3", { text: "OCaml Settings" });
-  new import_obsidian31.Setting(containerEl).setName("ocaml path").setDesc("Path to your ocaml installation").addText((text) => text.setValue(tab.plugin.settings.ocamlPath).onChange((value) => __async(void 0, null, function* () {
+  new import_obsidian32.Setting(containerEl).setName("ocaml path").setDesc("Path to your ocaml installation").addText((text) => text.setValue(tab.plugin.settings.ocamlPath).onChange((value) => __async(void 0, null, function* () {
     const sanitized = tab.sanitizePath(value);
     tab.plugin.settings.ocamlPath = sanitized;
     console.log("ocaml path set to: " + sanitized);
     yield tab.plugin.saveSettings();
   })));
-  new import_obsidian31.Setting(containerEl).setName("ocaml arguments").addText((text) => text.setValue(tab.plugin.settings.ocamlArgs).onChange((value) => __async(void 0, null, function* () {
+  new import_obsidian32.Setting(containerEl).setName("ocaml arguments").addText((text) => text.setValue(tab.plugin.settings.ocamlArgs).onChange((value) => __async(void 0, null, function* () {
     tab.plugin.settings.ocamlArgs = value;
     console.log("ocaml args set to: " + value);
     yield tab.plugin.saveSettings();
@@ -11732,16 +11883,16 @@ var makeOCamlSettings_default = (tab, containerEl) => {
 };
 
 // src/settings/per-lang/makeSwiftSettings.ts
-var import_obsidian32 = require("obsidian");
+var import_obsidian33 = require("obsidian");
 var makeSwiftSettings_default = (tab, containerEl) => {
   containerEl.createEl("h3", { text: "Swift Settings" });
-  new import_obsidian32.Setting(containerEl).setName("Swift path").setDesc("The path to your Swift installation.").addText((text) => text.setValue(tab.plugin.settings.swiftPath).onChange((value) => __async(void 0, null, function* () {
+  new import_obsidian33.Setting(containerEl).setName("Swift path").setDesc("The path to your Swift installation.").addText((text) => text.setValue(tab.plugin.settings.swiftPath).onChange((value) => __async(void 0, null, function* () {
     const sanitized = tab.sanitizePath(value);
     tab.plugin.settings.swiftPath = sanitized;
     console.log("Swift path set to: " + sanitized);
     yield tab.plugin.saveSettings();
   })));
-  new import_obsidian32.Setting(containerEl).setName("Swift arguments").addText((text) => text.setValue(tab.plugin.settings.swiftArgs).onChange((value) => __async(void 0, null, function* () {
+  new import_obsidian33.Setting(containerEl).setName("Swift arguments").addText((text) => text.setValue(tab.plugin.settings.swiftArgs).onChange((value) => __async(void 0, null, function* () {
     tab.plugin.settings.swiftArgs = value;
     console.log("Swift args set to: " + value);
     yield tab.plugin.saveSettings();
@@ -11750,7 +11901,7 @@ var makeSwiftSettings_default = (tab, containerEl) => {
 };
 
 // src/settings/SettingsTab.ts
-var SettingsTab = class extends import_obsidian33.PluginSettingTab {
+var SettingsTab = class extends import_obsidian34.PluginSettingTab {
   constructor(app, plugin) {
     super(app, plugin);
     this.plugin = plugin;
@@ -11761,32 +11912,32 @@ var SettingsTab = class extends import_obsidian33.PluginSettingTab {
     containerEl.empty();
     containerEl.createEl("h2", { text: "Settings for the Code Execution Plugin." });
     containerEl.createEl("h3", { text: "General Settings" });
-    new import_obsidian33.Setting(containerEl).setName("Timeout (in seconds)").setDesc("The time after which a program gets shut down automatically. This is to prevent infinite loops. ").addText((text) => text.setValue("" + this.plugin.settings.timeout / 1e3).onChange((value) => __async(this, null, function* () {
+    new import_obsidian34.Setting(containerEl).setName("Timeout (in seconds)").setDesc("The time after which a program gets shut down automatically. This is to prevent infinite loops. ").addText((text) => text.setValue("" + this.plugin.settings.timeout / 1e3).onChange((value) => __async(this, null, function* () {
       if (Number(value) * 1e3) {
         console.log("Timeout set to: " + value);
         this.plugin.settings.timeout = Number(value) * 1e3;
       }
       yield this.plugin.saveSettings();
     })));
-    new import_obsidian33.Setting(containerEl).setName("Allow Input").setDesc("Whether or not to include a stdin input box when running blocks. In order to apply changes to this, Obsidian must be refreshed. ").addToggle((text) => text.setValue(this.plugin.settings.allowInput).onChange((value) => __async(this, null, function* () {
+    new import_obsidian34.Setting(containerEl).setName("Allow Input").setDesc("Whether or not to include a stdin input box when running blocks. In order to apply changes to this, Obsidian must be refreshed. ").addToggle((text) => text.setValue(this.plugin.settings.allowInput).onChange((value) => __async(this, null, function* () {
       console.log("Allow Input set to: " + value);
       this.plugin.settings.allowInput = value;
       yield this.plugin.saveSettings();
     })));
     if (process.platform === "win32") {
-      new import_obsidian33.Setting(containerEl).setName("WSL Mode").setDesc("Whether or not to run code in the Windows Subsystem for Linux. If you don't have WSL installed, don't turn this on!").addToggle((text) => text.setValue(this.plugin.settings.wslMode).onChange((value) => __async(this, null, function* () {
+      new import_obsidian34.Setting(containerEl).setName("WSL Mode").setDesc("Whether or not to run code in the Windows Subsystem for Linux. If you don't have WSL installed, don't turn this on!").addToggle((text) => text.setValue(this.plugin.settings.wslMode).onChange((value) => __async(this, null, function* () {
         console.log("WSL Mode set to: " + value);
         this.plugin.settings.wslMode = value;
         yield this.plugin.saveSettings();
       })));
     }
-    new import_obsidian33.Setting(containerEl).setName("Only Current Log").setDesc("Whether or not show print log only in current code block.").addToggle((text) => text.setValue(this.plugin.settings.onlyCurrentBlock).onChange((value) => __async(this, null, function* () {
-      console.log("Only Show Current Block Log set to: " + value);
-      this.plugin.settings.onlyCurrentBlock = value;
+    new import_obsidian34.Setting(containerEl).setName("[Experimental] Persistent Output").setDesc("If enabled, the output of the code block is written into the markdown file. This feature is experimental and may not work as expected.").addToggle((text) => text.setValue(this.plugin.settings.persistentOuput).onChange((value) => __async(this, null, function* () {
+      console.log("Allow Input set to: " + value);
+      this.plugin.settings.persistentOuput = value;
       yield this.plugin.saveSettings();
     })));
     containerEl.createEl("hr");
-    new import_obsidian33.Setting(containerEl).setName("Language-Specific Settings").setDesc("Pick a language to edit its language-specific settings").addDropdown(
+    new import_obsidian34.Setting(containerEl).setName("Language-Specific Settings").setDesc("Pick a language to edit its language-specific settings").addDropdown(
       (dropdown) => dropdown.addOptions(Object.fromEntries(
         canonicalLanguages.map((lang) => [lang, DISPLAY_NAMES[lang]])
       )).setValue(this.plugin.settings.lastOpenLanguageTab || canonicalLanguages[0]).onChange((value) => __async(this, null, function* () {
@@ -11827,6 +11978,7 @@ var SettingsTab = class extends import_obsidian33.PluginSettingTab {
     makeApplescriptSettings_default(this, this.makeContainerFor("applescript"));
     makeZigSettings_default(this, this.makeContainerFor("zig"));
     makeOCamlSettings_default(this, this.makeContainerFor("ocaml"));
+    makePhpSettings_default(this, this.makeContainerFor("php"));
     this.focusContainer(this.plugin.settings.lastOpenLanguageTab || canonicalLanguages[0]);
   }
   makeContainerFor(language) {
@@ -11851,7 +12003,7 @@ var SettingsTab = class extends import_obsidian33.PluginSettingTab {
   }
   makeInjectSetting(containerEl, language) {
     const languageAlt = DISPLAY_NAMES[language];
-    new import_obsidian33.Setting(containerEl).setName(`Inject ${languageAlt} code`).setDesc(`Code to add to the top of every ${languageAlt} code block before running.`).setClass("settings-code-input-box").addTextArea((textarea) => {
+    new import_obsidian34.Setting(containerEl).setName(`Inject ${languageAlt} code`).setDesc(`Code to add to the top of every ${languageAlt} code block before running.`).setClass("settings-code-input-box").addTextArea((textarea) => {
       const val = this.plugin.settings[`${language}Inject`];
       return textarea.setValue(val).onChange((value) => __async(this, null, function* () {
         this.plugin.settings[`${language}Inject`] = value;
@@ -11864,7 +12016,7 @@ var SettingsTab = class extends import_obsidian33.PluginSettingTab {
 
 // src/transforms/Magic.ts
 var os = __toESM(require("os"));
-var import_obsidian34 = require("obsidian");
+var import_obsidian35 = require("obsidian");
 var SHOW_REGEX = new RegExp(`@show\\(["'](?<path>[^<>?*=!\\n#()\\[\\]{}]+)["'](,\\s*(?<width>\\d+[\\w%]+),?\\s*(?<height>\\d+[\\w%]+))?(,\\s*(?<align>left|center|right))?\\)`, "g");
 var HTML_REGEX = new RegExp("@html\\((?<html>[^)]+)\\)", "g");
 var VAULT_REGEX = /@vault/g;
@@ -11881,14 +12033,14 @@ var OCTAVE_PLOT_REGEX = /^plot\s*\(.*\);/gm;
 var MAXIMA_PLOT_REGEX = /^plot2d\s*\(.*\[.+\]\)\s*[$;]/gm;
 function insertVaultPath(source, vaultPath) {
   source = source.replace(VAULT_PATH_REGEX, `"${vaultPath.replace(/\\/g, "/")}"`);
-  source = source.replace(VAULT_URL_REGEX, `"${import_obsidian34.Platform.resourcePathPrefix + vaultPath.replace(/\\/g, "/")}"`);
-  source = source.replace(VAULT_REGEX, `"${import_obsidian34.Platform.resourcePathPrefix + vaultPath.replace(/\\/g, "/")}"`);
+  source = source.replace(VAULT_URL_REGEX, `"${import_obsidian35.Platform.resourcePathPrefix + vaultPath.replace(/\\/g, "/")}"`);
+  source = source.replace(VAULT_REGEX, `"${import_obsidian35.Platform.resourcePathPrefix + vaultPath.replace(/\\/g, "/")}"`);
   return source;
 }
 function insertNotePath(source, notePath) {
   source = source.replace(CURRENT_NOTE_PATH_REGEX, `"${notePath.replace(/\\/g, "/")}"`);
-  source = source.replace(CURRENT_NOTE_URL_REGEX, `"${import_obsidian34.Platform.resourcePathPrefix + notePath.replace(/\\/g, "/")}"`);
-  source = source.replace(CURRENT_NOTE_REGEX, `"${import_obsidian34.Platform.resourcePathPrefix + notePath.replace(/\\/g, "/")}"`);
+  source = source.replace(CURRENT_NOTE_URL_REGEX, `"${import_obsidian35.Platform.resourcePathPrefix + notePath.replace(/\\/g, "/")}"`);
+  source = source.replace(CURRENT_NOTE_REGEX, `"${import_obsidian35.Platform.resourcePathPrefix + notePath.replace(/\\/g, "/")}"`);
   return source;
 }
 function insertNoteTitle(source, noteTitle) {
@@ -11918,7 +12070,7 @@ function addInlinePlotsToR(source) {
   const matches = source.matchAll(R_PLOT_REGEX);
   for (const match of matches) {
     const tempFile = `${os.tmpdir()}/temp_${Date.now()}.png`.replace(/\\/g, "/");
-    const substitute = `png("${tempFile}"); ${match[0]}; dev.off(); cat('${TOGGLE_HTML_SIGIL}<img src="${import_obsidian34.Platform.resourcePathPrefix + tempFile}" align="center">${TOGGLE_HTML_SIGIL}')`;
+    const substitute = `png("${tempFile}"); ${match[0]}; dev.off(); cat('${TOGGLE_HTML_SIGIL}<img src="${import_obsidian35.Platform.resourcePathPrefix + tempFile}" align="center">${TOGGLE_HTML_SIGIL}')`;
     source = source.replace(match[0], substitute);
   }
   return source;
@@ -11980,7 +12132,7 @@ function addInlinePlotsToOctave(source) {
   const matches = source.matchAll(OCTAVE_PLOT_REGEX);
   for (const match of matches) {
     const tempFile = `${os.tmpdir()}/temp_${Date.now()}.png`.replace(/\\/g, "/");
-    const substitute = `${match[0]}; print -dpng ${tempFile}; disp('${TOGGLE_HTML_SIGIL}<img src="${import_obsidian34.Platform.resourcePathPrefix + tempFile}" align="center">${TOGGLE_HTML_SIGIL}');`;
+    const substitute = `${match[0]}; print -dpng ${tempFile}; disp('${TOGGLE_HTML_SIGIL}<img src="${import_obsidian35.Platform.resourcePathPrefix + tempFile}" align="center">${TOGGLE_HTML_SIGIL}');`;
     source = source.replace(match[0], substitute);
   }
   return source;
@@ -11990,16 +12142,16 @@ function addInlinePlotsToMaxima(source) {
   for (const match of matches) {
     const tempFile = `${os.tmpdir()}/temp_${Date.now()}.png`.replace(/\\/g, "/");
     const updated_plot_call = match[0].substring(0, match[0].lastIndexOf(")")) + `, [png_file, "${tempFile}"])`;
-    const substitute = `${updated_plot_call}; print ('${TOGGLE_HTML_SIGIL}<img src="${import_obsidian34.Platform.resourcePathPrefix + tempFile}" align="center">${TOGGLE_HTML_SIGIL}');`;
+    const substitute = `${updated_plot_call}; print ('${TOGGLE_HTML_SIGIL}<img src="${import_obsidian35.Platform.resourcePathPrefix + tempFile}" align="center">${TOGGLE_HTML_SIGIL}');`;
     source = source.replace(match[0], substitute);
   }
   return source;
 }
 
 // src/Vault.ts
-var import_obsidian35 = require("obsidian");
+var import_obsidian36 = require("obsidian");
 function getVaultVariables(app) {
-  const activeView = app.workspace.getActiveViewOfType(import_obsidian35.MarkdownView);
+  const activeView = app.workspace.getActiveViewOfType(import_obsidian36.MarkdownView);
   if (activeView === null) {
     return null;
   }
@@ -12071,10 +12223,10 @@ function isStringNotEmpty(str) {
 }
 
 // src/transforms/CodeInjector.ts
-var import_obsidian37 = require("obsidian");
+var import_obsidian38 = require("obsidian");
 
 // src/CodeBlockArgs.ts
-var import_obsidian36 = require("obsidian");
+var import_obsidian37 = require("obsidian");
 var JSON5 = __toESM(require_dist());
 function getArgs(firstLineOfCode) {
   if (!firstLineOfCode.contains("{") && !firstLineOfCode.contains("}"))
@@ -12099,7 +12251,7 @@ function getArgs(firstLineOfCode) {
     args = `{export: ['${exports.join("', '")}'], ${args}`;
     return JSON5.parse(args);
   } catch (err) {
-    new import_obsidian36.Notice(`Failed to parse code block arguments from line:
+    new import_obsidian37.Notice(`Failed to parse code block arguments from line:
 ${firstLineOfCode}
 
 Failed with error:
@@ -12123,7 +12275,7 @@ var CodeInjector = class {
   injectCode(srcCode) {
     return __async(this, null, function* () {
       const language = getLanguageAlias(this.language);
-      const activeView = this.app.workspace.getActiveViewOfType(import_obsidian37.MarkdownView);
+      const activeView = this.app.workspace.getActiveViewOfType(import_obsidian38.MarkdownView);
       if (activeView === null)
         return srcCode;
       yield this.parseFile(activeView.data, srcCode, language);
@@ -12158,7 +12310,7 @@ ${injectedCode}`;
     return __async(this, null, function* () {
       const handleNamedImport = (namedImport) => {
         if (!this.namedExports.hasOwnProperty(namedImport)) {
-          new import_obsidian37.Notice(`Named export "${namedImport}" does not exist but was imported`);
+          new import_obsidian38.Notice(`Named export "${namedImport}" does not exist but was imported`);
           return true;
         }
         this.namedImportSrcCode += `${this.disable_print(this.namedExports[namedImport])}
@@ -12199,7 +12351,7 @@ ${injectedCode}`;
             }
             if (currentArgs.label) {
               if (this.namedExports.hasOwnProperty(currentArgs.label)) {
-                new import_obsidian37.Notice(`Error: named export ${currentArgs.label} exported more than once`);
+                new import_obsidian38.Notice(`Error: named export ${currentArgs.label} exported more than once`);
                 return "";
               }
               this.namedExports[currentArgs.label] = currentCode;
@@ -12246,10 +12398,10 @@ var import_events2 = require("events");
 
 // src/executors/ReplExecutor.ts
 var import_child_process2 = require("child_process");
-var import_obsidian39 = require("obsidian");
+var import_obsidian40 = require("obsidian");
 
 // src/executors/Executor.ts
-var import_obsidian38 = require("obsidian");
+var import_obsidian39 = require("obsidian");
 var os2 = __toESM(require("os"));
 var path = __toESM(require("path"));
 var import_stream = require("stream");
@@ -12265,7 +12417,7 @@ var Executor = class extends import_stream.EventEmitter {
     console.error(errorMSG);
     if (outputter)
       outputter.writeErr(errorMSG);
-    new import_obsidian38.Notice(label);
+    new import_obsidian39.Notice(label);
   }
   getTempFile(ext) {
     if (this.tempFileId === void 0)
@@ -12332,7 +12484,7 @@ var ReplExecutor = class extends AsyncExecutor {
     this.process = (0, import_child_process2.spawn)(path2, args, { env: process.env });
     this.process.on("close", () => {
       this.emit("close");
-      new import_obsidian39.Notice("Runtime exited");
+      new import_obsidian40.Notice("Runtime exited");
       this.process = null;
     });
     this.process.on("error", (err) => {
@@ -12411,7 +12563,7 @@ var NodeJSExecutor = class extends ReplExecutor {
 };
 
 // src/executors/NonInteractiveCodeExecutor.ts
-var import_obsidian40 = require("obsidian");
+var import_obsidian41 = require("obsidian");
 var fs = __toESM(require("fs"));
 var child_process = __toESM(require("child_process"));
 
@@ -12505,7 +12657,7 @@ var NonInteractiveCodeExecutor = class extends Executor {
       });
       child.on("close", (code) => {
         if (code !== 0)
-          new import_obsidian40.Notice("Error!");
+          new import_obsidian41.Notice("Error!");
         if (this.resolveRun !== void 0)
           this.resolveRun();
         outputter.closeInput();
@@ -12516,7 +12668,7 @@ var NonInteractiveCodeExecutor = class extends Executor {
         });
       });
       child.on("error", (err) => {
-        new import_obsidian40.Notice("Error!");
+        new import_obsidian41.Notice("Error!");
         outputter.writeErr(err.toString());
       });
     });
@@ -12525,7 +12677,7 @@ var NonInteractiveCodeExecutor = class extends Executor {
 
 // src/executors/PrologExecutor.ts
 var prolog = __toESM(require_core());
-var import_obsidian41 = require("obsidian");
+var import_obsidian42 = require("obsidian");
 var PrologExecutor = class extends Executor {
   constructor(settings, file) {
     super(file, "prolog");
@@ -12549,7 +12701,7 @@ var PrologExecutor = class extends Executor {
     });
   }
   runPrologCode(facts, queries, out) {
-    new import_obsidian41.Notice("Running...");
+    new import_obsidian42.Notice("Running...");
     const session = prolog.create();
     session.consult(
       facts,
@@ -12565,7 +12717,7 @@ var PrologExecutor = class extends Executor {
                 while (answersLeft && counter < this.maxPrologAnswers) {
                   yield session.answer({
                     success: function(answer) {
-                      new import_obsidian41.Notice("Done!");
+                      new import_obsidian42.Notice("Done!");
                       console.debug(`Prolog result: ${session.format_answer(answer)}`);
                       out.write(session.format_answer(answer) + "\n");
                       out.closeInput();
@@ -12574,7 +12726,7 @@ var PrologExecutor = class extends Executor {
                       answersLeft = false;
                     },
                     error: function(err) {
-                      new import_obsidian41.Notice("Error!");
+                      new import_obsidian42.Notice("Error!");
                       console.error(err);
                       answersLeft = false;
                       out.writeErr(`Error while executing code: ${err}`);
@@ -12588,7 +12740,7 @@ var PrologExecutor = class extends Executor {
                 }
               }),
               error: (err) => {
-                new import_obsidian41.Notice("Error!");
+                new import_obsidian42.Notice("Error!");
                 out.writeErr("Query failed.\n");
                 out.writeErr(err.toString());
               }
@@ -12867,11 +13019,11 @@ var ExecutorContainer = class extends import_events2.EventEmitter {
 };
 
 // src/ExecutorManagerView.ts
-var import_obsidian42 = require("obsidian");
+var import_obsidian43 = require("obsidian");
 var import_path2 = require("path");
 var EXECUTOR_MANAGER_VIEW_ID = "code-execute-manage-executors";
 var EXECUTOR_MANAGER_OPEN_VIEW_COMMAND_ID = "code-execute-open-manage-executors";
-var ExecutorManagerView = class extends import_obsidian42.ItemView {
+var ExecutorManagerView = class extends import_obsidian43.ItemView {
   constructor(leaf, executors) {
     super(leaf);
     this.executors = executors;
@@ -12947,7 +13099,7 @@ var ExecutorManagerView = class extends import_obsidian42.ItemView {
     });
     const button = document.createElement("button");
     button.addEventListener("click", () => executor.stop());
-    (0, import_obsidian42.setIcon)(button, "trash");
+    (0, import_obsidian43.setIcon)(button, "trash");
     button.setAttribute("aria-label", "Stop Runtime");
     li.appendChild(button);
     this.list.appendChild(li);
@@ -12962,15 +13114,29 @@ var ExecutorManagerView = class extends import_obsidian42.ItemView {
 };
 
 // src/runAllCodeBlocks.ts
-var import_obsidian43 = require("obsidian");
+var import_obsidian44 = require("obsidian");
 function runAllCodeBlocks(workspace) {
   const lastActiveView = workspace.getMostRecentLeaf().view;
-  if (lastActiveView instanceof import_obsidian43.TextFileView) {
+  if (lastActiveView instanceof import_obsidian44.TextFileView) {
     lastActiveView.containerEl.querySelectorAll("button." + runButtonClass).forEach((button) => {
       button.click();
     });
   }
 }
+
+// src/ReleaseNoteModal.ts
+var import_obsidian45 = require("obsidian");
+var ReleaseNoteModel = class extends import_obsidian45.Modal {
+  constructor(app) {
+    super(app);
+    this.component = new import_obsidian45.Component();
+  }
+  onOpen() {
+    let text = "# Release Note: Execute Code Plugin v2.0.0\n\nWe are happy to announce the release of version 2.0.0. This release brings a special change: You can now make the output of your code blocks persistent.If enabled, the output of your code blocks will be saved in the markdown file and will also be exported to PDF.\n\n\nYou can enable this in the settings. Be aware that this feature is still experimental and might not work as expected. Check the [github page](https://github.com/twibiral/obsidian-execute-code) for more information.\n\n\nThank you for using the Execute Code Plugin! [Here you can find a detailed change log.](https://github.com/twibiral/obsidian-execute-code/blob/master/CHANGELOG.md)\n\n\nIf you enjoy using the plugin, consider supporting the development via [PayPal](https://www.paypal.com/paypalme/timwibiral) or [Buy Me a Coffee](https://www.buymeacoffee.com/twibiral).";
+    this.component.load();
+    import_obsidian45.MarkdownRenderer.render(this.app, text, this.contentEl, this.app.workspace.getActiveFile().path, this.component);
+  }
+};
 
 // src/main.ts
 var languageAliases = ["javascript", "typescript", "bash", "csharp", "wolfram", "nb", "wl", "hs", "py"];
@@ -13006,14 +13172,15 @@ var canonicalLanguages = [
   "maxima",
   "applescript",
   "zig",
-  "ocaml"
+  "ocaml",
+  "php"
 ];
 var supportedLanguages = [...languageAliases, ...canonicalLanguages];
 var buttonText = "Run";
 var runButtonClass = "run-code-button";
 var runButtonDisabledClass = "run-button-disabled";
 var hasButtonClass = "has-run-code-button";
-var ExecuteCodePlugin2 = class extends import_obsidian44.Plugin {
+var ExecuteCodePlugin2 = class extends import_obsidian46.Plugin {
   onload() {
     return __async(this, null, function* () {
       yield this.loadSettings();
@@ -13021,12 +13188,12 @@ var ExecuteCodePlugin2 = class extends import_obsidian44.Plugin {
       this.executors = new ExecutorContainer(this);
       this.iterateOpenFilesAndAddRunButtons();
       this.registerMarkdownPostProcessor((element, _context) => {
-        this.addRunButtons(element, _context.sourcePath);
+        this.addRunButtons(element, _context.sourcePath, this.app.workspace.getActiveViewOfType(import_obsidian46.MarkdownView));
       });
       supportedLanguages.forEach((l) => {
         console.debug(`Registering renderer for ${l}.`);
         this.registerMarkdownCodeBlockProcessor(`run-${l}`, (src, el, _ctx) => __async(this, null, function* () {
-          yield import_obsidian44.MarkdownRenderer.renderMarkdown("```" + l + "\n" + src + (src.endsWith("\n") ? "" : "\n") + "```", el, _ctx.sourcePath, null);
+          yield import_obsidian46.MarkdownRenderer.renderMarkdown("```" + l + "\n" + src + (src.endsWith("\n") ? "" : "\n") + "```", el, _ctx.sourcePath, null);
         }));
       });
       this.registerView(
@@ -13043,6 +13210,13 @@ var ExecuteCodePlugin2 = class extends import_obsidian44.Plugin {
         name: "Run all Code Blocks in Current File",
         callback: () => runAllCodeBlocks(this.app.workspace)
       });
+      if (!this.settings.releaseNote2_0_0wasShowed) {
+        this.app.workspace.onLayoutReady(() => {
+          new ReleaseNoteModel(this.app).open();
+        });
+        this.settings.releaseNote2_0_0wasShowed = true;
+        this.saveSettings();
+      }
     });
   }
   onunload() {
@@ -13078,12 +13252,12 @@ var ExecuteCodePlugin2 = class extends import_obsidian44.Plugin {
   }
   iterateOpenFilesAndAddRunButtons() {
     this.app.workspace.iterateRootLeaves((leaf) => {
-      if (leaf.view instanceof import_obsidian44.FileView) {
-        this.addRunButtons(leaf.view.contentEl, leaf.view.file.path);
+      if (leaf.view instanceof import_obsidian46.MarkdownView) {
+        this.addRunButtons(leaf.view.contentEl, leaf.view.file.path, leaf.view);
       }
     });
   }
-  addRunButtons(element, file) {
+  addRunButtons(element, file, view) {
     Array.from(element.getElementsByTagName("code")).forEach((codeBlock) => {
       if (codeBlock.className.match(/^language-\{\w+/i)) {
         codeBlock.className = codeBlock.className.replace(/^language-\{(\w+)/i, "language-$1 {");
@@ -13100,7 +13274,7 @@ var ExecuteCodePlugin2 = class extends import_obsidian44.Plugin {
         supportedLanguages.find((lang) => sanitizedClassList.contains(`language-${lang}`))
       );
       if (canonicalLanguage && !parent.classList.contains(hasButtonClass)) {
-        const out = new Outputter(codeBlock, this.settings.allowInput);
+        const out = new Outputter(codeBlock, this.settings, view);
         parent.classList.add(hasButtonClass);
         const button = this.createRunButton();
         pre.appendChild(button);
@@ -13300,6 +13474,12 @@ var ExecuteCodePlugin2 = class extends import_obsidian44.Plugin {
         button.className = runButtonDisabledClass;
         const transformedCode = yield new CodeInjector(this.app, this.settings, language).injectCode(srcCode);
         this.runCodeInShell(transformedCode, out, button, this.settings.ocamlPath, this.settings.ocamlArgs, "ocaml", language, file);
+      }));
+    } else if (language === "php") {
+      button.addEventListener("click", () => __async(this, null, function* () {
+        button.className = runButtonDisabledClass;
+        const transformedCode = yield new CodeInjector(this.app, this.settings, language).injectCode(srcCode);
+        this.runCodeInShell(transformedCode, out, button, this.settings.phpPath, this.settings.phpArgs, this.settings.phpFileExtension, language, file);
       }));
     }
   }
