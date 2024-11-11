@@ -38,22 +38,6 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
-- [x] **Óptica - TD2**
-	
-	@{11-11-2024} 
-	#optica #teo
-- [x] **Discretas - Examen 2**
-	
-	- [x] Conteo
-		- [x] Permutaciones
-		- [x] Combinaciones
-	- [x] Sucesiones de recurrencia
-	
-	@{08-11-2024}
-- [x] **Óptica - EA 5**
-	
-	@{08-11-2024} 
-	#optica #lab
 
 
 ***
@@ -604,6 +588,22 @@ kanban-plugin: board
 	
 	@{31-10-2024} 
 	#progra #lab
+- [x] **Óptica - TD2**
+	
+	@{11-11-2024} 
+	#optica #teo
+- [x] **Discretas - Examen 2**
+	
+	- [x] Conteo
+		- [x] Permutaciones
+		- [x] Combinaciones
+	- [x] Sucesiones de recurrencia
+	
+	@{08-11-2024}
+- [x] **Óptica - EA 5**
+	
+	@{08-11-2024} 
+	#optica #lab
 
 %% kanban:settings
 ```
