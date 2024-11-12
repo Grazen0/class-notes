@@ -15,6 +15,7 @@
 	- [[S8 - Programación orientada a objetos]]
 	- [[S10 - Relaciones entre clases]]
 	- [[S12 - Polimorfismo]]
+	- [[S13 - Funciones amigas y sobrecarga de operadores]]
 
 %% End Waypoint %%
 
