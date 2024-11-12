@@ -1,6 +1,6 @@
 ```ad-definition
 
-Una **relación lineal homogénea** de orden $k$ tiene la fórmula
+Una **relación lineal homogénea** de orden $k$ tiene la forma
 
 $$
 a_n = r_1a_{n-1} + r_2a_{n-2} + \ldots + r_ka_{n-k}
