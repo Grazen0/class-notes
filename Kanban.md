@@ -6,13 +6,6 @@ kanban-plugin: board
 
 ## ☕ Tareas
 
-- [ ] **Planificación Comu**
-	
-	- [x] Tema delimitado
-	- [x] Esquema
-	- [ ] Bibliografía de cada capítulo
-	@{14-11-2024} 
-	#comu #grupal
 - [ ] **Lineal - RC 3**
 	
 	@{14-11-2024} @@{20:00} 
@@ -38,6 +31,13 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **Planificación Comu**
+	
+	- [x] Tema delimitado
+	- [x] Esquema
+	- [x] Bibliografía de cada capítulo
+	@{14-11-2024} 
+	#comu #grupal
 
 
 ***
