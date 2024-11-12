@@ -10,10 +10,6 @@ kanban-plugin: board
 	
 	@{14-11-2024} @@{20:00} 
 	#lineal #teo #grupal
-- [ ] **Vecto - ABP**
-	
-	@{14-11-2024} @@{09:00} 
-	#calculo #lab #grupal
 - [ ] **Progra - Proyecto final**
 	
 	@{01-12-2024} 
@@ -22,6 +18,10 @@ kanban-plugin: board
 
 ## 📄 Evaluaciones
 
+- [ ] **Vecto - ABP**
+	
+	@{14-11-2024} @@{09:00} 
+	#calculo #lab #grupal
 
 
 ## 📚 Lecturas
