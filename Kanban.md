@@ -18,10 +18,6 @@ kanban-plugin: board
 
 ## 📄 Evaluaciones
 
-- [ ] **Vecto - ABP**
-	
-	@{14-11-2024} @@{09:00} 
-	#calculo #lab #grupal
 
 
 ## 📚 Lecturas
@@ -31,6 +27,10 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **Vecto - ABP**
+	
+	@{14-11-2024} @@{09:00} 
+	#calculo #lab #grupal
 - [x] **Planificación Comu**
 	
 	- [x] Tema delimitado
