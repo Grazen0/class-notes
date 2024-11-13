@@ -13,8 +13,8 @@
 	- [[S7 - Ondas electromagnéticas]]
 	- [[S8 - Ondas electromagnéticas 2]]
 	- [[S11 - Dispersión y polarización de la luz]]
-	- [[S12 - Espejos]]
-	- [[S13 - Lentes]]
+	- [[S12 - Espejos y reflexión]]
+	- [[S13 - Lentes y refracción]]
 
 %% End Waypoint %%
 
