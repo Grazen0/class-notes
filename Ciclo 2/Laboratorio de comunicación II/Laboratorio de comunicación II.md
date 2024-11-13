@@ -15,7 +15,7 @@
 	- [[S9B - El párrafo y sus tipos]]
 	- [[S11 - Elementos de la escritura académica]]
 	- [[S12 - Citas]]
-	- [[S13 - La introducción]]
+	- [[S13 - La introducción y conclusión]]
 
 %% End Waypoint %%
 
