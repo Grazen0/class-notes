@@ -31,10 +31,6 @@ kanban-plugin: board
 	
 	@{14-11-2024} @@{20:00} 
 	#lineal #teo #grupal
-- [x] **Vecto - ABP**
-	
-	@{14-11-2024} @@{09:00} 
-	#calculo #lab #grupal
 - [x] **Planificación Comu**
 	
 	- [x] Tema delimitado
@@ -608,6 +604,10 @@ kanban-plugin: board
 	
 	@{08-11-2024} 
 	#optica #lab
+- [x] **Vecto - ABP**
+	
+	@{14-11-2024} @@{09:00} 
+	#calculo #lab #grupal
 
 %% kanban:settings
 ```
