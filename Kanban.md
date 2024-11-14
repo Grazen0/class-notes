@@ -6,10 +6,6 @@ kanban-plugin: board
 
 ## ☕ Tareas
 
-- [ ] **Lineal - RC 3**
-	
-	@{14-11-2024} @@{20:00} 
-	#lineal #teo #grupal
 - [ ] **Progra - Proyecto final**
 	
 	@{01-12-2024} 
@@ -18,6 +14,10 @@ kanban-plugin: board
 
 ## 📄 Evaluaciones
 
+- [ ] **Lineal - Exposición**
+	
+	@{19-11-2024} 
+	#lineal #lab #grupal
 
 
 ## 📚 Lecturas
@@ -27,6 +27,10 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **Lineal - RC 3**
+	
+	@{14-11-2024} @@{20:00} 
+	#lineal #teo #grupal
 - [x] **Vecto - ABP**
 	
 	@{14-11-2024} @@{09:00} 
