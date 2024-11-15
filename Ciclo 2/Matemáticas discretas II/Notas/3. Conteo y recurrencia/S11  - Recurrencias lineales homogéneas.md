@@ -149,3 +149,40 @@ a_n = s^n(A + Bn)
 ```
 
 Nuevamente, para hallar $A$ y $B$ tenemos que formar un sistema de ecuaciones con los términos iniciales.
+
+## RLH de orden 3
+
+No practicaremos mucho con esto, pero vale la pena saberlo.
+
+### Para raíces distintas
+
+Si $s_1 \neq s_2$, $s_1 \neq s_3$ y $s_2 \neq s_3$, entonces $a_n$ tiene la forma
+
+$$
+a_n = A(s_1)^n + B(s_2)^n + C(s_3)^n
+.$$
+
+### Para dos raíces iguales
+
+Si $s_1 = s_3 \neq s_2$, entonces $a_n$ tiene la forma
+
+$$
+a_n = (s_1)^n(An + b) + C(s_2)^n
+.$$
+
+### Para raíces iguales
+
+Si $s_1 = s_2 = s_3 = s$, entonces $a_n$ tiene la forma
+
+$$
+a_n = s^n(An^2 + Bn + C)
+.$$
+
+## Solución general
+
+En general, para una RLH de grado $n$, hacemos el siguiente procedimiento:
+
+1. Hallar las raíces de la ecuación característica.
+2. Agrupar las raíces en grupos de valores iguales.
+3. A cada grupo, sea que tenga $k$ raíces iguales, le toca un sumando $s^n P(n)$, donde $P(n)$ es un polinomio de grado $k - 1$.
+4. Armar y resolver el sistema con los valores iniciales.
