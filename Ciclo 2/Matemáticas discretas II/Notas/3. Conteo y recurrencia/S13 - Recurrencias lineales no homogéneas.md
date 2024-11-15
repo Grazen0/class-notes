@@ -74,3 +74,7 @@ En la práctica, este proceso se resume a:
 
 1. Hallar una solución particular para la recurrencia.
 2. Hallar una solución general ignorando la parte no homogénea de la recurrencia.
+
+Sin embargo, la parte complicada es encontrar la solución particular.
+
+## Soluciones particulares
