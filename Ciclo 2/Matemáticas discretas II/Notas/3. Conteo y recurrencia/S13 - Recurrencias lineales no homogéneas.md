@@ -72,10 +72,11 @@ a_n + c \cdot 5^n - \frac{1}{2} 3^n
 
 En la práctica, este proceso se resume a:
 
-1. Hallar una solución particular para la recurrencia.
-2. Hallar una solución general ignorando la parte no homogénea de la recurrencia.
+1. Hallar una solución particular.
+2. Hallar una solución general para la parte homogénea.
+3. Sumar (muy difícil).
 
-Sin embargo, la parte complicada es encontrar la solución particular.
+Sin embargo, lo que se complica es hallar una solución particular.
 
 ## Un caso de solución particular
 
@@ -85,7 +86,7 @@ $$
 a_n + r_1a_{n-1} + r_2a_{n-2} + \ldots + r_ka_{n-k} = q(n) b^n
 ,$$
 
-donde $q(n)$ es un polinomio de grado $m$, y sea $C(x)$ la ecuación característica de la parte homogénea de esta recurrencia.
+donde $q(n)$ es un polinomio de grado $m$, y sea $C(x)$ la ecuación característica de la parte homogénea de $a_n$.
 
 Entonces, una solución particular de $a_n$ es
 
