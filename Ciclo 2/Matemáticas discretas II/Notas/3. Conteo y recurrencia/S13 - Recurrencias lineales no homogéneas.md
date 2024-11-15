@@ -77,4 +77,20 @@ En la práctica, este proceso se resume a:
 
 Sin embargo, la parte complicada es encontrar la solución particular.
 
-## Soluciones particulares
+## Un caso de solución particular
+
+Consideremos la RLNH
+
+$$
+a_n + r_1a_{n-1} + r_2a_{n-2} + \ldots + r_ka_{n-k} = q(n) b^n
+,$$
+
+donde $q(n)$ es un polinomio de grado $m$, y sea $C(x)$ la ecuación característica de la parte homogénea de esta recurrencia.
+
+Entonces, una solución particular de $a_n$ es
+
+$$
+a_n^{(p)} = n^s(k_0 + k_1n + \ldots + k_m n^m)b^n
+,$$
+
+donde $s$ es la multiplicidad que tiene $b$ como raíz de $C(x)$. (Si $b$ no es raíz, entonces consideramos $s = 0$)
