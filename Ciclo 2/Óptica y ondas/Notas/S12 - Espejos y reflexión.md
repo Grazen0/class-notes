@@ -35,12 +35,6 @@ Por las leyes de reflexión, tenemos:
 
 Como $p = q$ y $h = h'$, entonces la imagen virtual está a la misma distancia por detrás del espejo que el objeto al frente.
 
-#### Convenciones de signos
-
-- La distancia objeto $p$ es **positiva**.
-- La distancia imagen $q$ es **negativa**.
-- Si la extensión vertical del objeto apunta hacia arriba, la longitud $h$ es **positiva**.
-
 #### Aumento de la imagen
 
 En general, definimos el **aumento lateral** para espejos y lentes como
@@ -131,3 +125,13 @@ Cuando el objeto está **pasando el foco**:
 ### Para espejos convexos
 
 ![[diagrama para espejo convexo.png]]
+
+## Convención de signos
+
+| Cantidad                           | Positivo...                     |
+| ---------------------------------- | ------------------------------- |
+| Distancia objeto ($p$)             | ...del espejo al objeto.        |
+| Distancia imagen ($q$)             | ...del espejo al objeto.        |
+| Altura de la imagen ($h'$)         | ...en el sentido de $h$.        |
+| Aumento ($M$)                      | ...en el sentido de $h$.        |
+| Distancia focal y radio ($f$, $R$) | ...cuando el espejo es cóncavo. |
