@@ -18,6 +18,18 @@ kanban-plugin: board
 	
 	@{19-11-2024} 
 	#lineal #lab #grupal
+- [ ] **Vecto - EA 6**
+	
+	@{21-11-2024} @@{09:00} 
+	#calculo #lab
+- [ ] **Discretas - PC 3**
+	
+	@{22-11-2024} @@{09:00} 
+	#discretas #grupal
+- [ ] **Comu - Expo 2**
+	
+	@{27-11-2024} 
+	#comu #grupal
 
 
 ## 📚 Lecturas
