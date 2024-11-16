@@ -31,13 +31,6 @@ kanban-plugin: board
 	
 	@{14-11-2024} @@{20:00} 
 	#lineal #teo #grupal
-- [x] **Planificación Comu**
-	
-	- [x] Tema delimitado
-	- [x] Esquema
-	- [x] Bibliografía de cada capítulo
-	@{14-11-2024} 
-	#comu #grupal
 
 
 ***
@@ -608,6 +601,13 @@ kanban-plugin: board
 	
 	@{14-11-2024} @@{09:00} 
 	#calculo #lab #grupal
+- [x] **Planificación Comu**
+	
+	- [x] Tema delimitado
+	- [x] Esquema
+	- [x] Bibliografía de cada capítulo
+	@{14-11-2024} 
+	#comu #grupal
 
 %% kanban:settings
 ```
