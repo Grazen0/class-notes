@@ -130,7 +130,7 @@ Cuando el objeto está **pasando el foco**:
 
 | Cantidad                           | Positivo...                     |
 | ---------------------------------- | ------------------------------- |
-| Distancia objeto ($p$)             | ...del espejo al objeto.        |
+| Distancia objeto ($p$)             | ...siempre.                     |
 | Distancia imagen ($q$)             | ...del espejo al objeto.        |
 | Altura de la imagen ($h'$)         | ...en el sentido de $h$.        |
 | Aumento ($M$)                      | ...en el sentido de $h$.        |
