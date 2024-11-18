@@ -23,12 +23,12 @@ Existen series **convergentes** y **divergentes**.
 ### Series geométricas
 
 $$
-a + ar + ar^2 \sum_{n=0}^{\infty} ar^n = \frac{a}{1-r}
+a + ar + ar^2 + ar^3 + \ldots = \sum_{n=0}^{\infty} ar^n = \frac{a}{1-r}
 $$
 
 Esta serie **converge si y sólo si $|r| < 1$.**
 
-En general, si la serie no comienza en $n = 0$, podemos reemplazar $a$ en la fórmula por el primer término de la serie, cualquiera que fuese.
+En general, si la serie no comenzara en $n = 0$ o la potencia fuese $n \pm \text{algo}$, podemos reemplazar en la fórmula a $a$ por el primer término de la serie, cualquiera que fuese.
 
 ### Series de Taylor
 
