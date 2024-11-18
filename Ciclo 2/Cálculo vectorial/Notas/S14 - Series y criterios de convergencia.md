@@ -62,7 +62,51 @@ $$
 
 ## Radio de convergencia
 
+Existen sucesiones que dependen de una variable externa. Es decir, sucesiones de la forma $a_n(x)$. En estos casos, las series de la forma
 
+$$
+\sum_{n=0}^{\infty}a_n(x)
+$$
+
+pueden converger o divergir dependiendo del valor de $x$. Cuando ocurre que dicha serie converge en el intervalo $|x - a| < R$, es decir
+
+$$
+a - R < x < a + R
+,$$
+
+entonces le llamamos a $R$ el **radio de convergencia**.
 
 ## Criterios de convergencia/divergencia
 
+Sea $\left\{ a_n \right\}$ una sucesión y $S = \sum_{n=0}^{\infty}a_n$.
+
+### Prueba del término enésimo
+
+Intuitivamente, si ocurre que
+
+$$
+\lim_{n \to \infty} a_n \neq 0
+,$$
+
+entonces $S$ **diverge**.
+
+### Prueba del cociente/raíz
+
+Tómese el límite
+
+$$
+\lim_{n \to \infty} \left| \frac{a_{n+1}}{a_n} \right| = L
+,$$
+
+o alternativamente
+
+$$
+\lim_{n \to \infty} \sqrt[n]{a_n} = L
+.$$
+
+Entonces:
+
+- Si $L < 1$, entonces $S$ **converge**.
+- Si $L > 1$, entonces $S$ **diverge**.
+
+Si $L = 0$, no se puede deducir nada en particular.
