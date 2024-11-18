@@ -17,6 +17,7 @@
 	- [[S10 - Diagonalización]]
 	- [[S11 - Producto interno y espacios ortogonales]]
 	- [[S12 - Factorización QR y descomposición SVD]]
+	- [[S14 - Factorización LU]]
 - [[Referencia MATLAB]]
 
 %% End Waypoint %%
