@@ -15,3 +15,19 @@ La factorización LU tiene utilidad para resolver una cantidad múltiple de sist
 $$
 A\mathbf{x} = \mathbf{b}_1, \quad A\mathbf{x} = \mathbf{b}_2, \quad \ldots, \quad A\mathbf{x} = \mathbf{b}_p
 .$$
+
+## Método de Doolittle
+
+Si aplicamos las operaciones elementales a $A$ para obtener una matriz triangular superior $U$,
+
+$$
+E_k \ldots E_2 E_1A = U
+,$$
+
+entonces podemos obtener $L$ mediante
+
+$$
+L = E_1^{-1}E_2^{-1}\ldots E_k^{-1}
+,$$
+
+y se puede comprobar que esta matriz será triangular inferior.
