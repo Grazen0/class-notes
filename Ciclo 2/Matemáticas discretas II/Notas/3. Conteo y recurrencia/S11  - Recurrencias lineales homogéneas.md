@@ -182,7 +182,8 @@ a_n = s^n(An^2 + Bn + C)
 
 En general, para una RLH de grado $n$, hacemos el siguiente procedimiento:
 
+
 1. Hallar las raíces de la ecuación característica.
 2. Agrupar las raíces en grupos de valores iguales.
-3. A cada grupo, sea que tenga $k$ raíces iguales, le toca un sumando $s^n P(n)$, donde $P(n)$ es un polinomio de grado $k - 1$.
+3. A cada grupo, sea que tenga $k$ raíces iguales $s$, le toca un sumando $s^n P(n)$, donde $P(n)$ es un polinomio de grado $k - 1$.
 4. Armar y resolver el sistema con los valores iniciales.
