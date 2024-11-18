@@ -31,3 +31,27 @@ L = E_1^{-1}E_2^{-1}\ldots E_k^{-1}
 ,$$
 
 y se puede comprobar que esta matriz será triangular inferior.
+
+## Aplicación para los sistemas de ecuaciones
+
+La importancia de la factorización LU recae en que puede ser usada para resolver sistemas de ecuaciones mediante la resolución de dos sistemas fáciles (por sustitución regresiva).
+
+Sea el sistema $A\mathbf{x} = \mathbf{b}$, y sea $A = LU$ la factorización LU de $A$.
+
+Entonces, el sistema se puede reescribir como
+
+$$
+LU\mathbf{x} = \mathbf{b}
+.$$
+
+En su lugar, podemos resolver el sistema
+
+$$
+L\mathbf{c} = \mathbf{b}
+,$$
+
+de donde la solución del sistema original será la solución del sistema
+
+$$
+U\mathbf{x} = \mathbf{c}
+.$$
