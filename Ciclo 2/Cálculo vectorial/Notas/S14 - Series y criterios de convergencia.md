@@ -1,0 +1,68 @@
+```ad-definition
+
+Una **serie** es el límite de las sumas parciales de una sucesión. Es decir, tiene la forma
+
+$$
+\lim_{N \to \infty} \sum_{n=0}^{N} a_n
+,$$
+
+y, para abreviar, se denota como
+
+$$
+\sum_{n=0}^{\infty} a_n
+.$$
+
+```
+
+Informalmente, podemos decir que una serie es una "suma infinita".
+
+Existen series **convergentes** y **divergentes**.
+
+## Series importantes
+
+### Series geométricas
+
+$$
+a + ar + ar^2 \sum_{n=0}^{\infty} ar^n = \frac{a}{1-r}
+$$
+
+Esta serie **converge si y sólo si $|r| < 1$.**
+
+En general, si la serie no comienza en $n = 0$, podemos reemplazar $a$ en la fórmula por el primer término de la serie, cualquiera que fuese.
+
+### Series de Taylor
+
+Por el teorema de Taylor, una función $f(x)$ se puede escribir como
+
+$$
+f(x) = f(a) + f'(a)(x - a) + \frac{f''(a)}{2!}(x - a)^2 + \ldots = \sum_{n=0}^{\infty} \frac{f^{(n)}(a)}{n!} (x - a)^n
+.$$
+
+El caso particular donde $a = 0$ se denomina **serie de Maclaurin**:
+
+$$
+f(x) = f(0) + f'(0)x + \frac{f''(0)}{2!}x^2 + \ldots = \sum_{n=0}^{\infty} \frac{f^{(n)}(0)}{n!} x^n
+$$
+
+Si en una serie encontramos una serie de Taylor, podemos encontrar la función que la serie de Taylor aproxima para calcular el valor de la serie.
+
+#### Series de Taylor notables
+
+$$
+e^x = 1 + x + \frac{x^2}{2!} + \frac{x^3}{3!} + \ldots = \sum_{n=0}^{\infty} \frac{x^n}{n!}
+$$
+
+$$
+\sin(x) = x - \frac{x^3}{3!} + \frac{x^5}{5!} - \frac{x^7}{7!} + \ldots = \sum_{n=0}^{\infty} (-1)^n \frac{x^{2n+1}}{(2n+1)!}
+$$
+
+$$
+\cos(x) = 1 - \frac{x^2}{2!} + \frac{x^4}{4!} - \frac{x^6}{6!} + \ldots = \sum_{n=0}^{\infty} (-1)^n \frac{x^{2n}}{(2n)!}
+$$
+
+## Radio de convergencia
+
+
+
+## Criterios de convergencia/divergencia
+
