@@ -23,7 +23,7 @@
 		- [[S11  - Recurrencias lineales homogéneas]]
 		- [[S13 - Recurrencias lineales no homogéneas]]
 	- **4. Teoría de grafos**
-		- [[S14 -]]
+		- [[S14 - Grafos]]
 
 %% End Waypoint %%
 
