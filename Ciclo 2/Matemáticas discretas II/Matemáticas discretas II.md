@@ -22,6 +22,8 @@
 		- [[S10 - Combinaciones]]
 		- [[S11  - Recurrencias lineales homogéneas]]
 		- [[S13 - Recurrencias lineales no homogéneas]]
+	- **4. Teoría de grafos**
+		- [[Untitled]]
 
 %% End Waypoint %%
 
