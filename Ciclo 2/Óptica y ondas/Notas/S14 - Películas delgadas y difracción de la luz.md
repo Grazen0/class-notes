@@ -37,3 +37,25 @@ No confundir estas fórmulas con las de diferencia de caminos de ondas. Las fór
 ## Difracción de la luz
 
 Es básicamente lo que ocurre con el experimento de la ranura de Young.
+
+![[difraccion.png]]
+
+En esta imagen, la difracción ocurre en el segundo caso, cuando
+
+$$
+\lambda \approx d
+,$$
+
+donde $d$ es el ancho de la abertura.
+
+### Patrones de difracción
+
+El efecto de la difracción de la luz es el siguiente:
+
+![[difraccion 2.png]]
+
+Aquí, tenemos ciertas denominaciones:
+
+- **Máximo central:** la banda central, la más intensa.
+- **Mínimas:** las bandas oscuras intermedias.
+- **Máximos secundarios:** las bandas menos intensas de los lados.
