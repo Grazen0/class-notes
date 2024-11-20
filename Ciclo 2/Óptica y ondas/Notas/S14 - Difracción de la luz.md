@@ -1,41 +1,3 @@
-## Películas delgadas
-
-Las películas delgadas son capas finas de materiales con ciertos índices de refracción particulares. Dependiendo del grosor del material y el índice, la luz se refleja y refracta de distintas maneras.
-
-![[peliculas delgadas.png]]
-
-En esencia: los rayos de luz llegan al material, y parte de ellos se refleja y parte se refracta. La parte que se refracta rebota y vuelve a salir del material, interfiriendo con la luz que se reflejó y formando distintas imágenes.
-
-Los efectos de distintos índices de refracción en la interacción de luz entre dos medios son los siguientes:
-
-![[peliculas delgadas 3.png]]
-
-El trazado de rayos en una película delgada es el siguiente:
-
-![[peliculas delgadas 2.png]]
-
-En una película de petróleo, se cumple para **reflexión constructiva**:
-
-$$
-2t = \left( m + \frac{1}{2} \right)\lambda
-,$$
-
-y para **reflexión destructiva**:
-
-$$
-2t = m\lambda
-,$$
-
-donde $t$ es es el espesor de la película.
-
-```ad-warning
-title: Cuidado
-
-No confundir estas fórmulas con las de diferencia de caminos de ondas. Las fórmulas están al revés.
-
-```
-## Difracción de la luz
-
 Se trata del fenómeno que ocurre cuando la luz pasa por una rendija extremadamente pequeña.
 
 ![[difraccion.png]]
@@ -48,7 +10,7 @@ $$
 
 donde $d$ es el ancho de la abertura.
 
-### Patrones de difracción
+## Patrones de difracción
 
 El efecto de la difracción de la luz es el siguiente:
 
@@ -60,7 +22,7 @@ Aquí, tenemos ciertas denominaciones:
 - **Mínimas:** las bandas oscuras intermedias.
 - **Máximos secundarios:** las bandas menos intensas de los lados.
 
-### Ranura de Young
+## Ranura de Young
 
 ![[ranura de young.png]]
 
@@ -110,7 +72,7 @@ $$
 y_\text{brillante} = L \frac{m\lambda}{d}
 .$$
 
-### Rendijas angostas
+## Rendijas angostas
 
 ![[rendijas angostas.png]]
 
@@ -121,3 +83,29 @@ $$
 ,$$
 
 donde $a$ es el **ancho de la rendija** y $m \in \left\{ \pm 1, \pm 2, \pm 3, \ldots \right\}$.
+
+### Resolución de una rendija
+
+La **reslución** es la capacidad que tiene el sistema óptico para distinguir objetos cercanos entre sí dentro de él.
+
+La siguiente imagen muestra dos configuraciones: una con buena resolución, y otra de baja resolución.
+
+![[resolucion.png]]
+
+### Criterio de Rayleigh
+
+En una configuración de rendija **rectangular** como la anterior, se dice que dos imágenes están **bien resueltas** cuando
+
+$$
+\theta_\text{mín} = \frac{\lambda}{a}
+$$
+
+(donde $\theta$ está en radianes).
+
+Para aberturas **circulares**, el criterio es
+
+$$
+\theta_\text{mín} = 1.22 \frac{\lambda}{D}
+,$$
+
+donde $D$ es el **diámetro** de la abertura.
