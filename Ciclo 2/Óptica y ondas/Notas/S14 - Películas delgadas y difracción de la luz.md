@@ -17,13 +17,13 @@ El trazado de rayos en una película delgada es el siguiente:
 En una película de petróleo, se cumple para **reflexión constructiva**:
 
 $$
-2t = \left( n + \frac{1}{2} \right)\lambda
+2t = \left( m + \frac{1}{2} \right)\lambda
 ,$$
 
 y para **reflexión destructiva**:
 
 $$
-2t = n\lambda
+2t = m\lambda
 ,$$
 
 donde $t$ es es el espesor de la película.
@@ -59,3 +59,38 @@ Aquí, tenemos ciertas denominaciones:
 - **Máximo central:** la banda central, la más intensa.
 - **Mínimas:** las bandas oscuras intermedias.
 - **Máximos secundarios:** las bandas menos intensas de los lados.
+
+### Ranura de Young
+
+![[ranura de young.png]]
+
+Cuando $L$ es mucho mayor que $d$, se cumple que la **diferencia de caminos** entre los rayos que llegan a un punto en ángulo $\theta$ es igual a
+
+$$
+\Delta r = r_2 - r_1 = d\sin(\theta)
+.$$
+
+Por lo tanto, podemos deducir que la **interferencia constructiva** ocurre cuando
+
+$$
+d\sin(\theta_\text{brillante}) = m\lambda
+,$$
+
+y la **interferencia destructiva** ocurre cuando
+
+$$
+d\sin(\theta_\text{oscuro}) = \left( m + \frac{1}{2} \right)\lambda
+$$
+
+(para todo $m \in \mathbb{Z}$).
+
+En esta situación, se le llama a $m$ el **número de orden**.
+
+Algunas consideraciones:
+
+- La franja central brillante es la **máxima de orden cero**.
+- El primer máximo en cualquiera de los dos lados ($m = \pm 1$) se llama **máximo de primer orden**.
+
+De esta manera tenemos lo siguiente:
+
+![[franjas brillantes y oscuras.png]]
