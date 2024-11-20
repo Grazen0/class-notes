@@ -36,7 +36,7 @@ No confundir estas fórmulas con las de diferencia de caminos de ondas. Las fór
 ```
 ## Difracción de la luz
 
-Es básicamente lo que ocurre con el experimento de la ranura de Young.
+Se trata del fenómeno que ocurre cuando la luz pasa por una rendija extremadamente pequeña.
 
 ![[difraccion.png]]
 
@@ -94,3 +94,30 @@ Algunas consideraciones:
 De esta manera tenemos lo siguiente:
 
 ![[franjas brillantes y oscuras.png]]
+
+Por otro lado, las **posiciones** donde ocurren las franjas brillantes y oscuras son, respectivamente,
+
+$$
+\begin{align}
+y_\text{brillante} &= L\tan(\theta_\text{brillante}) \\
+y_\text{oscuro} &= L\tan(\theta_\text{oscuro})
+\end{align}
+.$$
+
+Para ángulos muy pequeños, $\tan(\theta) \approx \sin(\theta)$, y por lo tanto
+
+$$
+y_\text{brillante} = L \frac{m\lambda}{d}
+.$$
+
+### Rendijas angostas
+
+![[rendijas angostas.png]]
+
+Aquí, podemos hallar los ángulos de las franjas oscuras con
+
+$$
+\sin(\theta_\text{oscuro}) = m \frac{\lambda}{a}
+,$$
+
+donde $a$ es el **ancho de la rendija** y $m \in \left\{ \pm 1, \pm 2, \pm 3, \ldots \right\}$.
