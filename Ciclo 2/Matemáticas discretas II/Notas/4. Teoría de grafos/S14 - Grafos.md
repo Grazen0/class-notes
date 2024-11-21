@@ -23,7 +23,7 @@ Los grafos se clasifican en varios tipos:
 ```ad-definition
 title: Definición (grado de un vértice).
 
-El **grado** de un vértice, denotado por $\operatorname{g}(v)$, es la cantidad de veces que es extremo de alguna arista.
+El **grado** de un vértice, denotado por $\operatorname{grad}(v)$, es la cantidad de veces que es extremo de alguna arista.
 
 ```
 
