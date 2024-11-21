@@ -42,11 +42,11 @@ El caso particular donde $a = 0$ se denomina **serie de Maclaurin**:
 
 $$
 f(x) = f(0) + f'(0)x + \frac{f''(0)}{2!}x^2 + \ldots = \sum_{n=0}^{\infty} \frac{f^{(n)}(0)}{n!} x^n
-$$
+.$$
 
 Si en una serie encontramos una serie de Taylor, podemos encontrar la función que la serie de Taylor aproxima para calcular el valor de la serie.
 
-#### Series de Taylor notables
+#### Series de Taylor importantes
 
 $$
 e^x = 1 + x + \frac{x^2}{2!} + \frac{x^3}{3!} + \ldots = \sum_{n=0}^{\infty} \frac{x^n}{n!}
@@ -75,6 +75,8 @@ a - R < x < a + R
 ,$$
 
 entonces le llamamos a $R$ el **radio de convergencia**.
+
+El radio de convergencia usualmente se puede calcular usando la prueba del cociente o de la raíz.
 
 ## Criterios de convergencia/divergencia
 
