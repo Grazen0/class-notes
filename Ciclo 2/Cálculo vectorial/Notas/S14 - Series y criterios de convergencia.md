@@ -1,4 +1,5 @@
 ```ad-definition
+title: Definición (serie).
 
 Una **serie** es el límite de las sumas parciales de una sucesión. Es decir, tiene la forma
 
