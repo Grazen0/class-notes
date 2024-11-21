@@ -1,8 +1,5 @@
 ## Rectas en 3D
 
-#todo 
-- [ ] Añadir gráfica
-
 Sea $\mathscr{L}$ una recta. Entonces, si tenemos un punto $P \in \mathscr{L}$ y al vector $\vec{v}$ **dirección** de $\mathscr{L}$ (es decir, paralelo a $\mathscr{L}$), entonces $\mathscr{L}$ se puede escribir como la **ecuación vectorial**
 
 $$
@@ -88,9 +85,6 @@ donde
 - el plano se define como $ax + by + cz = d$, y
 - $P = (x_0, y_0, z_0)$.
 
-#todo
-- [ ] Añadir gráfica
-
 ### Rectas oblicuas
 
 Si queremos interesectar dos rectas $\mathscr{L_{1}}$ y $\mathscr{L_{2}}$ con vectores dirección $\vec{v_{1}}$ y $\vec{v_{2}}$ respectivamente, entonces la distancia entre $\mathscr{L_{1}}$ y $\mathscr{L_{2}}$ es igual a
@@ -102,6 +96,3 @@ D &= \frac{\lvert \overrightarrow{PQ} \cdot (\vec{v}_1 \times \vec{v}_2) \rvert 
 $$
 
 donde $P$ y $Q$ son puntos cualesquiera en $\mathscr{L_{1}}$ y $\mathscr{L_{2}}$  respectivamente.
-
-#todo
-- [ ] Añadir gráfica
