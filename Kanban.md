@@ -14,10 +14,6 @@ kanban-plugin: board
 
 ## 📄 Evaluaciones
 
-- [ ] **Lineal - Exposición**
-	
-	@{19-11-2024} 
-	#lineal #lab #grupal
 - [ ] **Vecto - EA 6**
 	
 	@{21-11-2024} @@{09:00} 
@@ -39,6 +35,10 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **Lineal - Exposición**
+	
+	@{19-11-2024} 
+	#lineal #lab #grupal
 - [x] **Lineal - RC 3**
 	
 	@{14-11-2024} @@{20:00} 
