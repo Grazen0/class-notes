@@ -118,7 +118,7 @@ $$
 o alternativamente
 
 $$
-\lim_{n \to \infty} \sqrt[n]{a_n} = L
+\lim_{n \to \infty} \sqrt[n]{|a_n|} = L
 .$$
 
 Entonces:
@@ -127,3 +127,19 @@ Entonces:
 - Si $L > 1$, entonces $S$ **diverge**.
 
 Si $L = 0$, no se puede deducir nada en particular.
+
+### Prueba de serie alternante
+
+Si $a_n$ tiene la forma
+
+$$
+a_n = (-1)^n b_n
+$$
+
+y $b_n$ cumple que
+
+- $b_n > 0$,
+- $b_{n+1} \leq b_n$,
+- $b_n$ converge a $0$,
+
+entonces $S$ **converge**.
