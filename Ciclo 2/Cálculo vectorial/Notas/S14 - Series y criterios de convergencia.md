@@ -31,6 +31,20 @@ Esta serie **converge si y sólo si $|r| < 1$.**
 
 En general, si la serie no comenzara en $n = 0$ o la potencia fuese $n \pm \text{algo}$, podemos reemplazar en la fórmula a $a$ por el primer término de la serie, cualquiera que fuese.
 
+### Series P
+
+$$
+1 + \frac{1}{2^p} + \frac{1}{3^p} + \ldots = \sum_{n=1}^{\infty} \frac{1}{n^p}
+$$
+
+Esta serie converge si y sólo si $p > 1$.
+
+El caso particular donde $p = 1$ se llama **serie armónica**, y diverge.
+
+$$
+1 + \frac{1}{2} + \frac{1}{3} + \ldots = \sum_{n=1}^{\infty} \frac{1}{n}
+$$
+
 ### Series de Taylor
 
 Por el teorema de Taylor, una función $f(x)$ se puede escribir como
