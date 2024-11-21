@@ -14,10 +14,6 @@ kanban-plugin: board
 
 ## 📄 Evaluaciones
 
-- [ ] **Vecto - EA 6**
-	
-	@{21-11-2024} @@{09:00} 
-	#calculo #lab
 - [ ] **Discretas - PC 3**
 	
 	@{22-11-2024} @@{09:00} 
@@ -35,6 +31,10 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **Vecto - EA 6**
+	
+	@{21-11-2024} @@{09:00} 
+	#calculo #lab
 - [x] **Lineal - Exposición**
 	
 	@{19-11-2024} 
