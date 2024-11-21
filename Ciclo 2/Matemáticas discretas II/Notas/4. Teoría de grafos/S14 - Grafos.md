@@ -12,6 +12,14 @@ Se dice que ua arista $e$ que conecta al par de vértices $v$ y $w$ es **inciden
 
 En corto, un grafo (no dirigido) es una estructura matemática que contiene **vértices** unidos por **aristas**.
 
+Los grafos se clasifican en varios tipos:
+
+- **Grafo no dirigido:** Las aristas no tienen una dirección particular.
+- **Multigrafo:** Puede contener más de una arista entre dos vértices dados.
+- **Pseudografo:** Pueden existir aristas de un vértices a si mismo.
+- **Grafo dirigido:** Las aristas tienen dirección particular.
+- **Grafo etiquetado (o con peso):** Cada arista está asociada a un número real.
+
 ```ad-definition
 title: Definición (grado de un vértice).
 
