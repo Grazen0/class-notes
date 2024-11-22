@@ -14,10 +14,6 @@ kanban-plugin: board
 
 ## 📄 Evaluaciones
 
-- [ ] **Discretas - PC 3**
-	
-	@{22-11-2024} @@{09:00} 
-	#discretas #grupal
 - [ ] **Comu - Expo 2**
 	
 	@{27-11-2024} 
@@ -31,6 +27,10 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **Discretas - PC 3**
+	
+	@{22-11-2024} @@{09:00} 
+	#discretas #grupal
 - [x] **Vecto - EA 6**
 	
 	@{21-11-2024} @@{09:00} 
