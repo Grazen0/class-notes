@@ -64,8 +64,8 @@ Para ángulos muy pequeños, $\tan(\theta) \approx \sin(\theta)$, y por lo tanto
 
 $$
 \begin{align}
-y_\text{brillante} &= L \frac{m\lambda}{d} \\
-y_\text{oscuro} &= L \frac{\left( m + \frac{1}{2} \right)\lambda}{d}
+y_\text{brillante} &= L \left(\frac{m\lambda}{d}\right) \\
+y_\text{oscuro} &= L \left(\frac{\left( m + \frac{1}{2} \right)\lambda}{d} \right)
 .\end{align}
 $$
 
@@ -80,6 +80,12 @@ $$
 ,$$
 
 donde $a$ es el **ancho de la rendija** y $m \in \mathbb{Z} - \left\{ 0 \right\}$.
+
+De aquí podemos deducir exactamente que
+
+$$
+y_\text{oscuro} = L \left( \frac{m\lambda}{a} \right)
+$$
 
 ### Resolución de una rendija
 
