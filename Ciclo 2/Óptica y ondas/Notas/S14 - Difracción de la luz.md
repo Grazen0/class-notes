@@ -2,13 +2,7 @@ Se trata del fenómeno que ocurre cuando la luz pasa por una rendija extremadame
 
 ![[difraccion.png]]
 
-En esta imagen, la difracción ocurre en el segundo caso, cuando
-
-$$
-\lambda \approx d
-,$$
-
-donde $d$ es el ancho de la abertura.
+En esta imagen, la difracción ocurre en el segundo y tercer caso, cuando la abertura es lo suficientemente pequeña.
 
 ## Patrones de difracción
 
@@ -69,8 +63,11 @@ y_\text{oscuro} &= L\tan(\theta_\text{oscuro})
 Para ángulos muy pequeños, $\tan(\theta) \approx \sin(\theta)$, y por lo tanto
 
 $$
-y_\text{brillante} = L \frac{m\lambda}{d}
-.$$
+\begin{align}
+y_\text{brillante} &= L \frac{m\lambda}{d} \\
+y_\text{oscuro} &= L \frac{\left( m + \frac{1}{2} \right)\lambda}{d}
+.\end{align}
+$$
 
 ## Rendijas angostas
 
