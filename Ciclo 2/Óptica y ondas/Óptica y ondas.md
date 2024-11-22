@@ -14,7 +14,7 @@
 	- [[S8 - Ondas electromagnéticas 2]]
 	- [[S11 - Dispersión y polarización de la luz]]
 	- [[S12 - Espejos y reflexión]]
-	- [[S13A - Lentes e interferencia de luz]]
+	- [[S13A - Lentes y refracción]]
 	- [[S13B - Interferencia de luz]]
 	- [[S14 - Difracción de la luz]]
 
