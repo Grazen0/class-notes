@@ -16,7 +16,13 @@ El trazado de rayos en una película delgada es el siguiente:
 
 ![[peliculas delgadas 2.png]]
 
-En una película de petróleo, se cumple para **reflexión constructiva**:
+Se cumple que la diferencia de caminos de los rayos $1$ y $2$ es aproximadamente igual a
+
+$$
+\Delta r \approx 2t
+,$$
+
+por lo que se cumple para **reflexión constructiva**:
 
 $$
 2t = \left( m + \frac{1}{2} \right)\lambda
