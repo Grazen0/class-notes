@@ -79,7 +79,7 @@ $$
 \sin(\theta_\text{oscuro}) = m \frac{\lambda}{a}
 ,$$
 
-donde $a$ es el **ancho de la rendija** y $m \in \left\{ \pm 1, \pm 2, \pm 3, \ldots \right\}$.
+donde $a$ es el **ancho de la rendija** y $m \in \mathbb{Z} - \left\{ 0 \right\}$.
 
 ### Resolución de una rendija
 
