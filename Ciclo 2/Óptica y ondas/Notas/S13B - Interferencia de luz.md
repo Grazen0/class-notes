@@ -25,16 +25,16 @@ $$
 por lo que se cumple para **reflexión constructiva**:
 
 $$
-2t = \left( m + \frac{1}{2} \right)\lambda
+2t = \left( m + \frac{1}{2} \right)\lambda'
 ,$$
 
 y para **reflexión destructiva**:
 
 $$
-2t = m\lambda
+2t = m\lambda'
 ,$$
 
-donde $t$ es es el espesor de la película.
+donde $t$ es es el **espesor** de la película y $\lambda'$ es la longitud de onda **dentro del material**.
 
 ```ad-warning
 title: Cuidado
