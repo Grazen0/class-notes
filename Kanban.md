@@ -6,7 +6,11 @@ kanban-plugin: board
 
 ## ☕ Tareas
 
-- [ ] **Progra - Proyecto final**
+- [ ] **Óptica - Informe labo 2**
+	
+	@{27-11-2024}
+	#optica #grupal
+- [ ] **Progra - Informe final**
 	
 	@{01-12-2024} 
 	#progra #lab #grupal
@@ -18,6 +22,10 @@ kanban-plugin: board
 	
 	@{27-11-2024} 
 	#comu #grupal
+- [ ] **Óptica - EA 6**
+	
+	@{29-11-2024} @@{03:00} 
+	#optica #lab
 
 
 ## 📚 Lecturas
@@ -27,22 +35,6 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
-- [x] **Discretas - PC 3**
-	
-	@{22-11-2024} @@{09:00} 
-	#discretas #grupal
-- [x] **Vecto - EA 6**
-	
-	@{21-11-2024} @@{09:00} 
-	#calculo #lab
-- [x] **Lineal - Exposición**
-	
-	@{19-11-2024} 
-	#lineal #lab #grupal
-- [x] **Lineal - RC 3**
-	
-	@{14-11-2024} @@{20:00} 
-	#lineal #teo #grupal
 
 
 ***
@@ -620,6 +612,22 @@ kanban-plugin: board
 	- [x] Bibliografía de cada capítulo
 	@{14-11-2024} 
 	#comu #grupal
+- [x] **Lineal - Exposición**
+	
+	@{19-11-2024} 
+	#lineal #lab #grupal
+- [x] **Lineal - RC 3**
+	
+	@{14-11-2024} @@{20:00} 
+	#lineal #teo #grupal
+- [x] **Vecto - EA 6**
+	
+	@{21-11-2024} @@{09:00} 
+	#calculo #lab
+- [x] **Discretas - PC 3**
+	
+	@{22-11-2024} @@{09:00} 
+	#discretas #grupal
 
 %% kanban:settings
 ```
