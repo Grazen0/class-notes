@@ -12,6 +12,17 @@ $$
 
 ![[refraccion 2.png]]
 
+Se cumplen las siguientes ecuaciones:
+
+$$
+\frac{n_1}{p} = -\frac{n_2}{q}
+$$
+
+Las imágenes formadas en esta configuración son:
+
+- Si $n_1 > n_2$, **virtuales**.
+- Si $n_1 < n_2$, **reales**.
+
 ## Lentes delgadas
 
 
