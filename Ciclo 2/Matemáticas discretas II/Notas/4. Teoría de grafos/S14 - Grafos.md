@@ -42,8 +42,58 @@ $$
 
 Es decir, la suma de los grados de un grafo es igual al doble de su cantidad de aristas.
 
-```ad-theorem
+````ad-theorem
 
 Un grafo no dirigido tiene un número par de vértices de grado impar.
 
+```ad-proof
+collapse: closed
+
+Sea $(V, E)$ un grafo de $m$ aristas. Entonces, sabemos que
+
+$$
+2m = \sum_{v \in V} \operatorname{grad}(v)
+.$$
+
+Dividamos ahora los vértices en aquellos de grado par e impar ($V_\text{par}$ y $V_\text{impar}$ respectivamente). Entonces,
+
+$$
+2m = \sum_{v \in V_\text{par}} \operatorname{grad}(v) + \sum_{v \in V_\text{impar}} \operatorname{grad}(v)
+.$$
+
+Sin embargo, la suma de los grados pares siempre es par. Por lo tanto, analizando la paridad de la expresión:
+
+$$
+\underbrace{2m}_\text{par} = \underbrace{\sum_{v \in V_\text{par}} \operatorname{grad}(v)}_{\text{par}} + \underbrace{\sum_{v \in V_\text{impar}} \operatorname{grad}(v)}_\text{tiene que ser par}
+.$$
+
+Como la suma de los grados impares tiene que ser par, deducimos que la cantidad de estos vértices debe ser par.
+$$\qed$$
+
 ```
+
+````
+
+```ad-definition
+title: Definición (grado de un vértice en grafo dirigido).
+
+En un grafo dirigido,
+
+$$
+\operatorname{grad}^+(v)
+$$
+
+Por otro lado, la cantidad de aristas que salen de $v$ se llama **grado **
+
+```
+
+```ad-theorem
+
+Sea $(G, E)$ un digrafo de $m$ aristas. Entonces,
+
+$$
+\sum_{v \in V} \operatorname{grad}^-(v)  = \sum_{v \in V} \operatorname{grad}^+(v) = m
+.$$
+
+```
+

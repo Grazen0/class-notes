@@ -8,8 +8,11 @@ $$
 \frac{n_1}{p} + \frac{n_2}{q} = \frac{n_2-n_1}{R}
 .$$
 
-## Convención de signos
+## Lentes delgadas
 
+
+
+## Convención de signos
 
 | Cantidad               | Positivo...             |
 | ---------------------- | ----------------------- |
