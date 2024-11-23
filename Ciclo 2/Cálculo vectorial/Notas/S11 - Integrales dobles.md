@@ -5,7 +5,7 @@ Formalmente, la integral doble se define de la siguiente manera.
 Sea $f(x,y)$ una función. Entonces, la **integral de $f$ sobre la región $D$** es igual a
 
 $$
-\iint_D f(x,y) \, dA = \lim_{m,n \to \infty}  \sum_{i=1}^{m} \sum_{j=1}^{n}f(x_i^*, y_j^*) \Delta A
+\iint_D f(x,y) \, dA := \lim_{m,n \to \infty}  \sum_{i=1}^{m} \sum_{j=1}^{n}f(x_i^*, y_j^*) \Delta A
 .$$
 
 ```
