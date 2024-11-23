@@ -11,7 +11,7 @@
 		- [[S2B - MCD y MCM]]
 		- [[S2C - Sistemas de numeración]]
 	- **II. Lógica**
-		- [[S2D,3 - Lógica proposicional]]
+		- [[S2D - Lógica proposicional]]
 		- [[S4 - Leyes lógicas]]
 		- [[S5 - Forma normal conjuntiva y disyuntiva]]
 		- [[S6 - Cuantificadores]]
@@ -33,7 +33,7 @@
 		- [[S14A - Composición de funciones]]
 		- [[S14B - Función inversa]]
 	- **V. Técnicas de demostración**
-		- [[S14C - Conceptos y tipos de demostración]]
+		- [[S14C - Conceptos de demostraciones]]
 		- [[S14D - Métodos de demostración]]
 
 %% End Waypoint %%
