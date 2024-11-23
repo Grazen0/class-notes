@@ -41,3 +41,9 @@ $$
 ```
 
 Es decir, la suma de los grados de un grafo es igual al doble de su cantidad de aristas.
+
+```ad-theorem
+
+Un grafo no dirigido tiene un número par de vértices de grado impar.
+
+```
