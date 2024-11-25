@@ -6,7 +6,7 @@ $$
 \sum_{n=0}^{\infty} c_n x^n
 .$$
 
-## Series de Taylor
+### Series de Taylor
 
 Por el teorema de Taylor, una función $f(x)$ se puede escribir como la [[S14 - Series y criterios de convergencia|serie]]
 
@@ -22,7 +22,7 @@ f(x) = f(0) + f'(0)x + \frac{f''(0)}{2!}x^2 + \ldots = \sum_{n=0}^{\infty} \frac
 
 Si en una serie encontramos una serie de Taylor, podemos encontrar la función que la serie de Taylor aproxima para calcular el valor de la serie.
 
-### Series de Taylor importantes
+#### Series de Taylor importantes
 
 $$
 e^x = 1 + x + \frac{x^2}{2!} + \frac{x^3}{3!} + \ldots = \sum_{n=0}^{\infty} \frac{x^n}{n!}
