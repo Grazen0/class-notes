@@ -1,3 +1,11 @@
+## Series de potencia
+
+Una serie de potencia es de la forma
+
+$$
+\sum_{n=0}^{\infty} c_n x^n
+.$$
+
 ## Series de Taylor
 
 Por el teorema de Taylor, una función $f(x)$ se puede escribir como la [[S14 - Series y criterios de convergencia|serie]]
