@@ -14,8 +14,8 @@ Existen varios tipos de grafos simples:
 - Grafos ciclo
 - Grafos rueda
 - $n$-Cubo
-- Grafos bipartidos
-- Grafos bipartidos completos
+- Grafos bipartitos
+- Grafos bipartitos completos
 
 ## Grafos completos
 
@@ -63,4 +63,26 @@ E = \left\{ c_i c_j \lmid \text{$c_i$ y $c_j$ difieren en exactamente un bit} \r
 
 ```
 
-Se cumple que un cubo $n$-dimensional tiene $2^n$ vértices.
+Se cumple que un cubo $n$-dimensional tiene $2^n$ vértices, su número de aristas es igual a
+
+$$
+m = n \cdot 2^{n-1}
+.$$
+
+## Grafos bipartitos
+
+```ad-definition
+
+Un **grafo bipartito** es un grafo $G = (V, E)$ cuyos vértices se pueden representar como una unión disjunta $V = V_1 \cup V_2$ tal que no existan aristas dentro de $V_1$ y $V_2$ respectivamente.
+
+```
+
+En otras palabras, un grafo bipartito es un grafo que se puede dividir en dos partes de vértices disjuntos.
+
+### Grafos bipartitos completos
+
+```ad-definition
+
+Un **grafo bipartito completo** es un grafo
+
+```
