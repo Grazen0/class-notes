@@ -1,6 +1,6 @@
 ## Series de Taylor
 
-Por el teorema de Taylor, una función $f(x)$ se puede escribir como
+Por el teorema de Taylor, una función $f(x)$ se puede escribir como la [[S14 - Series y criterios de convergencia|serie]]
 
 $$
 f(x) = f(a) + f'(a)(x - a) + \frac{f''(a)}{2!}(x - a)^2 + \ldots = \sum_{n=0}^{\infty} \frac{f^{(n)}(a)}{n!} (x - a)^n
@@ -44,4 +44,4 @@ a - R < x < a + R
 
 entonces le llamamos a $R$ el **radio de convergencia**.
 
-El radio de convergencia se suele calcular usando la **prueba del cociente** o de la raíz.
+El radio de convergencia se suele calcular usando la [[S14 - Series y criterios de convergencia#Prueba del cociente/raíz|prueba del cociente o de la raíz]].
