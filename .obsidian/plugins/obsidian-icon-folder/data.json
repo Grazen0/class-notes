@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🤖",
       "🚀",
       "🌐",
       "📐",
-      "🌊",
-      "💡"
+      "🌊"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -47,5 +47,6 @@
   "Ciclo 2/Óptica y ondas": "🌊",
   "Ciclo 2/Programación II": "💻",
   "Ciclo 2/Competencias digitales": "🌐",
-  "Ciclo 2/CMA": "🚀"
+  "Ciclo 2/CMA": "🚀",
+  "Ciclo 2/Inteligencia artificial": "🤖"
 }

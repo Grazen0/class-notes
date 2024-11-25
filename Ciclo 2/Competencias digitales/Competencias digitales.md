@@ -1,7 +1,7 @@
 ## Índice
 
 %% Begin Waypoint %%
-- [[Módulo I]]
+- [[Ciclo 2/Competencias digitales/Módulo I]]
 - [[Módulo II]]
 - [[Módulo III]]
 
