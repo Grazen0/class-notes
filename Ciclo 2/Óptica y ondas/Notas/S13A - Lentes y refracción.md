@@ -61,6 +61,12 @@ al igual que el [[S12 - Espejos y reflexión#Aumento de la imagen|aumento en esp
 - Si $M > 0$, entonces la imagen es **vertical** y del **mismo lado** que el objeto.
 - Si $M < 0$, entonces la imagen es **invertida** y del **lado opuesto** al objeto.
 
+### Tipos de lentes
+
+#### Lentes convergentes
+
+#### Lentes divergentes
+
 ## Convención de signos
 
 | Cantidad                           | Positivo...                                       |
