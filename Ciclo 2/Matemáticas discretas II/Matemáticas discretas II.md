@@ -24,7 +24,7 @@
 		- [[S13 - Recurrencias lineales no homogéneas]]
 	- **4. Teoría de grafos**
 		- [[S14 - Grafos]]
-		- [[S15 - Grafos 2]]
+		- [[S15 - Grafos simples]]
 
 %% End Waypoint %%
 
