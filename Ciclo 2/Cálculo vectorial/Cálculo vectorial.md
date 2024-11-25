@@ -19,6 +19,7 @@
 	- [[S12 - Integrales dobles con coordenadas polares]]
 	- [[S13 - Sucesiones]]
 	- [[S14 - Series y criterios de convergencia]]
+	- [[S15 - Radio de convergencia y series de Taylor]]
 
 %% End Waypoint %%
 
