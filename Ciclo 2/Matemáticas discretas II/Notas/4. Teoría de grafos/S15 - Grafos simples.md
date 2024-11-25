@@ -17,7 +17,11 @@ Existen varios tipos de grafos simples:
 - Grafos bipartitos
 - Grafos bipartitos completos
 
-## Grafos completos
+## Grafos especiales
+
+Existen algunos grafos importantes que merecen su propia notación.
+
+### Grafos completos
 
 ```ad-definition
 
@@ -31,7 +35,7 @@ $$
 m = \frac{n(n-1)}{2}
 .$$
 
-## Grafos ciclo
+### Grafos ciclo
 
 ```ad-definition
 
@@ -41,7 +45,7 @@ Un **grafo ciclo**, denotado por $C_n$ para $n \geq 3$, se conforma de $n$ vért
 
 El grafo ciclo $C_n$ tiene $n$ aristas.
 
-## Grafo rueda
+### Grafo rueda
 
 ```ad-definition
 
@@ -51,7 +55,7 @@ Un **grafo rueda**, denotado por $W_n$, es un grafo ciclo formado por un vértic
 
 El grafo rueda $W_n$ tiene $n + 1$ vértices y $2n$ aristas.
 
-## $n$-cubo dimensional
+### $n$-cubo dimensional
 
 ```ad-definition
 
