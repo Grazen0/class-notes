@@ -14,6 +14,10 @@ kanban-plugin: board
 	
 	@{01-12-2024} 
 	#progra #lab #grupal
+- [ ] **Comu - Redacción final**
+	
+	@{05-12-2024} 
+	#comu #grupal
 
 
 ## 📄 Evaluaciones
