@@ -83,6 +83,8 @@ Un **grafo bipartito** es un grafo $G = (V, E)$ cuyos vértices se pueden repres
 
 En otras palabras, un grafo bipartito es un grafo que se puede dividir en dos partes de vértices disjuntos.
 
+Los grafos bipartitos también se pueden ver desde un punto de vista de **coloración**: son grafos donde se le pueden asignar uno de dos colores a cada vértice de tal forma que no haya vértices adyacentes del mismo color.
+
 ### Grafos bipartitos completos
 
 ```ad-definition
