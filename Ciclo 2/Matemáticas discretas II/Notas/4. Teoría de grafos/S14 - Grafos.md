@@ -189,3 +189,10 @@ De lo contrario, se dice que $G$ es **disconexo**, y las diversas conexas partes
 ```
 
 Una forma de demostrar conexidad es mostrar caminos que incluyan varios vértices del grafo, de forma que se observa que existen caminos entre todos ellos. De aquí, podemos considerar los otros vértices que quedaron fuera del camino y unirlos a él.
+
+```ad-proposition
+title: Observación.
+
+Sea $G$ un grafo. Si existe algún vértice $v$ en $G$ tal que $v$ está unido por algún camino con todo los otros vértices de $G$, entonces $G$ es conexo.
+
+```
