@@ -35,11 +35,31 @@ $$
 \frac{1}{p} + \frac{1}{q} = (n - 1)\left( \frac{1}{R_1} - \frac{1}{R_2} \right)
 ,$$
 
-y cuando $p \to \infty$ (es decir, el objeto está despreciablemente lejos), entonces
+y cuando $p \to \infty$ (es decir, el objeto está muy lejos), entonces se cumple la **ecuación de los fabricantes de lentes**:
 
 $$
 \frac{1}{q} = \frac{1}{f} = (n - 1)\left( \frac{1}{R_1} - \frac{1}{R_2} \right)
 .$$
+
+```ad-warning
+title: Importante
+
+Nótese que, por convención de signos, $R_1$ y $R_2$ **siempre** van a tener signos opuestos.
+
+```
+
+Por otro lado, el **aumento** de la imagen es igual a
+
+$$
+M = \frac{h'}{h} = -\frac{q}{p}
+,$$
+
+al igual que el [[S12 - Espejos y reflexión#Aumento de la imagen|aumento en espejos]].
+
+### Tipos de imágenes
+
+- Si $M > 0$, entonces la imagen es **vertical** y del **mismo lado** que el objeto.
+- Si $M < 0$, entonces la imagen es **invertida** y del **lado opuesto** al objeto.
 
 ## Convención de signos
 
@@ -48,5 +68,5 @@ $$
 | Distancia objeto ($p$)             | ...hacia el objeto.                               |
 | Distancia imagen ($q$)             | ...contrario al objeto.                           |
 | Altura imagen ($h'$)               | ...cuando la imagen está derecha.                 |
-| Radios de curvatura ($R_1$, $R_2$) | ...cuando el centro de curvatura está por detŕas. |
+| Radios de curvatura ($R_1$, $R_2$) | ...cuando el centro de curvatura está por detrás. |
 | Distancia focal ($f$)              | ...cuando la lente es convergente.                |
