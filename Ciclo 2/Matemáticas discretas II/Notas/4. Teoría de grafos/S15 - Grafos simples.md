@@ -13,7 +13,7 @@ Existen varios tipos de grafos simples:
 - Grafos completos
 - Grafos ciclo
 - Grafos rueda
-- N-Cubo
+- $n$-Cubo
 - Grafos bipartidos
 - Grafos bipartidos completos
 
@@ -50,3 +50,15 @@ Un **grafo rueda**, denotado por $W_n$, es un grafo ciclo formado por un vértic
 ```
 
 El grafo rueda $W_n$ tiene $n + 1$ vértices y $2n$ aristas.
+
+## $n$-cubo dimensional
+
+```ad-definition
+
+Un **$n$-cubo dimensional**, denotado por $Q_n$, se define como $Q_n = (V, E)$, donde $V$ es el conjunto de todas las cadenas de bits de longitud $n$ y
+
+$$
+E = \left\{ c_i c_j \lmid \text{$c_i$ y $c_j$ difieren en exactamente un bit} \right\}
+.$$
+
+```
