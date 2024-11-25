@@ -65,7 +65,20 @@ al igual que el [[S12 - Espejos y reflexión#Aumento de la imagen|aumento en esp
 
 #### Lentes convergentes
 
+Son aquellos cuyo mayor grosor se encuentra al medio.
+
+![[lentes convergentes.png]]
+
+- Si $p > f$, entonces la imagen es **real**, **invertida** y **por detrás** de la lente.
+- si $p < f$, entonces la imagen es **virtual**, **vertical aumentada** y **al frente** de la lente.
+
 #### Lentes divergentes
+
+Son aquellos cuyo grosor se encuentra en los extremos.
+
+![[lentes divergentes.png]]
+
+En estos lentes, la imagen siempre es **virtual**, **vertical reducida** y **al frente** de la lente.
 
 ## Convención de signos
 
