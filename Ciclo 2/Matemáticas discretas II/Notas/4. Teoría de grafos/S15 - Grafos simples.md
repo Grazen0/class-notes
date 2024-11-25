@@ -62,3 +62,5 @@ E = \left\{ c_i c_j \lmid \text{$c_i$ y $c_j$ difieren en exactamente un bit} \r
 .$$
 
 ```
+
+Se cumple que un cubo $n$-dimensional tiene $2^n$ vértices.
