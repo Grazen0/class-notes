@@ -77,7 +77,7 @@ A = U\Sigma V^T
 donde:
 
 1. $\Sigma$ es una matriz de $m \times n$ cuya diagonal son los valores singulares de $A$ en orden no decreciente,
-2. $U$ es de $m \times n$ y diagonaliza ortogonalmente a $AA^T$, y
+2. $U$ es de $m \times m$ y diagonaliza ortogonalmente a $AA^T$, y
 3. $V$ es de $n \times n$ y diagonaliza ortogonalmente a $A^T A$.
 
 ```
