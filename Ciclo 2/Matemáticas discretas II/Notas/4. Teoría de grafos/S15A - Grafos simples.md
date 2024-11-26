@@ -32,7 +32,7 @@ Un **grafo completo** es un grafo donde cualquier par de vértices en él son ad
 En los grafos completos, se cumple que el número de aristas es igual a
 
 $$
-m = \frac{n(n-1)}{2}
+|E| = \frac{n(n-1)}{2}
 .$$
 
 ### Grafos ciclo
@@ -70,7 +70,7 @@ E = \left\{ c_i c_j \lmid \text{$c_i$ y $c_j$ difieren en exactamente un bit} \r
 Se cumple que un cubo $n$-dimensional tiene $2^n$ vértices, su número de aristas es igual a
 
 $$
-m = n \cdot 2^{n-1}
+|E| = n \cdot 2^{n-1}
 .$$
 
 ## Grafo bipartito

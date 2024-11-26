@@ -26,7 +26,6 @@
 		- [[S14 - Grafos]]
 		- [[S15A - Grafos simples]]
 		- [[S15B - Representación computacional de grafos]]
-		- [[S15C - Subgrafos y supergrafos]]
 
 %% End Waypoint %%
 

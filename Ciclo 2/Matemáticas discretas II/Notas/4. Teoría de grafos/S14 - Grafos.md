@@ -95,7 +95,7 @@ $$
 
 Este último teorema se cumple intuitivamente porque cada arista que se añada a un grafo tiene necesariamente que nacer en algún vértice e incidir en alguno.
 
-## Trayectorias, caminos y ciclos
+## Trayectorias
 
 ```ad-definition
 title: Definición (trayectoria).
@@ -126,8 +126,9 @@ En multigrafos, es necesario especificar las aristas que usamos para la trayecto
 
 ```
 
-
 Nótese que las trayectorias pueden repetir vértices. Para eliminar esta característica, definimos los **caminos**.
+
+### Caminos
 
 ```ad-definition
 title: Definición (camino).
@@ -196,3 +197,15 @@ title: Observación.
 Sea $G$ un grafo. Si existe algún vértice $v$ en $G$ tal que $v$ está unido por algún camino con todo los otros vértices de $G$, entonces $G$ es conexo.
 
 ```
+
+## Subgrafos y supergrafos
+
+```ad-definition
+
+Sean $G = (V, E)$ y $H = (W, F)$ grafos. Entonces, $H$ es **subgrafo** de $G$ si y sólo si $W \subseteq V$ y $F \subseteq E$.
+
+Equivalentemente, se dice que $G$ es **supergrafo** de $H$.
+
+```
+
+Es decir, se trata del análogo en grafos de los subconjuntos (y los menos conocidos "superconjuntos").
