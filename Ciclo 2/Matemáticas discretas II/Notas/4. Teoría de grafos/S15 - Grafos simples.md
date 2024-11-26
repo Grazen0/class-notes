@@ -104,3 +104,5 @@ Un **grafo $k$-regular** es un grafo cuyos vértices tienen todos grado $k$.
 ```
 
 Se cumple que un grafo $k$-regular de $n$ vértices tiene $\frac{kn}{2}$ aristas.
+
+Por ejemplo, todo grafo ciclo es $2$-regular.
