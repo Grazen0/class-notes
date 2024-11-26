@@ -41,5 +41,24 @@ $$
 
 Los grafos de adyacencia se pueden extender para representar grafos con aristas múltiples y lazos.
 
-- Un lazo implica un $1$ en la diagonal de la matriz.
-- Las aristas múltiples 
+- Un lazo se representa con un $1$ en la diagonal de la matriz.
+- Las aristas múltiples se representan como números diferentes de $1$.
+
+## Matriz de incidencia
+
+```ad-definition
+
+Sea $G = (V, E)$ un grafo simple donde $V = \left\{ v_1, v_2, \ldots, v_n \right\}$ son vértices con cierto orden, y sean $n = |V|$ y $m = |E|$.
+
+Entonces, la **matriz de incidencia** de $G$, denotada como $\operatorname{In}(G)$ es una matriz cuadrada de $n \times m$ cuyos elementos $a_{ij}$ se definen como
+
+$$
+m_{ij} = \begin{cases}
+1 & \text{si $v_i$ es incidente con $e_j$} \\
+0 & \text{en caso contrario}
+.\end{cases}
+$$
+
+```
+
+Se cumple que las columnas de una matriz de incidencia (para un grafo simple) tienen exactamente $2$ elementos cada una.
