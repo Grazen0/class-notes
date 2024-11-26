@@ -22,6 +22,12 @@ $$
 
 Si $G$ es un grafo dirigido, entonces la matriz de adyacencia es simétrica.
 
-Por ejemplo, sea el siguiente grafo:
+Por ejemplo, sea el grafo $G_0$
 
 ![[grafo random.excalidraw|width:20%]]
+
+donde el orden de los vértices es $a,b,c,d$. Entonces, su matriz de adyacencia es
+
+$$
+\operatorname{Ad}(G) = 
+$$
