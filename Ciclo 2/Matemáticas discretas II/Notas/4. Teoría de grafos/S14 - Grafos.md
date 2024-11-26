@@ -114,10 +114,10 @@ Algunos ejemplos de trayectorias en este grafo son:
 
 
 | Trayectoria                  | Longitud |
-| ---------------------------- | -------- |
-| $a$, $c$, $f$, $e$, $d$      | 4        |
-| $a$, $c$, $a$                | 2        |
-| $d$, $c$, $b$, $c$, $f$, $c$ | 5        |
+| ---------------------------- | :------: |
+| $a$, $c$, $f$, $e$, $d$      |    4     |
+| $a$, $c$, $a$                |    2     |
+| $d$, $c$, $b$, $c$, $f$, $c$ |    5     |
 
 ```ad-note
 title: Nota.
