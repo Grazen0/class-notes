@@ -29,5 +29,17 @@ Por ejemplo, sea el grafo $G_0$
 donde el orden de los vértices es $a,b,c,d$. Entonces, su matriz de adyacencia es
 
 $$
-\operatorname{Ad}(G) = 
-$$
+\operatorname{Ad}(G) = \begin{bmatrix}
+0 & 1 & 1 & 1 \\
+1 & 0 & 1 & 0 \\
+1 & 1 & 0 & 0 \\
+1 & 0 & 0 & 0
+\end{bmatrix}
+.$$
+
+### Para grafos no-simples
+
+Los grafos de adyacencia se pueden extender para representar grafos con aristas múltiples y lazos.
+
+- Un lazo implica un $1$ en la diagonal de la matriz.
+- Las aristas múltiples 
