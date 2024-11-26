@@ -73,7 +73,7 @@ $$
 m = n \cdot 2^{n-1}
 .$$
 
-## Grafos bipartitos
+## Grafo bipartito
 
 ```ad-definition
 
@@ -85,10 +85,22 @@ En otras palabras, un grafo bipartito es un grafo que se puede dividir en dos pa
 
 Los grafos bipartitos también se pueden ver desde un punto de vista de **coloración**: son grafos donde se le pueden asignar uno de dos colores a cada vértice de tal forma que no haya vértices adyacentes del mismo color.
 
-### Grafos bipartitos completos
+### Grafo bipartito completo
 
 ```ad-definition
 
-Un **grafo bipartito completo** es un grafo
+Un **grafo bipartito completo**, denotado por $K_{m,n}$, es un grafo bipartito donde cada vértice de una parte es adyacente a todos los vértices de la otra parte.
 
 ```
+
+Se cumple que un grafo bipartito completo tiene $m \cdot n$ aristas.
+
+## Grafo $k$-regular
+
+```ad-definition
+
+Un **grafo $k$-regular** es un grafo cuyos vértices tienen todos grado $k$.
+
+```
+
+Se cumple que un grafo $k$-regular de $n$ vértices tiene $\frac{kn}{2}$ aristas.
