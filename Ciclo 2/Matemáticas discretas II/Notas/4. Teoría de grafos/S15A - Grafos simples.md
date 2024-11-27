@@ -13,7 +13,7 @@ Existen varios tipos de grafos simples:
 - Grafos completos
 - Grafos ciclo
 - Grafos rueda
-- $n$-Cubo
+- $n$-cubo
 - Grafos bipartitos
 - Grafos bipartitos completos
 
@@ -67,7 +67,7 @@ E = \left\{ c_i c_j \lmid \text{$c_i$ y $c_j$ difieren en exactamente un bit} \r
 
 ```
 
-Se cumple que un cubo $n$-dimensional tiene $2^n$ vértices, su número de aristas es igual a
+Se cumple que un cubo $n$-dimensional tiene $2^n$ vértices, y su número de aristas es igual a
 
 $$
 |E| = n \cdot 2^{n-1}

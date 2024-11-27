@@ -8,8 +8,8 @@
     "images",
     "mathjax",
     "image-alignment",
-    "mathjax-font-size",
     "kanagawa-font-fix",
+    "mathjax-font-size",
     "alignment"
   ],
   "nativeMenus": false,
