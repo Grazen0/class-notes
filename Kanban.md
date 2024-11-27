@@ -22,10 +22,6 @@ kanban-plugin: board
 
 ## 📄 Evaluaciones
 
-- [ ] **Comu - Expo 2**
-	
-	@{27-11-2024} @@{14:00} 
-	#comu #grupal
 - [ ] **Progra - PC 3**
 	
 	@{29-11-2024} @@{11:00}
@@ -42,6 +38,10 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **Comu - Expo 2**
+	
+	@{27-11-2024} @@{14:00} 
+	#comu #grupal
 
 
 ***
