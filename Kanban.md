@@ -6,10 +6,6 @@ kanban-plugin: board
 
 ## ☕ Tareas
 
-- [ ] **Óptica - Informe labo 2**
-	
-	@{27-11-2024}
-	#optica #grupal
 - [ ] **Progra - Informe final**
 	
 	@{01-12-2024} 
@@ -38,6 +34,10 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **Óptica - Informe labo 2**
+	
+	@{27-11-2024}
+	#optica #grupal
 - [x] **Comu - Expo 2**
 	
 	@{27-11-2024} @@{14:00} 
