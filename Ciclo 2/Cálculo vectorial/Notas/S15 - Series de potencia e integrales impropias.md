@@ -8,7 +8,7 @@ $$
 
 ### Radio de convergencia
 
-pueden converger o divergir dependiendo del valor de $x$. Cuando ocurre que dicha serie converge en el intervalo $|x - a| < R$, es decir cuando
+Las series de potencia pueden converger o divergir dependiendo del valor de $x$. Cuando ocurre que dicha serie converge en el intervalo $|x - a| < R$, es decir cuando
 
 $$
 a - R < x < a + R
@@ -78,7 +78,7 @@ Se usa para resolver ecuaciones diferenciales.
 Sea $f$ una función definida para todo $t \geq 0$. Entonces, la **transformada de Laplace** de $f$ es igual a
 
 $$
-\mathcal{L}\left\{ f(t) \right\} = \int_{0}^{\infty} e^{-st}f(t) \, dx
+\mathcal{L}\left\{ f(t) \right\} := \int_{0}^{\infty} e^{-st}f(t) \, dt
 ,$$
 
 siempre que dicha integral exista.
