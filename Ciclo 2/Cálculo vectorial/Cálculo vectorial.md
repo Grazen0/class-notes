@@ -19,7 +19,7 @@
 	- [[S12 - Integrales dobles con coordenadas polares]]
 	- [[S13 - Sucesiones]]
 	- [[S14 - Series y criterios de convergencia]]
-	- [[S15 - Series de potencia y de Taylor]]
+	- [[S15 - Series de potencia e integrales impropias]]
 
 %% End Waypoint %%
 
