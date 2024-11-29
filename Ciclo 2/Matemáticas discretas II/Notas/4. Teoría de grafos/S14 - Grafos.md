@@ -6,7 +6,7 @@ Un **grafo no dirigido** $G = (V, E)$ consiste de:
 - $V$: Un conjunto finito no vacío de **vértices**.
 - $E$: Un conjunto de **aristas**.
 
-Se dice que ua arista $e$ que conecta al par de vértices $v$ y $w$ es **incidente sobre $v$ y $w$**, y se dice que $v$ y $w$ son **incidentes sobre $e$** y son **vértices adyacentes**.
+Se dice que una arista $e$ que conecta al par de vértices $v$ y $w$ es **incidente sobre $v$ y $w$**, y se dice que $v$ y $w$ son **incidentes sobre $e$** y son **vértices adyacentes**.
 
 ```
 
