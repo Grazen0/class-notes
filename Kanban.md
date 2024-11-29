@@ -18,13 +18,26 @@ kanban-plugin: board
 
 ## 📄 Evaluaciones
 
-- [ ] **Progra - PC 3**
-	
-	@{29-11-2024} @@{11:00}
 - [ ] **Óptica - EA 6**
 	
 	@{29-11-2024} @@{15:00} 
 	#optica #lab
+- [ ] **Vecto - Final**
+	
+	@{02-12-2024} @@{07:00}
+	#calculo
+- [ ] **Comu - Examen 2**
+	
+	@{04-12-2024} @@{14:00} 
+	#comu
+- [ ] **Lineal - Final**
+	
+	@{05-12-2024} @@{15:00} 
+	#lineal
+- [ ] **Discretas - Examen 3**
+	
+	@{06-12-2024} @@{09:00} 
+	#discretas
 
 
 ## 📚 Lecturas
@@ -34,14 +47,6 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
-- [x] **Óptica - Informe labo 2**
-	
-	@{27-11-2024}
-	#optica #grupal
-- [x] **Comu - Expo 2**
-	
-	@{27-11-2024} @@{14:00} 
-	#comu #grupal
 
 
 ***
@@ -635,6 +640,17 @@ kanban-plugin: board
 	
 	@{22-11-2024} @@{09:00} 
 	#discretas #grupal
+- [x] **Comu - Expo 2**
+	
+	@{27-11-2024} @@{14:00} 
+	#comu #grupal
+- [x] **Óptica - Informe labo 2**
+	
+	@{27-11-2024}
+	#optica #grupal
+- [x] **Progra - PC 3**
+	
+	@{29-11-2024} @@{11:00}
 
 %% kanban:settings
 ```
