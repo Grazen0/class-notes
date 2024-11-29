@@ -11,3 +11,8 @@ para todo $a,b \in V_1$.
 ```
 
 De forma intuitiva, dos grafos son isomorfos si y sólo si uno puede obtenerse a partir del otro re-etiquetando sus vértices.
+
+Como dos grafos isomorfos son, en esencia, idénticos, se cumplen ciertas propiedades:
+
+- Dos grafos isomorfos deben tener el **mismo números de vértices**.
+- Todas las propiedades que derivan de la adyacencia deben ser **idénticas** para ambos.
