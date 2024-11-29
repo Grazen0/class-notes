@@ -56,6 +56,12 @@ M = \frac{h'}{h} = -\frac{q}{p}
 
 al igual que el [[S12 - Espejos y reflexión#Aumento de la imagen|aumento en espejos]].
 
+De todas maneras, se sigue cumpliendo la ecuación del espejo:
+
+$$
+\frac{1}{p} + \frac{1}{q} = \frac{1}{f}
+.$$
+
 ### Tipos de imágenes
 
 - Si $M > 0$, entonces la imagen es **vertical** y del **mismo lado** que el objeto.
