@@ -18,14 +18,14 @@ kanban-plugin: board
 
 ## 📄 Evaluaciones
 
-- [ ] **Óptica - EA 6**
-	
-	@{29-11-2024} @@{15:00} 
-	#optica #lab
 - [ ] **Vecto - Final**
 	
 	@{02-12-2024} @@{07:00}
 	#calculo
+- [ ] **Optica - Final**
+	
+	@{04-12-2024} @@{16:00} 
+	#optica
 - [ ] **Comu - Examen 2**
 	
 	@{04-12-2024} @@{14:00} 
@@ -47,6 +47,10 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **Óptica - EA 6**
+	
+	@{29-11-2024} @@{15:00} 
+	#optica #lab
 
 
 ***
