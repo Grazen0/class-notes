@@ -16,3 +16,10 @@ Como dos grafos isomorfos son, en esencia, idénticos, se cumplen ciertas propie
 
 - Dos grafos isomorfos deben tener el **mismo números de vértices**.
 - Todas las propiedades que derivan de la adyacencia deben ser **idénticas** para ambos.
+
+Demostrar un isomorfismo se puede realizar **moviendo los vértices** para obtener un grafo igual en ambos casos.
+
+De no ser ello aparentemente posible, algunas ideas para refutar un isomorfismo son:
+
+1. Buscar algún grado de algún vértices presente en un grafo y no en el otro.
+2. 
