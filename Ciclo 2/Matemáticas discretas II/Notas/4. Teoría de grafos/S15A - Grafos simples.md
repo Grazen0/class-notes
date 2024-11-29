@@ -8,20 +8,13 @@ Un grafo $G$ es **simple** si y sólo si se cumple los siguiente:
 
 ```
 
-Existen varios tipos de grafos simples:
+## Tipos de grafos simples
 
-- Grafos completos
-- Grafos ciclo
-- Grafos rueda
-- $n$-cubo
-- Grafos bipartitos
-- Grafos bipartitos completos
-
-## Grafos especiales
+### Grafos especiales
 
 Existen algunos grafos importantes que merecen su propia notación.
 
-### Grafos completos
+#### Grafos completos
 
 ```ad-definition
 
@@ -35,7 +28,7 @@ $$
 |E| = \frac{n(n-1)}{2}
 .$$
 
-### Grafos ciclo
+#### Grafos ciclo
 
 ```ad-definition
 
@@ -45,7 +38,7 @@ Un **grafo ciclo**, denotado por $C_n$ para $n \geq 3$, se conforma de $n$ vért
 
 El grafo ciclo $C_n$ tiene $n$ aristas.
 
-### Grafo rueda
+#### Grafo rueda
 
 ```ad-definition
 
@@ -55,7 +48,7 @@ Un **grafo rueda**, denotado por $W_n$, es un grafo ciclo formado por un vértic
 
 El grafo rueda $W_n$ tiene $n + 1$ vértices y $2n$ aristas.
 
-### $n$-cubo dimensional
+#### $n$-cubo dimensional
 
 ```ad-definition
 
@@ -73,7 +66,7 @@ $$
 |E| = n \cdot 2^{n-1}
 .$$
 
-## Grafo bipartito
+### Grafo bipartito
 
 ```ad-definition
 
@@ -95,7 +88,7 @@ Un **grafo bipartito completo**, denotado por $K_{m,n}$, es un grafo bipartito d
 
 Se cumple que un grafo bipartito completo tiene $m \cdot n$ aristas.
 
-## Grafo $k$-regular
+### Grafo $k$-regular
 
 ```ad-definition
 
@@ -106,3 +99,17 @@ Un **grafo $k$-regular** es un grafo cuyos vértices tienen todos grado $k$.
 Se cumple que un grafo $k$-regular de $n$ vértices tiene $\frac{kn}{2}$ aristas.
 
 Por ejemplo, todo grafo ciclo es $2$-regular.
+
+## Grafo complementario
+
+```ad-definition
+
+Dado un grafo simple $G = (V, E)$, el **grafo complementario** de $G$, denotado por $\overline{G}$, es el grafo simple que contiene los mismos vértices de $G$ y sus aristas son todas aquellas que le faltan a $G$ para que sea completo.
+
+```
+
+Intuitivamente, se cumple que la cantidad de aristas el complemento de un grafo de $m$ aristas y $n$ vértices es igual a
+
+$$
+m' = \binom{n}{2} - m
+.$$
