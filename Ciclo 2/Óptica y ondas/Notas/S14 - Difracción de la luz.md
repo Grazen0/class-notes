@@ -85,7 +85,7 @@ De aquí podemos deducir exactamente que
 
 $$
 y_\text{oscuro} = L \left( \frac{m\lambda}{a} \right)
-$$
+.$$
 
 ### Resolución de una rendija
 
