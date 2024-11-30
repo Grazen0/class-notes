@@ -6,10 +6,6 @@ kanban-plugin: board
 
 ## ☕ Tareas
 
-- [ ] **Progra - Informe final**
-	
-	@{01-12-2024} 
-	#progra #lab #grupal
 - [ ] **Comu - Redacción final**
 	
 	@{05-12-2024} 
@@ -47,6 +43,10 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **Progra - Informe final**
+	
+	@{01-12-2024} 
+	#progra #lab #grupal
 - [x] **Óptica - EA 6**
 	
 	@{29-11-2024} @@{15:00} 
