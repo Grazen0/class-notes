@@ -18,14 +18,14 @@ kanban-plugin: board
 	
 	@{02-12-2024} @@{07:00}
 	#calculo
-- [ ] **Optica - Final**
-	
-	@{04-12-2024} @@{16:00} 
-	#optica
 - [ ] **Comu - Examen 2**
 	
 	@{04-12-2024} @@{14:00} 
 	#comu
+- [ ] **Optica - Final**
+	
+	@{04-12-2024} @@{16:00} 
+	#optica
 - [ ] **Lineal - Final**
 	
 	@{05-12-2024} @@{15:00} 
