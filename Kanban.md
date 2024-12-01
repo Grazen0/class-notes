@@ -47,10 +47,6 @@ kanban-plugin: board
 	
 	@{01-12-2024} 
 	#progra #lab #grupal
-- [x] **Óptica - EA 6**
-	
-	@{29-11-2024} @@{15:00} 
-	#optica #lab
 
 
 ***
@@ -655,6 +651,10 @@ kanban-plugin: board
 - [x] **Progra - PC 3**
 	
 	@{29-11-2024} @@{11:00}
+- [x] **Óptica - EA 6**
+	
+	@{29-11-2024} @@{15:00} 
+	#optica #lab
 
 %% kanban:settings
 ```
