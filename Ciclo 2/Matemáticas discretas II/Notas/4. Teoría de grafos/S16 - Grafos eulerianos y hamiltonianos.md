@@ -57,3 +57,5 @@ title: Definición (ciclo hamiltoniano).
 Un **ciclo hamiltoniano** en un grafo $G$ es una trayectoria que empieza y termina en el mismo vértice y pasa por cada vértice de $G$ exactamente una vez.
 
 ```
+
+Contrario a los caminos y ciclos eulerianos, un grafo puede tener camino y ciclo hamiltoniano a la vez.
