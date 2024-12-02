@@ -5,7 +5,7 @@ Un **camino euleriano** en un grafo $G$ es una trayectoria que pasa por cada ari
 
 ```
 
-El nombre de "camino euleriano" viene del problema de los puentes de Königsberg (I mean, debe ser).
+El nombre de "camino euleriano" viene del problema de los puentes de Königsberg (probablemente).
 
 ```ad-definition
 title: Definición (ciclo euleriano).
