@@ -1,3 +1,5 @@
+## Grafos eulerianos
+
 ```ad-definition
 title: Definición (camino euleriano).
 
@@ -34,3 +36,24 @@ Por otro lado, $G$ tiene **ciclo euleriano** si y sólo si
 ```
 
 Este teorema también es válido para **multigrafos**.
+
+## Grafos hamiltonianos
+
+Los caminos y ciclos hamiltonianos son análogos a los eulerianos, pero en lugar de pasar por todas las aristas, pasan por todos los **vértices**.
+
+
+```ad-definition
+title: Definición (camino hamiltoniano).
+
+Un **camino hamiltoniano** en un grafo $G$ es una trayectoria que pasa por cada vértice de $G$ exactamente una vez.
+
+```
+
+El nombre de "camino euleriano" viene del problema de los puentes de Königsberg (probablemente).
+
+```ad-definition
+title: Definición (ciclo hamiltoniano).
+
+Un **ciclo hamiltoniano** en un grafo $G$ es una trayectoria que empieza y termina en el mismo vértice y pasa por cada vértice de $G$ exactamente una vez.
+
+```
