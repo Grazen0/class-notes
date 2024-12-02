@@ -54,7 +54,7 @@ $$
 ```ad-definition
 title: Definición (integrales impropias).
 
-Sea $f$ una función definida en $(a, \infty)$ (o en $(\infty, a)$ para el segundo caso). Entonces, definimos las siguientes integrales como:
+Sea $f$ una función definida en $(a, +\infty)$ (o en $(-\infty, a)$ para el segundo caso). Entonces, definimos las siguientes integrales como:
 
 $$
 \int_{a}^{\infty} f(x) \, dx := \lim_{t \to \infty}  \int_{a}^{t} f(x) \, dx
