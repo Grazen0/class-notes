@@ -14,10 +14,6 @@ kanban-plugin: board
 
 ## 📄 Evaluaciones
 
-- [ ] **Vecto - Final**
-	
-	@{02-12-2024} @@{07:00}
-	#calculo
 - [ ] **Comu - Examen 2**
 	
 	@{04-12-2024} @@{14:00} 
@@ -43,6 +39,10 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **Vecto - Final**
+	
+	@{02-12-2024} @@{07:00}
+	#calculo
 - [x] **Progra - Informe final**
 	
 	@{01-12-2024} 
