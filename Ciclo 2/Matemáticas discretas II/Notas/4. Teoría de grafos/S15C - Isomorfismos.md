@@ -22,4 +22,4 @@ Demostrar un isomorfismo se puede realizar **moviendo los vértices** para obten
 De no ser ello aparentemente posible, algunas ideas para refutar un isomorfismo son:
 
 1. Buscar algún grado de algún vértices presente en un grafo y no en el otro.
-2. 
+2. Encontrar alguna propiedad con respecto a la adyacencia que se cumpla en un grafo y no en el otro.
