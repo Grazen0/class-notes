@@ -61,3 +61,9 @@ Un **ciclo hamiltoniano** en un grafo $G$ es una trayectoria que empieza y termi
 Contrario a los caminos y ciclos eulerianos, un grafo puede tener camino y ciclo hamiltoniano a la vez.
 
 Sin embargo, los caminos y ciclos hamiltonianos **no tienen teorema de caracterización**. Lo único que tenemos son condicionales, no bicondicionales.
+
+```ad-theorem
+
+Si un grafo es bipartito y tiene un ciclo hamiltoniano, entonces su cantidad de vértices es par.
+
+```
