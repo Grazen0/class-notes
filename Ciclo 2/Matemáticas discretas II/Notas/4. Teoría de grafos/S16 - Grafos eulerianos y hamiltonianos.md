@@ -18,20 +18,19 @@ Nótese que un ciclo euleriano, al contrario que los ciclos normales, sí puede 
 
 ```ad-theorem
 
-Un grafo $G$ tiene algún camino euleriano si y sólo si
+Un grafo $G$ tiene algún **camino euleriano** si y sólo si
 
 1. $G$ es conexo, y
 2. todos los vértices de $G$ tienen grado par a excepción de dos.
 
-```
-
 Los dos vértices de $G$ de grado impar resultan ser el inicio y el final del camino euleriano.
 
-```ad-theorem
-
-Un grafo $G$ tiene ciclo euleriano si y sólo si
+Por otro lado, $G$ tiene **ciclo euleriano** si y sólo si
 
 1. $G$ es conexo, y
 2. todos los vértices de $G$ tienen grado par.
 
+
 ```
+
+Este teorema también es válido para **multigrafos**.
