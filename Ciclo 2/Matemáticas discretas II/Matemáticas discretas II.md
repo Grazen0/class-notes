@@ -27,7 +27,8 @@
 		- [[S15A - Grafos simples]]
 		- [[S15B - Representación computacional de grafos]]
 		- [[S15C - Isomorfismos]]
-		- [[S16 - Grafos eulerianos y hamiltonianos]]
+		- [[S16A - Grafos eulerianos y hamiltonianos]]
+		- [[S16B - Árboles]]
 
 %% End Waypoint %%
 
