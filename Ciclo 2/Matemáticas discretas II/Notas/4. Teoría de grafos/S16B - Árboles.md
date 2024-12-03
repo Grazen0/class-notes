@@ -53,3 +53,13 @@ $$\qed$$
 ```
 
 ````
+
+## Árbol generador
+
+También llamado árbol **recubridor** y árbol **de expansión**.
+
+```ad-theorem
+
+Todo grafo simple y conexo tiene como subgrafo a un árbol que contiene todos sus vértices.
+
+```
