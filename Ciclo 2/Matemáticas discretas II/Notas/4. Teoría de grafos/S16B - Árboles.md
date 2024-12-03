@@ -32,3 +32,5 @@ Otra definición equivalente de árbol es la siguiente:
 Un árbol es un grafo cuyos vértices se pueden dividir en "niveles", siendo todos conectados en el nivel $0$ por una raíz.
 
 ```
+
+Los árboles también se pueden dividir en **sub-árboles**.
