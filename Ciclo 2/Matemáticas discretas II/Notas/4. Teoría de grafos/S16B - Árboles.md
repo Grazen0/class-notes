@@ -58,8 +58,20 @@ $$\qed$$
 
 También llamado árbol **recubridor** y árbol **de expansión**.
 
-```ad-theorem
+````ad-theorem
 
 Todo grafo simple y conexo tiene como subgrafo a un árbol que contiene todos sus vértices.
 
+```ad-proof
+collapse: closed
+
+Sea el grafo conexo inicial $G_0$. Si $G_0$ es acíclico, entonces ya es un árbol.
+
+Caso contario, tomamos un ciclo de $G_0$ y quitamos una arista de este ciclo. Este proceso preserva la conexidad del grafo.
+
+Repetimos este proceso hasta que no queden ciclos. Al final, obtendremos un grafo $T$ sin ciclos.
+$$\qed$$
+
 ```
+
+````
