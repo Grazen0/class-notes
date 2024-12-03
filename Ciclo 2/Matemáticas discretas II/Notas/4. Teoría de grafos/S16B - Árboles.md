@@ -69,9 +69,11 @@ Sea el grafo conexo inicial $G_0$. Si $G_0$ es acíclico, entonces ya es un árb
 
 Caso contario, tomamos un ciclo de $G_0$ y quitamos una arista de este ciclo. Este proceso preserva la conexidad del grafo.
 
-Repetimos este proceso hasta que no queden ciclos. Al final, obtendremos un grafo $T$ sin ciclos.
+Repetimos este proceso hasta que no queden ciclos. Al final, obtendremos un grafo acíclico $T$ que sigue siendo conexo, lo cual es un árbol.
 $$\qed$$
 
 ```
 
 ````
+
+Resulta que el algoritmo mostrado en la demostración de este teorema produce el grafo de menos aristas que todavía sea conexo, preservando todos sus vértices originales.
