@@ -77,3 +77,16 @@ $$\qed$$
 ````
 
 Resulta que el algoritmo mostrado en la demostración de este teorema produce el grafo de menos aristas que todavía sea conexo, preservando todos sus vértices originales.
+
+De aquí deducimos un corolario importante:
+
+```ad-proposition
+title: Corolario.
+
+Todo grafo simple conexo de $n$ vértices tiene al menos $n - 1$ aristas.
+
+```
+
+Otra forma interesante de interpretar este resultado es el siguiente: dados $n$ vértices, se necesita al menos $n - 1$ para formar un grafo conexo con todos ellos.
+
+Por ello, podemos decir que los árboles son una especie de **grafo conexo mínimo**.
