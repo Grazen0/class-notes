@@ -14,10 +14,6 @@ kanban-plugin: board
 
 ## 📄 Evaluaciones
 
-- [ ] **Comu - Examen 2**
-	
-	@{04-12-2024} @@{14:00} 
-	#comu
 - [ ] **Optica - Final**
 	
 	@{04-12-2024} @@{16:00} 
@@ -39,6 +35,10 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **Comu - Examen 2**
+	
+	@{04-12-2024} @@{14:00} 
+	#comu
 - [x] **Vecto - Final**
 	
 	@{02-12-2024} @@{07:00}
