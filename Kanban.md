@@ -14,10 +14,6 @@ kanban-plugin: board
 
 ## 📄 Evaluaciones
 
-- [ ] **Optica - Final**
-	
-	@{04-12-2024} @@{16:00} 
-	#optica
 - [ ] **Lineal - Final**
 	
 	@{05-12-2024} @@{15:00} 
@@ -35,18 +31,6 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
-- [x] **Comu - Examen 2**
-	
-	@{04-12-2024} @@{14:00} 
-	#comu
-- [x] **Vecto - Final**
-	
-	@{02-12-2024} @@{07:00}
-	#calculo
-- [x] **Progra - Informe final**
-	
-	@{01-12-2024} 
-	#progra #lab #grupal
 
 
 ***
@@ -655,6 +639,22 @@ kanban-plugin: board
 	
 	@{29-11-2024} @@{15:00} 
 	#optica #lab
+- [x] **Optica - Final**
+	
+	@{04-12-2024} @@{16:00} 
+	#optica
+- [x] **Comu - Examen 2**
+	
+	@{04-12-2024} @@{14:00} 
+	#comu
+- [x] **Vecto - Final**
+	
+	@{02-12-2024} @@{07:00}
+	#calculo
+- [x] **Progra - Informe final**
+	
+	@{01-12-2024} 
+	#progra #lab #grupal
 
 %% kanban:settings
 ```
