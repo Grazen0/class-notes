@@ -8,7 +8,7 @@ kanban-plugin: board
 
 - [ ] **Comu - Redacción final**
 	
-	@{05-12-2024} 
+	@{06-12-2024} 
 	#comu #grupal
 
 
