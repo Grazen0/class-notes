@@ -6,10 +6,6 @@ kanban-plugin: board
 
 ## ☕ Tareas
 
-- [ ] **Comu - Redacción final**
-	
-	@{06-12-2024} 
-	#comu #grupal
 
 
 ## 📄 Evaluaciones
@@ -27,6 +23,10 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **Comu - Redacción final**
+	
+	@{06-12-2024} 
+	#comu #grupal
 - [x] **Lineal - Final**
 	
 	@{05-12-2024} @@{15:00} 
