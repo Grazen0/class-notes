@@ -14,10 +14,6 @@ kanban-plugin: board
 
 ## 📄 Evaluaciones
 
-- [ ] **Lineal - Final**
-	
-	@{05-12-2024} @@{15:00} 
-	#lineal
 - [ ] **Discretas - Examen 3**
 	
 	@{06-12-2024} @@{09:00} 
@@ -31,6 +27,10 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
+- [x] **Lineal - Final**
+	
+	@{05-12-2024} @@{15:00} 
+	#lineal
 
 
 ***
