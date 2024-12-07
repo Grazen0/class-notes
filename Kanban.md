@@ -10,10 +10,6 @@ kanban-plugin: board
 
 ## 📄 Evaluaciones
 
-- [ ] **Discretas - Examen 3**
-	
-	@{06-12-2024} @@{09:00} 
-	#discretas
 
 
 ## 📚 Lecturas
@@ -23,14 +19,6 @@ kanban-plugin: board
 ## 👍 Completado
 
 **Complete**
-- [x] **Comu - Redacción final**
-	
-	@{06-12-2024} 
-	#comu #grupal
-- [x] **Lineal - Final**
-	
-	@{05-12-2024} @@{15:00} 
-	#lineal
 
 
 ***
@@ -655,6 +643,18 @@ kanban-plugin: board
 	
 	@{01-12-2024} 
 	#progra #lab #grupal
+- [x] **Discretas - Examen 3**
+	
+	@{06-12-2024} @@{09:00} 
+	#discretas
+- [x] **Comu - Redacción final**
+	
+	@{06-12-2024} 
+	#comu #grupal
+- [x] **Lineal - Final**
+	
+	@{05-12-2024} @@{15:00} 
+	#lineal
 
 %% kanban:settings
 ```
