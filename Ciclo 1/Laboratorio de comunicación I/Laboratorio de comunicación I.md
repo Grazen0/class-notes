@@ -1,4 +1,4 @@
-**[[Ciclo 1/Laboratorio de Comunicación I/Sílabo.pdf|Sílabo]]** | **[[Ciclo 1/Laboratorio de Comunicación I/Anexo.pdf|Anexo]]** | **[[Cronograma.pdf|Cronograma]]** | **[[MANUAL APA 2020.pdf|Manual APA]]**
+**[[Ciclo 1/Laboratorio de comunicación I/Sílabo.pdf|Sílabo]]** | **[[Ciclo 1/Laboratorio de comunicación I/Anexo.pdf|Anexo]]** | **[[Cronograma.pdf|Cronograma]]** | **[[MANUAL APA 2020.pdf|Manual APA]]**
 
 ## Índice
 
@@ -50,7 +50,7 @@
 
 ## Sistema de evaluación
 
-![[Ciclo 1/Laboratorio de Comunicación I/Recursos/Sistema de evaluación.excalidraw|width:100%]]
+![[Ciclo 1/Laboratorio de comunicación I/Recursos/Sistema de evaluación.excalidraw|width:100%]]
 
 ### Teoría
 

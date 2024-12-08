@@ -1,12 +1,12 @@
 ## Índice
 
 %% Begin Waypoint %%
-- **[[Cálculo de Una Variable]]**
+- **[[Cálculo de una variable]]**
 - **[[CMA]]**
-- **[[Introducción a Ciencias de la Computación]]**
-- **[[Laboratorio de Comunicación I]]**
-- **[[Matemáticas Discretas I]]**
+- **[[Introducción a ciencias de la computación]]**
+- **[[Laboratorio de comunicación I]]**
+- **[[Matemáticas discretas I]]**
 - **[[Programación I]]**
-- **[[Proyectos Interdisciplinarios I]]**
+- **[[Proyectos interdisciplinarios I]]**
 
 %% End Waypoint %%

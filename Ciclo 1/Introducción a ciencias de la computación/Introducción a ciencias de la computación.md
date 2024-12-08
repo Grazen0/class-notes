@@ -1,4 +1,4 @@
-**[[Ciclo 1/Introducción a Ciencias de la Computación/Sílabo.pdf|Sílabo]]** | **[[Ciclo 1/Introducción a Ciencias de la Computación/Anexo (Teo).pdf|Anexo (Teo)]]** | **[[Ciclo 1/Introducción a Ciencias de la Computación/Anexo (Lab).pdf|Anexo (Lab)]]**
+**[[Ciclo 1/Introducción a ciencias de la computación/Sílabo.pdf|Sílabo]]** | **[[Ciclo 1/Introducción a ciencias de la computación/Anexo (Teo).pdf|Anexo (Teo)]]** | **[[Ciclo 1/Introducción a ciencias de la computación/Anexo (Lab).pdf|Anexo (Lab)]]**
 
 ## Índice
 
@@ -23,7 +23,7 @@ Ian Paul Brossard Núñez
 
 ## Sistema de evaluación
 
-![[Ciclo 1/Introducción a Ciencias de la Computación/Recursos/Sistema de evaluación.excalidraw|width:100%]]
+![[Ciclo 1/Introducción a ciencias de la computación/Recursos/Sistema de evaluación.excalidraw|width:100%]]
 
 ### Teoría
 
