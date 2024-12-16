@@ -12,11 +12,14 @@
 	- [[S3 - Rectas y planos en el espacio]]
 	- [[S4 - Funciones vectoriales]]
 	- [[S5 - Funciones de varias variables]]
+	- [[S6 - Diferenciales, errores y linealización]]
 	- [[S7 - Regla de la cadena, gradiente y derivadas direccionales]]
 	- [[S9 - Optimización]]
 	- [[S11 - Integrales dobles]]
 	- [[S12 - Integrales dobles con coordenadas polares]]
 	- [[S13 - Sucesiones]]
+	- [[S14 - Series y criterios de convergencia]]
+	- [[S15 - Series de potencia e integrales impropias]]
 
 %% End Waypoint %%
 

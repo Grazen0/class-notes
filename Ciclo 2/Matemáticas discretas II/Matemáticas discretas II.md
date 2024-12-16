@@ -19,6 +19,8 @@
 	- **3. Conteo y recurrencia**
 		- [[S9A - Principios básicos de conteo]]
 		- [[S9B - Permutaciones]]
+		- [[S10 - Combinaciones]]
+		- [[S11  - Recurrencias lineales homogéneas]]
 		- [[S13 - Recurrencias lineales no homogéneas]]
 	- **4. Teoría de grafos**
 		- [[S14 - Grafos]]
