@@ -12,7 +12,7 @@
   "compress": true,
   "decompressForMDView": true,
   "onceOffCompressFlagReset": true,
-  "onceOffGPTVersionReset": false,
+  "onceOffGPTVersionReset": true,
   "autosave": true,
   "autosaveIntervalDesktop": 15000,
   "autosaveIntervalMobile": 10000,
