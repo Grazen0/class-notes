@@ -12,3 +12,6 @@ Estas EDs son particularmente fáciles de resolver mediante separación de varia
 
 ## Puntos críticos
 
+Al igual que con las funciones de una variable, los **puntos críticos** de una EDA son aquellos donde $\frac{dy}{dx} = F(y) = 0$. Despejando $y$ en esta ecuación obtenemos las **soluciones constantes** de la ED.
+
+Además, podemos 
