@@ -1,4 +1,10 @@
-Una ecuación diferencial es una ecuación que involucra a la **derivada** (sea ordinaria o parcial) de alguna función. Por ejemplo, la ecuación
+```ad-definition
+
+Una ecuación diferencial es una ecuación que involucra a la **derivada** (sea ordinaria o parcial) de alguna función. 
+
+```
+
+Por ejemplo, la ecuación diferencial
 
 $$
 \frac{dy}{dx} = 2xy
@@ -36,10 +42,29 @@ $$
 
 ### Por el orden
 
+```ad-definition
+
 El **orden** de una ecuación diferencial es el orden de la **mayor derivada** presente en la ecuación.
+
+
+```
 
 Por ejemplo, una ecuación diferencial de **segundo orden** es la siguiente:
 
 $$
 \frac{d^2y}{dx} - 5\left( \frac{dy}{dx} \right)^3 + 6y = e^x
 .$$
+
+### Por linealidad
+
+```ad-definition
+
+Se dice que una ecuación diferencial de $n$-ésimo orden es **lineal** si y sólo si se puede escribir en la forma
+
+$$
+a_n(x) \frac{d^ny}{dx^n} + a_{n-1}(x) \frac{d^{n-1}y}{dx^{n-1}} + \ldots + a_1(x) \frac{dy}{dx} + a_0(x)y = g(x)
+.$$
+```
+
+
+Se trata de una ecuación parecida a una **polinomial** donde $x$ y sus potencias se reemplazan por $y$ y sus derivadas, y los coeficientes son funciones de $x$ en lugar de constantes.
