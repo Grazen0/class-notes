@@ -68,3 +68,21 @@ a_n(x) \frac{d^ny}{dx^n} + a_{n-1}(x) \frac{d^{n-1}y}{dx^{n-1}} + \ldots + a_1(x
 
 
 Se trata de una ecuación parecida a una **polinomial** donde $x$ y sus potencias se reemplazan por $y$ y sus derivadas, y los coeficientes son funciones de $x$ en lugar de constantes.
+
+Por ejemplo, algunas EDOs lineales son:
+
+$$
+2xy' + x^2y = 7x - 2
+,$$
+
+$$
+y' + y = 0
+,$$
+
+$$
+4x^2 \frac{dy}{dx} - 3x = 2y
+,$$
+
+$$
+\cos(x)y' + 5xy = -1
+.$$
