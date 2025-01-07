@@ -54,6 +54,7 @@ Por ejemplo, para la ED autónoma $\frac{dP}{dt} = P(a - bP)$:
 Dada una ED autónoma, se cumple lo siguiente:
 
 1. Si $(x_0, y_0)$ está en la región $R_i$, entonces la solución $y(x)$ que pasa por $(x_0, y_0)$ permanecerá en la misma región.
-2. Por la continuidad de $f$, $
+2. Cualquier solución $y(x)$ es **monótona**.
+3. 
 
 ```
