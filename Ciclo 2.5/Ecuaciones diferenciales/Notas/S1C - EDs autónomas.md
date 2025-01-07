@@ -49,12 +49,30 @@ Por ejemplo, para la ED autónoma $\frac{dP}{dt} = P(a - bP)$:
 
 ![[ed autonoma.png]]
 
+Se cumplen algunas propiedades intuitivas y útiles en estos casos.
+
 ```ad-theorem
 
-Dada una ED autónoma, se cumple lo siguiente:
+Dada una solución $y(x)$ de una ED autónoma, se cumple lo siguiente:
 
-1. Si $(x_0, y_0)$ está en la región $R_i$, entonces la solución $y(x)$ que pasa por $(x_0, y_0)$ permanecerá en la misma región.
-2. Cualquier solución $y(x)$ es **monótona**.
-3. 
+1. $y(x)$ permanecerá en la misma subregión.
+2. $y(x)$ es **monótona**.
+3. $y(x)$ se aproximará a los bordes de la subregión (de existir).
 
 ```
+
+### Atractores y repulsores
+
+Sea $c$ un punto crítico de una ED autónoma. Entonces, el **comportamiento** de una solución $y(x)$ alrededor de $y = c$ puede ser alguno de los siguientes:
+
+![[atractores y repulsores.png]]
+
+- $(a)$: $c$ es **asintóticamente estable** o un **atractor**.
+- $(b)$: $c$ es **asintóticamente inestable** o un **repulsor**.
+- $(c), (d)$: $c$ es **asintóticamente semiestable**.
+
+## Campos direccionales
+
+El campo direccional de una ED autónoma tiene la propiedad de que las pendientes de los elementos en cada recta horizontal son iguales, puesto que $F$ no involucra a la variable independiente.
+
+![[campo direccional de una eda.png]]
