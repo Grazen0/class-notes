@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🎲",
+      "📈",
       "🚀",
       "🌐",
-      "📐",
-      "🌊",
-      "💡"
+      "📐"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -46,5 +46,7 @@
   "Ciclo 1/Laboratorio de comunicación I": "✍",
   "Ciclo 1/Matemáticas discretas I": "🍎",
   "Ciclo 1/Proyectos interdisciplinarios I": "🎯",
-  "Ciclo 1/Introducción a ciencias de la computación": "💾"
+  "Ciclo 1/Introducción a ciencias de la computación": "💾",
+  "Ciclo 2.5/Ecuaciones diferenciales": "📈",
+  "Ciclo 2.5/Estadística y probabilidades": "🎲"
 }
