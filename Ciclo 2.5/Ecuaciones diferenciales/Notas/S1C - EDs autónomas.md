@@ -26,6 +26,19 @@ $$
 
 ## Puntos críticos
 
-Al igual que con las funciones de una variable, los **puntos críticos** de una EDA son aquellos donde $\frac{dy}{dx} = F(y) = 0$. Despejando $y$ en esta ecuación obtenemos las **soluciones constantes** de la ED.
+También llamados puntos **estacionarios** y puntos **de equilibrio**.
 
-Además, podemos 
+Al igual que con las funciones de una variable, los **puntos críticos** de una EDA son aquellos $c$ donde $\frac{dy}{dx} = F(c) = 0$.
+
+Resulta que los puntos críticos nos proporcionan algunas soluciones "triviales" de la EDA.
+
+```ad-proposition
+title: Propiedad.
+
+Si $c$ es punto crítico, entonces $y = c$ es solución de la EDA.
+
+```
+
+Estas soluciones particulares se llaman **soluciones de equilibrio**.
+
+### Curvas solución
