@@ -28,17 +28,29 @@ $$
 
 También llamados puntos **estacionarios** y puntos **de equilibrio**.
 
-Al igual que con las funciones de una variable, los **puntos críticos** de una EDA son aquellos $c$ donde $\frac{dy}{dx} = F(c) = 0$.
+Al igual que con las funciones de una variable, los **puntos críticos** de una ED autónoma son aquellos $c$ donde $\frac{dy}{dx} = F(c) = 0$.
 
 Resulta que los puntos críticos nos proporcionan algunas soluciones "triviales" de la EDA.
 
 ```ad-proposition
 title: Propiedad.
 
-Si $c$ es punto crítico, entonces $y = c$ es solución de la EDA.
+Si $c$ es punto crítico de una ED autónoma, entonces $y = c$ es una solución.
 
 ```
 
 Estas soluciones particulares se llaman **soluciones de equilibrio**.
 
 ### Curvas solución
+
+Los puntos críticos de una ED autónoma dividen al campo direccional en subregiones.
+
+Por ejemplo, para la ED autónoma $\frac{dP}{dt} = P(a - bP)$:
+
+![[ed autonoma.png]]
+
+```ad-theorem
+
+
+
+```
