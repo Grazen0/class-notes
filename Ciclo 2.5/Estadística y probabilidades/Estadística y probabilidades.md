@@ -8,3 +8,11 @@
 %% End Waypoint %%
 
 ## Sistema de evaluación
+
+### Teoría (70%)
+
+### Laboratorio (30%)
+
+| Tipo                        |  Cód.   | Nota | Semana | Fecha |
+| --------------------------- | :-----: | :--: | :----: | :---: |
+| Actividad previa            |   AP1   | 0.4% |   2    | 26/08 |
