@@ -12,6 +12,12 @@
 - **Muestra:** Subconjunto de la población. Se espera que sea *representativo*.
 - **Censo:** Una muestra correspondiente a *toda la población*. Usualmente es muy caro, en algún sentido, trabajar con un censo.
 
+## Análisis descriptivo
+
+Es un análisis
+
+Se caracteriza por ser **objetivo**. No puede ser una observación con opinión.
+
 ## Tipos de muestreo
 
 - **No probabilístico:** 
