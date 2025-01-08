@@ -4,6 +4,7 @@
 
 %% Begin Waypoint %%
 - **Notas**
+	- [[S1 - Algunas definiciones]]
 
 %% End Waypoint %%
 
