@@ -14,4 +14,5 @@
 
 ## Tipos de muestreo
 
-**No probabilístico:** 
+- **No probabilístico:** 
+- **Probabilístico**
