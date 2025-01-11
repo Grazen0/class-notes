@@ -24,9 +24,9 @@ La lectura se basa en esta propuesta.
 
 - Es el **20% del tráfico HTTP** y casi el **10% de todo el tráfico de internet**.
 - Razones de su éxito:
-	- Fácil de usar
-	- Accesible
-	- Posibilidad de comentar (pseudo red social)
+  - Fácil de usar
+  - Accesible
+  - Posibilidad de comentar (pseudo red social)
 - Usa **metadatos** para facilitar la búsqueda de videos
 
 ### Investigación documental
@@ -64,7 +64,7 @@ Las mayores ventajas de los videos son:
 ### Posibilidades del uso educativo con YouTube
 
 - YouTube es un **punto de encuentro** para exhibir y ver videos.
-	- Esto favorece la **enseñanza** y **aprendizaje**.
+  - Esto favorece la **enseñanza** y **aprendizaje**.
 
 Argumento: Las **continuas innovaciones de YouTube** crean un **ambiente perfecto** para descubrir, observar y compartir videos educativos.
 

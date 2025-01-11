@@ -9,7 +9,7 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "",
   "showUnsupportedFiles": true,
-  "useTab": true,
+  "useTab": false,
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "Letter",
@@ -19,5 +19,6 @@
   },
   "defaultViewMode": "preview",
   "showRibbon": true,
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "tabSize": 2
 }
