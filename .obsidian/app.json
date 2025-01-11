@@ -1,6 +1,6 @@
 {
   "promptDelete": false,
-  "showLineNumber": true,
+  "showLineNumber": false,
   "spellcheck": true,
   "readableLineLength": true,
   "strictLineBreaks": false,
@@ -17,7 +17,7 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "defaultViewMode": "preview",
+  "defaultViewMode": "source",
   "showRibbon": true,
   "showInlineTitle": true,
   "tabSize": 2

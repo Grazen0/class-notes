@@ -1,0 +1,80 @@
+- **Dato:** Medida u observación de interés.
+- **Unidad muestral:** Elemento o individuo de la muestra.
+- **Variable:** Característica de interés de un elemento.
+  - **Numérica/cuantitativa:** El valor de la variable es un número.
+    - **Continua:** Puede tomar cualquier valor en algún intervalo.
+    - **Discreta:** Es un valor contable.
+  - **Categórica/cualitativa:** El valor de la variable no es un número
+    - **Ordinal:** Valores discretos con *orden claro*. (i.e. excelente, bueno, mediocre, malo)
+    - **Nominal:** Valores discretos *sin orden claro*. (i.e. blanco, negro, rojo, ...)
+- **Tabla (o matriz) de datos:** Tabla donde las unidades muestrales corresponden a las filas y las variables corresponden a las columnas.
+- **Población:** Conjunto de todos los individuos o elementos de interés.
+- **Muestra:** Subconjunto de la población. Se espera que sea *representativo*.
+- **Censo:** Una muestra correspondiente a *toda la población*. Usualmente es muy caro, en algún sentido, trabajar con un censo.
+
+## Tipos de muestreo
+
+- **No probabilístico:**
+- **Probabilístico:**
+
+## Fórmulas relevantes
+
+### Medidas de tendencia central
+
+#### Media aritmética
+
+También llamada simplemente "media", es el **centro de masa** de los datos:
+
+$$
+\bar{x} = \frac{1}{n} \sum x_i
+.$$
+
+#### Cuantiles
+
+El cuantil $k$ (con $0 < k < 1$) es el dato tal que una porción $k$ de los datos son menores o iguales a él.
+
+El cuantil $50\%$ se denomina **mediana**.
+
+#### Moda
+
+Es el (o los) elemento de **mayor frecuencia**.
+
+### Medidas de dispersión
+
+Estas medidas nos permiten analizar qué tan dispersos son los datos. Es decir, qué tanta **separación** existe entre ellos, en cierto sentido.
+
+#### Varianza
+
+Para una **población** entera, se calcula mediante
+
+$$
+\sigma^2 = \frac{1}{n} \sum (x_i - \bar{x})^2
+.$$
+
+Para una **muestra** de una población, se divide entre $n - 1$ en lugar de $n$:
+
+$$
+\sigma^2 = \frac{1}{n - 1} \sum (x_i - \bar{x})^2
+.$$
+
+#### Desviación estándar
+
+Es la raíz cuadrada de la varianza. Es decir:
+
+$$
+\sigma = \sqrt{\sigma^2}
+$$
+
+(por más redundante que la notación haga ver esta fórmula).
+
+#### Coeficiente de variación
+
+$$
+\text{CV} = \frac{\sigma}{\bar{x}} \cdot 100\%
+$$
+
+Al menos en este curso, consideramos el siguiente criterio:
+
+- Si $\text{CV} \leq 30\%$, entonces el conjunto de datos es **homogéneo** (dispersión baja).
+- Si $30\% < \text{CV} \leq 60\%$, entonces el conjunto de datos tienen una **variabilidad regular** (dispersión regular).
+- Si $\text{CV} > 60\%$, entonces el conjunto de datos es **heterogéneo** (dispersión alta).

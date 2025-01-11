@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-local-rest-api-with-scroll",
+  "name": "Local REST API with Scroll",
+  "version": "2.3.0",
+  "minAppVersion": "0.12.0",
+  "description": "Get, change or otherwise interact with your notes in Obsidian via a REST API.",
+  "author": "Adam Coddington",
+  "authorUrl": "https://coddingtonbear.net/",
+  "isDesktopOnly": true
+}

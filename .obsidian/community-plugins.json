@@ -19,6 +19,7 @@
   "persistent-graph",
   "obsidian-admonition",
   "obsidian-style-settings",
-  "calendar",
+  "obsidian42-brat",
+  "obsidian-local-rest-api-with-scroll",
   "obsidian-relative-line-numbers"
 ]
