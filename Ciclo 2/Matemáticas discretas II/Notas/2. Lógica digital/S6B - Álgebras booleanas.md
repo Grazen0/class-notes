@@ -1,7 +1,7 @@
 ## Definición como retícula
 
 ```ad-definition
-title: Definición (álgebra boolleana).
+title: Definición (álgebra booleana).
 
 Una [[S5 - Retículas|retícula]] acotada $S$ es una **álgebra booleana** si y sólo si:
 
@@ -32,6 +32,7 @@ $B_n$ es isomorfo a $(D_n, \mid)$, donde $n$ sea producto de primos distintos.
 ## Definición como estructura algebraica
 
 ```ad-definition
+title: Definición (álgebra booleana).
 
 Un álgebra booleana es un conjunto $B$ con dos operaciones $+$ y $\cdot$ que cumplen los siguientes axiomas:
 

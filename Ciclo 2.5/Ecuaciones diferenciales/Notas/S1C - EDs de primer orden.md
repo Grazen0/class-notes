@@ -75,22 +75,45 @@ $$
 M(x, y) + N(x, y) \frac{dy}{dx} = 0
 .$$
 
+Aquí, buscamos la función $f(x, y)$ tal que $f_x = M$ y $f_y = N$, de tal forma que la solución ED se pueda reescribir como
+
+$$
+f_x + f_y \frac{dy}{dx} = \frac{df}{dx} = 0
+,$$
+
+con lo que la solución implícita a la ED sea $f(x, y) = C$.
+
+### Proceso de resolución
+
 Primero, debemos comprobar que $M_y = N_x$ para que sea exacta.
 
 Luego, integramos $M(x, y)$ con respecto a $x$, recordando que la constante de integración que obtengamos debe ser no un número, sino una función de $y$.
 
 $$
-\int M(x, y) \, dx = M_I(x, y) + h(y)
+f(x, y) = \int M(x, y) \, dx = M_I(x, y) + h(y)
 .$$
+
+En este punto, nos falta encontrar $h(y)$.
 
 Ahora podemos derivar esta expresión obtenida e igualarla a $N(x, y)$ (ya que ambos deben ser iguales):
 
 $$
-\frac{\partial}{\partial y} \left( M_I(x, y) + h(y) \right) = N(x, y)
-.$$
+\begin{align}
+\frac{\partial f}{\partial y} = \frac{\partial}{\partial y} \left( M_I(x, y) + h(y) \right) &= N(x, y) \\
+\frac{\partial h}{\partial y} &= N(x, y) - \frac{\partial M_I}{\partial y} = L(y)
+,\end{align}
+$$
 
-Esta es la solución implícita de la ED, de donde podemos despejar $y$, de ser posible.
+donde quedará en la derecha una función únicamente de $y$. Finalmente, integramos ambos lados con respecto a $y$ para obtener $h(y)$:
+
+$$
+h(y) = \int L(y) \, dy
+,$$
+
+(obviando la constante de integración en este caso, ya que se absorbe en la solución final).
+
+Finalmente, obtenemos $f(x, y) = M_I(x, y) + h(y)$, con lo que la solución implícita de la ED es $f(x, y) = C$.
 
 ```ad-note
-De todas maneras, podemos realizar el proceso de forma análoga integrando $N(x, y)$ en lugar de $M(x, y)$ si así conviene.
+Podemos realizar el proceso de forma análoga integrando primero $N(x, y)$ en lugar de $M(x, y)$ si así conviene.
 ```
