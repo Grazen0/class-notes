@@ -4,9 +4,10 @@
 
 %% Begin Waypoint %%
 - **Notas**
-	- [[S1A - EDs y su clasificación]]
-	- [[S1B - Campos direccionales]]
-	- [[S1C - EDs autónomas]]
+	- [[S1A - EDs y campos direccionales]]
+	- [[S1B - EDs autónomas]]
+	- [[S1C - EDs de primer orden]]
+	- [[S1D - Modelado de situaciones reales con EDs]]
 
 %% End Waypoint %%
 

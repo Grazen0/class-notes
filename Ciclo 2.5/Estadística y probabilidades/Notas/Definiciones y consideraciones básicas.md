@@ -33,7 +33,7 @@ $$
 
 El cuantil $k$ (con $0 < k < 1$) es el dato tal que una porción $k$ de los datos son menores o iguales a él.
 
-El cuantil $50\%$ se denomina **mediana**.
+El cuantil $50\%$ se denomina **mediana**, y los cuantiles $25\%$, $50\%$ y $75\%$ se denominan **cuartiles**.
 
 #### Moda
 
@@ -43,6 +43,22 @@ Es el (o los) elemento de **mayor frecuencia**.
 
 Estas medidas nos permiten analizar qué tan dispersos son los datos. Es decir, qué tanta **separación** existe entre ellos, en cierto sentido.
 
+#### Rango
+
+Es la diferencia entre el dato máximo y el dato mínimo:
+
+$$
+R = \max(x_1, x_2, \ldots, x_n) - \min(x_1, x_2, \ldots, x_n)
+.$$
+
+#### Rango intercuartílico
+
+Es la diferencia entre el tercer cuartil y el primer cuartil (es decir, entre el $75\%$ y el $25\%$ de los datos):
+
+$$
+\text{IQR} = Q_3 - Q_1
+$$
+
 #### Varianza
 
 Para una **población** entera, se calcula mediante
@@ -51,7 +67,7 @@ $$
 \sigma^2 = \frac{1}{n} \sum (x_i - \bar{x})^2
 .$$
 
-Para una **muestra** de una población, se divide entre $n - 1$ en lugar de $n$:
+Para una **muestra** de una población, se divide entre $n - 1$ en lugar de $n - $:
 
 $$
 \sigma^2 = \frac{1}{n - 1} \sum (x_i - \bar{x})^2
