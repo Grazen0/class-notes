@@ -81,5 +81,13 @@
       ],
       "key": "PageDown"
     }
+  ],
+  "zen:toggle": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Z"
+    }
   ]
 }

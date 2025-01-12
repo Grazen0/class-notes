@@ -1,3 +1,5 @@
+Las EDs son extremadamente útiles para describir fenómenos de la vida real, ya que muchos de ellos involucran tasas de cambio.
+
 ## Dinámica poblacional y decaimiento radioactivo
 
 En un escenario ideal, una población sin restricciones de crecimiento crece a una velocidad **proporcional a sí misma**. Es decir,
