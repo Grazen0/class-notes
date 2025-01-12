@@ -65,7 +65,7 @@ y &= \frac{1}{\mu(x)} \int \mu(x) g(x) \, dx
 .\end{align*}
 $$
 
-En la práctica no solemos usar esta última fórmula tal cual, sino que calculamos $\mu(x)$ y realizamos este proceso para la ED particular en la que estamos trabajando.
+En la práctica, solemos utilizar esta última fórmula de frente.
 
 ## EDs exactas
 
@@ -90,29 +90,29 @@ Primero, debemos comprobar que $M_y = N_x$ para que sea exacta.
 Luego, integramos $M(x, y)$ con respecto a $x$, recordando que la constante de integración que obtengamos debe ser no un número, sino una función de $y$.
 
 $$
-f(x, y) = \int M(x, y) \, dx = M_I(x, y) + h(y)
+f(x, y) = \int M(x, y) \, dx = M_I(x, y) + g(y)
 .$$
 
-En este punto, nos falta encontrar $h(y)$.
+En este punto, nos falta encontrar $g(y)$.
 
 Ahora podemos derivar esta expresión obtenida e igualarla a $N(x, y)$ (ya que ambos deben ser iguales):
 
 $$
 \begin{align}
-\frac{\partial f}{\partial y} = \frac{\partial}{\partial y} \left( M_I(x, y) + h(y) \right) &= N(x, y) \\
+\frac{\partial f}{\partial y} = \frac{\partial}{\partial y} \left( M_I(x, y) + g(y) \right) &= N(x, y) \\
 \frac{\partial h}{\partial y} &= N(x, y) - \frac{\partial M_I}{\partial y} = L(y)
 ,\end{align}
 $$
 
-donde quedará en la derecha una función únicamente de $y$. Finalmente, integramos ambos lados con respecto a $y$ para obtener $h(y)$:
+donde quedará en la derecha una función únicamente de $y$. Finalmente, integramos ambos lados con respecto a $y$ para obtener $g(y)$:
 
 $$
-h(y) = \int L(y) \, dy
+g(y) = \int L(y) \, dy
 ,$$
 
 (obviando la constante de integración en este caso, ya que se absorbe en la solución final).
 
-Finalmente, obtenemos $f(x, y) = M_I(x, y) + h(y)$, con lo que la solución implícita de la ED es $f(x, y) = C$.
+Finalmente, obtenemos $f(x, y) = M_I(x, y) + g(y)$, con lo que la solución implícita de la ED es $f(x, y) = C$.
 
 ```ad-note
 Podemos realizar el proceso de forma análoga integrando primero $N(x, y)$ en lugar de $M(x, y)$ si así conviene.

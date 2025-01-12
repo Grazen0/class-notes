@@ -1,3 +1,5 @@
+## Definiciones básicas
+
 - **Dato:** Medida u observación de interés.
 - **Unidad muestral:** Elemento o individuo de la muestra.
 - **Variable:** Característica de interés de un elemento.
@@ -12,12 +14,34 @@
 - **Muestra:** Subconjunto de la población. Se espera que sea *representativo*.
 - **Censo:** Una muestra correspondiente a *toda la población*. Usualmente es muy caro, en algún sentido, trabajar con un censo.
 
-## Tipos de muestreo
+Cuando en un conjunto de datos existe una celda con más
+
+### Tipos de muestreo
 
 - **No probabilístico:**
 - **Probabilístico:**
 
-## Fórmulas relevantes
+## Valores matemáticos relevantes
+
+### Frecuencias
+
+#### Frecuencia absoluta simple
+
+Denotada por $f_i$, es la **cantidad de apariciones** de un dato.
+
+#### Frecuencia relativa
+
+Denotada por $h_i$, es igual a
+
+$$
+h_i = \frac{f_i}{n}
+.$$
+
+Es decir, es el porcentaje que el dato ocupa del total.
+
+#### Frecuencia observada
+
+#### Frecuencia esperada
 
 ### Medidas de tendencia central
 
