@@ -8,6 +8,7 @@
 	- [[S1B - EDs autónomas]]
 	- [[S1C - EDs de primer orden]]
 	- [[S1D - Modelado de situaciones reales con EDs]]
+	- [[S2 - Modelado de mezclas]]
 
 %% End Waypoint %%
 

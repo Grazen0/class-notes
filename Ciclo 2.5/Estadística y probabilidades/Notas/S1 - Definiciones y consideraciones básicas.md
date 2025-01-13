@@ -1,7 +1,17 @@
 ## Definiciones básicas
 
+Sobre la recolección de datos:
+
+- **Población:** Conjunto de todos los individuos o elementos de interés.
+- **Muestra:** Subconjunto de la población. Se espera que sea *representativo*.
+  - **Censo:** Una muestra correspondiente a *toda la población*. Usualmente es muy caro, en algún sentido, trabajar con un censo.
+- **Unidad muestral:** Un elemento o individuo de la muestra.
+  - **Observación:** La información correspondiente a una unidad muestral.
+
+Sobre los datos en sí:
+
+- **Tabla/matriz/dataframe de datos:** Tabla donde las unidades muestrales corresponden a las filas y las variables corresponden a las columnas.
 - **Dato:** Medida u observación de interés.
-- **Unidad muestral:** Elemento o individuo de la muestra.
 - **Variable:** Característica de interés de un elemento.
   - **Numérica/cuantitativa:** El valor de la variable es un número.
     - **Continua:** Puede tomar cualquier valor en algún intervalo.
@@ -9,17 +19,29 @@
   - **Categórica/cualitativa:** El valor de la variable no es un número
     - **Ordinal:** Valores discretos con *orden claro*. (i.e. excelente, bueno, mediocre, malo)
     - **Nominal:** Valores discretos *sin orden claro*. (i.e. blanco, negro, rojo, ...)
-- **Tabla (o matriz) de datos:** Tabla donde las unidades muestrales corresponden a las filas y las variables corresponden a las columnas.
-- **Población:** Conjunto de todos los individuos o elementos de interés.
-- **Muestra:** Subconjunto de la población. Se espera que sea *representativo*.
-- **Censo:** Una muestra correspondiente a *toda la población*. Usualmente es muy caro, en algún sentido, trabajar con un censo.
 
-Cuando en un conjunto de datos existe una celda con más
+### Prolijidad de datos
+
+Se dice que un conjunto de datos es **prolijo** cuando sigue los siguientes principios:
+
+1. Cada variable tiene su propia columna.
+1. Cada observación ocupa una fila.
+1. Cada valor debe tener una sola celda.
+
+Por ejemplo, esto significa que una celda no puede contener más de un valor.
+
+```ad-note
+title: Nota
+
+La prolijidad de datos tiene ciertos parecidos con la **normalización de bases de datos**.
+```
 
 ### Tipos de muestreo
 
-- **No probabilístico:**
-- **Probabilístico:**
+- **No probabilístico:** De alguna forma u otra, no da la misma oportunidad a todos los individuos de la población de ser elegidos.
+- **Probabilístico:** Todos los individuos de la población tienen la misma probabilidad de ser elegidos.
+
+El muestreo probabilístico suele ser más **riguroso**, ya que evita sesgos.
 
 ## Valores matemáticos relevantes
 
@@ -39,9 +61,12 @@ h_i = \frac{f_i}{n}
 
 Es decir, es el porcentaje que el dato ocupa del total.
 
-#### Frecuencia observada
+#### En estudios estadísticos
 
-#### Frecuencia esperada
+Además de las frecuencias anteriores, se consideran otras frecuencias por separado cuando se habla de estudios y experimentos estadísticos.
+
+- **Frecuencia observada:** Es la frecuencia empírica, observada en el estudio.
+- **Frecuencia esperada:** Es una frecuencia estimada, usualmente calculada teóricamente.
 
 ### Medidas de tendencia central
 
@@ -115,6 +140,6 @@ $$
 
 Al menos en este curso, consideramos el siguiente criterio:
 
-- Si $\text{CV} \leq 30\%$, entonces el conjunto de datos es **homogéneo** (dispersión baja).
-- Si $30\% < \text{CV} \leq 60\%$, entonces el conjunto de datos tienen una **variabilidad regular** (dispersión regular).
-- Si $\text{CV} > 60\%$, entonces el conjunto de datos es **heterogéneo** (dispersión alta).
+- Si $\text{CV} < 30\%$, entonces el conjunto de datos es **homogéneo** (dispersión baja).
+- Si $30\% \leq \text{CV} < 60\%$, entonces el conjunto de datos tienen una **variabilidad regular** (dispersión regular).
+- Si $\text{CV} \geq 60\%$, entonces el conjunto de datos es **heterogéneo** (dispersión alta).
