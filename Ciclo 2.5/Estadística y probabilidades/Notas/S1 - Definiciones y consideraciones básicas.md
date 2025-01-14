@@ -17,16 +17,16 @@ Sobre los datos en sí:
     - **Continua:** Puede tomar cualquier valor en algún intervalo.
     - **Discreta:** Es un valor contable.
   - **Categórica/cualitativa:** El valor de la variable no es un número
-    - **Ordinal:** Valores discretos con *orden claro*. (i.e. excelente, bueno, mediocre, malo)
-    - **Nominal:** Valores discretos *sin orden claro*. (i.e. blanco, negro, rojo, ...)
+    - **Ordinal:** Valores discretos con *orden claro*. (e.g., excelente, bueno, mediocre, malo)
+    - **Nominal:** Valores discretos *sin orden claro*. (e.g., blanco, negro, rojo, ...)
 
 ### Prolijidad de datos
 
 Se dice que un conjunto de datos es **prolijo** cuando sigue los siguientes principios:
 
 1. Cada variable tiene su propia columna.
-1. Cada observación ocupa una fila.
-1. Cada valor debe tener una sola celda.
+2. Cada observación ocupa una fila.
+3. Cada valor debe tener una sola celda.
 
 Por ejemplo, esto significa que una celda no puede contener más de un valor.
 
@@ -77,12 +77,6 @@ También llamada simplemente "media", es el **centro de masa** de los datos:
 $$
 \bar{x} = \frac{1}{n} \sum x_i
 .$$
-
-#### Cuantiles
-
-El cuantil $k$ (con $0 < k < 1$) es el dato tal que una porción $k$ de los datos son menores o iguales a él.
-
-El cuantil $50\%$ se denomina **mediana**, y los cuantiles $25\%$, $50\%$ y $75\%$ se denominan **cuartiles**.
 
 #### Moda
 
@@ -143,3 +137,9 @@ Al menos en este curso, consideramos el siguiente criterio:
 - Si $\text{CV} < 30\%$, entonces el conjunto de datos es **homogéneo** (dispersión baja).
 - Si $30\% \leq \text{CV} < 60\%$, entonces el conjunto de datos tienen una **variabilidad regular** (dispersión regular).
 - Si $\text{CV} \geq 60\%$, entonces el conjunto de datos es **heterogéneo** (dispersión alta).
+
+### Medidas de posición (cuantiles)
+
+El cuantil $k$ (con $0 < k < 1$) es el dato tal que una porción $k$ de los datos son menores o iguales a él.
+
+El cuantil $50\%$ se denomina **mediana**, y los cuantiles $25\%$, $50\%$ y $75\%$ se denominan **cuartiles**.
