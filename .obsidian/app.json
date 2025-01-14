@@ -7,7 +7,7 @@
   "rightToLeft": false,
   "vimMode": true,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "",
+  "attachmentFolderPath": "attachments",
   "showUnsupportedFiles": true,
   "useTab": false,
   "pdfExportSettings": {
@@ -20,5 +20,6 @@
   "defaultViewMode": "source",
   "showRibbon": true,
   "showInlineTitle": true,
-  "tabSize": 2
+  "tabSize": 2,
+  "newFileLocation": "current"
 }

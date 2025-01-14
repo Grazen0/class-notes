@@ -23,7 +23,7 @@ Cordelia Khouri de Arciniegas
 
 ## Sistema de evaluación
 
-![[Ciclo 1/Cálculo de una variable/Recursos/Sistema de evaluación.excalidraw|width:100%]]
+![[Sistema de evaluación.excalidraw 5|width:100%]]
 
 | Tipo de evaluación | Cód. |   Nota   | Semana | Fecha |
 | ------------------ | :--: | :------: | :----: | :---: |

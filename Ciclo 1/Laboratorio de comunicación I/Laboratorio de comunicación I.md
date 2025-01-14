@@ -50,7 +50,7 @@
 
 ## Sistema de evaluación
 
-![[Ciclo 1/Laboratorio de comunicación I/Recursos/Sistema de evaluación.excalidraw|width:100%]]
+![[Sistema de evaluación.excalidraw 3|width:100%]]
 
 ### Teoría
 

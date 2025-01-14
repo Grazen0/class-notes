@@ -9,7 +9,7 @@
 		- [[S1B - Introducción a Python]]
 		- [[S11 - Archivos]]
 	- **Teoría**
-		- [[Ciclo 1/Programación I/Notas/Teoría/S1 - Introducción]]
+		- [[S1 - Introducción]]
 		- [[S2 - Elementos de un programa]]
 		- [[S3 - Funciones]]
 		- [[S4 - Bucles con while]]
@@ -31,7 +31,7 @@
 
 ## Sistema de evaluación
 
-![[Ciclo 1/Programación I/Recursos/Sistema de evaluación.excalidraw|width:100%]]
+![[Sistema de evaluación.excalidraw 1|width:100%]]
 
 ### Teoría
 

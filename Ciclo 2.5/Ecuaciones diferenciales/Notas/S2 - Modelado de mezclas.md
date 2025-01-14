@@ -1,3 +1,10 @@
+---
+id: S2 - Modelado de mezclas
+aliases: 
+tags:
+  - "#edo"
+---
+
 Al considerar el modelado de la mezcla de dos **soluciones salinas** de distintas concentraciones surge una EDO de primer orden que involucra las **cantidades de sal** en cada mezcla.
 
 ![mezclas.png](mezclas.png)
