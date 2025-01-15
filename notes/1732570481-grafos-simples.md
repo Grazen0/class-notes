@@ -4,7 +4,10 @@ aliases:
   - Grafos simples
 tags:
   - mates/discretas-2/grafos
+createdAt: 2024-11-25 16:34
 ---
+
+# Grafos simples
 
 ```ad-definition
 title: Definición (grafo simple).

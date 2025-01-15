@@ -4,7 +4,10 @@ aliases:
   - Stanislaw Lem
 tags:
   - labcom-2
+createdAt: 2024-08-28 14:15
 ---
+
+# Stanislaw Lem
 
 ```ad-quote
 title: Cita

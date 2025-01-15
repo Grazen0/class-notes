@@ -4,7 +4,10 @@ aliases:
   - Ejercicios de puntuación
 tags:
   - labcom-2
+createdAt: 2024-10-02 15:29
 ---
+
+# Ejercicios de puntuación
 
 ```ad-note
 title: Conectores/nexos subordinantes

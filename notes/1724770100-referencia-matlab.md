@@ -3,8 +3,11 @@ id: 1724770100-referencia-matlab
 aliases:
   - Referencia MATLAB
 tags:
-  - alg-lineal
+  - mates/alg-lineal
+createdAt: 2024-08-27 09:48
 ---
+
+# Referencia MATLAB
 
 ## Cálculo simbólico
 
@@ -118,4 +121,3 @@ O = orth(A)
 [U, S, V] = svd(A)
 % Se cumple que U*S*V' = A
 ```
-

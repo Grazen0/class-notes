@@ -4,7 +4,10 @@ aliases:
   - Función inversa
 tags:
   - mates/discretas-1/funciones
+createdAt: 2024-05-28 12:36
 ---
+
+# Función inversa
 
 ```ad-definition
 

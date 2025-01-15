@@ -5,7 +5,10 @@ aliases:
 tags:
   - mates/stats
   - info-de-curso
+createdAt: 2025-01-06 21:56
 ---
+
+# Estadística y probabilidades
 
 **[[material/stats/Sílabo.pdf|Sílabo]]**
 

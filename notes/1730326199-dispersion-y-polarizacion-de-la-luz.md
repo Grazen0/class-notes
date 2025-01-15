@@ -4,7 +4,10 @@ aliases:
   - Dispersión y polarización de la luz
 tags:
   - optica
+createdAt: 2024-10-30 17:09
 ---
+
+# Dispersión y polarización de la luz
 
 Ver también: [[S8 - Ondas electromagnéticas 2#Reflexión y refracción]]
 

@@ -1,3 +1,5 @@
 {
-  "format": "X"
+  "format": "X",
+  "folder": "notes",
+  "template": "vault/templates/global"
 }

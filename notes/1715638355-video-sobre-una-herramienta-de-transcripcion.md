@@ -5,7 +5,10 @@ aliases:
 tags:
   - cs/intro-cs
   - trabajo
+createdAt: 2024-05-13 17:12
 ---
+
+# Video sobre una herramienta de transcripción
 
 **Herramienta escogida:** [Turboscribe.ai](https://turboscribe.ai)
 

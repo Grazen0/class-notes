@@ -5,7 +5,10 @@ aliases:
 tags:
   - cs/progra-1
   - teoria
+createdAt: 2024-06-11 18:26
 ---
+
+# Diccionarios
 
 ```python
 person = {
@@ -45,4 +48,3 @@ for item in my_dict.values():
 for key, item in my_dict.items():
     print(key, ':', item)
 ```
-

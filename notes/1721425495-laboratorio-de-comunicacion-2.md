@@ -5,7 +5,10 @@ aliases:
 tags:
   - labcom-2
   - info-de-curso
+createdAt: 2024-07-19 16:44
 ---
+
+# Laboratorio de comunicación 2
 
 **[[material/labcom-2/Sílabo.pdf|Sílabo]]** | **[[material/labcom-2/Anexo.pdf|Anexo]]**
 

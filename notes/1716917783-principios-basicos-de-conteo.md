@@ -4,7 +4,10 @@ aliases:
   - Principios básicos de conteo
 tags:
   - mates/discretas-2/conteo-y-recurrencia
+createdAt: 2024-05-28 12:36
 ---
+
+# Principios básicos de conteo
 
 ```ad-proposition
 title: Principio del producto.

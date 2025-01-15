@@ -4,7 +4,10 @@ aliases:
   - Funciones amigas y sobrecarga de operadores
 tags:
   - cs/progra-2
+createdAt: 2024-11-12 16:19
 ---
+
+# Funciones amigas y sobrecarga de operadores
 
 ## Funciones amigas
 
@@ -66,4 +69,3 @@ Complex d = a * b;
 std::cout << "Suma: " << c << std::endl;
 std::cout << "producto: " << d << std::endl;
 ```
-

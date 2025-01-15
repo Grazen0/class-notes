@@ -3,8 +3,11 @@ id: 1725904856-sistemas-de-ecuaciones
 aliases:
   - Sistemas de ecuaciones lineales
 tags:
-  - alg-lineal
+  - mates/alg-lineal
+createdAt: 2024-09-09 13:00
 ---
+
+# Sistemas de ecuaciones lineales
 
 Un sistema de ecuaciones de la forma
 

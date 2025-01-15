@@ -4,7 +4,10 @@ aliases:
   - Elementos de la escritura académica
 tags:
   - labcom-2
+createdAt: 2024-05-28 12:36
 ---
+
+# Elementos de la escritura académica
 
 ## Cómo delimitar el alcance de un tema
 
@@ -43,4 +46,3 @@ Es recomendable hacer **un capítulo sobre el marco teórico**.
 
 - 2000-3000 palabras.
 - 8-12 páginas de *contenido*.
-

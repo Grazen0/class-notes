@@ -5,7 +5,10 @@ aliases:
 tags:
   - pi-1
   - laboratorio
+createdAt: 2024-04-17 09:01
 ---
+
+# Patrimonio cultural y el desarrollo sostenible
 
 ## Preguntas del texto
 

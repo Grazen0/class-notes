@@ -5,12 +5,15 @@ aliases:
 tags:
   - pi-1
   - estudio
+createdAt: 2024-04-30 11:47
 ---
+
+# Control de lectura
 
 ## El giro postcompetitivo de Vasen
 
-[[S2 - El giro postcompetitivo]]
-[[S2 - Vasen. Giro postcompetitivo en la política de CTI]]
+[[1712711893-el-giro-postcompetitivo|El giro postcompetitivo]]
+[[1712538024-giro-postcompetitivo-en-la-politica-de-cti|Giro postcompetitivo en la política de CTI]]
 
 Vasen denomina al fenómeno descrito como un giro "postcompetitivo" porque hace énfasis en que este fenómeno se ha desarrollado tras una época de tendencias marcadamente competitivas en el desarrollo de la CTI. Esta tendencia previa consistía en un desarrollo de la CTI basado puramente en el movimiento del mercado y la economía, con un enfoque importante en la competencia.
 
@@ -44,8 +47,8 @@ Las tecnologías sociales son una propuesta para innovar no sólo en la tecnolog
 
 ## La guía para las hojas de ruta de CTI
 
-[[S4 - ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS]]
-[[S4 - De los ODM a los ODS]]
+[[1712877707-guia-para-la-preparacion-de-las-hojas-de-ruta-de-la-cti-para-los-ods|Guía para la preparación de las hojas de ruta de la CTI para los ODS]]
+[[1713803947-de-los-odm-a-los-ods|De los ODM a los ODS]]
 
 Las hojas de ruta de CTI para los ODS son planes gubernamentales diseñados para guiar el desarrollo de la ciencia, tecnología e innovación en el país con un enfoque en cumplir los ODS establecidos por la ONU. Este texto es un documento guía con indicaciones y recomendaciones para crear estas hojas de ruta. Tiene un enfoque inclusivo y global, ya que busca ser de utilidad para todos los países.
 

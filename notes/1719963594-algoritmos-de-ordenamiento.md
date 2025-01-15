@@ -5,7 +5,10 @@ aliases:
 tags:
   - cs/progra-1
   - teoria
+createdAt: 2024-07-02 18:39
 ---
+
+# Algoritmos de ordenamiento
 
 ## Bubble sort
 

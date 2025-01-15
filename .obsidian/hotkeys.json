@@ -1,14 +1,6 @@
 {
   "editor:delete-paragraph": [],
   "workspace:close": [],
-  "switcher:open": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Q"
-    }
-  ],
   "obsidian-excalidraw-plugin:insert-link-to-element": [],
   "file-explorer:new-file": [],
   "editor:toggle-source": [
@@ -90,5 +82,22 @@
       ],
       "key": "Z"
     }
-  ]
+  ],
+  "switcher:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ],
+  "tag-pane:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "workspace:new-tab": []
 }

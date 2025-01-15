@@ -3,8 +3,11 @@ id: 1730135007-producto-interno-y-espacios-ortogonales
 aliases:
   - Producto interno y espacios ortogonales
 tags:
-  - alg-lineal
+  - mates/alg-lineal
+createdAt: 2024-10-28 12:03
 ---
+
+# Producto interno y espacios ortogonales
 
 ## Producto interno
 

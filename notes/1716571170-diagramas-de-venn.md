@@ -4,7 +4,10 @@ aliases:
   - Diagramas de Venn
 tags:
   - mates/discretas-1/conjuntos
+createdAt: 2024-05-24 12:19
 ---
+
+# Diagramas de Venn
 
 Una manera eficiente de representar conjuntos de forma abstracta es mediante los **diagramas de Venn**:
 

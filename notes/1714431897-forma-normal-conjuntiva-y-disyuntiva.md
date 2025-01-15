@@ -6,7 +6,10 @@ aliases:
   - FND
 tags:
   - mates/discretas-1/logica
+createdAt: 2024-04-29 18:04
 ---
+
+# Forma normal conjuntiva y disyuntiva
 
 Es la representación de expresiones lógicas empleando **solamente** la conjunción, disyunción y negación.
 

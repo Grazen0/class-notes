@@ -1,4 +1,5 @@
 {
   "format": "",
-  "folder": "dailies"
+  "folder": "dailies",
+  "template": "vault/templates/daily"
 }

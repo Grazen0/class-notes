@@ -4,7 +4,10 @@ aliases:
   - Modelado de situaciones reales con EDs
 tags:
   - mates/edo
+createdAt: 2025-01-11 12:11
 ---
+
+# Modelado de situaciones reales con EDs
 
 Al considerar el modelado de la mezcla de dos **soluciones salinas** de distintas concentraciones surge una EDO de primer orden que involucra las **cantidades de sal** en cada mezcla.
 Las EDs son extremadamente útiles para describir fenómenos de la vida real, ya que muchos de ellos involucran tasas de cambio.

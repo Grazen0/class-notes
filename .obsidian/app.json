@@ -19,7 +19,7 @@
   },
   "defaultViewMode": "source",
   "showRibbon": true,
-  "showInlineTitle": true,
+  "showInlineTitle": false,
   "tabSize": 2,
   "newFileLocation": "current"
 }

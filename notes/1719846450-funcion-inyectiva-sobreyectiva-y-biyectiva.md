@@ -5,7 +5,10 @@ aliases:
   - sobreyectiva y biyectiva
 tags:
   - mates/discretas-1/funciones
+createdAt: 2024-07-01 10:07
 ---
+
+# Función inyectiva
 
 ## Función inyectiva
 

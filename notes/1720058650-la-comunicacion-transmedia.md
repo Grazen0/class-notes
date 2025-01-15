@@ -5,7 +5,10 @@ aliases:
 tags:
   - labcom-1
   - teoria
+createdAt: 2024-07-03 21:04
 ---
+
+# La comunicación transmedia
 
 - [PPT](https://utec.instructure.com/courses/14373/files/3084227)
 

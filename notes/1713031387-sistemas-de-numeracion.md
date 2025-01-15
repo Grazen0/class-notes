@@ -4,7 +4,10 @@ aliases:
   - Sistemas de numeración
 tags:
   - mates/discretas-1/teoria-de-numeros
+createdAt: 2024-04-13 13:03
 ---
+
+# Sistemas de numeración
 
 Además de la base 10, que usamos en la vida cotidiana, los números se pueden representar en múltiples otras bases numéricas.
 

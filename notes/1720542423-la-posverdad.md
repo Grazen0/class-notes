@@ -5,7 +5,10 @@ aliases:
 tags:
   - labcom-1
   - teoria
+createdAt: 2024-07-09 11:27
 ---
+
+# La posverdad
 
 - [PPT](https://utec.instructure.com/courses/14373/files/2824369)
 

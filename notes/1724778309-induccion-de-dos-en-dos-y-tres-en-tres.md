@@ -4,7 +4,10 @@ aliases:
   - Inducción de dos en dos y tres en tres
 tags:
   - mates/discretas-2/induccion
+createdAt: 2024-08-27 12:05
 ---
+
+# Inducción de dos en dos y tres en tres
 
 Son otros esquemas más de la inducción, donde los "saltos" de caso en caso son de dos en dos o de tres en tres.
 

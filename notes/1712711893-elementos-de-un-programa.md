@@ -5,7 +5,10 @@ aliases:
 tags:
   - cs/progra-1
   - teoria
+createdAt: 2024-04-09 20:18
 ---
+
+# Elementos de un programa
 
 ## Variables
 
@@ -112,4 +115,3 @@ Para operadores del mismo nivel, se procede de **izquierda a derecha**
 
 1. Operadores de relación (`<`, `<=`, `>`, `>=`, `==`, `!=`)
 2. Operadores lógicos (`and`, `or`, `not`)
-

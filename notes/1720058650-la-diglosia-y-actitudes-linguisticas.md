@@ -5,7 +5,10 @@ aliases:
 tags:
   - labcom-1
   - teoria
+createdAt: 2024-07-03 21:04
 ---
+
+# La diglosia y actitudes lingüísticas
 
 - [PPT](https://utec.instructure.com/courses/14373/files/2828245)
 

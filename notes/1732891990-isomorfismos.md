@@ -4,7 +4,10 @@ aliases:
   - Isomorfismos
 tags:
   - mates/discretas-2/grafos
+createdAt: 2024-11-29 09:53
 ---
+
+# Isomorfismos
 
 ```ad-definition
 

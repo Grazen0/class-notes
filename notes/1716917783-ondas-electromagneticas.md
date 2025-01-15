@@ -4,7 +4,10 @@ aliases:
   - Ondas electromagnéticas
 tags:
   - optica
+createdAt: 2024-05-28 12:36
 ---
+
+# Ondas electromagnéticas
 
 Para propósitos de este curso, describimos a la luz como una **onda**.
 

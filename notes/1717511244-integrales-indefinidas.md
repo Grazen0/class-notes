@@ -3,8 +3,11 @@ id: 1717511244-integrales-indefinidas
 aliases:
   - Integrales indefinidas
 tags:
-  - c1v
+  - mates/c1v
+createdAt: 2024-06-04 09:27
 ---
+
+# Integrales indefinidas
 
 ```ad-theorem
 

@@ -3,8 +3,11 @@ id: 1726344652-funciones-de-varias-variables
 aliases:
   - Funciones de varias variables
 tags:
-  - vecto
+  - mates/vecto
+createdAt: 2024-09-14 15:10
 ---
+
+# Funciones de varias variables
 
 Una función de varias variables se denota como $f(x_1,x_2,\ldots,x_n)$.
 

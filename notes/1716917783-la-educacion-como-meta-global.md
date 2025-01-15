@@ -5,7 +5,10 @@ aliases:
 tags:
   - pi-1
   - teoria
+createdAt: 2024-05-28 12:36
 ---
+
+# La educación como meta global
 
 ## Preguntas del texto
 

@@ -3,8 +3,11 @@ id: 1728774711-optimizacion
 aliases:
   - Optimización
 tags:
-  - vecto
+  - mates/vecto
+createdAt: 2024-10-12 18:11
 ---
+
+# Optimización
 
 ## Extremos mediante puntos críticos
 

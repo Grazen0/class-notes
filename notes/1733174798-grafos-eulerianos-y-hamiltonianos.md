@@ -4,7 +4,10 @@ aliases:
   - Grafos eulerianos y hamiltonianos
 tags:
   - mates/discretas-2/grafos
+createdAt: 2024-12-02 16:26
 ---
+
+# Grafos eulerianos y hamiltonianos
 
 ## Grafos eulerianos
 

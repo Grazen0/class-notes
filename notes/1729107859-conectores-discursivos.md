@@ -4,7 +4,10 @@ aliases:
   - Conectores discursivos
 tags:
   - labcom-2
+createdAt: 2024-10-16 14:44
 ---
+
+# Conectores discursivos
 
 La puntuación **intraoracional** se divide de la siguiente forma:
 

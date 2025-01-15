@@ -3,8 +3,11 @@ id: 1716917783-integrales-dobles-con-coordenadas-polares
 aliases:
   - Integrales dobles con coordenadas polares
 tags:
-  - vecto
+  - mates/vecto
+createdAt: 2024-05-28 12:36
 ---
+
+# Integrales dobles con coordenadas polares
 
 Existen casos donde una integral es más manejable si se trabaja en **coordenadas polares**. (Puede deberse a la región de integración, por ejemplo)
 

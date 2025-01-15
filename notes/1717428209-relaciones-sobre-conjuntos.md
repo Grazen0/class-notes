@@ -4,7 +4,10 @@ aliases:
   - Relaciones sobre conjuntos
 tags:
   - mates/discretas-1/conjuntos
+createdAt: 2024-06-03 10:23
 ---
+
+# Relaciones sobre conjuntos
 
 ```ad-definition
 

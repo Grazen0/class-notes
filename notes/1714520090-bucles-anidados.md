@@ -5,7 +5,10 @@ aliases:
 tags:
   - cs/progra-1
   - teoria
+createdAt: 2024-04-30 18:34
 ---
+
+# Bucles anidados
 
 Idk, ya sé todo esto
 

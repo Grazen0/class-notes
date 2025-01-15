@@ -5,7 +5,10 @@ aliases:
 tags:
   - mates/c1v
   - info-de-curso
+createdAt: 2024-04-11 18:21
 ---
+
+# Cálculo de una variable
 
 **[[material/c1v/Sílabo.pdf|Sílabo]]** | **[[material/c1v/Anexo.pdf|Anexo]]** | **[[Sistema de evaluación.pdf|Sistema de evaluación]]**
 

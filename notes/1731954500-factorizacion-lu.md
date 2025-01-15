@@ -3,8 +3,11 @@ id: 1731954500-factorizacion-lu
 aliases:
   - Factorización LU
 tags:
-  - alg-lineal
+  - mates/alg-lineal
+createdAt: 2024-11-18 13:28
 ---
+
+# Factorización LU
 
 ```ad-definition
 

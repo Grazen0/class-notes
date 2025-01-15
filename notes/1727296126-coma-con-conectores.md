@@ -4,7 +4,10 @@ aliases:
   - Coma con conectores
 tags:
   - labcom-2
+createdAt: 2024-09-25 15:28
 ---
+
+# Coma con conectores
 
 ## Miembros yuxtapuestos
 

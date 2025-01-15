@@ -5,7 +5,10 @@ aliases:
 tags:
   - labcom-1
   - teoria
+createdAt: 2024-07-03 21:37
 ---
+
+# Convergencia digital
 
 - [PPT](https://utec.instructure.com/courses/14373/files/2828004)
 

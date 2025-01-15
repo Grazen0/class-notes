@@ -3,8 +3,11 @@ id: 1716917783-cosenos-directores
 aliases:
   - Cosenos directores
 tags:
-  - vecto
+  - mates/vecto
+createdAt: 2024-05-28 12:36
 ---
+
+# Cosenos directores
 
 Cuando trabajamos con [[S1A - Vectores|vectores]] en el espacio tridimensional, un vector $\vec{v}$ ya no tiene una única dirección, sino que tiene 3 ángulos que parten a partir de cada eje respectivo del espacio.
 

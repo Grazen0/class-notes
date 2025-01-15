@@ -5,7 +5,10 @@ aliases:
 tags:
   - pi-1
   - info-de-curso
+createdAt: 2024-04-11 18:21
 ---
+
+# Proyectos interdisciplinarios
 
 **[[material/pi-1/Sílabo.pdf|Sílabo]]** | **[[material/pi-1/Anexo.pdf|Anexo]]**
 

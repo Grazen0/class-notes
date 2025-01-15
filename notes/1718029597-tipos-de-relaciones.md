@@ -4,7 +4,10 @@ aliases:
   - Tipos de relaciones
 tags:
   - mates/discretas-1/conjuntos
+createdAt: 2024-06-10 09:26
 ---
+
+# Tipos de relaciones
 
 Las relaciones se pueden clasificar según algunas propiedades específicas.
 

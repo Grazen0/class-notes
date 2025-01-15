@@ -4,7 +4,10 @@ aliases:
   - Relaciones de orden
 tags:
   - mates/discretas-2/logica-digital
+createdAt: 2024-09-03 11:21
 ---
+
+# Relaciones de orden
 
 Ver también: [[S12A - Relaciones de equivalencia y orden#Relaciones de orden|Relaciones de orden en Matemáticas Discretas I]].
 

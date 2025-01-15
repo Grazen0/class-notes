@@ -3,8 +3,11 @@ id: 1730567111-factorizacion-qr-y-descomposicion-svd
 aliases:
   - Factorización QR y descomposción SVD
 tags:
-  - alg-lineal
+  - mates/alg-lineal
+createdAt: 2024-11-02 12:05
 ---
+
+# Factorización QR y descomposción SVD
 
 ```ad-theorem
 

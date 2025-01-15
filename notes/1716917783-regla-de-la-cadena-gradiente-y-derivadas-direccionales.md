@@ -4,8 +4,11 @@ aliases:
   - Regla de la cadena
   - gradiente y derivadas direccionales
 tags:
-  - vecto
+  - mates/vecto
+createdAt: 2024-05-28 12:36
 ---
+
+# Regla de la cadena
 
 ## Regla de la cadena multivariable
 

@@ -5,7 +5,10 @@ aliases:
 tags:
   - cs/intro-cs
   - trabajo
+createdAt: 2024-05-06 22:55
 ---
+
+# Herramienta de blurring para videos
 
 ¡Hola! Alguna vez te has preguntado cómo tapar tu cara en un video... así?
 

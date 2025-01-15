@@ -5,7 +5,10 @@ aliases:
 tags:
   - labcom-1
   - teoria
+createdAt: 2024-04-30 15:30
 ---
+
+# Normativa APA
 
 ```ad-info
 title: Enlaces útiles

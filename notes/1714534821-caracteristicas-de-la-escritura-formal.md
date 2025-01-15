@@ -5,7 +5,10 @@ aliases:
 tags:
   - labcom-1
   - trabajo
+createdAt: 2024-04-30 22:40
 ---
+
+# Características de la escritura formal
 
 [[Características de la escritura formal.pdf]]
 

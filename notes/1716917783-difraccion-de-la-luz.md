@@ -4,7 +4,10 @@ aliases:
   - Difracción de la luz
 tags:
   - optica
+createdAt: 2024-05-28 12:36
 ---
+
+# Difracción de la luz
 
 Se trata del fenómeno que ocurre cuando la luz pasa por una rendija extremadamente pequeña.
 

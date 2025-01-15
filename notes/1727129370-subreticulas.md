@@ -4,7 +4,10 @@ aliases:
   - Subretículas
 tags:
   - mates/discretas-2/logica-digital
+createdAt: 2024-09-23 17:09
 ---
+
+# Subretículas
 
 ```ad-definition
 

@@ -5,7 +5,10 @@ aliases:
 tags:
   - labcom-1
   - info-de-curso
+createdAt: 2024-05-07 18:05
 ---
+
+# Laboratorio de comunicación 1
 
 **[[material/labcom-1/Sílabo.pdf|Sílabo]]** | **[[material/labcom-1/Anexo.pdf|Anexo]]** | **[[Cronograma.pdf|Cronograma]]** | **[[MANUAL APA 2020.pdf|Manual APA]]**
 

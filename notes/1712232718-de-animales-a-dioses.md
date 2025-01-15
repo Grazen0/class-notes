@@ -5,7 +5,10 @@ aliases:
 tags:
   - labcom-1
   - lectura
+createdAt: 2024-04-04 07:11
 ---
+
+# De animales a dioses
 
 [[Harari. De animales a dioses.pdf]]
 

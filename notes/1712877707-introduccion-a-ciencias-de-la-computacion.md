@@ -5,7 +5,10 @@ aliases:
 tags:
   - cs/intro-cs
   - info-de-curso
+createdAt: 2024-04-11 18:21
 ---
+
+# Introducción a ciencias de la computación
 
 **[[material/intro-cs/Sílabo.pdf|Sílabo]]** | **[[material/intro-cs/Anexo (Teo).pdf|Anexo (Teo)]]** | **[[material/intro-cs/Anexo (Lab).pdf|Anexo (Lab)]]**
 

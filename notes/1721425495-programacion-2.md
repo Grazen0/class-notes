@@ -5,7 +5,10 @@ aliases:
 tags:
   - cs/progra-2
   - info-de-curso
+createdAt: 2024-07-19 16:44
 ---
+
+# Programación 2
 
 **[[material/progra-2/Sílabo.pdf|Sílabo]]** | **[Anexo (teo)](https://docs.google.com/spreadsheets/d/1o0AiWsZXhhL8vLSBiqDpgAElHj-l6D0t9hIe_fS1zc8/edit?usp=sharing)** | **[[material/progra-2/Anexo (Lab).pdf|Anexo (Lab)]]**
 

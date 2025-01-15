@@ -4,7 +4,10 @@ aliases:
   - Movimiento armónico simple
 tags:
   - optica
+createdAt: 2024-05-28 12:36
 ---
+
+# Movimiento armónico simple
 
 ## En un sistema masa-resorte
 

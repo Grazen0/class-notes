@@ -4,7 +4,10 @@ aliases:
   - EDs de primer orden
 tags:
   - mates/edo
+createdAt: 2025-01-11 12:11
 ---
+
+# EDs de primer orden
 
 Al considerar el modelado de la mezcla de dos **soluciones salinas** de distintas concentraciones surge una EDO de primer orden que involucra las **cantidades de sal** en cada mezcla.
 

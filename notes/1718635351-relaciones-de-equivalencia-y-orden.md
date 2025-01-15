@@ -4,7 +4,10 @@ aliases:
   - Relaciones de equivalencia y orden
 tags:
   - mates/discretas-1/conjuntos
+createdAt: 2024-06-17 09:42
 ---
+
+# Relaciones de equivalencia y orden
 
 ## Relaciones de equivalencia
 

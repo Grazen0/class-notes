@@ -5,7 +5,10 @@ aliases:
 tags:
   - cs/progra-1
   - info-de-curso
+createdAt: 2024-04-11 18:21
 ---
+
+# Programación 1
 
 **[[material/progra-1/Sílabo.pdf|Sílabo]]** | **[[material/progra-1/Anexo (Teo).pdf|Anexo (Teo)]]** | **[[material/progra-1/Anexo (Lab).pdf|Anexo (Lab)]]**
 

@@ -4,7 +4,10 @@ aliases:
   - Ínfimos y supremos
 tags:
   - mates/discretas-2/logica-digital
+createdAt: 2024-09-10 12:06
 ---
+
+# Ínfimos y supremos
 
 ```ad-definition
 title: Definición (cota inferior y superior).

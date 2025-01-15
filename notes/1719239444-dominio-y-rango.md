@@ -4,7 +4,10 @@ aliases:
   - Dominio y rango
 tags:
   - mates/discretas-1/funciones
+createdAt: 2024-06-24 09:30
 ---
+
+# Dominio y rango
 
 ```ad-definition
 

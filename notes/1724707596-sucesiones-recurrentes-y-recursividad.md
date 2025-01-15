@@ -4,7 +4,10 @@ aliases:
   - Sucesiones recurrentes y recursividad
 tags:
   - mates/discretas-2/induccion
+createdAt: 2024-08-26 16:26
 ---
+
+# Sucesiones recurrentes y recursividad
 
 ```ad-definition
 

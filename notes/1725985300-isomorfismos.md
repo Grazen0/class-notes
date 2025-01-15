@@ -4,7 +4,10 @@ aliases:
   - Isomorfismos
 tags:
   - mates/discretas-2/logica-digital
+createdAt: 2024-09-10 11:21
 ---
+
+# Isomorfismos
 
 ```ad-definition
 title: Definición (encaje).

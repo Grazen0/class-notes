@@ -4,7 +4,10 @@ aliases:
   - Funciones booleanas
 tags:
   - mates/discretas-2/logica-digital
+createdAt: 2024-10-01 09:26
 ---
+
+# Funciones booleanas
 
 ```ad-definition
 

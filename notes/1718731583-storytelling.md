@@ -5,7 +5,10 @@ aliases:
 tags:
   - labcom-1
   - teoria
+createdAt: 2024-06-18 12:26
 ---
+
+# Storytelling
 
 - [PPT](https://utec.instructure.com/courses/14373/files/3058256)
 

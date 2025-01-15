@@ -4,7 +4,10 @@ aliases:
   - Modelado de mezclas
 tags:
   - mates/edo
+createdAt: 2024-05-28 12:36
 ---
+
+# Modelado de mezclas
 
 Al considerar el modelado de la mezcla de dos **soluciones salinas** de distintas concentraciones surge una EDO de primer orden que involucra las **cantidades de sal** en cada mezcla.
 

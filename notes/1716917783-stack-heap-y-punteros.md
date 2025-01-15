@@ -4,7 +4,10 @@ aliases:
   - Stack, heap y punteros
 tags:
   - cs/progra-2
+createdAt: 2024-05-28 12:36
 ---
+
+# Stack, heap y punteros
 
 ## Stack y heap
 

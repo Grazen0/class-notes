@@ -4,7 +4,10 @@ aliases:
   - Ondas mecánicas
 tags:
   - optica
+createdAt: 2024-09-11 16:59
 ---
+
+# Ondas mecánicas
 
 Ver también: [[S5 - Ondas mecánicas 2]].
 

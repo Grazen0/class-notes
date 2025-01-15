@@ -5,7 +5,10 @@ aliases:
 tags:
   - labcom-1
   - teoria
+createdAt: 2024-05-21 14:10
 ---
+
+# Comunicación intercultural
 
 ## Definiciones
 

@@ -5,7 +5,10 @@ aliases:
 tags:
   - labcom-1
   - laboratorio
+createdAt: 2024-04-07 20:00
 ---
+
+# Innatismo vs. culturalismo
 
 ## Innatismo
 

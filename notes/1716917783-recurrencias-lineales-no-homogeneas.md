@@ -4,7 +4,10 @@ aliases:
   - Recurrencias lineales no homogéneas
 tags:
   - mates/discretas-2/conteo-y-recurrencia
+createdAt: 2024-05-28 12:36
 ---
+
+# Recurrencias lineales no homogéneas
 
 ```ad-definition
 

@@ -1,5 +1,5 @@
 ---
-createdAt: <% tp.file.creation_date() %>
+createdAt: "{{date}} {{time}}"
 tags:
   - daily
 ---

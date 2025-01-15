@@ -5,7 +5,10 @@ aliases:
 tags:
   - labcom-1
   - teoria
+createdAt: 2024-05-07 14:05
 ---
+
+# Redacción del párrafo
 
 Para escribir un párrafo, necesitamos **delimitar** un tema específico.
 

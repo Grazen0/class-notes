@@ -4,7 +4,10 @@ aliases:
   - Representación computacional de grafos
 tags:
   - mates/discretas-2/grafos
+createdAt: 2024-11-26 12:03
 ---
+
+# Representación computacional de grafos
 
 Existen dos formas comunes de representar un grafo computacionalmente:
 
@@ -70,4 +73,3 @@ $$
 ```
 
 Se cumple que las columnas de una matriz de incidencia (para un grafo simple) tienen exactamente $2$ elementos cada una.
-

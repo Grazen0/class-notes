@@ -4,7 +4,10 @@ aliases:
   - Conjuntos numéricos
 tags:
   - mates/discretas-1/teoria-de-numeros
+createdAt: 2024-04-03 12:50
 ---
+
+# Conjuntos numéricos
 
 ## Noción geométrica de los números reales
 

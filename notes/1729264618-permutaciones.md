@@ -4,7 +4,10 @@ aliases:
   - Permutaciones
 tags:
   - mates/discretas-2/conteo-y-recurrencia
+createdAt: 2024-10-18 10:16
 ---
+
+# Permutaciones
 
 Una **permutación** es una forma particular de ordenar un conjunto de elementos. Es decir, "cambiar de orden".
 

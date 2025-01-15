@@ -4,7 +4,10 @@ aliases:
   - El párrafo y sus tipos
 tags:
   - labcom-2
+createdAt: 2024-05-28 12:36
 ---
+
+# El párrafo y sus tipos
 
 ```ad-warning
 title: Para el examen

@@ -5,7 +5,10 @@ aliases:
 tags:
   - optica
   - info-de-curso
+createdAt: 2024-07-19 16:44
 ---
+
+# Óptica y ondas
 
 **[[material/optica/Sílabo.pdf|Sílabo]]** | **[[material/optica/Anexo.pdf|Anexo]]** | **[[Calendario.pdf|Calendario]]**
 

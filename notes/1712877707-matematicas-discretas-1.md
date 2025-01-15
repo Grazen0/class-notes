@@ -5,7 +5,10 @@ aliases:
 tags:
   - mates/discretas-1
   - info-de-curso
+createdAt: 2024-04-11 18:21
 ---
+
+# Matemáticas discretas 1
 
 **[[material/discretas-1/Sílabo.pdf|Sílabo]]** | **[[Evaluaciones.pdf|Evaluaciones]]**
 

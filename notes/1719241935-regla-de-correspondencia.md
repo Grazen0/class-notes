@@ -4,7 +4,10 @@ aliases:
   - Regla de correspondencia
 tags:
   - mates/discretas-1/funciones
+createdAt: 2024-06-24 10:12
 ---
+
+# Regla de correspondencia
 
 ```ad-definition
 title: Definiciones.

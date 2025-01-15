@@ -5,7 +5,10 @@ aliases:
 tags:
   - labcom-1
   - teoria
+createdAt: 2024-04-09 20:18
 ---
+
+# La comunicación
 
 ## Definición
 

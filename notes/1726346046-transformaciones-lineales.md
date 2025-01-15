@@ -3,8 +3,11 @@ id: 1726346046-transformaciones-lineales
 aliases:
   - Transformaciones lineales
 tags:
-  - alg-lineal
+  - mates/alg-lineal
+createdAt: 2024-09-14 15:34
 ---
+
+# Transformaciones lineales
 
 ```ad-definition
 title: Definición (transformación).

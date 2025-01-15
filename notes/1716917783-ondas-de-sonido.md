@@ -4,13 +4,16 @@ aliases:
   - Ondas de sonido
 tags:
   - optica
+createdAt: 2024-05-28 12:36
 ---
+
+# Ondas de sonido
 
 Las ondas de sonido se generan debido a **vibraciones** de alguna fuente que **perturban los elementos del medio**.
 
 Estas perturbaciones se miden por **cambios en densidad y presión** a lo largo de la dirección de propagación.
 
-Las ondas de sonido son **[[S4 - Ondas mecánicas|ondas mecánicas]]**, por lo que requieren de un medio para propagarse. Por ejemplo, el sonido no puede viajar a través del espacio.
+Las ondas de sonido son [[1726091945-ondas-mecanicas|ondas mecánicas]], por lo que requieren de un medio para propagarse. Por ejemplo, el sonido no puede viajar a través del espacio.
 
 ## Movimiento de partículas
 

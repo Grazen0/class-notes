@@ -4,9 +4,12 @@ aliases:
   - Ondas electromagnéticas
 tags:
   - optica
+createdAt: 2024-09-18 16:26
 ---
 
-Ver también: [[S4 - Ondas mecánicas]]
+# Ondas electromagnéticas
+
+Ver también: [[1726091945-ondas-mecanicas|Ondas mecánicas]]
 
 ## Ondas en una cuerda
 
@@ -123,4 +126,3 @@ donde $L$ es la **longitud** de la cuerda. Esto significa que, si tenemos la lon
 $$
 L = \frac{n}{2}\lambda
 .$$
-

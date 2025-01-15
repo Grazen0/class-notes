@@ -3,8 +3,11 @@ id: 1729493036-diagonalizacion
 aliases:
   - Diagonalización
 tags:
-  - alg-lineal
+  - mates/alg-lineal
+createdAt: 2024-10-21 01:43
 ---
+
+# Diagonalización
 
 ```ad-definition
 title: Definición (semejanza).

@@ -3,8 +3,11 @@ id: 1716248341-tasas-de-cambio-relacionadas
 aliases:
   - Tasas de cambio relacionadas
 tags:
-  - c1v
+  - mates/c1v
+createdAt: 2024-05-20 18:39
 ---
+
+# Tasas de cambio relacionadas
 
 ## Previa
 

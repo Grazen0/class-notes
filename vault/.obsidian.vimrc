@@ -1,5 +1,3 @@
-set tabstop=4
-
 " Better redo
 nnoremap U <C-r>
 
@@ -9,7 +7,7 @@ exmap tabnext obcommand workspace:next-tab
 map H :tabprev<CR>
 map L :tabnext<CR>
 
-" navigate visual lines rather than logical ones
+" Navigate visual lines rather than logical ones
 nnoremap j gj
 nnoremap k gk
 nnoremap I g0i

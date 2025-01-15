@@ -5,7 +5,10 @@ aliases:
 tags:
   - labcom-1
   - proyecto
+createdAt: 2024-05-22 18:46
 ---
+
+# Fuentes para investigación
 
 ## 1. [Veloso y Guimarães](https://www.scielo.br/j/pusf/a/DpM48FTvKyvPGfVMJRRwkbd/) (Brasil, 2013, p. 2-3)
 

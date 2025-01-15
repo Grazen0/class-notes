@@ -4,7 +4,10 @@ aliases:
   - Números primos y descomposición canónica
 tags:
   - mates/discretas-1/teoria-de-numeros
+createdAt: 2024-04-11 18:21
 ---
+
+# Números primos y descomposición canónica
 
 ```ad-definition
 

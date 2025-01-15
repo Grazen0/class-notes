@@ -1,11 +1,14 @@
 ---
 id: 1712930800-el-esquema-clasico-de-la-comunicacion-y-sus-limitaciones
 aliases:
-  - El esquima clásico de la comunicación y sus limitaciones
+  - El esquema clásico de la comunicación y sus limitaciones
 tags:
   - labcom-1
   - lectura
+createdAt: 2024-04-12 09:06
 ---
+
+# El esquema clásico de la comunicación y sus limitaciones
 
 [[Escandell. El esquema clásico de la comunicación y sus limitaciones.pdf]]
 
@@ -278,4 +281,3 @@ Cabe destacar que **la misma conversación puede modificar la circunstancia**.
 ## 11. Conclusión
 
 Las preguntas planteadas en este texto muestran la **complejidad de la comunicación**, y a la vez descubren las diversas **carencias del modelo clásico**, un modelo rígido y mecánico que no abarca la inmensa complejidad del fenómeno comunicativo.
-

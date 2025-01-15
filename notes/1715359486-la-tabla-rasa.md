@@ -5,7 +5,10 @@ aliases:
 tags:
   - labcom-1
   - lectura
+createdAt: 2024-05-10 11:44
 ---
+
+# La tabla rasa
 
 [[Steven Pinker. La tabla rasa.pdf]] (Págs. 440-484)
 

@@ -3,8 +3,11 @@ id: 1724697143-operaciones-elementales-y-matriz-escalonada
 aliases:
   - Operaciones elementales y matriz escalonada
 tags:
-  - alg-lineal
+  - mates/alg-lineal
+createdAt: 2024-08-26 13:32
 ---
+
+# Operaciones elementales y matriz escalonada
 
 Las siguientes operaciones a una matriz se llaman **operaciones elementales**.
 

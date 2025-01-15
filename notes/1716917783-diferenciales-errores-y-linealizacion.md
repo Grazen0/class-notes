@@ -3,8 +3,11 @@ id: 1716917783-diferenciales-errores-y-linealizacion
 aliases:
   - Diferenciales, errores y linealización
 tags:
-  - vecto
+  - mates/vecto
+createdAt: 2024-05-28 12:36
 ---
+
+# Diferenciales, errores y linealización
 
 ## Aproximaciones con diferenciales
 

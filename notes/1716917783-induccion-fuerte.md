@@ -4,9 +4,12 @@ aliases:
   - Inducción fuerte
 tags:
   - mates/discretas-2/induccion
+createdAt: 2024-05-28 12:36
 ---
 
-La inducción fuerte es otro de los "esquemas" de la [[S1A - Inducción simple|inducción simple]].
+# Inducción fuerte
+
+La inducción fuerte es otro de los "esquemas" de la [[1724103951-induccion-simple|inducción simple]].
 
 ```ad-theorem
 title: Teorema (inducción fuerte).

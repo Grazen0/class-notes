@@ -5,7 +5,10 @@ aliases:
 tags:
   - labcom-1
   - teoria
+createdAt: 2024-04-16 19:46
 ---
+
+# Proceso de la comunicación
 
 ## Formas de comunicación
 

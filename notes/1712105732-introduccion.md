@@ -5,7 +5,10 @@ aliases:
 tags:
   - cs/progra-1
   - teoria
+createdAt: 2024-04-02 19:55
 ---
+
+# Introducción
 
 ## ¿Qué es computación?
 

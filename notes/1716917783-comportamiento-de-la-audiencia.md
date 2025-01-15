@@ -5,7 +5,10 @@ aliases:
 tags:
   - labcom-1
   - teoria
+createdAt: 2024-05-28 12:36
 ---
+
+# Comportamiento de la audiencia
 
 Hablamos de la "audiencia" como el **público que interactúa con un medio de comunicación.** Es un concepto construido por el discurso social y académico.
 

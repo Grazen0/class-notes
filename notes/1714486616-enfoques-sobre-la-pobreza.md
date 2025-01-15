@@ -5,7 +5,10 @@ aliases:
 tags:
   - pi-1
   - teoria
+createdAt: 2024-04-30 09:16
 ---
+
+# Enfoques sobre la pobreza
 
 ## Preguntas del texto
 

@@ -5,7 +5,10 @@ aliases:
 tags:
   - labcom-1
   - lectura
+createdAt: 2024-06-04 12:18
 ---
+
+# Análisis de YouTube como herramienta de investigación
 
 [[Maraza. Análisis de YouTube como herramienta de investigación.pdf]]
 

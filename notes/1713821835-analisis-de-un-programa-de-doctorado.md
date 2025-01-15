@@ -5,7 +5,10 @@ aliases:
 tags:
   - cs/intro-cs
   - trabajo
+createdAt: 2024-04-22 16:37
 ---
+
+# Análisis de un programa de doctorado
 
 ## Parte 1: Investigación sobre un doctorado
 

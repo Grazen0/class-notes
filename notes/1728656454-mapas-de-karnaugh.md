@@ -4,7 +4,10 @@ aliases:
   - Mapas de Karnaugh
 tags:
   - mates/discretas-2/logica-digital
+createdAt: 2024-10-11 09:20
 ---
+
+# Mapas de Karnaugh
 
 Nuestro objetivo es hallar las **sumas minimales de productos**.
 

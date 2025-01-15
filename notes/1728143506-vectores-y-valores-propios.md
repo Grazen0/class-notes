@@ -3,8 +3,11 @@ id: 1728143506-vectores-y-valores-propios
 aliases:
   - Vectores y valores propios
 tags:
-  - alg-lineal
+  - mates/alg-lineal
+createdAt: 2024-10-05 10:51
 ---
+
+# Vectores y valores propios
 
 ```ad-definition
 

@@ -3,8 +3,11 @@ id: 1715642586-optimizacion
 aliases:
   - Optimización
 tags:
-  - c1v
+  - mates/c1v
+createdAt: 2024-05-13 18:23
 ---
+
+# Optimización
 
 ```ad-theorem
 title: Teorema (teorema del valor intermedio).

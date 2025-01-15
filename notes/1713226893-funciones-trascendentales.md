@@ -3,8 +3,11 @@ id: 1713226893-funciones-trascendentales
 aliases:
   - Funciones trascendentales
 tags:
-  - c1v
+  - mates/c1v
+createdAt: 2024-04-15 19:21
 ---
+
+# Funciones trascendentales
 
 ## Función exponencial
 

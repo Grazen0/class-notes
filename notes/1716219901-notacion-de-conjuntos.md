@@ -2,9 +2,13 @@
 id: 1716219901-notacion-de-conjuntos
 aliases:
   - Notación de conjuntos
+  - conjunto
 tags:
   - mates/discretas-1/conjuntos
+createdAt: 2024-05-20 10:45
 ---
+
+# Notación de conjuntos
 
 ```ad-definition
 title: Definición (conjunto).
@@ -46,7 +50,7 @@ title: Ejemplos
 
 ### Por intervalos
 
-Ver en [[S1A - Conjuntos numéricos#Recordemos Intervalo]].
+Ver en [[1712166650-conjuntos-numericos#Recordemos Intervalos|Conjuntos numéricos]].
 
 ## Terminología
 

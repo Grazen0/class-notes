@@ -3,8 +3,11 @@ id: 1724725615-matriz-inversa
 aliases:
   - Matriz inversa
 tags:
-  - alg-lineal
+  - mates/alg-lineal
+createdAt: 2024-08-26 21:26
 ---
+
+# Matriz inversa
 
 Una [[S1 - Matrices|matriz]] cuadrada $A \in M_{n \times n}$  es **invertible** si y sólo si tiene inversa.
 

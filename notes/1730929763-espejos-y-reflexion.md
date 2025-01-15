@@ -4,7 +4,10 @@ aliases:
   - Espejos y reflexión
 tags:
   - optica
+createdAt: 2024-11-06 16:49
 ---
+
+# Espejos y reflexión
 
 La óptica geométrica estudia cómo se **crean las imágenes**, lo que involucra la incidencia de rayos en diferentes superficies.
 

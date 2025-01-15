@@ -4,7 +4,10 @@ aliases:
   - Inducción simple
 tags:
   - mates/discretas-2/induccion
+createdAt: 2024-08-19 16:45
 ---
+
+# Inducción simple
 
 La inducción matemática sirve para demostrar proposiciones que dependen de alguna variable $n$ que dependa de valores naturales.
 

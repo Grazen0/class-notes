@@ -5,7 +5,10 @@ aliases:
 tags:
   - pi-1
   - lectura
+createdAt: 2024-04-07 20:00
 ---
+
+# Giro postcompetitivo en la política de CTI
 
 [[Vasen. Giro postcompetitivo en la política de CTI.pdf]]
 

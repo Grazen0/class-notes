@@ -4,7 +4,10 @@ aliases:
   - Relaciones entre clases
 tags:
   - cs/progra-2
+createdAt: 2024-10-24 11:29
 ---
+
+# Relaciones entre clases
 
 Existen 4 tipos de relaciones entre clases:
 

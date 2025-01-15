@@ -4,7 +4,10 @@ aliases:
   - Introducción
 tags:
   - cs/intro-cs
+createdAt: 2024-04-04 13:49
 ---
+
+# Introducción
 
 ## Procesamiento de lenguaje natural (NLP)
 

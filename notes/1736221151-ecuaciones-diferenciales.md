@@ -5,7 +5,10 @@ aliases:
 tags:
   - mates/edo
   - info-de-curso
+createdAt: 2025-01-06 22:39
 ---
+
+# Ecuaciones diferenciales
 
 Al considerar el modelado de la mezcla de dos **soluciones salinas** de distintas concentraciones surge una EDO de primer orden que involucra las **cantidades de sal** en cada mezcla.
 **[[material/edo/Sílabo.pdf|Sílabo]]**

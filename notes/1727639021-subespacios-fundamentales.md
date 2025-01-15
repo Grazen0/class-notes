@@ -3,8 +3,11 @@ id: 1727639021-subespacios-fundamentales
 aliases:
   - Subespacios fundamentales
 tags:
-  - alg-lineal
+  - mates/alg-lineal
+createdAt: 2024-09-29 14:43
 ---
+
+# Subespacios fundamentales
 
 ```ad-definition
 title: Definición (espacio columna).

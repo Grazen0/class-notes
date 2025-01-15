@@ -3,8 +3,11 @@ id: 1716917783-integrales-dobles
 aliases:
   - Integrales dobles
 tags:
-  - vecto
+  - mates/vecto
+createdAt: 2024-05-28 12:36
 ---
+
+# Integrales dobles
 
 Formalmente, la integral doble se define de la siguiente manera.
 

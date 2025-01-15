@@ -4,7 +4,10 @@ aliases:
   - Bases de datos
 tags:
   - cs/intro-cs
+createdAt: 2024-05-13 17:12
 ---
+
+# Bases de datos
 
 Una base de datos (BD) es una **colección** de datos **estructurados** y **digitales**, organizados para **facilitar la búsqueda** de información de forma eficiente.
 

@@ -5,7 +5,10 @@ aliases:
 tags:
   - cma
   - mates/analisis
+createdAt: 2024-04-27 21:37
 ---
+
+# Introducción al análisis matemático
 
 ```ad-definition
 title: Definición (límite).

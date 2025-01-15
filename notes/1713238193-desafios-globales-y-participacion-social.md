@@ -5,7 +5,10 @@ aliases:
 tags:
   - pi-1
   - teoria
+createdAt: 2024-04-15 22:29
 ---
+
+# Desafíos globales y participación social
 
 ## Preguntas del texto
 

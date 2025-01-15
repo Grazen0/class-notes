@@ -5,7 +5,10 @@ aliases:
 tags:
   - cs/progra-1
   - laboratorio
+createdAt: 2024-04-07 20:00
 ---
+
+# Introducción a Python
 
 ## ¿Por qué usar Python?
 

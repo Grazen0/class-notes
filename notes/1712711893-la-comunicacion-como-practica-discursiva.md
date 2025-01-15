@@ -5,7 +5,10 @@ aliases:
 tags:
   - labcom-1
   - lectura
+createdAt: 2024-04-09 20:18
 ---
+
+# La comunicación como práctica discursiva
 
 [[Mata & Scarafino. La comunicación como práctica discursiva.pdf]]
 

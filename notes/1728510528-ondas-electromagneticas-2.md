@@ -4,7 +4,10 @@ aliases:
   - Ondas electromagnéticas 2
 tags:
   - optica
+createdAt: 2024-10-09 16:48
 ---
+
+# Ondas electromagnéticas 2
 
 Ver también: [[S7 - Ondas electromagnéticas]]
 

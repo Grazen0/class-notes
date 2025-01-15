@@ -5,7 +5,10 @@ aliases:
 tags:
   - pi-1
   - laboratorio
+createdAt: 2024-04-24 19:03
 ---
+
+# Teoría de sistemas
 
 ## Preguntas del texto
 

@@ -4,7 +4,10 @@ aliases:
   - Cómo hacer cosas con textos
 tags:
   - labcom-2
+createdAt: 2024-08-22 14:27
 ---
+
+# Cómo hacer cosas con textos
 
 ```ad-note
 title: Ideas preliminares

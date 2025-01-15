@@ -4,7 +4,10 @@ aliases:
   - Conceptos de demostraciones
 tags:
   - mates/discretas-1/demostracion
+createdAt: 2024-07-05 12:18
 ---
+
+# Conceptos de demostraciones
 
 Una **definición** expresa y delimita, mediante una condición, el objeto a estudiar. Debe considerarse que el lenguaje usado sea *consistente*.
 

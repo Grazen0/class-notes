@@ -5,7 +5,10 @@ aliases:
 tags:
   - cs/intro-cs
   - trabajo
+createdAt: 2024-05-20 15:33
 ---
+
+# Artículo científico
 
 **Nombre del artículo:** [MLGO: a Machine Learning Guided Compiler Optimizations Framework](https://arxiv.org/abs/2101.04808)
 

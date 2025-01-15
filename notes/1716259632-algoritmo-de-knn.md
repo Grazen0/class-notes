@@ -4,7 +4,10 @@ aliases:
   - Algoritmo de KNN
 tags:
   - cs/intro-cs
+createdAt: 2024-05-20 21:47
 ---
+
+# Algoritmo de KNN
 
 El algoritmo de **[K vecinos cercanos](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)** (KNN) es un algoritmo de machine learning simple, usado para clasificar información en base a una **muestra** inicial de clasificaciones.
 

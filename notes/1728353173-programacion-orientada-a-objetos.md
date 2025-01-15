@@ -4,7 +4,10 @@ aliases:
   - Programación orientada a objetos
 tags:
   - cs/progra-2
+createdAt: 2024-10-07 21:06
 ---
+
+# Programación orientada a objetos
 
 ```cpp
 class Dog {
@@ -119,4 +122,3 @@ Dog::~Dog() {
     std::cout << this->name << " ha dejado de existir" << std::endl;
 }
 ```
-

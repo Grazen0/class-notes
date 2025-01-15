@@ -3,9 +3,12 @@ id: 1721425495-algebra-lineal
 aliases:
   - Álgebra lineal
 tags:
-  - alg-lineal
+  - mates/alg-lineal
   - info-de-curso
+createdAt: 2024-07-19 16:44
 ---
+
+# Álgebra lineal
 
 **[[material/alg-lineal/Sílabo.pdf|Sílabo]]** | **[[material/alg-lineal/Anexo (Teo).pdf|Anexo (Teo)]]** | **[[material/alg-lineal/Anexo (Lab).pdf|Anexo (Lab)]]**
 

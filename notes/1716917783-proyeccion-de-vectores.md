@@ -3,8 +3,11 @@ id: 1716917783-proyeccion-de-vectores
 aliases:
   - Proyección de vectores
 tags:
-  - vecto
+  - mates/vecto
+createdAt: 2024-05-28 12:36
 ---
+
+# Proyección de vectores
 
 ```ad-definition
 title: Definición (proyección escalar y componente vectorial).

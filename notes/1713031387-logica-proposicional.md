@@ -4,7 +4,10 @@ aliases:
   - Lógica proposicional
 tags:
   - mates/discretas-1/logica
+createdAt: 2024-04-13 13:03
 ---
+
+# Lógica proposicional
 
 ## Proposiciones lógicas
 

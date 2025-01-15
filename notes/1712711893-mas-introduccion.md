@@ -4,7 +4,10 @@ aliases:
   - Más introducción
 tags:
   - cs/intro-cs
+createdAt: 2024-04-09 20:18
 ---
+
+# Más introducción
 
 ## Los últimos 1,000 años en un reloj de pared
 

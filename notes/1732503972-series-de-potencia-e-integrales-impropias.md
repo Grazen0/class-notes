@@ -3,8 +3,11 @@ id: 1732503972-series-de-potencia-e-integrales-impropias
 aliases:
   - Series de potencia e integrales impropias
 tags:
-  - vecto
+  - mates/vecto
+createdAt: 2024-11-24 22:06
 ---
+
+# Series de potencia e integrales impropias
 
 ## Series de potencia
 
@@ -24,7 +27,7 @@ a - R < x < a + R
 
 entonces le llamamos a $R$ el **radio de convergencia**.
 
-El radio de convergencia se suele calcular usando la [[S14 - Series y criterios de convergencia#Prueba del cociente/raíz|prueba del cociente o de la raíz]].
+El radio de convergencia se suele calcular usando la [[1716917783-series-y-criterios-de-convergencia#Prueba del cociente/raíz|prueba del cociente o la raíz]].
 
 ### Series de Taylor
 
@@ -75,19 +78,3 @@ $$
 ```
 
 Son integrales cuyos límites de integración incluyen al infinito. Se calculan con límites.
-
-### Transformada de Laplace
-
-Se usa para resolver ecuaciones diferenciales.
-
-```ad-definition
-
-Sea $f$ una función definida para todo $t \geq 0$. Entonces, la **transformada de Laplace** de $f$ es igual a
-
-$$
-\mathcal{L}\left\{ f(t) \right\} := \int_{0}^{\infty} e^{-st}f(t) \, dt
-,$$
-
-siempre que dicha integral exista.
-
-```

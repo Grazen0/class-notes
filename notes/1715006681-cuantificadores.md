@@ -4,7 +4,10 @@ aliases:
   - Cuantificadores
 tags:
   - mates/discretas-1/logica
+createdAt: 2024-05-06 09:44
 ---
+
+# Cuantificadores
 
 ```ad-definition
 title: Definición (función proposicional).

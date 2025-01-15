@@ -5,7 +5,10 @@ aliases:
 tags:
   - labcom-1
   - laboratorio
+createdAt: 2024-05-03 18:36
 ---
+
+# Tips de lectura
 
 ## Pre-lectura
 

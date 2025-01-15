@@ -4,7 +4,10 @@ aliases:
   - Polimorfismo
 tags:
   - cs/progra-2
+createdAt: 2024-11-05 18:26
 ---
+
+# Polimorfismo
 
 En esencia, el polimorfismo trata de que **un identificador** pueda ser **varias cosas a la vez**.
 

@@ -4,7 +4,10 @@ aliases:
   - Composición de funciones
 tags:
   - mates/discretas-1/funciones
+createdAt: 2024-07-01 10:07
 ---
+
+# Composición de funciones
 
 ![[Composicion de funciones.excalidraw]]
 

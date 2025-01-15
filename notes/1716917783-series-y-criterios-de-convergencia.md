@@ -3,8 +3,11 @@ id: 1716917783-series-y-criterios-de-convergencia
 aliases:
   - Series y criterios de convergencia
 tags:
-  - vecto
+  - mates/vecto
+createdAt: 2024-05-28 12:36
 ---
+
+# Series y criterios de convergencia
 
 ```ad-definition
 title: Definición (serie).

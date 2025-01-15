@@ -5,7 +5,10 @@ aliases:
 tags:
   - labcom-1
   - teoria
+createdAt: 2024-04-30 15:12
 ---
+
+# Investigación académica
 
 El proceso de investigación académica presenta varias características que debemos tomar en cuenta.
 

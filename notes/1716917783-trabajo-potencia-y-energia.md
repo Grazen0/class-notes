@@ -4,7 +4,10 @@ aliases:
   - Trabajo, potencia y energía
 tags:
   - optica
+createdAt: 2024-05-28 12:36
 ---
+
+# Trabajo, potencia y energía
 
 ```ad-important
 title: Nota importante

@@ -4,7 +4,10 @@ aliases:
   - Fundamentos de puntuación y la coma
 tags:
   - labcom-2
+createdAt: 2024-05-28 12:36
 ---
+
+# Fundamentos de puntuación y la coma
 
 No existe tal cosa como *el* español. Lo que existen son diferentes **variedades de español**.
 

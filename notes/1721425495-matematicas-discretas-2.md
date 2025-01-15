@@ -5,7 +5,10 @@ aliases:
 tags:
   - mates/discretas-2
   - info-de-curso
+createdAt: 2024-07-19 16:44
 ---
+
+# Matemáticas discretas 2
 
 ## Profesores
 

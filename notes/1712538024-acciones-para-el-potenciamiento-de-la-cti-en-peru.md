@@ -5,7 +5,10 @@ aliases:
 tags:
   - pi-1
   - lectura
+createdAt: 2024-04-07 20:00
 ---
+
+# Acciones para el potenciamiento de la CTI en Perú
 
 [[CCCTI. Acciones para el potenciamiento de la CTI en Perú.pdf]]
 

@@ -5,7 +5,10 @@ aliases:
 tags:
   - pi-1
   - teoria
+createdAt: 2024-04-22 11:39
 ---
+
+# De los ODM a los ODS
 
 ## Preguntas del texto
 

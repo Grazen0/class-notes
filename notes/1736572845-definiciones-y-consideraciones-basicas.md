@@ -4,7 +4,10 @@ aliases:
   - Definiciones y consideraciones básicas
 tags:
   - mates/stats
+createdAt: 2025-01-11 00:20
 ---
+
+# Definiciones y consideraciones básicas
 
 ## Definiciones básicas
 

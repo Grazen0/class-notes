@@ -3,8 +3,11 @@ id: 1725174639-determinantes
 aliases:
   - Determinantes
 tags:
-  - alg-lineal
+  - mates/alg-lineal
+createdAt: 2024-09-01 02:10
 ---
+
+# Determinantes
 
 ```ad-definition
 

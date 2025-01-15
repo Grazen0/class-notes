@@ -3,8 +3,11 @@ id: 1712711893-tipos-de-funciones
 aliases:
   - Tipos de funciones
 tags:
-  - c1v
+  - mates/c1v
+createdAt: 2024-04-09 20:18
 ---
+
+# Tipos de funciones
 
 Esta wea está más fácil q
 

@@ -4,7 +4,10 @@ aliases:
   - Estructuras de control
 tags:
   - cs/progra-2
+createdAt: 2024-05-28 12:36
 ---
+
+# Estructuras de control
 
 ````ad-note
 title: Nota: Precisión de la salida

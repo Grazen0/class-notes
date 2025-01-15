@@ -5,7 +5,10 @@ aliases:
 tags:
   - cs/progra-1
   - teoria
+createdAt: 2024-05-07 18:51
 ---
+
+# Bucles con for
 
 dea
 

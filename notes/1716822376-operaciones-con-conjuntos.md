@@ -4,7 +4,10 @@ aliases:
   - Operaciones con conjuntos
 tags:
   - mates/discretas-1/conjuntos
+createdAt: 2024-05-27 10:06
 ---
+
+# Operaciones con conjuntos
 
 ## Unión ($\cup$)
 

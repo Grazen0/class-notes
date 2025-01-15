@@ -3,8 +3,11 @@ id: 1716917783-funciones-vectoriales
 aliases:
   - Funciones vectoriales
 tags:
-  - vecto
+  - mates/vecto
+createdAt: 2024-05-28 12:36
 ---
+
+# Funciones vectoriales
 
 Las funciones vectoriales sirven como una forma de representar **ecuaciones paramétricas**, a menudo de forma más concisa.
 

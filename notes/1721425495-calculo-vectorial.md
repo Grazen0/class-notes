@@ -3,9 +3,12 @@ id: 1721425495-calculo-vectorial
 aliases:
   - Cálculo vectorial
 tags:
-  - vecto
+  - mates/vecto
   - info-de-curso
+createdAt: 2024-07-19 16:44
 ---
+
+# Cálculo vectorial
 
 **[[material/vecto/Sílabo.pdf|Sílabo]]** | **[[material/vecto/Anexo.pdf|Anexo]]** | **[[Cuaderno de trabajo.pdf|Cuaderno de trabajo]]**
 

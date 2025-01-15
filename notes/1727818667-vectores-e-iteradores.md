@@ -4,7 +4,10 @@ aliases:
   - Vectores e iteradores
 tags:
   - cs/progra-2
+createdAt: 2024-10-01 16:37
 ---
+
+# Vectores e iteradores
 
 En C++, un **vector** es básicamente un **arreglo dinámico** (una lista de longitud variable).
 
@@ -90,4 +93,3 @@ for (auto it = vec.begin(); it < vec.end(); it++) {
 std::cout << std::endl;
 
 ```
-

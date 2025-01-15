@@ -4,7 +4,10 @@ aliases:
   - Producto cartesiano y conjunto potencia
 tags:
   - mates/discretas-1/conjuntos
+createdAt: 2024-05-31 11:33
 ---
+
+# Producto cartesiano y conjunto potencia
 
 ```ad-definition
 

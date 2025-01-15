@@ -4,7 +4,10 @@ aliases:
   - Divisibilidad
 tags:
   - mates/discretas-1/teoria-de-numeros
+createdAt: 2024-04-11 18:21
 ---
+
+# Divisibilidad
 
 ```ad-definition
 

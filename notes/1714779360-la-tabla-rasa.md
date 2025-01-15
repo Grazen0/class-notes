@@ -5,7 +5,10 @@ aliases:
 tags:
   - labcom-1
   - laboratorio
+createdAt: 2024-05-03 18:36
 ---
+
+# La tabla rasa
 
 Notita: Pinker defiende que **la humanidad ha mejorado**, y mantiene una postura optimista.
 

@@ -5,7 +5,10 @@ aliases:
 tags:
   - pi-1
   - teoria
+createdAt: 2024-05-06 12:16
 ---
+
+# Índices para medir la pobreza
 
 ## Preguntas del texto
 

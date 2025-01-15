@@ -3,8 +3,11 @@ id: 1718670200-integral-definida-y-suma-de-riemann
 aliases:
   - Integral definida y suma de Riemann
 tags:
-  - c1v
+  - mates/c1v
+createdAt: 2024-06-17 19:23
 ---
+
+# Integral definida y suma de Riemann
 
 ```ad-definition
 

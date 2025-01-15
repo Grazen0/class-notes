@@ -3,12 +3,15 @@ id: 1724468769-producto-punto-y-cruz
 aliases:
   - Producto punto y cruz
 tags:
-  - vecto
+  - mates/vecto
+createdAt: 2024-08-23 22:06
 ---
+
+# Producto punto y cruz
 
 ## Producto punto/escalar
 
-El producto escalar del [[S1A - Vectores|vector]] $\vec{v}$ con el vector $\vec{w}$ es la proyección de $\vec{v}$ sobre $\vec{w}$ multiplicado por $\lVert \vec{w} \rVert$ (o viceversa).
+El producto escalar del [[1724469686-vectores|vector]] $\vec{v}$ con el vector $\vec{w}$ es la proyección de $\vec{v}$ sobre $\vec{w}$ multiplicado por $\lVert \vec{w} \rVert$ (o viceversa).
 
 $$
 \begin{align}

@@ -4,7 +4,10 @@ aliases:
   - EDs autónomas
 tags:
   - mates/edo
+createdAt: 2025-01-06 14:56
 ---
+
+# EDs autónomas
 
 Al considerar el modelado de la mezcla de dos **soluciones salinas** de distintas concentraciones surge una EDO de primer orden que involucra las **cantidades de sal** en cada mezcla.
 

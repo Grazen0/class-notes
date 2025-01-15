@@ -3,8 +3,11 @@ id: 1726967312-espacios-vectoriales
 aliases:
   - Espacios vectoriales
 tags:
-  - alg-lineal
+  - mates/alg-lineal
+createdAt: 2024-09-21 20:08
 ---
+
+# Espacios vectoriales
 
 ```ad-definition
 title: Definición (espacio vectorial).

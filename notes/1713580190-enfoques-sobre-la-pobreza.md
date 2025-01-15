@@ -5,7 +5,10 @@ aliases:
 tags:
   - pi-1
   - lectura
+createdAt: 2024-04-19 21:29
 ---
+
+# Enfoques sobre la pobreza
 
 [[Verdera. Enfoques sobre la pobreza.pdf]]
 

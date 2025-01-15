@@ -3,8 +3,11 @@ id: 1728876707-multiplicidades-de-valores-propios
 aliases:
   - Multiplicidades de valores propios
 tags:
-  - alg-lineal
+  - mates/alg-lineal
+createdAt: 2024-10-13 22:31
 ---
+
+# Multiplicidades de valores propios
 
 ```ad-definition
 title: Definición (multiplicidad algebraica de un valor propio).

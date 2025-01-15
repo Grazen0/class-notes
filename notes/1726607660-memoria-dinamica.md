@@ -4,7 +4,10 @@ aliases:
   - Memoria dinámica
 tags:
   - cs/progra-2
+createdAt: 2024-09-17 16:14
 ---
+
+# Memoria dinámica
 
 Para manejar memoria dinámica en el **heap**, usamos los siguientes operadores:
 

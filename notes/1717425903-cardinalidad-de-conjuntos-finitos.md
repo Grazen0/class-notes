@@ -4,7 +4,10 @@ aliases:
   - Cardinalidad de conjuntos finitos
 tags:
   - mates/discretas-1/conjuntos
+createdAt: 2024-06-03 09:45
 ---
+
+# Cardinalidad de conjuntos finitos
 
 Si $A$ es un conjunto finito, definimos $|A|$ como la **cantidad de elementos de $A$**, también llamado **cardinal** de $A$.
 

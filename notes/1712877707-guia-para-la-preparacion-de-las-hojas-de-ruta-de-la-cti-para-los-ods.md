@@ -6,7 +6,10 @@ aliases:
 tags:
   - pi-1
   - lectura
+createdAt: 2024-04-11 18:21
 ---
+
+# Guía para la preparación de las hojas de ruta de la CTI para los ODS
 
 [[ONU. Guía para la preparación de las hojas de ruta de la CTI para los ODS.pdf]]
 

@@ -4,7 +4,10 @@ aliases:
   - Leyes lógicas
 tags:
   - mates/discretas-1/logica
+createdAt: 2024-04-22 10:11
 ---
+
+# Leyes lógicas
 
 ```ad-exercise
 title: Ejercicios

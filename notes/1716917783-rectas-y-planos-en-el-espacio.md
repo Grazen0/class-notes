@@ -3,8 +3,11 @@ id: 1716917783-rectas-y-planos-en-el-espacio
 aliases:
   - Rectas y planos en el espacio
 tags:
-  - vecto
+  - mates/vecto
+createdAt: 2024-05-28 12:36
 ---
+
+# Rectas y planos en el espacio
 
 ## Rectas en 3D
 

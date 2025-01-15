@@ -5,7 +5,10 @@ aliases:
 tags:
   - labcom-1
   - teoria
+createdAt: 2024-07-02 11:21
 ---
+
+# La desinformación
 
 - [PPT](https://utec.instructure.com/courses/14373/files/2828048)
 

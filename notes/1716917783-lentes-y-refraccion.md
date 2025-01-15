@@ -4,7 +4,10 @@ aliases:
   - Lentes y refracción
 tags:
   - optica
+createdAt: 2024-05-28 12:36
 ---
+
+# Lentes y refracción
 
 ## Imágenes por refracción
 

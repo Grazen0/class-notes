@@ -4,7 +4,10 @@ aliases:
   - Interferencia de luz
 tags:
   - optica
+createdAt: 2024-11-20 17:46
 ---
+
+# Interferencia de luz
 
 Al igual que las ondas mecánicas, las ondas electromagnéticas también pueden interferir constructiva y destructivamente.
 

@@ -5,7 +5,10 @@ aliases:
 tags:
   - labcom-1
   - laboratorio
+createdAt: 2024-04-13 13:03
 ---
+
+# Oraciones y su clasificación
 
 ```ad-tip
 title: Tip de estudio

@@ -5,7 +5,10 @@ aliases:
 tags:
   - pi-1
   - lectura
+createdAt: 2024-04-22 13:03
 ---
+
+# Violencia estructural
 
 [[La Parra y Tortosa. Violencia Estructural.pdf]]
 
