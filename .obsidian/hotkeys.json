@@ -85,7 +85,8 @@
   "zen:toggle": [
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Shift"
       ],
       "key": "Z"
     }

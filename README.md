@@ -1,10 +1,10 @@
-# Class notes
+# Notas de clase
 
-Notas para mis clases de la universidad, hechas código abierto para tu disfrute (y estudio, probablemente). Deberías usar [Obsidian](https://obsidian.md/) para verlas correctamente.
+Apuntes para mis clases de la universidad, hechas código abierto para tu disfrute (y estudio, probablemente). Deberías usar [Obsidian](https://obsidian.md/) para verlas correctamente.
 
 Para abrir las notas en Obsidian, simplemente clona el repositorio con
 
-```sh
+```bash
 git clone https://github.com/Grazen0/class-notes.git
 ```
 

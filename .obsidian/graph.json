@@ -1,7 +1,7 @@
 {
-  "collapse-filter": true,
-  "search": "-tag:excalidraw -file:Kanban -file:README -path:\"Notas diarias\"  ",
-  "showTags": false,
+  "collapse-filter": false,
+  "search": "-tag:excalidraw",
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -17,6 +17,6 @@
   "repelStrength": 16.2241256245539,
   "linkStrength": 1,
   "linkDistance": 256,
-  "scale": 0.1796284077897491,
+  "scale": 0.3299984629980873,
   "close": false
 }
