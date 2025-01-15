@@ -1,6 +1,7 @@
 ---
 id: 1712877707-programacion-1
-aliases: []
+aliases:
+  - Programación 1
 tags:
   - cs/progra-1
   - info-de-curso
@@ -42,4 +43,3 @@ tags:
 | Proyecto (2)        |  P2  |   8%    |   15   | 12/07 |
 | Evaluación continua | EC2  |   4%    |   16   | 19/07 |
 |                     |      | **60%** |        |       |
-

@@ -1,6 +1,7 @@
 ---
 id: 1712877707-proyectos-interdisciplinarios-1
-aliases: []
+aliases:
+  - Proyectos interdisciplinarios
 tags:
   - pi-1
   - info-de-curso

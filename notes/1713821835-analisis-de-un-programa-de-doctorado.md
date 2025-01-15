@@ -1,6 +1,7 @@
 ---
 id: 1713821835-analisis-de-un-programa-de-doctorado
-aliases: []
+aliases:
+  - Análisis de un programa de doctorado
 tags:
   - cs/intro-cs
   - trabajo
