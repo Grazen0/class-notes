@@ -21,7 +21,7 @@ El dominio de una función de varias variables ya no es solamente un intervalo, 
 > **Resolución:** Encontramos la restricción $x^2 - y^2 \geq 0$ (debido a la raíz cuadrada), por lo que el dominio de $f$ será
 > 
 > $$
-> \dom(f) = \left\{ (x,y) \in \R^2 \lmid x^2 - y^2 \geq 0 \right\}
+> \dom(f) = \left\{ (x,y) \in \mathbb{R}^2 \lmid x^2 - y^2 \geq 0 \right\}
 > .$$
 
 ## Derivadas parciales

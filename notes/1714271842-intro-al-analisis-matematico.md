@@ -31,16 +31,12 @@ createdAt: 2024-04-27 21:37
 > $$
 > 
 > > [!PROOF]-
-> > ```ad-proposition
-> > title: Lema 1.
-> > 
-> > Sea $x$ un número real no negativo, entonces:
-> > 
-> > $$
-> > (\forall a > 0,\ x < a) \implies x = 0
-> > $$
-> > 
-> > ```
+> > > [!PROPERTY] Lema 1.
+> > > Sea $x$ un número real no negativo, entonces:
+> > >
+> > > $$
+> > > (\forall a > 0,\ x < a) \implies x = 0
+> > > $$
 > > 
 > > Nuestras hipótesis son:
 > > 

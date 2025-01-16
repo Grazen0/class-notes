@@ -69,7 +69,7 @@ Un sistema de ecuaciones se soluciona con **eliminación Gaussiana**. Esto signi
 > Sea $A$ una matriz de $n \times n$. Entonces, el **espacio nulo** de $A$ es igual a
 > 
 > $$
-> N(A) = \left\{ x \in \R^{n} \lmid Ax = 0 \right\}
+> N(A) = \left\{ x \in \mathbb{R}^{n} \lmid Ax = 0 \right\}
 > .$$
 
 Es decir, el espacio nulo de una matriz es **el conjunto de los vectores que la matriz lleva al $0$** con su transformación lineal.

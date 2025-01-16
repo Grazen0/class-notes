@@ -10,8 +10,8 @@
     "image-alignment",
     "kanagawa-font-fix",
     "mathjax-font-size",
-    "alignment",
-    "callouts"
+    "callouts",
+    "alignment"
   ],
   "nativeMenus": false,
   "textFontFamily": "",

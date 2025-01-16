@@ -47,8 +47,8 @@ y = 6x
 
 $$
 \begin{align}
-\dom f &= \R \\
-\ran f &= \R
+\dom f &= \mathbb{R} \\
+\ran f &= \mathbb{R}
 \end{align}
 $$
 
@@ -94,7 +94,7 @@ Dada una función cuadrática en la forma general con $a,b,c$ o en la forma can�
 
 $$
 \begin{align}
-\dom f &= \R \\
+\dom f &= \mathbb{R} \\
 \ran f &= \begin{cases}
 [k, +\infty) && a > 0 \\
 (-\infty, k] && a < 0

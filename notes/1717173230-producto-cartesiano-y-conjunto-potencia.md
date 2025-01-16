@@ -47,27 +47,27 @@ $$
 > Sea $A$ un conjunto. Se define el **conjunto potencia** de $A$ como el conjunto formado por todos los subconjuntos de $A$.
 > 
 > $$
-> \Ps(A) := \left\{ S : S \subseteq A \right\}
+> \operatorname{\mathscr{P}}(A) := \left\{ S : S \subseteq A \right\}
 > $$
 
 Por ejemplo:
 
 $$
-\Ps(\left\{ 1, 2, 3 \right\}) = \left\{ \varnothing, \left\{ 1 \right\}, \left\{ 2 \right\}, \left\{ 3 \right\}, \left\{ 1, 2 \right\}, \left\{ 1, 3 \right\}, \left\{ 2, 3 \right\}, \left\{ 1, 2, 3 \right\} \right\}
+\operatorname{\mathscr{P}}(\left\{ 1, 2, 3 \right\}) = \left\{ \varnothing, \left\{ 1 \right\}, \left\{ 2 \right\}, \left\{ 3 \right\}, \left\{ 1, 2 \right\}, \left\{ 1, 3 \right\}, \left\{ 2, 3 \right\}, \left\{ 1, 2, 3 \right\} \right\}
 $$
 
 ## Propiedades
 
 Sea $A$ un conjunto:
 
-1. $\varnothing \in \Ps(A)$
-2. $|\Ps(A)| = 2^{|A|}$
-3. $\Ps(\varnothing) = \left\{ \varnothing \right\}$
-4. $A \subseteq B \iff A \in \Ps(B)$
+1. $\varnothing \in \operatorname{\mathscr{P}}(A)$
+2. $|\operatorname{\mathscr{P}}(A)| = 2^{|A|}$
+3. $\operatorname{\mathscr{P}}(\varnothing) = \left\{ \varnothing \right\}$
+4. $A \subseteq B \iff A \in \operatorname{\mathscr{P}}(B)$
 
 > [!NOTE] Notación adicional
 > El conjunto potencia de $A$ también se escribe como:
 > 
 > $$
-> \Ps(A) = 2^{A} = P(A) = \mathbb{P}(A)
+> \operatorname{\mathscr{P}}(A) = 2^{A} = P(A) = \mathbb{P}(A)
 > $$

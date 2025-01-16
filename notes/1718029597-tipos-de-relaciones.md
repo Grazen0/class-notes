@@ -34,10 +34,10 @@ R_{1} &= \left\{ (1, 1), (2, 4), (4, 4), (2, 1), (2, 2) \right\} \\
 \end{align}
 $$
 
-Y la siguiente relación en $\R$ también es reflexiva:
+Y la siguiente relación en $\mathbb{R}$ también es reflexiva:
 
 $$
-R_{2} = \left\{ (x, y) \in \R^{2} \lmid x \leq y \right\}
+R_{2} = \left\{ (x, y) \in \mathbb{R}^{2} \lmid x \leq y \right\}
 $$
 
 ### Observaciones

@@ -22,7 +22,7 @@ Nótese que en una relación de orden parcial **pueden existir elementos no comp
 
 A un conjunto $A$ equipado con una relación de orden parcial en $A$, $R$ se les llama un **conjunto parcialmente ordenado (CPO)**.
 
-Algunos ejemplos de CPOs son $(\R, \leq)$ y $(\N, \mid)$.
+Algunos ejemplos de CPOs son $(\mathbb{R}, \leq)$ y $(\mathbb{N}, \mid)$.
 
 Una definición más estricta del orden parcial es el **orden total**.
 

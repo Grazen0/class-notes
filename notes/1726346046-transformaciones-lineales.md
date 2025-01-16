@@ -10,14 +10,14 @@ createdAt: 2024-09-14 15:34
 # Transformaciones lineales
 
 > [!DEFINITION] Definición (transformación).
-> Una función de la forma $T: \R^n \to \R^m$ es una **transformación** de $\R^n$ a $\R^m$.
+> Una función de la forma $T: \mathbb{R}^n \to \mathbb{R}^m$ es una **transformación** de $\mathbb{R}^n$ a $\mathbb{R}^m$.
 > 
-> Adicionalmente, cuando se tiene $T: \R^n \to \R^n$,  se suele decir que $T$ es un **operador en $\R^n$**.
+> Adicionalmente, cuando se tiene $T: \mathbb{R}^n \to \mathbb{R}^n$,  se suele decir que $T$ es un **operador en $\mathbb{R}^n$**.
 
 ## Transformaciones matriciales
 
 > [!DEFINITION]
-> Una transformación $T: \R^n \to \R^m$ es **matricial** si y sólo si tiene la forma
+> Una transformación $T: \mathbb{R}^n \to \mathbb{R}^m$ es **matricial** si y sólo si tiene la forma
 > 
 > $$
 > T(\mathbf{x}) = A\mathbf{x}
@@ -41,7 +41,7 @@ Las transformaciones matriciales son **lineales**. Es decir, cumplen las siguien
 3. $T_A(\mathbf{u} \pm \mathbf{v}) = T_A(\mathbf{u}) \pm T_A(\mathbf{v})$.
 
 > [!THEOREM]
-> Una transformación $T: \R^n \to \R^m$ es una transformación matricial si y sólo si se cumple que para todo $\mathbf{u},\mathbf{v} \in \R^n$ y todo $k \in \R$:
+> Una transformación $T: \mathbb{R}^n \to \mathbb{R}^m$ es una transformación matricial si y sólo si se cumple que para todo $\mathbf{u},\mathbf{v} \in \mathbb{R}^n$ y todo $k \in \mathbb{R}$:
 > 
 > 1. $T(\mathbf{u} + \mathbf{v}) = T(\mathbf{u}) + T(\mathbf{v})$.
 > 2. $T(k\mathbf{u})= kT(\mathbf{u})$.
@@ -51,26 +51,26 @@ Una transformación que satisface estas condiciones se denomina **transformació
 ## Transformaciones lineales
 
 > [!DEFINITION]
-> Una transformación $T: \R^n \to R^m$ es **lineal** si y sólo si cumple las siguientes propiedades:
+> Una transformación $T: \mathbb{R}^n \to R^m$ es **lineal** si y sólo si cumple las siguientes propiedades:
 > 
 > 1. $T(\mathbf{u} + \mathbf{v}) = T(\mathbf{u}) + T(\mathbf{v})$.
 > 2. $T(k\mathbf{u})= kT(\mathbf{u})$.
 
 > [!THEOREM]
-> Toda transformación lineal de $\R^n$ a $\R^m$ es una transformación matricial y viceversa.
+> Toda transformación lineal de $\mathbb{R}^n$ a $\mathbb{R}^m$ es una transformación matricial y viceversa.
 
 > [!THEOREM]
-> Sean $T_A: \R^n \to \R^m$ y $T_B: \R^n \to \R^m$. Si se cumple que $T_A(\mathbf{x}) = T_B(\mathbf{x})$ para todo $\mathbf{x} \in \R^n$, entonces $A = B$.
+> Sean $T_A: \mathbb{R}^n \to \mathbb{R}^m$ y $T_B: \mathbb{R}^n \to \mathbb{R}^m$. Si se cumple que $T_A(\mathbf{x}) = T_B(\mathbf{x})$ para todo $\mathbf{x} \in \mathbb{R}^n$, entonces $A = B$.
 
-Resulta que existe una correspondencia de uno a uno entre las matrices de $m \times n$ y las transformaciones matriciales de $\R^n$ a $\R^m$.
+Resulta que existe una correspondencia de uno a uno entre las matrices de $m \times n$ y las transformaciones matriciales de $\mathbb{R}^n$ a $\mathbb{R}^m$.
 
 Si $T$ es una transformación lineal, entonces a su matriz asociada le llamamos la **matriz estándar (o asociada) de $T$**.
 
 ### Procedimiento para hallar matrices estándar
 
-Sea $T: \R^n \to \R^m$ una transformación lineal. Para hallar la matriz estándar de $T$, lo que hacemos es:
+Sea $T: \mathbb{R}^n \to \mathbb{R}^m$ una transformación lineal. Para hallar la matriz estándar de $T$, lo que hacemos es:
 
-1. Evaluar $T$ para las bases estándar $\mathbf{e}_1, \mathbf{e}_2, \ldots, \mathbf{e}_n$ de $\R^n$.
+1. Evaluar $T$ para las bases estándar $\mathbf{e}_1, \mathbf{e}_2, \ldots, \mathbf{e}_n$ de $\mathbb{R}^n$.
 2. Construir la matriz $A = \begin{bmatrix} \mathbf{e}_1, \mathbf{e}_2, \dots, \mathbf{e}_n \end{bmatrix}$, que será la matriz estándar.
 
 ### Transformaciones notables
@@ -79,7 +79,7 @@ Sea $T: \R^n \to \R^m$ una transformación lineal. Para hallar la matriz estánd
 
 "Reflejar un vector sobre un eje" es equivalente a "invertir una de sus componentes".
 
-Las matrices estándar de las transformaciones que reflejan el espacio en $\R^2$ sobre los ejes $x$ y $y$ respectivamente son
+Las matrices estándar de las transformaciones que reflejan el espacio en $\mathbb{R}^2$ sobre los ejes $x$ y $y$ respectivamente son
 
 $$
 R_x = \begin{bmatrix}
@@ -103,7 +103,7 @@ $$
 
 (es decir, se intercambian las bases).
 
-En $\R^3$, las matrices estándar que reflejan el espacio sobre los planos $xy$, $xz$ y $yz$ respectivamente son
+En $\mathbb{R}^3$, las matrices estándar que reflejan el espacio sobre los planos $xy$, $xz$ y $yz$ respectivamente son
 
 $$
 R_{xy} = \begin{bmatrix}
@@ -125,7 +125,7 @@ $$
 
 #### Rotaciones
 
-Una transformación en $\R^2$ que rota el espacio por un ángulo $\theta$ tiene como matriz estándar a
+Una transformación en $\mathbb{R}^2$ que rota el espacio por un ángulo $\theta$ tiene como matriz estándar a
 
 $$
 R = \begin{bmatrix}
@@ -134,7 +134,7 @@ R = \begin{bmatrix}
 \end{bmatrix}
 $$
 
-En $\R^3$, las matrices estándares de rotación en los ejes $x$, $y$ y $z$ respectivamente son
+En $\mathbb{R}^3$, las matrices estándares de rotación en los ejes $x$, $y$ y $z$ respectivamente son
 
 $$
 R_x = \begin{bmatrix}
@@ -191,7 +191,7 @@ P_{yz} = \begin{bmatrix}
 ### Composición de transformaciones lineales
 
 > [!THEOREM]
-> Sean $T_A: \R^n \to \R^k$ y $T_B: \R^k \to \R^m$. Entonces, $T_A \circ T_B$ es una transformación lineal y se cumple que 
+> Sean $T_A: \mathbb{R}^n \to \mathbb{R}^k$ y $T_B: \mathbb{R}^k \to \mathbb{R}^m$. Entonces, $T_A \circ T_B$ es una transformación lineal y se cumple que 
 > 
 > $$
 > T_B \circ T_A = T_{BA}

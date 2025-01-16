@@ -49,7 +49,7 @@ Esta es llamada la **ecuación característica**.
 > 
 > $$
 > \begin{align}
-> E_\lambda &:= \left\{ \mathbf{x} \in \R^n \lmid (A - \lambda I_n)\mathbf{x} = \mathbf{0} \right\} \\
+> E_\lambda &:= \left\{ \mathbf{x} \in \mathbb{R}^n \lmid (A - \lambda I_n)\mathbf{x} = \mathbf{0} \right\} \\
 >     &= \operatorname{Nu}(A - \lambda I_n)
 > \end{align}
 > $$

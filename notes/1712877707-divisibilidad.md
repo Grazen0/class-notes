@@ -15,7 +15,7 @@ createdAt: 2024-04-11 18:21
 > En otras palabras, dados dos números enteros $a$ y $b$,
 > 
 > $$
-> a \mid b \iff \exists k \in \Z : b = ak
+> a \mid b \iff \exists k \in \mathbb{Z} : b = ak
 > $$
 
 **Ejemplos:**
@@ -42,8 +42,8 @@ createdAt: 2024-04-11 18:21
 > > [!PROOF]- Demostración (Propiedad 3).
 > > $$
 > > \begin{align}
-> > ak &= b \quad (k \in \Z) \\
-> > al &= c \quad (k \in \Z) \\
+> > ak &= b \quad (k \in \mathbb{Z}) \\
+> > al &= c \quad (k \in \mathbb{Z}) \\
 > > \implies ak + al &= b + c \\
 > > a(k + l) &= b + c
 > > \end{align}
@@ -68,7 +68,7 @@ Las propiedades 3 y 4 se pueden generalizar de la siguiente manera:
 > > 
 > > $$
 > > \begin{align}
-> > b &= ak && (k \in \Z) \\
+> > b &= ak && (k \in \mathbb{Z}) \\
 > > \cdot m &\quad \cdot m \\
 > > \implies bm &= (ak)m \\
 > > \iff mb &= akm \quad & (1)
@@ -79,7 +79,7 @@ Las propiedades 3 y 4 se pueden generalizar de la siguiente manera:
 > > 
 > > $$
 > > \begin{align}
-> > c &= al && (l \in \Z) \\
+> > c &= al && (l \in \mathbb{Z}) \\
 > > \cdot n &\quad \cdot n \\
 > > \implies cn &= (al)n \\
 > > \iff nc &= aln & (1)
@@ -103,8 +103,8 @@ Además, la divisibilidad también es **transitiva**.
 > > 
 > > $$
 > > \begin{align}
-> > b &= ak && (k \in \Z) && (1) \\
-> > c &= bl && (l \in \Z) && (2) \\
+> > b &= ak && (k \in \mathbb{Z}) && (1) \\
+> > c &= bl && (l \in \mathbb{Z}) && (2) \\
 > > (1) \implies bl &= akl \\
 > > \implies c &= akl \\
 > > \implies c &= a(kl)
@@ -125,8 +125,8 @@ Además, la divisibilidad también es **transitiva**.
 > 
 > $$
 > \begin{align}
-> n \text{ es par } &\iff \exists k \in \Z : n = 2k \\
-> n\text{ es impar } &\iff \exists k \in \Z : n = 2k + 1
+> n \text{ es par } &\iff \exists k \in \mathbb{Z} : n = 2k \\
+> n\text{ es impar } &\iff \exists k \in \mathbb{Z} : n = 2k + 1
 > \end{align}
 > $$
 

@@ -23,7 +23,7 @@ createdAt: 2024-06-24 10:12
 
 Por ejemplo, podemos decir:
 
-"Sea $f: \R \to \R$ la función definida por $f(x) = 2x$."
+"Sea $f: \mathbb{R} \to \mathbb{R}$ la función definida por $f(x) = 2x$."
 
 > [!NOTE] "Demostración" de rango
 > En este curso, podemos argumentar el rango de una función mediante su **gráfica**. De todas maneras, no es una demostración formal.

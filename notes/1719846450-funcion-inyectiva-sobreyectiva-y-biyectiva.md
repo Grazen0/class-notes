@@ -26,9 +26,9 @@ createdAt: 2024-07-01 10:07
 > .$$
 
 > [!EXAMPLE] Ejemplo
-> Sea $h: \R \to \R$, definida por $h(x) = 7 + 3x$. Entonces, $h$ es inyectiva.
+> Sea $h: \mathbb{R} \to \mathbb{R}$, definida por $h(x) = 7 + 3x$. Entonces, $h$ es inyectiva.
 > 
-> **Demostración:** Sean $x,y \in \R$ tales que $h(x) = h(y)$. Entonces:
+> **Demostración:** Sean $x,y \in \mathbb{R}$ tales que $h(x) = h(y)$. Entonces:
 > 
 > $$
 > \begin{align}
@@ -87,7 +87,7 @@ $$
 Entonces, $f$ es una función biyectiva.
 
 > [!EXAMPLE] Ejemplo de demostración
-> Sea $F: \Z \times \Z \to \Z \times Z$ una función definida mediante la regla de correspondencia
+> Sea $F: \mathbb{Z} \times \mathbb{Z} \to \mathbb{Z} \times Z$ una función definida mediante la regla de correspondencia
 > 
 > $$
 > F(x,y) = (x, x + y)
@@ -95,7 +95,7 @@ Entonces, $f$ es una función biyectiva.
 > 
 > Demostrar que $F$ es biyectiva.
 > 
-> **Demostración:** (Inyectividad) Sean $(x_{1}, y_{1})$, $(x_{2}, y_{2})$ pares ordenados en $\Z \times \Z$ tales que $F(x_{1}, y_{1}) = F(x_{2}, y_{2})$. Entonces
+> **Demostración:** (Inyectividad) Sean $(x_{1}, y_{1})$, $(x_{2}, y_{2})$ pares ordenados en $\mathbb{Z} \times \mathbb{Z}$ tales que $F(x_{1}, y_{1}) = F(x_{2}, y_{2})$. Entonces
 > 
 > $$
 > \begin{align}
@@ -106,7 +106,7 @@ Entonces, $f$ es una función biyectiva.
 > .\end{align}
 > $$
 > 
-> (Sobreyectividad) Sea $(a, b) \in \Z \times \Z$. Entonces, existe un elemento (x, y) en $\Z \times \Z$ expresable como
+> (Sobreyectividad) Sea $(a, b) \in \mathbb{Z} \times \mathbb{Z}$. Entonces, existe un elemento (x, y) en $\mathbb{Z} \times \mathbb{Z}$ expresable como
 > 
 > $$
 > (x, y) = (a, b - a)

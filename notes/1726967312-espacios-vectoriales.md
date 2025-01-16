@@ -28,21 +28,21 @@ createdAt: 2024-09-21 20:08
 
 En otras palabras, un espacio vectorial es un conjunto equipado con reglas de suma y multiplicación por números reales que satisfacen sus reglas habituales.
 
-Los elementos de $\R^m$ son llamados **vectores** de $m$ dimensiones.
+Los elementos de $\mathbb{R}^m$ son llamados **vectores** de $m$ dimensiones.
 
 > [!DEFINITION] Definición (subespacio vectorial).
 > Sea $V$ un espacio vectorial. Un subconjunto $W \subseteq V$ es un **subespacio vectorial** de $V$ si y sólo si está **cerrado** bajo la suma y producto por escalar.
 
-Por ejemplo, los subespacios vectoriales de $\R^2$ son
+Por ejemplo, los subespacios vectoriales de $\mathbb{R}^2$ son
 
-1. el mismo $\R^2$,
+1. el mismo $\mathbb{R}^2$,
 2. todas las rectas que pasan por el origen, y
 3. el conjunto unitario $\left\{ \mathbf{0} \right\}$.
 
 ## Combinaciones lineales
 
 > [!DEFINITION] Definición (combinación lineal).
-> Un vector $\mathbf{v} \in \R^m$ es una **combinación lineal** de los vectores $\mathbf{u}_1, \mathbf{u}_2,\ldots, \mathbf{u}_n \in \R^m$ si y sólo si existen $x_1,x_2,\ldots,x_n$ tales que
+> Un vector $\mathbf{v} \in \mathbb{R}^m$ es una **combinación lineal** de los vectores $\mathbf{u}_1, \mathbf{u}_2,\ldots, \mathbf{u}_n \in \mathbb{R}^m$ si y sólo si existen $x_1,x_2,\ldots,x_n$ tales que
 > 
 > $$
 > \mathbf{v} = x_1\mathbf{u}_1 + x_2\mathbf{u}_2 + \ldots + x_n\mathbf{u}_n
@@ -85,10 +85,10 @@ Comprobar la independencia lineal de un conjunto de vectores es **analizar un si
 ## Base y dimensión
 
 > [!DEFINITION] Definición (espacio generado).
-> Sea $\left\{ \mathbf{v}_1, \mathbf{v}_2, \ldots, \mathbf{v}_n \right\} \subseteq \R^m$ un conjunto de vectores. Entonces, el **espacio generado** de estos vectores es el conjunto de **todas las combinaciones lineales** de ellos. Esto es,
+> Sea $\left\{ \mathbf{v}_1, \mathbf{v}_2, \ldots, \mathbf{v}_n \right\} \subseteq \mathbb{R}^m$ un conjunto de vectores. Entonces, el **espacio generado** de estos vectores es el conjunto de **todas las combinaciones lineales** de ellos. Esto es,
 > 
 > $$
-> \operatorname{Gen}(\left\{ \mathbf{v}_1, \mathbf{v}_2, \ldots, \mathbf{v}_n \right\}) = \left\{ \mathbf{x} \in \R^m \lmid \mathbf{x} = x_1\mathbf{v}_1 + x_2\mathbf{v}_2 + \ldots + x_n\mathbf{v}_n, x_i \in \R \right\}
+> \operatorname{Gen}(\left\{ \mathbf{v}_1, \mathbf{v}_2, \ldots, \mathbf{v}_n \right\}) = \left\{ \mathbf{x} \in \mathbb{R}^m \lmid \mathbf{x} = x_1\mathbf{v}_1 + x_2\mathbf{v}_2 + \ldots + x_n\mathbf{v}_n, x_i \in \mathbb{R} \right\}
 > $$
 
 Es decir, el espacio generado de un conjunto de vectores es todo el espacio que pueden "alcanzar" con combinaciones lineales.
@@ -97,7 +97,7 @@ Es decir, el espacio generado de un conjunto de vectores es todo el espacio que 
 > Sean $\mathbf{v}_1, \mathbf{v}_2, \ldots, \mathbf{v}_n$ vectores en un espacio vectorial $V$. Entonces $\operatorname{Gen}(\left\{ \mathbf{v}_1, \mathbf{v}_2, \ldots, \mathbf{v}_n \right\})$ es un subespacio vectorial.
 
 > [!DEFINITION] Definición (base).
-> Sea $V \subseteq \R^m$ un subespacio vectorial y $\left\{ \mathbf{v}_1, \mathbf{v}_2, \ldots, \mathbf{v}_n \right\} \subseteq V$ un conjunto de vectores. Entonces, estos vectores forman una **base** de $V$ si y sólo si
+> Sea $V \subseteq \mathbb{R}^m$ un subespacio vectorial y $\left\{ \mathbf{v}_1, \mathbf{v}_2, \ldots, \mathbf{v}_n \right\} \subseteq V$ un conjunto de vectores. Entonces, estos vectores forman una **base** de $V$ si y sólo si
 > 
 > 1. $\left\{ \mathbf{v}_1, \mathbf{v}_2, \ldots, \mathbf{v}_n \right\}$ son linealmente independientes, y
 > 2. $\operatorname{Gen}(\left\{ \mathbf{v}_1, \mathbf{v}_2, \ldots, \mathbf{v}_n \right\}) = V$ (es decir, los vectores generan $V$).

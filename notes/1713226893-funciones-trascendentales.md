@@ -17,7 +17,7 @@ $$
 
 donde $a > 0$ y $a \neq 1$.
 
-**Dominio:** $\R$
+**Dominio:** $\mathbb{R}$
 **Rango:** $(0, +\infty)$
 
 ### Función de crecimiento logístico
@@ -26,7 +26,7 @@ $$
 f(x) = \frac{a}{1 + be^{-kx}}
 $$
 
-**Dominio:** $\R$
+**Dominio:** $\mathbb{R}$
 **Rango:** $(0, a)$
 
 ## Función logarítmica
@@ -38,7 +38,7 @@ $$
 donde $a > 0$ y $a \neq 1$.
 
 **Dominio:** $(0, +\infty)$
-**Rango:** $\R$
+**Rango:** $\mathbb{R}$
 
 ## Funciones hiperbólicas
 
@@ -53,7 +53,7 @@ $$
 
 $$
 \begin{align}
-\dom (\sinh) = \dom (\cosh) = \R
+\dom (\sinh) = \dom (\cosh) = \mathbb{R}
 \end{align}
 $$
 
@@ -61,7 +61,7 @@ $$
 
 $$
 \begin{align}
-\ran(\sinh) &= \R \\
+\ran(\sinh) &= \mathbb{R} \\
 \ran(\cosh) &= [1, +\infty)
 \end{align}
 $$
@@ -79,5 +79,5 @@ $T$: periodo
 
 Ojo es periódica
 
-**Dominio:** $\R$
+**Dominio:** $\mathbb{R}$
 **Rango:** $[-1, 1]$

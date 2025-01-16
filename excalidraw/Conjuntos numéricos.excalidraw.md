@@ -10,12 +10,12 @@ tags: [excalidraw]
 # Excalidraw Data
 ## Text Elements
 ## Embedded Files
-ce5ad164366481b2201bb7c721ece73bc57e0625: $$\R$$
-00b51afb1ffa7cb2a0949520fe6ccd57f940ac58: $$\Q
+ce5ad164366481b2201bb7c721ece73bc57e0625: $$\mathbb{R}$$
+00b51afb1ffa7cb2a0949520fe6ccd57f940ac58: $$\mathbb{N}
 $$
-e467a12cafe28dfc583ed9f3a019438b5f770847: $$\Z
+e467a12cafe28dfc583ed9f3a019438b5f770847: $$\mathbb{Z}
 $$
-dac4348d55ea96f0117e20aab499c42c36d671bf: $$\N
+dac4348d55ea96f0117e20aab499c42c36d671bf: $$\mathbb{N}
 $$
 
 %%

@@ -140,7 +140,7 @@ $$\qed$$
 > > con lo que la inducción está completa.
 
 > [!EXERCISE]
-> Sea $S$ un conjunto de $n$ elementos, entonces $|\Ps(S)| = 2^{n}$.
+> Sea $S$ un conjunto de $n$ elementos, entonces $|\operatorname{\mathscr{P}}(S)| = 2^{n}$.
 > 
 > > [!PROOF]-
 > > Nótese que la proposición es cierta para un conjunto de $1$ elemento, porque cualquier conjunto de un elemento $\left\{ x \right\}$ tiene $2^{1}$ subconjuntos: $\varnothing$ y $\left\{ x \right\}$.

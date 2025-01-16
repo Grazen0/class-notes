@@ -2,14 +2,12 @@
   "obsidian-excalidraw-plugin",
   "obsidian-latex",
   "obsidian-git",
-  "obsidian-latex-suite",
   "obsidian-vimrc-support",
-  "obsidian-scroll-offset",
   "url-into-selection",
   "better-word-count",
   "vim-yank-highlight",
   "persistent-graph",
   "obsidian42-brat",
   "obsidian-local-rest-api-with-scroll",
-  "obsidian-relative-line-numbers"
+  "obsidian-scroll-offset"
 ]

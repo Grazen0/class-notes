@@ -20,40 +20,40 @@ Ahora ubicamos un número $x$ en la recta. El valor de este número $x$ es la di
 ## Números enteros
 
 > [!DEFINITION]
-> El conjunto de enteros positivos, denotado por $\Z$, se define informalmente de la siguiente forma:
+> El conjunto de enteros positivos, denotado por $\mathbb{Z}$, se define informalmente de la siguiente forma:
 > 
 > $$
-> \Z := \left\{ \dots, -3, -2, -1, 0, 1, 2, 3, \dots \right\}
+> \mathbb{Z} := \left\{ \dots, -3, -2, -1, 0, 1, 2, 3, \dots \right\}
 > $$
 
 ### Enteros positivos
 
 > [!DEFINITION]
-> El conjunto de los enteros positivos, denotado por $\Zp$, se define informalmente de la siguiente forma:
+> El conjunto de los enteros positivos, denotado por $\mathbb{Z}^+$, se define informalmente de la siguiente forma:
 > 
 > $$
-> \Zp := \left\{1,2,3,4,5,\dots\right\}
+> \mathbb{Z}^+ := \left\{1,2,3,4,5,\dots\right\}
 > $$
 
-> [!INFO] En la UTEC se considera que $0 \notin \N$. Es decir, $\N = \Zp$. (😢)
+> [!INFO] En la UTEC se considera que $0 \notin \mathbb{N}$. Es decir, $\mathbb{N} = \mathbb{Z}^+$. (😢)
 
 ## Números racionales
 
 > [!DEFINITION]
-> Definimos el conjunto de los números racionales, denotado por $\Q$, como el conjunto de todos los números de la forma $\frac{a}{b}$ donde $a$ y $b$ son números enteros, con $b \neq 0$.
+> Definimos el conjunto de los números racionales, denotado por $\mathbb{N}$, como el conjunto de todos los números de la forma $\frac{a}{b}$ donde $a$ y $b$ son números enteros, con $b \neq 0$.
 > 
 > $$
-> \Q := \left\{ \frac{a}{b} \lmid a,b \in \mathbb{Z}\ y\ b \neq 0 \right\}
+> \mathbb{N} := \left\{ \frac{a}{b} \lmid a,b \in \mathbb{Z}\ y\ b \neq 0 \right\}
 > $$
 
 > [!THEOREM]
 > Todo número entero es racional. En otras palabras,
 > $$
-> \forall n \in \Z\ (n \in \Q)
+> \forall n \in \mathbb{Z}\ (n \in \mathbb{N})
 > $$
 > o alternativamente,
 > $$
-> \Z \subseteq \Q
+> \mathbb{Z} \subseteq \mathbb{N}
 > $$
 > 
 > > [!PROOF]-
@@ -63,7 +63,7 @@ Ahora ubicamos un número $x$ en la recta. El valor de este número $x$ es la di
 > [!THEOREM]
 > La suma de dos números racionales es racional. En otras palabras,
 > $$
-> \forall x,y \in \Q\ (x+y \in \Q)
+> \forall x,y \in \mathbb{N}\ (x+y \in \mathbb{N})
 > $$
 > 
 > > [!PROOF]-
@@ -126,7 +126,7 @@ Los números reales están **ordenados**. Los números a la derecha del $0$ se d
 > > Como $\frac{1}{6}$ es positivo, entonces, por definición de las desigualdades, $\frac{1}{3} \lt \frac{1}{2}$.
 
 > [!THEOREM] Teorema (Ley de Tricotomía).
-> Para todo par de números $a,b \in \R$, se cumple exactamente una de las siguientes posibilidades:
+> Para todo par de números $a,b \in \mathbb{R}$, se cumple exactamente una de las siguientes posibilidades:
 > 
 > - $a < b$
 > -  $a > b$
@@ -160,7 +160,7 @@ Estas propiedades se extienden a $\leq$ y $\geq$.
 
 $$
 \begin{align}
-a < b \text{ y } c \in \R &\implies \begin{cases}
+a < b \text{ y } c \in \mathbb{R} &\implies \begin{cases}
 ac < bc & \text{si } c > 0 \\
 ac > bc & \text{si } c < 0
 \end{cases} \\
@@ -197,6 +197,6 @@ $$
 > [a,+\infty)   &:= \left\{x \in \mathbb{R} \mid x \geq a \right\} \\
 > (-\infty, b)  &:= \left\{x \in \mathbb{R} \mid x \lt b \right\} \\
 > (-\infty, b]  &:= \left\{x \in \mathbb{R} \mid x \leq b \right\} \\
-> (-\infty, +\infty) &:= \R
+> (-\infty, +\infty) &:= \mathbb{R}
 > \end{align*}
 > $$

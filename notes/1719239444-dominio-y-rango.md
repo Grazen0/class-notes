@@ -37,13 +37,13 @@ Aquí, $\ran(f) = \left\{ x, z \right\}$.
 > \ran(f) \subseteq B
 > $$
 
-Por ejemplo, sea $f = \left\{ (x,y) \in \R^{2} \lmid y = x^{2}\right\}$. Entonces
+Por ejemplo, sea $f = \left\{ (x,y) \in \mathbb{R}^{2} \lmid y = x^{2}\right\}$. Entonces
 
 $$
 \begin{align}
-\dom(f) &= \R \\
+\dom(f) &= \mathbb{R} \\
 \ran(f) &= [0, +\infty)
 \end{align}
 $$
 
-y el conjunto de llegada de $f$ es $\R$.
+y el conjunto de llegada de $f$ es $\mathbb{R}$.
