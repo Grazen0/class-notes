@@ -12,12 +12,8 @@ createdAt: 2024-04-24 19:03
 
 ## Preguntas del texto
 
-```ad-quote
-title: Idea principal
-
-**"Todo está relacionado entre sí."**
-
-```
+> [!QUOTE] Idea principal
+> **"Todo está relacionado entre sí."**
 
 ## ¿Qué es la teoría de sistemas?
 
@@ -25,12 +21,8 @@ La teoría de sistemas estudia las **relaciones entre sistemas**.
 
 ![[Teoria de sistemas.excalidraw|width:80%]]
 
-```ad-example
-title: Ejemplo
-
-Para estudiar un proyector de video, estudia no solo su funcionamiento, sino también cómo lo que proyecta interactúa con el que lo ve, cómo trabaja con el sistema de electricidad del edificio, etc.
-
-```
+> [!EXAMPLE] Ejemplo
+> Para estudiar un proyector de video, estudia no solo su funcionamiento, sino también cómo lo que proyecta interactúa con el que lo ve, cómo trabaja con el sistema de electricidad del edificio, etc.
 
 ## Las 3 premisas de los sistemas
 

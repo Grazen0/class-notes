@@ -12,21 +12,15 @@ createdAt: 2024-04-07 20:00
 
 ## Innatismo
 
-```ad-definition
-
-El **innatismo** es la filosofía o doctrina que afirma que el ser humano nace con *conocimiento pre-establecido*. (Ideas, conocimiento, creencias, etc)
-
-```
+> [!DEFINITION]
+> El **innatismo** es la filosofía o doctrina que afirma que el ser humano nace con *conocimiento pre-establecido*. (Ideas, conocimiento, creencias, etc)
 
 Una historia que explica el por qué de la creencia en esta doctrina es el diálogo **[Menón](https://es.wikipedia.org/wiki/Men%C3%B3n)**, donde se ejemplifica el conocimiento innato.
 
 ## Culturalismo
 
-```ad-definition
-
-El **culturalismo** afirma que el ser humano gana su conocimiento a partir de sus **interacciones y experiencias** a lo largo de la vida.
-
-```
+> [!DEFINITION]
+> El **culturalismo** afirma que el ser humano gana su conocimiento a partir de sus **interacciones y experiencias** a lo largo de la vida.
 
 **Descartes** afirma una mezcla entre ambas creencias y da 3 ejemplos de cosas que todos sabemos de forma innata:
 
@@ -54,18 +48,10 @@ Entonces surge la **crisis de paradigmas**, una época de debate que duró hasta
 
 Chomsky plantea la idea de un **lenguaje universal**, que sería la razón por la cual los seres humanos parecen poder aprender lenguaje de forma autónoma.
 
-```ad-important
-title: Palabra clave
-
-**Recursividad**: La capacidad de generar posibilidades infinitas a partir de estructuras básicas.
-
-```
+> [!IMPORTANT] Palabra clave
+> **Recursividad**: La capacidad de generar posibilidades infinitas a partir de estructuras básicas.
 
 Se ha estudiado que todas las lenguas presentan recursividad, aunque a veces presente de forma peculiar.
 
-```ad-note
-title: Datazo
-
-Hay una lengua amazónica que no sigue las reglas del lenguaje universal de Chomsky. (Buscar nombre en Google)
-
-```
+> [!NOTE] Datazo
+> Hay una lengua amazónica que no sigue las reglas del lenguaje universal de Chomsky. (Buscar nombre en Google)

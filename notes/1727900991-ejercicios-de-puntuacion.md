@@ -9,19 +9,15 @@ createdAt: 2024-10-02 15:29
 
 # Ejercicios de puntuación
 
-```ad-note
-title: Conectores/nexos subordinantes
-
-No llegué a apuntar esto antes, pero los **nexos subordinantes** son:
-
-- Van al *medio*:
-	- **Causal:** porque, por qué
-	- **Final:** para que, para qué
-- Van al *inicio* (por lo que les llaman "prótasis"):
-	- **Condicional:** si
-	- **Concesivo:** aunque
-
-```
+> [!NOTE] Conectores/nexos subordinantes
+> No llegué a apuntar esto antes, pero los **nexos subordinantes** son:
+> 
+> - Van al *medio*:
+> 	- **Causal:** porque, por qué
+> 	- **Final:** para que, para qué
+> - Van al *inicio* (por lo que les llaman "prótasis"):
+> 	- **Condicional:** si
+> 	- **Concesivo:** aunque
 
 01. ¿Cuál de las siguientes oraciones contiene un elemento restrictivo?
     - Mi amigo, que vive en Madrid, viene a visitarme.
@@ -99,18 +95,13 @@ No llegué a apuntar esto antes, pero los **nexos subordinantes** son:
     - Mi hermano, valiente pero temerario, o bien se arriesgó demasiado, aunque debía hacerlo, o bien se ganó una mayor confianza de la comunidad.
     - Mi hermano, valiente pero temerario, o bien se arriesgó demasiado, o bien se ganó una mayor admiración de la comunidad y también su recelo.
 
-```ad-info
-title: Respuestas
-collapse: closed
-
-1. B
-2. A
-3. B
-4. B
-5. B
-6. A
-7. C
-8. C
-9. D
-
-```
+> [!INFO]- Respuestas
+> 1. B
+> 2. A
+> 3. B
+> 4. B
+> 5. B
+> 6. A
+> 7. C
+> 8. C
+> 9. D

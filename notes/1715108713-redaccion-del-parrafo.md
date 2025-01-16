@@ -31,8 +31,5 @@ Luego, redactamos un borrador: un **párrafo básico** con las ideas expresadas 
 
 Realizamos **ajustes y correcciones** al borrador, aplicando conectores, ejemplos, profundidad, etc.
 
-```ad-tip
-
-El proceso de redactar un párrafo debe ser **constructivo** y **progresivo**.
-
-```
+> [!TIP]
+> El proceso de redactar un párrafo debe ser **constructivo** y **progresivo**.

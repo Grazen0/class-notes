@@ -12,21 +12,13 @@ createdAt: 2024-04-09 20:18
 
 ## Variables
 
-```ad-definition
-title: Concepto
-
-Una **variable** es un **contenedor de datos** dentro de la memoria que almacena algún valor. **Puede ser modificada** a lo largo de un programa.
-
-```
+> [!DEFINITION] Concepto
+> Una **variable** es un **contenedor de datos** dentro de la memoria que almacena algún valor. **Puede ser modificada** a lo largo de un programa.
 
 ## Expresiones
 
-```ad-definition
-title: Concepto
-
-Una **expresión** es una combinación de valores, variables, operadores y llamadas a funciones.
-
-```
+> [!DEFINITION] Concepto
+> Una **expresión** es una combinación de valores, variables, operadores y llamadas a funciones.
 
 ```python
 minutes = 645          # Una expresión literal

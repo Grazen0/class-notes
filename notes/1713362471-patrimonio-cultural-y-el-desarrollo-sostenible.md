@@ -12,23 +12,15 @@ createdAt: 2024-04-17 09:01
 
 ## Preguntas del texto
 
-```ad-quote
-title: Importancia del patrimonio cultural
-
-El patrimonio cultural es "esencial para promover la paz y el desarrollo social, ambiental y económico sostenible".
-
-```
+> [!QUOTE] Importancia del patrimonio cultural
+> El patrimonio cultural es "esencial para promover la paz y el desarrollo social, ambiental y económico sostenible".
 
 **Desafíos**: Cambio climático, desastres naturales, conflictos comunitarios, educación, salud, emigración, urbanización, marginación, desigualdad económica.
 
 ## Desarrollo sostenible
 
-```ad-info
-title: ¿Qué hace el desarrollo sostenible?
-
-Satisface las necesidades **actuales** de las personas **sin comprometer a las generaciones futuras**.
-
-```
+> [!INFO] ¿Qué hace el desarrollo sostenible?
+> Satisface las necesidades **actuales** de las personas **sin comprometer a las generaciones futuras**.
 
 Los ODS relevantes para el patrimonio son:
 

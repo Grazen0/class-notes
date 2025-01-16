@@ -44,12 +44,8 @@ Se necesita **difusión** para lograr **disposición**.
 
 #### Objetivo del texto
 
-```ad-note
-title: Nota: "Torre de Babel"
-
-Uno de los **retos** más complicados para la cooperación respecto a los ODS es la **carencia de un contexto y lenguaje comunes**. Diferentes países tienen diferentes situaciones sociales y económicas.
-
-```
+> [!NOTE] Nota: "Torre de Babel"
+> Uno de los **retos** más complicados para la cooperación respecto a los ODS es la **carencia de un contexto y lenguaje comunes**. Diferentes países tienen diferentes situaciones sociales y económicas.
 
 Esta guía presenta **recomendaciones** que ayudarán a cada país a preparar su propia **hojas de ruta** para abordar los ODS.
 
@@ -72,26 +68,17 @@ Cada país tiene ya una de tres **bases** (marcos políticos) para guiar su hoja
 
 Esta guía quiere **fomentar el uso de la CTI para cumplir los ODS** para cualquiera de estos planes.
 
-```ad-note
-title: Ejemplos reales de CTI exitosa
-
-Países como Japón, Corea, China e India **incluyen a la CTI en sus estrategias de desarrollo**, y por eso ahora son líderes tecnológicos.
-
-
-```
+> [!NOTE] Ejemplos reales de CTI exitosa
+> Países como Japón, Corea, China e India **incluyen a la CTI en sus estrategias de desarrollo**, y por eso ahora son líderes tecnológicos.
 
 ### 1.3. Necesidad de reforzar las asociaciones internacionales de CTI
 
 La CTI tiene el potencial para cambiar el rumbo de países en desarrollo. En particular, el potencial es aún mejor si se usan las **relaciones internacionales**.
 
-```ad-example
-title: Ejemplo: Kenia, 2019
-
-El servicio de dinero móvil "M-Pesa" aumentó la inclusión financiera del 30% al 90%.
-
-**¡PERO... fue posible gracias a una subvención del Reino Unido!**
-
-```
+> [!EXAMPLE] Ejemplo: Kenia, 2019
+> El servicio de dinero móvil "M-Pesa" aumentó la inclusión financiera del 30% al 90%.
+> 
+> **¡PERO... fue posible gracias a una subvención del Reino Unido!**
 
 Por eso, los países más desarrollados deben **ayudar a los países en desarrollo**.
 
@@ -105,19 +92,15 @@ Se dan 3 recomendaciones para reforzar estas alianzas:
 2. **Impulsar el mercado internacional de CTI** para aplicar las hojas de ruta.
 3. **Facilitar la creación de alianzas de CTI** para lograr objetivos mundiales.
 
-```ad-warning
-title: Riesgos de los avances tecnológicos
-
-Los **países en desarrollo** tienen varios riesgos ante el desarrollo de la tecnología:
-
-1. Quedarse aún más atrás en tecnología.
-2. **Reducción en la demanda de obra barata**, que suele ser uno de los ingresos principales de estos países.
-3. Los países desarrollados pueden comenzar a producir de forma autónoma, **reduciendo el mercado de exportación agricultora**.
-4. Falta de puestos de trabajo. ($\to$ inestabilidad social)
-5. Desigualdad de ingresos.
-6. Los países en desarrollo no se consideran tanto en los debates sobre la tecnología.
-
-```
+> [!WARNING] Riesgos de los avances tecnológicos
+> Los **países en desarrollo** tienen varios riesgos ante el desarrollo de la tecnología:
+> 
+> 1. Quedarse aún más atrás en tecnología.
+> 2. **Reducción en la demanda de obra barata**, que suele ser uno de los ingresos principales de estos países.
+> 3. Los países desarrollados pueden comenzar a producir de forma autónoma, **reduciendo el mercado de exportación agricultora**.
+> 4. Falta de puestos de trabajo. ($\to$ inestabilidad social)
+> 5. Desigualdad de ingresos.
+> 6. Los países en desarrollo no se consideran tanto en los debates sobre la tecnología.
 
 ### 1.4. Elementos clave de una hoja de ruta
 
@@ -146,67 +129,59 @@ Los **países en desarrollo** tienen varios riesgos ante el desarrollo de la tec
 
 ---
 
-```ad-info
-title: Recomendaciones del Informe Mundial sobre el Desarrollo Sostenible
+> [!INFO] Recomendaciones del Informe Mundial sobre el Desarrollo Sostenible
+> Se proponen **6 puntos de entrada** para abordar el desarrollo sostenible:
+> 
+> 1. Bienestar y habilidades **humanas**
+> 2. **Economías** sostenibles y justas
+> 3. **Sistemas alimentarios** sostenibles y alimentación sana
+> 4. Descarbonización de la **energía** y acceso universal
+> 5. Desarrollo **urbano** y periurbano
+> 6. Patrimonio **medioambiental** mundial
+> 
+> Además, para cada punto de entrada se le recomiendan **4 palancas** para facilitar las transformaciones necesarias.
+> 
+> 1. Gobernanza
+> 2. Economía y finanzas
+> 3. Acción individual y colectiva
+> 4. Ciencia y tecnología
 
-Se proponen **6 puntos de entrada** para abordar el desarrollo sostenible:
-
-1. Bienestar y habilidades **humanas**
-2. **Economías** sostenibles y justas
-3. **Sistemas alimentarios** sostenibles y alimentación sana
-4. Descarbonización de la **energía** y acceso universal
-5. Desarrollo **urbano** y periurbano
-6. Patrimonio **medioambiental** mundial
-
-Además, para cada punto de entrada se le recomiendan **4 palancas** para facilitar las transformaciones necesarias.
-
-1. Gobernanza
-2. Economía y finanzas
-3. Acción individual y colectiva
-4. Ciencia y tecnología
-
-```
-
-```ad-info
-title: Principales caras de la innovación para los ODS
-
-**📦 Productos y servicios**
-
-- Responder a **necesidades económicas**.
-- Productos accesibles, duraderos, reutilizables, etc.
-- Servicios accesibles, eficientes, rápidos, etc.
-
-**🏬 Organizativa (institucional)**
-
-- Mejor organización del suministro de bienes / servicios.
-- Mejor gestión de la producción de bienes / servicios.
-
-**💰 De comercialización**
-
-- Entrega rápida.
-- Diferenciación de productos (etiquetas ecológicas).
-- Campañas científicas y **sensibilización**.
-
-**🤝 En modelos de negocio**
-
-- Mejor **organización** de las empresas y sus productos / servicios.
-- Mejores **propuestas de valor** (ep. ej. conomía circular)
-
-**💕 En favor de los pobres, inclusiva y fructífera**
-
-- Abordar las necesidades de los **marginados**.
-- Productos **asequibles** con poco impacto ambiental.
-
-**👥 De base**
-
-- Agentes de base (ONG, comunidades)
-
-**👦 Social**
-
-- **Colaboraciones** con beneficios sociales y ambientales.
-
-**🌐 Del sistema**
-
-- Cambios en el sistema aplicadas por varias organizaciones.
-
-```
+> [!INFO] Principales caras de la innovación para los ODS
+> **📦 Productos y servicios**
+> 
+> - Responder a **necesidades económicas**.
+> - Productos accesibles, duraderos, reutilizables, etc.
+> - Servicios accesibles, eficientes, rápidos, etc.
+> 
+> **🏬 Organizativa (institucional)**
+> 
+> - Mejor organización del suministro de bienes / servicios.
+> - Mejor gestión de la producción de bienes / servicios.
+> 
+> **💰 De comercialización**
+> 
+> - Entrega rápida.
+> - Diferenciación de productos (etiquetas ecológicas).
+> - Campañas científicas y **sensibilización**.
+> 
+> **🤝 En modelos de negocio**
+> 
+> - Mejor **organización** de las empresas y sus productos / servicios.
+> - Mejores **propuestas de valor** (ep. ej. conomía circular)
+> 
+> **💕 En favor de los pobres, inclusiva y fructífera**
+> 
+> - Abordar las necesidades de los **marginados**.
+> - Productos **asequibles** con poco impacto ambiental.
+> 
+> **👥 De base**
+> 
+> - Agentes de base (ONG, comunidades)
+> 
+> **👦 Social**
+> 
+> - **Colaboraciones** con beneficios sociales y ambientales.
+> 
+> **🌐 Del sistema**
+> 
+> - Cambios en el sistema aplicadas por varias organizaciones.

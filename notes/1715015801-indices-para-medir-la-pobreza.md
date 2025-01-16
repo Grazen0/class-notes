@@ -18,12 +18,8 @@ Existen dos aproximaciones: **perfiles de pobreza** y **enfoques**.
 
 Un perfil de pobreza se construye a partir de información sociodemográfica (usualmente de entidades como la INEI).
 
-```ad-important
-title: Importante
-
-Es sumamente importante escoger **buenos índices**. Sí, la pobreza es multidimensional y todo, pero los índices suelen ser numéricos y pueden no ser lo que necesitamos.
-
-```
+> [!IMPORTANT] Importante
+> Es sumamente importante escoger **buenos índices**. Sí, la pobreza es multidimensional y todo, pero los índices suelen ser numéricos y pueden no ser lo que necesitamos.
 
 ### Índices de pobreza
 

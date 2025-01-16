@@ -9,14 +9,10 @@ createdAt: 2024-05-28 12:36
 
 # Proyección de vectores
 
-```ad-definition
-title: Definición (proyección escalar y componente vectorial).
-
-Definimos $\operatorname{proy}_{\vec{w}}(\vec{v})$ como el **vector de la proyección** de $\vec{v}$ sobre $\vec{w}$.
-
-Similarmente, definimos $\operatorname{comp}_{\vec{w}}(\vec{v})$ (la componente de $\vec{v}$ sobre $\vec{w}$) como la **magnitud** de dicha proyección.
-
-```
+> [!DEFINITION] Definición (proyección escalar y componente vectorial).
+> Definimos $\operatorname{proy}_{\vec{w}}(\vec{v})$ como el **vector de la proyección** de $\vec{v}$ sobre $\vec{w}$.
+> 
+> Similarmente, definimos $\operatorname{comp}_{\vec{w}}(\vec{v})$ (la componente de $\vec{v}$ sobre $\vec{w}$) como la **magnitud** de dicha proyección.
 
 ![[proyeccion de vectores.excalidraw]]
 

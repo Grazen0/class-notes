@@ -37,12 +37,8 @@ Algunas referencias a este enfoque se encuentran en:
 
 ### a. Banco Mundial e IDS
 
-```ad-important
-title: Idea principal
-
-Se necesita **inversión pública** y **educación** para convertir la pobreza en productividad.
-
-```
+> [!IMPORTANT] Idea principal
+> Se necesita **inversión pública** y **educación** para convertir la pobreza en productividad.
 
 El desarrollo de los países subdesarrollados no afecta a un tercio de su población, **el crecimiento se distribuye desigualmente**.
 
@@ -62,12 +58,8 @@ Sin embargo, este modelo es difícil de seguir, por lo difícil que sería atrae
 
 ### b. El enfoque del BID
 
-```ad-important
-title: Idea principal
-
-Se necesita una **mejor distribución de los activos** que beneficie a los pobres.
-
-```
+> [!IMPORTANT] Idea principal
+> Se necesita una **mejor distribución de los activos** que beneficie a los pobres.
 
 En este enfoque, lo más importante es el **crecimiento económico**. El uso y acceso a los activos queda en segunda.
 
@@ -139,21 +131,17 @@ Se propone un enfoque "**activos - vulnerabilidad - estructura de oportunidades*
 
 Amartya Sen postula que la pobreza es *equivalente* a la falta de **capacidades y derechos básicos**, incluyendo asuntos como la salud, educación, derechos políticos, etc.
 
-```ad-info
-title: Sobre los "desempeños"
-
-Sen se refiere a los **desempeños** como las cosas que una **persona logra ser o hacer al vivir**.
-
-Los desempeños incluyen:
-
-- Estar bien nutrido
-- Tener buena salud
-
-Entonces, la capacidad de una persona refleja sus desempeños, por lo que ambos conceptos están bien relacionados.
-
-El concepto de "desempeño" es importante porque puede ayudar a **focalizar** la pobreza 
-
-```
+> [!INFO] Sobre los "desempeños"
+> Sen se refiere a los **desempeños** como las cosas que una **persona logra ser o hacer al vivir**.
+> 
+> Los desempeños incluyen:
+> 
+> - Estar bien nutrido
+> - Tener buena salud
+> 
+> Entonces, la capacidad de una persona refleja sus desempeños, por lo que ambos conceptos están bien relacionados.
+> 
+> El concepto de "desempeño" es importante porque puede ayudar a **focalizar** la pobreza 
 
 Sin embargo, la pobreza se debe combatir mediante un principio de **autonomía** para los pobres:
 
@@ -188,30 +176,25 @@ Se describen **tres paradigmas** de exclusión social:
 
 ### Exclusión en el mercado laboral
 
-```ad-definition
-title: Mercados walrasianos y no walrasianos
-collapse: closed
-
-Figueroa *et al.* distinguen dos tipos de mercados: **walrasianos** y **no walrasianos**.
-
-Los mercados **walrasianos** son el "mercado perfecto".
-
-- Competencia perfecta
-- Precios perfectos
-- Equilibrio
-
-Los mercados **no walrasianos** son los más "realistas", funcionan con racionamiento cuantitativo. La existencia de estos mercados se debe a la introducción de la **inseguridad** y los **riesgos**.
-
-- Precios no equilibrados
-- Excesos de oferta y demanda
-
-Algunos ejemplos de mercados no walrasianos son:
-
-- **El mercado laboral**
-- Los créditos
-- Los seguros
-
-```
+> [!DEFINITION]- Mercados walrasianos y no walrasianos
+> Figueroa *et al.* distinguen dos tipos de mercados: **walrasianos** y **no walrasianos**.
+> 
+> Los mercados **walrasianos** son el "mercado perfecto".
+> 
+> - Competencia perfecta
+> - Precios perfectos
+> - Equilibrio
+> 
+> Los mercados **no walrasianos** son los más "realistas", funcionan con racionamiento cuantitativo. La existencia de estos mercados se debe a la introducción de la **inseguridad** y los **riesgos**.
+> 
+> - Precios no equilibrados
+> - Excesos de oferta y demanda
+> 
+> Algunos ejemplos de mercados no walrasianos son:
+> 
+> - **El mercado laboral**
+> - Los créditos
+> - Los seguros
 
 Un problema existente en el mercado laboral es que existe **demasiada oferta** de trabajo, por lo que el desempleo es inevitable.
 
@@ -243,12 +226,8 @@ Se dice que la **constante incertidumbre** siempre causará un aumento constante
 
 ## 4. Enfoque estructural
 
-```ad-info
-title: Idea clave
-
-La **pobreza estructural** se refiere a la condición **permanente** de pobreza en sectores amplios de la población, causada desde la estructura social.
-
-```
+> [!INFO] Idea clave
+> La **pobreza estructural** se refiere a la condición **permanente** de pobreza en sectores amplios de la población, causada desde la estructura social.
 
 Se considera el concepto del **círculo vicioso de pobreza**.
 

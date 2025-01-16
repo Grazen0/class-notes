@@ -36,14 +36,10 @@ El chismorreo permite la aparición de **mitos comunes**. Así, podemos generar 
 
 Vivimos en una **realidad dual**: la **objetiva** y la **imaginada**.
 
-```ad-important
-title: Importante
-
-La realidad objetiva **depende** de la realidad imaginada.
-
-Esto es porque la realidad imaginada le da **sentido y valor** a la realidad objetiva
-
-```
+> [!IMPORTANT] Importante
+> La realidad objetiva **depende** de la realidad imaginada.
+> 
+> Esto es porque la realidad imaginada le da **sentido y valor** a la realidad objetiva
 
 ## Pasando por alto el genoma
 

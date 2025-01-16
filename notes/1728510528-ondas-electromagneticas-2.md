@@ -31,12 +31,8 @@ Los campos $\vec{E}$ y $\vec{B}$ forman un **plano perpendicular** a la propagac
 
 A cada plano que se propaga con rapidez constante ($c$ o $v$, dependiendo del medio) se le llama **frente de onda**.
 
-```ad-seealso
-title: En otras palabras...
-
-El frente de onda es, esencialmente, **el frente de la onda a medida que viaja**.
-
-```
+> [!SEEALSO] En otras palabras...
+> El frente de onda es, esencialmente, **el frente de la onda a medida que viaja**.
 
 ### Vector de Poynting
 
@@ -60,12 +56,8 @@ $$
 I = S_\text{prom} = \frac{1}{2}\varepsilon_0c(E_\text{máx})^2
 .$$
 
-```ad-warning
-title: Advertencia
-
-Esta ecuación sólo es válida para **ondas sinusoidales**.
-
-```
+> [!WARNING] Advertencia
+> Esta ecuación sólo es válida para **ondas sinusoidales**.
 
 ## Presión de radiación
 

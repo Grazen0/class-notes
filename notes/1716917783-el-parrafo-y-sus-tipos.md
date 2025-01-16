@@ -9,12 +9,8 @@ createdAt: 2024-05-28 12:36
 
 # El párrafo y sus tipos
 
-```ad-warning
-title: Para el examen
-
-Habrá preguntas que se vinculan naturalmente a un tipo de párrafo específico. El profesor evaluará eso.
-
-```
+> [!WARNING] Para el examen
+> Habrá preguntas que se vinculan naturalmente a un tipo de párrafo específico. El profesor evaluará eso.
 
 Se suele definir al párrafo como una **unidad intermedia** entre la oración y el apartado o texto.
 

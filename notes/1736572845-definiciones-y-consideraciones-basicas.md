@@ -41,11 +41,8 @@ Se dice que un conjunto de datos es **prolijo** cuando sigue los siguientes prin
 
 Por ejemplo, esto significa que una celda no puede contener más de un valor.
 
-```ad-note
-title: Nota
-
-La prolijidad de datos tiene ciertos parecidos con la **normalización de bases de datos**.
-```
+> [!NOTE] Nota
+> La prolijidad de datos tiene ciertos parecidos con la **normalización de bases de datos**.
 
 ### Tipos de muestreo
 

@@ -9,30 +9,23 @@ createdAt: 2024-09-14 15:34
 
 # Transformaciones lineales
 
-```ad-definition
-title: Definición (transformación).
-
-Una función de la forma $T: \R^n \to \R^m$ es una **transformación** de $\R^n$ a $\R^m$.
-
-Adicionalmente, cuando se tiene $T: \R^n \to \R^n$,  se suele decir que $T$ es un **operador en $\R^n$**.
-
-```
+> [!DEFINITION] Definición (transformación).
+> Una función de la forma $T: \R^n \to \R^m$ es una **transformación** de $\R^n$ a $\R^m$.
+> 
+> Adicionalmente, cuando se tiene $T: \R^n \to \R^n$,  se suele decir que $T$ es un **operador en $\R^n$**.
 
 ## Transformaciones matriciales
 
-```ad-definition
-
-Una transformación $T: \R^n \to \R^m$ es **matricial** si y sólo si tiene la forma
-
-$$
-T(\mathbf{x}) = A\mathbf{x}
-.$$
-
-Entonces, $T$ se denota como $T_A$.
-
-Si $m = n$, se dice que $T_A$ es un **operador matricial**.
-
-```
+> [!DEFINITION]
+> Una transformación $T: \R^n \to \R^m$ es **matricial** si y sólo si tiene la forma
+> 
+> $$
+> T(\mathbf{x}) = A\mathbf{x}
+> .$$
+> 
+> Entonces, $T$ se denota como $T_A$.
+> 
+> Si $m = n$, se dice que $T_A$ es un **operador matricial**.
 
 Algunas transformaciones notables son:
 
@@ -47,39 +40,27 @@ Las transformaciones matriciales son **lineales**. Es decir, cumplen las siguien
 2. $T_A(k\mathbf{u}) = kT_A(\mathbf{u})$.
 3. $T_A(\mathbf{u} \pm \mathbf{v}) = T_A(\mathbf{u}) \pm T_A(\mathbf{v})$.
 
-```ad-theorem
-
-Una transformación $T: \R^n \to \R^m$ es una transformación matricial si y sólo si se cumple que para todo $\mathbf{u},\mathbf{v} \in \R^n$ y todo $k \in \R$:
-
-1. $T(\mathbf{u} + \mathbf{v}) = T(\mathbf{u}) + T(\mathbf{v})$.
-2. $T(k\mathbf{u})= kT(\mathbf{u})$.
-
-```
+> [!THEOREM]
+> Una transformación $T: \R^n \to \R^m$ es una transformación matricial si y sólo si se cumple que para todo $\mathbf{u},\mathbf{v} \in \R^n$ y todo $k \in \R$:
+> 
+> 1. $T(\mathbf{u} + \mathbf{v}) = T(\mathbf{u}) + T(\mathbf{v})$.
+> 2. $T(k\mathbf{u})= kT(\mathbf{u})$.
 
 Una transformación que satisface estas condiciones se denomina **transformación lineal**.
 
 ## Transformaciones lineales
 
-```ad-definition
+> [!DEFINITION]
+> Una transformación $T: \R^n \to R^m$ es **lineal** si y sólo si cumple las siguientes propiedades:
+> 
+> 1. $T(\mathbf{u} + \mathbf{v}) = T(\mathbf{u}) + T(\mathbf{v})$.
+> 2. $T(k\mathbf{u})= kT(\mathbf{u})$.
 
-Una transformación $T: \R^n \to R^m$ es **lineal** si y sólo si cumple las siguientes propiedades:
+> [!THEOREM]
+> Toda transformación lineal de $\R^n$ a $\R^m$ es una transformación matricial y viceversa.
 
-1. $T(\mathbf{u} + \mathbf{v}) = T(\mathbf{u}) + T(\mathbf{v})$.
-2. $T(k\mathbf{u})= kT(\mathbf{u})$.
-
-```
-
-```ad-theorem
-
-Toda transformación lineal de $\R^n$ a $\R^m$ es una transformación matricial y viceversa.
-
-```
-
-```ad-theorem
-
-Sean $T_A: \R^n \to \R^m$ y $T_B: \R^n \to \R^m$. Si se cumple que $T_A(\mathbf{x}) = T_B(\mathbf{x})$ para todo $\mathbf{x} \in \R^n$, entonces $A = B$.
-
-```
+> [!THEOREM]
+> Sean $T_A: \R^n \to \R^m$ y $T_B: \R^n \to \R^m$. Si se cumple que $T_A(\mathbf{x}) = T_B(\mathbf{x})$ para todo $\mathbf{x} \in \R^n$, entonces $A = B$.
 
 Resulta que existe una correspondencia de uno a uno entre las matrices de $m \times n$ y las transformaciones matriciales de $\R^n$ a $\R^m$.
 
@@ -209,14 +190,11 @@ P_{yz} = \begin{bmatrix}
 
 ### Composición de transformaciones lineales
 
-```ad-theorem
-
-Sean $T_A: \R^n \to \R^k$ y $T_B: \R^k \to \R^m$. Entonces, $T_A \circ T_B$ es una transformación lineal y se cumple que 
-
-$$
-T_B \circ T_A = T_{BA}
-.$$
-
-```
+> [!THEOREM]
+> Sean $T_A: \R^n \to \R^k$ y $T_B: \R^k \to \R^m$. Entonces, $T_A \circ T_B$ es una transformación lineal y se cumple que 
+> 
+> $$
+> T_B \circ T_A = T_{BA}
+> .$$
 
 Esto es: aplicar transformaciones lineales sucesivas es equivalente a multiplicar sus matrices estándares.

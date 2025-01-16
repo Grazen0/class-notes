@@ -13,21 +13,18 @@ Las relaciones se pueden clasificar según algunas propiedades específicas.
 
 ## Relación reflexiva
 
-```ad-definition
-
-Sea $A$ un conjunto y $R$ una relación en $A$. Entonces, $R$ es **reflexiva** si y sólo si
-
-$$
-\forall a \in A : (a,a) \in R
-.$$
-
-O de la misma manera
-
-$$
-\forall a \in A : a \mathbin{R} a
-.$$
-
-```
+> [!DEFINITION]
+> Sea $A$ un conjunto y $R$ una relación en $A$. Entonces, $R$ es **reflexiva** si y sólo si
+> 
+> $$
+> \forall a \in A : (a,a) \in R
+> .$$
+> 
+> O de la misma manera
+> 
+> $$
+> \forall a \in A : a \mathbin{R} a
+> .$$
 
 Por ejemplo, la siguiente relación en $A = \left\{ 1, 2, 4 \right\}$ es reflexiva:
 
@@ -52,21 +49,18 @@ Sea $R$ una relación en $A$.
 
 ## Relación simétrica
 
-```ad-definition
-
-Sea $A$ un conjunto y $R$ una relación en $A$. Entonces, $R$ es **simétrica** si y sólo si
-
-$$
-\forall a,b \in A : \left( (a, b) \in R \implies (b, a) \in R \right)
-.$$
-
-O de la misma manera
-
-$$
-\forall a,b \in A : \left( a \mathbin{R} b \implies b \mathbin{R} a \right)
-.$$
-
-```
+> [!DEFINITION]
+> Sea $A$ un conjunto y $R$ una relación en $A$. Entonces, $R$ es **simétrica** si y sólo si
+> 
+> $$
+> \forall a,b \in A : \left( (a, b) \in R \implies (b, a) \in R \right)
+> .$$
+> 
+> O de la misma manera
+> 
+> $$
+> \forall a,b \in A : \left( a \mathbin{R} b \implies b \mathbin{R} a \right)
+> .$$
 
 Al ubicar una relación simétrica en el plano cartesiano, existirá una simetría en con respecto a la diagonal.
 
@@ -80,21 +74,18 @@ Al ubicar una relación simétrica en el plano cartesiano, existirá una simetr�
 
 ## Relación transitiva
 
-```ad-definition
-
-Sea $A$ un conjunto y $R$ una relación en $A$. Entonces, $R$ es **transitiva** si y sólo si
-
-$$
-\forall a,b,c \in A : \left( (a, b) \in R \land (b, c) \in R \right) \implies (a, c) \in R
-.$$
-
-O de la misma manera
-
-$$
-\forall a,b,c \in A : (a \mathbin{R} b \land b \mathbin{R} c) \implies a \mathbin{R} c
-.$$
-
-```
+> [!DEFINITION]
+> Sea $A$ un conjunto y $R$ una relación en $A$. Entonces, $R$ es **transitiva** si y sólo si
+> 
+> $$
+> \forall a,b,c \in A : \left( (a, b) \in R \land (b, c) \in R \right) \implies (a, c) \in R
+> .$$
+> 
+> O de la misma manera
+> 
+> $$
+> \forall a,b,c \in A : (a \mathbin{R} b \land b \mathbin{R} c) \implies a \mathbin{R} c
+> .$$
 
 Por ejemplo: $R_{1 \ldots 3}$ son relaciones transitivas, y $R_{4}$ no es transitiva.
 
@@ -107,44 +98,36 @@ R_{4} &= \left\{ (2, 3), (2, 2), (3, 2) \right\}
 \end{align}
 $$
 
-```ad-hint
-title: Observación
-
-Al analizar la transitividad de una relación, **podemos ignorar los pares ordenados de componentes iguales (de la forma $(a,a)$)**.
-
-Es decir, cualquier elemento $(a, a) \in R$ emparejado con cualquier otro cumple automáticamente la propiedad de transitividad.
-
-```
+> [!HINT] Observación
+> Al analizar la transitividad de una relación, **podemos ignorar los pares ordenados de componentes iguales (de la forma $(a,a)$)**.
+> 
+> Es decir, cualquier elemento $(a, a) \in R$ emparejado con cualquier otro cumple automáticamente la propiedad de transitividad.
 
 ## Relación antisimétrica
 
-```ad-definition
-title: Definición.
-
-Sea $A$ un conjunto y $R$ una relación en $A$. Entonces, $R$ es una **relación antisimétrica** si y sólo si:
-
-$$
-\forall a, b \in A : ((a, b) \in R \land a \neq b) \implies (b, a) \notin R
-.$$
-
-O de la misma manera:
-
-$$
-\forall a,b \in A : (a \mathbin{R} b \land a \neq b) \implies b \mathbin{\not R} a
-.$$
-
-Otra definición equivalente es
-
-$$
-\forall a,b \in A : ((a,b) \in R \land (b,a) \in R) \implies a = b
-,$$
-
-es decir
-
-$$
-\forall a,b \in A : (a \mathbin{R} b \land b \mathbin{R} a) \implies a = b
-.$$
-
-```
+> [!DEFINITION] Definición.
+> Sea $A$ un conjunto y $R$ una relación en $A$. Entonces, $R$ es una **relación antisimétrica** si y sólo si:
+> 
+> $$
+> \forall a, b \in A : ((a, b) \in R \land a \neq b) \implies (b, a) \notin R
+> .$$
+> 
+> O de la misma manera:
+> 
+> $$
+> \forall a,b \in A : (a \mathbin{R} b \land a \neq b) \implies b \mathbin{\not R} a
+> .$$
+> 
+> Otra definición equivalente es
+> 
+> $$
+> \forall a,b \in A : ((a,b) \in R \land (b,a) \in R) \implies a = b
+> ,$$
+> 
+> es decir
+> 
+> $$
+> \forall a,b \in A : (a \mathbin{R} b \land b \mathbin{R} a) \implies a = b
+> .$$
 
 En la digráfica de una relación antisimétrica, **no existen puntos unidos en ambas direcciones**.

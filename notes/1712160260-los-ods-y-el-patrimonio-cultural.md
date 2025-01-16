@@ -66,9 +66,5 @@ Ahora, ¿qué es lo que nos hace peruanos?
 
 ¿Vivir en el país? ¿Comer comida peruana? ¿Tener la nacionalidad legalmente?
 
-```ad-important
-title: Importante
-
-Nada define mejor nuestra identidad que las **experiencias**.
-
-```
+> [!IMPORTANT] Importante
+> Nada define mejor nuestra identidad que las **experiencias**.

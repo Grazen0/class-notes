@@ -18,12 +18,8 @@ Los **criterios para la puntuación** son dos:
 1. Sintaxis
 2. Lógica
 
-```ad-hint
-title: Nota
-
-La puntuación **no responde a pausas, entonaciones ni otras necesidades de la lengua hablada**. Responde únicamente a los dos criterios mencionados arriba.
-
-```
+> [!HINT] Nota
+> La puntuación **no responde a pausas, entonaciones ni otras necesidades de la lengua hablada**. Responde únicamente a los dos criterios mencionados arriba.
 
 ## Clasificación de conectores
 
@@ -36,17 +32,13 @@ La puntuación **no responde a pausas, entonaciones ni otras necesidades de la l
 1. Delimitar incisos y unidades con **alto grado de independencia**. (interjecciones, vocativos y apéndices confirmativos)
 2. Delimitar ciertos **miembros o grupos sintácticos** en la oración simple.
 
-```ad-summary
-title: Grados de (in)dependencia
-
-(Ordenados de más dependiente a más independiente)
-
-1. Especificación.
-2. Explicación.
-3. Construcción absoluta.
-4. Vocativos, interjección, apéndices confirmativos.
-
-```
+> [!SUMMARY] Grados de (in)dependencia
+> (Ordenados de más dependiente a más independiente)
+> 
+> 1. Especificación.
+> 2. Explicación.
+> 3. Construcción absoluta.
+> 4. Vocativos, interjección, apéndices confirmativos.
 
 ### Separación de estructuras gramaticales
 
@@ -59,16 +51,12 @@ Existe una diferencia que puede ocurrir al decidir usar o no la coma:
 
 La primera oración **explica** que el (único) hermano, "por cierto", se llama Arturo. La segunda oración **especifica** que, de entre *varios hermanos*, hablamos de Arturo.
 
-```ad-important
-title: Nota
-
-El **contexto** puede determinar la correctitud del uso de la coma. Por ejemplo, la oración
-
-> *La ciudad y los perros* de Mario Vargas Llosa es una novela sobre la adolescencia brutal en un colegio militar.
-
-está **incorrectamente puntuada**. Hace falta comas: no hay por qué *especificar* el nombre del autor de dicha obra famosa, debería ser una explicación.
-
-```
+> [!IMPORTANT] Nota
+> El **contexto** puede determinar la correctitud del uso de la coma. Por ejemplo, la oración
+> 
+> > *La ciudad y los perros* de Mario Vargas Llosa es una novela sobre la adolescencia brutal en un colegio militar.
+> 
+> está **incorrectamente puntuada**. Hace falta comas: no hay por qué *especificar* el nombre del autor de dicha obra famosa, debería ser una explicación.
 
 #### Construcción absoluta
 
@@ -82,19 +70,15 @@ La coma se utiliza cuando **se modifica la estructura básica de la oración**.
 
 - Una hamburguesa, Fernando compró para mí en el Listo.
 
-```ad-warning
-title: Una excepción
-
-**No se escribe coma** si el O.D se mueve detrás del verbo.
-
-Todas las siguientes oraciones son correctas:
-
-- Luis comió arroz con pollo en el restaurante.
-- Arroz con pollo comió Luis en el restaurante.
-- Arroz con pollo, Luis comió en el restaurante.
-- En el restaurante, comió Luis arroz con pollo.
-
-```
+> [!WARNING] Una excepción
+> **No se escribe coma** si el O.D se mueve detrás del verbo.
+> 
+> Todas las siguientes oraciones son correctas:
+> 
+> - Luis comió arroz con pollo en el restaurante.
+> - Arroz con pollo comió Luis en el restaurante.
+> - Arroz con pollo, Luis comió en el restaurante.
+> - En el restaurante, comió Luis arroz con pollo.
 
 #### Construcción de carácter accesorio
 
@@ -116,14 +100,10 @@ Todas las siguientes oraciones son correctas:
 
 **Nunca se pone coma entre sujeto y predicado**. Si en una oración correcta parece que fuera así, no se la está analizando correctamente.
 
-```ad-warning
-title: Una excepción a la regla
-
-La **única** excepción a esta norma ocurre con "etc".
-
-- El novio, los parientes, los invitados, etc., esperaban ya la llegada de la novia.
-
-```
+> [!WARNING] Una excepción a la regla
+> La **única** excepción a esta norma ocurre con "etc".
+> 
+> - El novio, los parientes, los invitados, etc., esperaban ya la llegada de la novia.
 
 - Los pretendientes que se acercaron a ella durante los años de su juventud, o bien acabaron huyendo despavoridos, o bien, los más heroicos, tuvieron que retirarse con el rabo entre las piernas.
 

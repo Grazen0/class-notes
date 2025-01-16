@@ -27,12 +27,8 @@ Por esto, nuestro enfoque no debe ser en la pobreza, sino en las brechas y la **
 
 ### ¿Quién debe combatir la pobreza?
 
-```ad-note
-title: Nota
-
-La pobreza **afecta a todos**, incluyendo a los no pobres.
-
-```
+> [!NOTE] Nota
+> La pobreza **afecta a todos**, incluyendo a los no pobres.
 
 La pobreza debe ser combatida parcialmente por varios sectores de la sociedad. **No solo el gobierno, no solo la sociedad, etc**. La discusión debe llegar a un término medio.
 

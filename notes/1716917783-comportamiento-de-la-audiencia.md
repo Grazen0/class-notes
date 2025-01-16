@@ -12,12 +12,8 @@ createdAt: 2024-05-28 12:36
 
 Hablamos de la "audiencia" como el **público que interactúa con un medio de comunicación.** Es un concepto construido por el discurso social y académico.
 
-```ad-quote
-title: Según Mcquial (1997)...
-
-"La palabra audiencia está familiarmente ligada al término colectivo de '**receptores**', en el simple modelo secuencial del proceso de medios de comunicación masiva."
-
-```
+> [!QUOTE] Según Mcquial (1997)...
+> "La palabra audiencia está familiarmente ligada al término colectivo de '**receptores**', en el simple modelo secuencial del proceso de medios de comunicación masiva."
 
 Es decir, la audiencia habla de **receptores**.
 
@@ -60,22 +56,18 @@ Habla del poder que los medios de comunicación tienen para **introducir ideas e
 
 Es la idea de que los medios tienen el poder de **insertar ideas en la audiencia sin ser cuestionados**, y con un alcance masivo.
 
-```ad-example
-title: Ejemplo
-
-En la noche del 30 de octubre de 1938, millares de estadounidense fueron aterrorizados por una emisión de radio de la CBS que describía la **invasión de los marcianos**. Su artífice era Orson Welles, quien escenificaba "La Guerra de los Mundos" de H.G. Wells.
-
-Fue en parte una coincidencia:
-
-1. La gente intentó entrar a un programa de humor, pero en ese momento se estaba reproduciendo música.
-2. Hubo un cambio de canal en masa, y casualmente en uno de los canales adyacentes se estaba escenificando "La Guerra de los Mundos"
-
-Según el análisis del sociólogo Hadley Cantril:
-
-- Este acontecimiento permitió por primera vez hacer una prueba de tamaño natural sobre las **condiciones de sugestión, del recíproco contagio sobre el pánico** (psicosis colectiva).
-- Los medios lograron producir **actos irreflexivos** e **incitaciones gregarias**.
-
-```
+> [!EXAMPLE] Ejemplo
+> En la noche del 30 de octubre de 1938, millares de estadounidense fueron aterrorizados por una emisión de radio de la CBS que describía la **invasión de los marcianos**. Su artífice era Orson Welles, quien escenificaba "La Guerra de los Mundos" de H.G. Wells.
+> 
+> Fue en parte una coincidencia:
+> 
+> 1. La gente intentó entrar a un programa de humor, pero en ese momento se estaba reproduciendo música.
+> 2. Hubo un cambio de canal en masa, y casualmente en uno de los canales adyacentes se estaba escenificando "La Guerra de los Mundos"
+> 
+> Según el análisis del sociólogo Hadley Cantril:
+> 
+> - Este acontecimiento permitió por primera vez hacer una prueba de tamaño natural sobre las **condiciones de sugestión, del recíproco contagio sobre el pánico** (psicosis colectiva).
+> - Los medios lograron producir **actos irreflexivos** e **incitaciones gregarias**.
 
 #### La bala mágica
 
@@ -115,17 +107,13 @@ Si una persona tiene dos elementos cognitivos **incompatibles** entre sí, exper
 
 Cuando dos cosas que creemos, pensamos o hacemos entran en conflicto entre sí, nos produce una incongruencia incómoda que nos empuja a resolverla **alterando a alguna de las dos cosas**. Sin embargo, en general **se suele priorizar a las creencias por sobre los hechos**.
 
-```ad-example
-title: Ejemplo
-
-**"Fumar mata" vs. "me gusta fumar"**
-
-En este caso, uno puede poner excusas como:
-
-- "Igual me moriré de un paro cardíaco, toda mi familia también le ha pasado"
-- "Igual me puede atropellar un carro"
-
-```
+> [!EXAMPLE] Ejemplo
+> **"Fumar mata" vs. "me gusta fumar"**
+> 
+> En este caso, uno puede poner excusas como:
+> 
+> - "Igual me moriré de un paro cardíaco, toda mi familia también le ha pasado"
+> - "Igual me puede atropellar un carro"
 
 #### Usos y gratificaciones
 
@@ -181,9 +169,5 @@ Propone que la audiencia tiene un temor latente a "**ser cancelados**" por dar o
 
 Básicamente, **el medio a ser *funado***.
 
-```ad-example
-title: Ejemplo
-
-Tú y tus 5 amigos quieren salir de vacaciones. Ellos dicen que quieren ir a la playa, pero a ti no te parece eso. Sin embargo, te parece que sería muy aguafiestas dar la contraria, y crees que podrías ser apartado de tus amigos.
-
-```
+> [!EXAMPLE] Ejemplo
+> Tú y tus 5 amigos quieren salir de vacaciones. Ellos dicen que quieren ir a la playa, pero a ti no te parece eso. Sin embargo, te parece que sería muy aguafiestas dar la contraria, y crees que podrías ser apartado de tus amigos.

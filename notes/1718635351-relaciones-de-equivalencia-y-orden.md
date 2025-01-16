@@ -11,11 +11,8 @@ createdAt: 2024-06-17 09:42
 
 ## Relaciones de equivalencia
 
-```ad-definition
-
-Sea $R$ una relación en un conjunto $A$. Entonces, se llama a $R$ una **relación de equivalencia** si es reflexiva, simétrica y transitiva.
-
-```
+> [!DEFINITION]
+> Sea $R$ una relación en un conjunto $A$. Entonces, se llama a $R$ una **relación de equivalencia** si es reflexiva, simétrica y transitiva.
 
 Por ejemplo, sea $E$ el conjunto de estudiantes de este salón y sea la relación
 
@@ -29,16 +26,12 @@ Las relaciones de equivalencia forman grupos dentro del dominio, donde los eleme
 
 ## Relaciones de orden
 
-```ad-definition
-title: Definición (orden parcial).
-
-Sea $A$ un conjunto y $R$ una relación en $A$. Entonces, $R$ es una **relación de orden parcial** si y sólo si
-
-1. $R$ es **reflexiva**.
-2. $R$ es **antisimétrica**.
-3. $R$ es **transitiva**.
-
-```
+> [!DEFINITION] Definición (orden parcial).
+> Sea $A$ un conjunto y $R$ una relación en $A$. Entonces, $R$ es una **relación de orden parcial** si y sólo si
+> 
+> 1. $R$ es **reflexiva**.
+> 2. $R$ es **antisimétrica**.
+> 3. $R$ es **transitiva**.
 
 (Pro tip: **RAT 🐭**)
 
@@ -46,16 +39,12 @@ En un orden parcial, existen elementos que no son comparables.
 
 ### Conjuntos parcialmente ordenados (CPO)
 
-```ad-definition
-title: Definición.
-
-Sea $A$ un conjunto y $R$ una relación de orden parcial en $A$. Entonces, $(A, R)$ se denomina un **conjunto parcialmente ordenado**, y se define de la siguiente manera:
-
-$$
-(A, R) := \left\{ (x,y) \in A \times A \lmid x \mathbin{R} y \right\}
-.$$
-
-```
+> [!DEFINITION] Definición.
+> Sea $A$ un conjunto y $R$ una relación de orden parcial en $A$. Entonces, $(A, R)$ se denomina un **conjunto parcialmente ordenado**, y se define de la siguiente manera:
+> 
+> $$
+> (A, R) := \left\{ (x,y) \in A \times A \lmid x \mathbin{R} y \right\}
+> .$$
 
 #### Observaciones
 

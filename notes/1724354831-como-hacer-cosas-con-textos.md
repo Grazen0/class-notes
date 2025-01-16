@@ -9,15 +9,11 @@ createdAt: 2024-08-22 14:27
 
 # Cómo hacer cosas con textos
 
-```ad-note
-title: Ideas preliminares
-
-- ¿Cuál es la naturaleza/propósito de la escritura académica?
-- La escritura universitaria **no incluye opinión**, pero ciertamente puede incluir algo de creatividad.
-- La escritura académica es una **práctica social**, y por lo tanto tiene ciertas normas y convenciones sociales que debe seguir.
-- La **lectura** es una especie de **reescritura** del texto que se lee.
-
-```
+> [!NOTE] Ideas preliminares
+> - ¿Cuál es la naturaleza/propósito de la escritura académica?
+> - La escritura universitaria **no incluye opinión**, pero ciertamente puede incluir algo de creatividad.
+> - La escritura académica es una **práctica social**, y por lo tanto tiene ciertas normas y convenciones sociales que debe seguir.
+> - La **lectura** es una especie de **reescritura** del texto que se lee.
 
 ## La característica de la redacción académica
 
@@ -33,13 +29,10 @@ Aquí es donde entra la **reescritura**, que va *más allá de la simple paráfr
 
 ### La reescritura
 
-```ad-tldr
-
-El trabajo intelectual es **aprovechar** y **cuestionar** las ideas de lo escrito antes.
-
-Sin embargo, nunca debe ser plagio.
-
-```
+> [!TLDR]
+> El trabajo intelectual es **aprovechar** y **cuestionar** las ideas de lo escrito antes.
+> 
+> Sin embargo, nunca debe ser plagio.
 
 La reescritura es **tomar y reinterpretar**, hallar nuevos pensamientos e ideas en un texto, posiblemente a partir de nuestras propias experiencias.
 
@@ -72,11 +65,7 @@ Lo más importante es **entender al autor en su contexto**. Podemos no estar de 
 
 Para entender y poder usar de cualquier manera la idea de alguien más, uno debe ser capaz de **reafirmar** lo que dice, con nuestras propias palabras. Esto implica tener conocimiento sobre por qué lo dice, sea la veracidad o moral que tenga la idea.
 
-```ad-question
-title: Preguntas  que deberíamos responder
-
-1. ¿Cuál es el proyecto de Lem con *Solaris*?
-2. ¿Cuáles son las palabras o pasajes clave de *Solaris*?
-3. ¿Cuáles son los usos y límites de su enfoque?
-
-```
+> [!QUESTION] Preguntas  que deberíamos responder
+> 1. ¿Cuál es el proyecto de Lem con *Solaris*?
+> 2. ¿Cuáles son las palabras o pasajes clave de *Solaris*?
+> 3. ¿Cuáles son los usos y límites de su enfoque?

@@ -44,19 +44,14 @@ createdAt: 2024-09-25 15:28
 - Tanto él como Juan optaron por callarse.
 - Sus palabras fueron consideradas ofensivas no solo por mí, sino por todos los presentes.
 
-```ad-note
-title: Nota
-collapse: open
-
-"Tanto ... como ..." **solo se usa para dos elementos**. Ni más ni menos.
-
-La oración
-
-> Tanto Juan como Pedro y Luis fueron al parque.
-
-es correcta, pero no es el mejor uso de "tanto ... como ..." porque hace una separación innecesaria entre "Juan" y "Pedro y Luis".
-
-```
+> [!NOTE]+ Nota
+> "Tanto ... como ..." **solo se usa para dos elementos**. Ni más ni menos.
+> 
+> La oración
+> 
+> > Tanto Juan como Pedro y Luis fueron al parque.
+> 
+> es correcta, pero no es el mejor uso de "tanto ... como ..." porque hace una separación innecesaria entre "Juan" y "Pedro y Luis".
 
 ### Conjunciones disyuntivas discontinuas
 
@@ -64,12 +59,8 @@ es correcta, pero no es el mejor uso de "tanto ... como ..." porque hace una sep
 
 - Organizaremos la fiesta, bien en tu casa, bien en la mía.
 
-```ad-note
-title: Nota
-
-"bien" puede reemplazar a "o bien".
-
-```
+> [!NOTE] Nota
+> "bien" puede reemplazar a "o bien".
 
 ### Conjunciones copulativas y disyuntivas simples
 
@@ -99,24 +90,16 @@ Se coloca coma incluso si no hay conector.
 
 - Lo hizo porque era su deber, no porque le gustara.
 
-```ad-warning
-title: Excepción
+> [!WARNING] Excepción
+> Se *puede* obviar la coma si se oponen dos adjetivos o adverbios.
+> 
+> - Era una orden imprecisa pero terminante.
+> - Su proyecto camina con un ritmo lento pero seguro.
 
-Se *puede* obviar la coma si se oponen dos adjetivos o adverbios.
-
-- Era una orden imprecisa pero terminante.
-- Su proyecto camina con un ritmo lento pero seguro.
-
-```
-
-```ad-warning
-title: Otra excepción
-
-La coma se obvia cuando "sino" **no tiene valor contrastivo o sustitutivo** , sino valor exclusivo.
-
-- ¿Quién sino usted puede sabero?
-
-```
+> [!WARNING] Otra excepción
+> La coma se obvia cuando "sino" **no tiene valor contrastivo o sustitutivo** , sino valor exclusivo.
+> 
+> - ¿Quién sino usted puede sabero?
 
 ## Construcciones causales y finales
 

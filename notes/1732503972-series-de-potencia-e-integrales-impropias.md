@@ -61,20 +61,15 @@ $$
 
 ## Integrales impropias
 
-```ad-definition
-title: Definición (integrales impropias).
-
-Sea $f$ una función definida en $(a, +\infty)$ (o en $(-\infty, a)$ para el segundo caso). Entonces, definimos las siguientes integrales como:
-
-$$
-\int_{a}^{\infty} f(x) \, dx := \lim_{t \to \infty}  \int_{a}^{t} f(x) \, dx
-,$$
-
-$$
-\int_{\infty}^{a} f(x) \, dx := \lim_{t \to \infty}  \int_{t}^{a} f(x) \, dx
-$$
-
-
-```
+> [!DEFINITION] Definición (integrales impropias).
+> Sea $f$ una función definida en $(a, +\infty)$ (o en $(-\infty, a)$ para el segundo caso). Entonces, definimos las siguientes integrales como:
+> 
+> $$
+> \int_{a}^{\infty} f(x) \, dx := \lim_{t \to \infty}  \int_{a}^{t} f(x) \, dx
+> ,$$
+> 
+> $$
+> \int_{\infty}^{a} f(x) \, dx := \lim_{t \to \infty}  \int_{t}^{a} f(x) \, dx
+> $$
 
 Son integrales cuyos límites de integración incluyen al infinito. Se calculan con límites.

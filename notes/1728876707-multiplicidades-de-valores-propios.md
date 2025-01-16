@@ -9,33 +9,25 @@ createdAt: 2024-10-13 22:31
 
 # Multiplicidades de valores propios
 
-```ad-definition
-title: Definición (multiplicidad algebraica de un valor propio).
+> [!DEFINITION] Definición (multiplicidad algebraica de un valor propio).
+> Sea $A$ una matriz de $m \times n$, y sea su polinomio característico descompuesto en factores primos
+> 
+> $$
+> p_A(\lambda) = (\lambda - \lambda_1)^{m_1}(\lambda - \lambda_2)^{m_2} \ldots (\lambda - \lambda_r)^{m_r}
+> .$$
+> 
+> Entonces, la **multiplicidad algebraica** del valor propio $\lambda_i$ es el exponente que acompaña al factor $(\lambda - \lambda_i$ en esta expresión. Es decir,
+> 
+> $$
+> \operatorname{ma}(\lambda_i) = m_i
+> .$$
 
-Sea $A$ una matriz de $m \times n$, y sea su polinomio característico descompuesto en factores primos
-
-$$
-p_A(\lambda) = (\lambda - \lambda_1)^{m_1}(\lambda - \lambda_2)^{m_2} \ldots (\lambda - \lambda_r)^{m_r}
-.$$
-
-Entonces, la **multiplicidad algebraica** del valor propio $\lambda_i$ es el exponente que acompaña al factor $(\lambda - \lambda_i$ en esta expresión. Es decir,
-
-$$
-\operatorname{ma}(\lambda_i) = m_i
-.$$
-
-```
-
-```ad-definition
-title: Definición (multiplicidad geométrica de un valor propio).
-
-Sea $A$ una matriz y $\lambda$ un valor propio de $A$. Entonces, la **multiplicidad geométrica** de $\lambda$ es la **dimensión** de $E_\lambda$. Es decir:
-
-$$
-\operatorname{mg}(\lambda) = \operatorname{dim}(E_\lambda)
-.$$
-
-```
+> [!DEFINITION] Definición (multiplicidad geométrica de un valor propio).
+> Sea $A$ una matriz y $\lambda$ un valor propio de $A$. Entonces, la **multiplicidad geométrica** de $\lambda$ es la **dimensión** de $E_\lambda$. Es decir:
+> 
+> $$
+> \operatorname{mg}(\lambda) = \operatorname{dim}(E_\lambda)
+> .$$
 
 Equivalentemente, la multiplicidad geométrica es la **cantidad de variables libres** al resolver el sistema $[A - \lambda I \mid \mathbf{0}]$.
 
@@ -45,15 +37,12 @@ $$
 \operatorname{mg}(\lambda) + \operatorname{rank}(A - \lambda I_n) = \text{\# de columnas}
 .$$
 
-```ad-theorem
-
-Sea $\lambda$ un valor propio de la matriz $A$. Entonces,
-
-$$
-\operatorname{mg}(\lambda) \leq \operatorname{ma}(\lambda)
-.$$
-
-```
+> [!THEOREM]
+> Sea $\lambda$ un valor propio de la matriz $A$. Entonces,
+> 
+> $$
+> \operatorname{mg}(\lambda) \leq \operatorname{ma}(\lambda)
+> .$$
 
 ## Propiedades de los valores propios
 

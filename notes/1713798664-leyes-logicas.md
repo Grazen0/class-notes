@@ -9,61 +9,44 @@ createdAt: 2024-04-22 10:11
 
 # Leyes lógicas
 
-```ad-exercise
-title: Ejercicios
-collapse: closed
-
-1. Simplificar $p \to (p \land q)$.
-
-$$
-\begin{align}
-p \to (p \land q) &\equiv \neg p \lor (p \land q) \\
-&\equiv \underbrace{(\neg p \lor p)}_{\T}  \land (\neg p \land q) \\
-&\equiv \T \land (\neg p \land q) \\
-&\equiv \neg p \land q \\
-&\equiv p \to q
-\end{align}
-$$
-
-2. Simplificar $p \to (\neg p \land q)$.
-
-$$
-\begin{align}
-p \to (\neg p \land q) &\equiv \neg p \lor (\neg p \land q) \\
-&\equiv \neg p && \text{(absorción)}
-\end{align}
-$$
-
-```
+> [!EXERCISE]- Ejercicios
+> 1. Simplificar $p \to (p \land q)$.
+> 
+> $$
+> \begin{align}
+> p \to (p \land q) &\equiv \neg p \lor (p \land q) \\
+> &\equiv \underbrace{(\neg p \lor p)}_{\T}  \land (\neg p \land q) \\
+> &\equiv \T \land (\neg p \land q) \\
+> &\equiv \neg p \land q \\
+> &\equiv p \to q
+> \end{align}
+> $$
+> 
+> 2. Simplificar $p \to (\neg p \land q)$.
+> 
+> $$
+> \begin{align}
+> p \to (\neg p \land q) &\equiv \neg p \lor (\neg p \land q) \\
+> &\equiv \neg p && \text{(absorción)}
+> \end{align}
+> $$
 
 ## Definiciones previas
 
-```ad-definition
-title: Definición (tautología).
+> [!DEFINITION] Definición (tautología).
+> Una **tautología** es una proposición lógica que siempre toma el valor de verdadero (V). Se denota usualmente como $\top$.
+> 
+> Por ejemplo, $p \lor \neg p \equiv \top$.
 
-Una **tautología** es una proposición lógica que siempre toma el valor de verdadero (V). Se denota usualmente como $\top$.
+> [!DEFINITION] Definición (contradicción).
+> Una **contradicción** es una proposición lógica que siempre toma el valor de falso (F).
+> 
+> Por ejemplo, $p \land \neg p \equiv \F$.
 
-Por ejemplo, $p \lor \neg p \equiv \top$.
-
-```
-
-```ad-definition
-title: Definición (contradicción).
-
-Una **contradicción** es una proposición lógica que siempre toma el valor de falso (F).
-
-Por ejemplo, $p \land \neg p \equiv \F$.
-
-```
-
-```ad-definition
-title: Definición (equivalencia).
-
-Decimos que dos proposiciones lógicas $p$ y $q$ son equivalentes si $p \leftrightarrow q$ es una tautología. Es decir, si y sólo si tienen el mismo valor de verdad.
-
-Por ejemplo: $p \land p \equiv p$.
-
-```
+> [!DEFINITION] Definición (equivalencia).
+> Decimos que dos proposiciones lógicas $p$ y $q$ son equivalentes si $p \leftrightarrow q$ es una tautología. Es decir, si y sólo si tienen el mismo valor de verdad.
+> 
+> Por ejemplo: $p \land p \equiv p$.
 
 ## Leyes lógicas
 
@@ -102,37 +85,28 @@ $$
 \end{array}
 $$
 
-```ad-proof
-title: Demostración por división en casos
-collapse: closed
-
-Para demostrar $p \lor (p \land q) \equiv p$, dividimos en casos:
-
-**Caso 1:** $p \equiv \T$
-
-Lado izquierdo: $\T \lor (\T \land q) \equiv \T$
-
-**Caso 2:** $p \equiv \F$
-
-Lado izquierdo: $\F \lor (\F \land q) \equiv \F$
-
-Por lo tanto, en cada caso, $p \lor (p \land q)$ tiene el mismo valor de verdad que $p$.
-$$\qed$$
-
-```
+> [!PROOF]- Demostración por división en casos
+> Para demostrar $p \lor (p \land q) \equiv p$, dividimos en casos:
+> 
+> **Caso 1:** $p \equiv \T$
+> 
+> Lado izquierdo: $\T \lor (\T \land q) \equiv \T$
+> 
+> **Caso 2:** $p \equiv \F$
+> 
+> Lado izquierdo: $\F \lor (\F \land q) \equiv \F$
+> 
+> Por lo tanto, en cada caso, $p \lor (p \land q)$ tiene el mismo valor de verdad que $p$.
+> $$\qed$$
 
 ### Leyes de condicional
 
-```ad-important
-title: Contraposición
-
-La ley de **contraposición** o "contra-recíproca" es particularmente importante para las demostraciones:
-
-$$
-p \to q \equiv \neg q \to \neg p
-$$
-
-```
+> [!IMPORTANT] Contraposición
+> La ley de **contraposición** o "contra-recíproca" es particularmente importante para las demostraciones:
+> 
+> $$
+> p \to q \equiv \neg q \to \neg p
+> $$
 
 Otra ley es:
 

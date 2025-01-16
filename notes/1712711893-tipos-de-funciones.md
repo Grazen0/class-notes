@@ -13,31 +13,23 @@ Esta wea está más fácil q
 
 ![[Clasificación de funciones.excalidraw|width:90%]]
 
-```ad-definition
-title: Definición (Pendiente).
-
-La pendiente representa la **razón de cambio** de la variable dependiente por cada unidad de la variable independiente. Usualmente se denota con $m$.
-
-$$
-m = \frac{y_{2} - y_{1}}{x_{2} - x_{1}} = \frac{\Delta y}{\Delta x}
-$$
-
-
-```
+> [!DEFINITION] Definición (Pendiente).
+> La pendiente representa la **razón de cambio** de la variable dependiente por cada unidad de la variable independiente. Usualmente se denota con $m$.
+> 
+> $$
+> m = \frac{y_{2} - y_{1}}{x_{2} - x_{1}} = \frac{\Delta y}{\Delta x}
+> $$
 
 ## Función lineal
 
-```ad-definition
-
-Una función **lineal** $f$ es una función que se puede representar de la siguiente manera:
-
-$$
-f(x) = mx + b
-$$
-
-donde $m,b$ son constantes y $m \neq 0$.
-
-```
+> [!DEFINITION]
+> Una función **lineal** $f$ es una función que se puede representar de la siguiente manera:
+> 
+> $$
+> f(x) = mx + b
+> $$
+> 
+> donde $m,b$ son constantes y $m \neq 0$.
 
 ```functionplot
 ---
@@ -77,17 +69,14 @@ $$
 
 ## Función cuadrática
 
-```ad-definition
-
-Una función **cuadrática** $f$ es una función determinada por una *ecuación cuadrática*. Es decir, se puede representar de la siguiente forma:
-
-$$
-f(x) = ax^{2} + bx + c
-$$
-
-donde $a,b,c$ son constantes y $a \neq 0$.
-
-```
+> [!DEFINITION]
+> Una función **cuadrática** $f$ es una función determinada por una *ecuación cuadrática*. Es decir, se puede representar de la siguiente forma:
+> 
+> $$
+> f(x) = ax^{2} + bx + c
+> $$
+> 
+> donde $a,b,c$ son constantes y $a \neq 0$.
 
 ### Representación canónica
 
@@ -165,17 +154,14 @@ $$
 f(x) = x^{2n + 1}
 $$
 
-```ad-definition
-
-Una función **polinómica** $f$ de grado $n$ es una función que se puede expresar de la siguiente manera:
-
-$$
-f(x) = a_{n}x^{n} + a_{n-1}x^{n-1} + \dots + a_{2}x^{2} + a_{1}x + a_{0}
-$$
-
-Donde $a_{i}$ son constantes y $a_{n} \neq 0$
-
-```
+> [!DEFINITION]
+> Una función **polinómica** $f$ de grado $n$ es una función que se puede expresar de la siguiente manera:
+> 
+> $$
+> f(x) = a_{n}x^{n} + a_{n-1}x^{n-1} + \dots + a_{2}x^{2} + a_{1}x + a_{0}
+> $$
+> 
+> Donde $a_{i}$ son constantes y $a_{n} \neq 0$
 
 ### Comportamiento al infinito
 

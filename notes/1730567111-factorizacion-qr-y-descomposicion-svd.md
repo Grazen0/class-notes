@@ -9,25 +9,19 @@ createdAt: 2024-11-02 12:05
 
 # Factorización QR y descomposción SVD
 
-```ad-theorem
-
-Todo espcacio vectorial de producto interno finito y no nulo tiene una base ortonormal.
-
-```
+> [!THEOREM]
+> Todo espcacio vectorial de producto interno finito y no nulo tiene una base ortonormal.
 
 ## Factorización QR
 
-```ad-definition
-
-La descomposición QR de una matriz $A$ es una factorización de dicha matriz en la forma
-
-$$
-A = QR
-,$$
-
-donde $Q$ es ortonormal y del mismo tamaño de $A$, y $R$ es triangular superior.
-
-```
+> [!DEFINITION]
+> La descomposición QR de una matriz $A$ es una factorización de dicha matriz en la forma
+> 
+> $$
+> A = QR
+> ,$$
+> 
+> donde $Q$ es ortonormal y del mismo tamaño de $A$, y $R$ es triangular superior.
 
 Si $A$ es invertible, entonces esta factorización es única.
 
@@ -51,46 +45,35 @@ R = \begin{bmatrix}
 
 ## Descomposición SVD
 
-```ad-theorem
+> [!THEOREM]
+> Si $A$ es una matriz, entonces $A^T A$ es simétrica.
+> 
+> Además, los valores propios de $A^T A$ son todos **reales no negativos**.
 
-Si $A$ es una matriz, entonces $A^T A$ es simétrica.
-
-Además, los valores propios de $A^T A$ son todos **reales no negativos**.
-
-```
-
-```ad-definition
-title: Definición (valores singulares).
-
-Sea $A$ una matriz tal que $A^TA$ tiene valores propios $\lambda_1, \lambda_2, \ldots, \lambda_n$. Entonces, los números
-
-
-$$
-\sigma_1 = \sqrt{\lambda_1}, \quad \sigma_2 = \sqrt{\lambda_2}, \quad \ldots, \quad \sigma_n = \sqrt{\lambda_n}
-$$
-
-son llamados **valores singulares** de $A$.
-
-```
+> [!DEFINITION] Definición (valores singulares).
+> Sea $A$ una matriz tal que $A^TA$ tiene valores propios $\lambda_1, \lambda_2, \ldots, \lambda_n$. Entonces, los números
+> 
+> 
+> $$
+> \sigma_1 = \sqrt{\lambda_1}, \quad \sigma_2 = \sqrt{\lambda_2}, \quad \ldots, \quad \sigma_n = \sqrt{\lambda_n}
+> $$
+> 
+> son llamados **valores singulares** de $A$.
 
 La descomposición SVD se define de la siguiente forma.
 
-```ad-theorem
-title: Teorema (descomposición de valores singulares).
-
-Si $A$ es una matriz $m \times n$ de rango $k$, entonces $A$ puede expresarse de la forma
-
-$$
-A = U\Sigma V^T
-,$$
-
-donde:
-
-1. $\Sigma$ es una matriz de $m \times n$ cuya diagonal son los valores singulares de $A$ en orden no decreciente,
-2. $U$ es de $m \times m$ y diagonaliza ortogonalmente a $AA^T$, y
-3. $V$ es de $n \times n$ y diagonaliza ortogonalmente a $A^T A$.
-
-```
+> [!THEOREM] Teorema (descomposición de valores singulares).
+> Si $A$ es una matriz $m \times n$ de rango $k$, entonces $A$ puede expresarse de la forma
+> 
+> $$
+> A = U\Sigma V^T
+> ,$$
+> 
+> donde:
+> 
+> 1. $\Sigma$ es una matriz de $m \times n$ cuya diagonal son los valores singulares de $A$ en orden no decreciente,
+> 2. $U$ es de $m \times m$ y diagonaliza ortogonalmente a $AA^T$, y
+> 3. $V$ es de $n \times n$ y diagonaliza ortogonalmente a $A^T A$.
 
 ### Proceso de descomposición SVD
 

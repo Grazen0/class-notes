@@ -19,16 +19,12 @@ La lengua es una forma de **comportamiento social**.
 
 **Actitud lingüística:**
 
-```ad-example
-title: Ejemplo
-
-Una persona desconocida que te dice "mi amor".
-
-Puede parecerte raro a tí, pero en alguna cultura no está mal visto y puede ser lo *normal*.
-
-La actitud lingüística sería tu reacción, tu opinión y posición frente a este uso de la lengua.
-
-```
+> [!EXAMPLE] Ejemplo
+> Una persona desconocida que te dice "mi amor".
+> 
+> Puede parecerte raro a tí, pero en alguna cultura no está mal visto y puede ser lo *normal*.
+> 
+> La actitud lingüística sería tu reacción, tu opinión y posición frente a este uso de la lengua.
 
 La **diglosia** es la situación donde **se encuentran dos lenguas o variedades de la misma**.
 

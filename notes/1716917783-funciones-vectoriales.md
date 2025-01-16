@@ -41,11 +41,8 @@ $$
 
 Los vectores tangente unitario y normal unitario **son perpendiculares**, y ello es resultado de un pequeño teorema.
 
-```ad-theorem
-
-Sea $\vec{r}(t)$ un vector. Si se cumple que $\lVert \vec{r}'(t) \rVert = c$ (es decir, que la magnitud de su velocidad se mantiene constante), entonces $\vec{r}(t) \cdot \vec{r}'(t) = 0$.
-
-```
+> [!THEOREM]
+> Sea $\vec{r}(t)$ un vector. Si se cumple que $\lVert \vec{r}'(t) \rVert = c$ (es decir, que la magnitud de su velocidad se mantiene constante), entonces $\vec{r}(t) \cdot \vec{r}'(t) = 0$.
 
 #### Componentes de la aceleración
 

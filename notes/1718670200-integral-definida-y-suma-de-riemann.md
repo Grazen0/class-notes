@@ -9,15 +9,12 @@ createdAt: 2024-06-17 19:23
 
 # Integral definida y suma de Riemann
 
-```ad-definition
-
-Definimos la **integral definida** de la siguiente manera:
-
-$$
-\int_{a}^{b} f(x) \, dx := \lim_{n \to \infty} \sum_{i=1}^{n} f(x_{i}) \Delta x
-$$
-
-```
+> [!DEFINITION]
+> Definimos la **integral definida** de la siguiente manera:
+> 
+> $$
+> \int_{a}^{b} f(x) \, dx := \lim_{n \to \infty} \sum_{i=1}^{n} f(x_{i}) \Delta x
+> $$
 
 ### Propiedades
 
@@ -35,38 +32,27 @@ $$
 
 ## Teoremas
 
-```ad-theorem
-title: Teorema (TVM para integrales).
-
-Sea $f$ una función continua en $(a, b)$. Entonces, existe un $c \in (a, b)$ tal que
-
-$$
-f(c) = \frac{1}{b - a} \int_{b}^{a} f(x) \, dx
-.$$
-
-```
+> [!THEOREM] Teorema (TVM para integrales).
+> Sea $f$ una función continua en $(a, b)$. Entonces, existe un $c \in (a, b)$ tal que
+> 
+> $$
+> f(c) = \frac{1}{b - a} \int_{b}^{a} f(x) \, dx
+> .$$
 
 ### Teoremas fundamentales del cálculo
 
-```ad-theorem
-title: Teorema (TFC #1).
+> [!THEOREM] Teorema (TFC #1).
+> $$
+> \frac{d}{dx} \int_{a}^{x} f(t) \, dt = f(x)
+> $$
 
-$$
-\frac{d}{dx} \int_{a}^{x} f(t) \, dt = f(x)
-$$
-```
-
-```ad-theorem
-title: Teorema (TFC #2).
-
-Sea $f$ una función continua en $[a, b]$. Entonces
-
-$$
-\int_{a}^{b} f(x) \, dx = F(b) - F(a)
-$$
-donde $F(x)$ es cualquier antiderivada de $f(x)$.
-
-```
+> [!THEOREM] Teorema (TFC #2).
+> Sea $f$ una función continua en $[a, b]$. Entonces
+> 
+> $$
+> \int_{a}^{b} f(x) \, dx = F(b) - F(a)
+> $$
+> donde $F(x)$ es cualquier antiderivada de $f(x)$.
 
 ## Sustitución con integral definida
 

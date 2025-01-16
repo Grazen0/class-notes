@@ -12,18 +12,15 @@ createdAt: 2024-04-07 20:00
 
 [[Vasen. Giro postcompetitivo en la política de CTI.pdf]]
 
-```ad-abstract
-
-Las políticas de ciencia, tecnología e innovación (CTI) suelen priorizar el crecimiento económico y la competitividad como sus objetivos principales. Este texto, no obstante, plantea que últimamente han estado surgiendo cambios en estas políticas que han comenzado a priorizar a los objetivos sociales.
-
-El texto analiza tres enfoques de esta premisa:
-1. Orientación a los **"grandes desafíos"**.
-2. **Responsabilidad** hacia las tecnologías emergentes.
-3. La **inclusión social**.
-
-A este movimiento, el texto lo denomina como **giro postcompetitivo**.
-
-```
+> [!ABSTRACT]
+> Las políticas de ciencia, tecnología e innovación (CTI) suelen priorizar el crecimiento económico y la competitividad como sus objetivos principales. Este texto, no obstante, plantea que últimamente han estado surgiendo cambios en estas políticas que han comenzado a priorizar a los objetivos sociales.
+> 
+> El texto analiza tres enfoques de esta premisa:
+> 1. Orientación a los **"grandes desafíos"**.
+> 2. **Responsabilidad** hacia las tecnologías emergentes.
+> 3. La **inclusión social**.
+> 
+> A este movimiento, el texto lo denomina como **giro postcompetitivo**.
 
 ## 1. Introducción
 
@@ -66,41 +63,31 @@ Los tres marcos de esta reforma y sus premisas son:
 - Son políticas de **orientación definida** y buscan **dirección**.
 - Son **orientadas a la innovación**, no a producir conocimientos precisamente.
 
-```ad-note
-title: Comparación con la *Big Science*
-
-El texto usa como punto de comparación a los proyectos *Apolo* y *Manhattan*.
-
-**Semejanzas**:
-- Movilizan **inmensas cantidades de recursos** de alta calidad.
-
-**Diferencias:**
-- Abordar los grandes desafíos requiere fundamentalmente de **enfoques radicalmente nuevos**.
-- 'No se necesita "vino nuevo en odres viejos"'
-
-La *Big Science* es **inadecuada** para abordar los grandes desafíos por varias razones:
-
-| *Big Science*                                     | Grandes desafíos                                                                         |
-| ------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| Busca un producto específico                      | Busca una variedad de productos y procesos                                               |
-| Requiere innovación tecnológica                   | Requiere innovación tecnológica, social y cultural                                       |
-| Hay un único cliente: el financiador del proyecto | Hay una gran diversidad de clientes, cada quien con sus intereses a veces contrapuestos. |
-| Centralizado                                      | Descentralizado                                                                          |
-
-
-
-```
+> [!NOTE] Comparación con la *Big Science*
+> El texto usa como punto de comparación a los proyectos *Apolo* y *Manhattan*.
+> 
+> **Semejanzas**:
+> - Movilizan **inmensas cantidades de recursos** de alta calidad.
+> 
+> **Diferencias:**
+> - Abordar los grandes desafíos requiere fundamentalmente de **enfoques radicalmente nuevos**.
+> - 'No se necesita "vino nuevo en odres viejos"'
+> 
+> La *Big Science* es **inadecuada** para abordar los grandes desafíos por varias razones:
+> 
+> | *Big Science*                                     | Grandes desafíos                                                                         |
+> | ------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+> | Busca un producto específico                      | Busca una variedad de productos y procesos                                               |
+> | Requiere innovación tecnológica                   | Requiere innovación tecnológica, social y cultural                                       |
+> | Hay un único cliente: el financiador del proyecto | Hay una gran diversidad de clientes, cada quien con sus intereses a veces contrapuestos. |
+> | Centralizado                                      | Descentralizado                                                                          |
 
 - Los grandes desafíos buscan **integrar el sector público y privado**, fomentando posibles alianzas.
 - No a la competitividad.
 - No se busca abandonar el lado económico, pero sí **subordinarlo** a las metas compartidas.
 
-```ad-note
-title: Cierre
-
-El marco de los grandes desafíos para la CTI se trata de una **innovación incremental** antes que radical, ya que usa y recombina elementos existentes.
-
-```
+> [!NOTE] Cierre
+> El marco de los grandes desafíos para la CTI se trata de una **innovación incremental** antes que radical, ya que usa y recombina elementos existentes.
 
 ## 4. Innovación responsable: nuevas formas de integrar al público
 
@@ -110,12 +97,8 @@ La Investigación e Innovación Responsable (**RRI**) propone para la política 
 
 Una crítica al enfoque de RRI es que se puede contener sesgos pro-industria, ya que promueve la participación en forma *top-down*. Según esta crítica, lo que se buscaría con la participación de todos los actores sería evitar oposiciones y movimientos de resistencia.
 
-```ad-note
-title: Cierre
-
-El marco de RRI es más reformista que revolucionario. Va en contra del reduccionismo económico y el "monopolio" de las personas con conocimiento expertos, argumentando que la adopción tecnológica debe comprenderse de forma multidimensional.
-
-```
+> [!NOTE] Cierre
+> El marco de RRI es más reformista que revolucionario. Va en contra del reduccionismo económico y el "monopolio" de las personas con conocimiento expertos, argumentando que la adopción tecnológica debe comprenderse de forma multidimensional.
 
 ## 5. Innovación, desigualdad e inclusión social
 
@@ -130,12 +113,8 @@ Existen dos concepciones en LATAM sobre el tema:
 
 ### Tecnologías sociales (tec. para la inclusión social)
 
-```ad-definition
-title: Definición (sistema socio-técnico).
-
-Un **sistema socio-técnico** es un sistema que busca balancear tanto los aspectos sociales como los aspectos organizacionales o técnicos.
-
-```
+> [!DEFINITION] Definición (sistema socio-técnico).
+> Un **sistema socio-técnico** es un sistema que busca balancear tanto los aspectos sociales como los aspectos organizacionales o técnicos.
 
 Las tecnologías sociales son un proceso principalmente democrático para construir sistemas socio-técnicos de una forma **bottom-up**. Toma en cuenta las necesidades y la organización social de aquellos afectados por el problema.
 

@@ -12,45 +12,37 @@ createdAt: 2024-04-22 13:03
 
 [[La Parra y Tortosa. Violencia Estructural.pdf]]
 
-```ad-summary
-title: Resumen
-
-La **violencia estructural** habla de una violencia no física ni directa, sino **aplicada desde las estructuras** del sistema social.
-
-Se prefiere el término "violencia estructural" principalmente porque:
-
-1. Existe un **problema en común** con la violencia directa: privación de las necesidades humanas básicas.
-2. **Relaciona** la violencia directa con la estructural.
-3. Implica al **ejercicio del poder** como el principal causante.
-4. No permite **intentos de legitimizar** los actos violentos.
-
-Un caso de violencia estructural mencionado es la **desigualdad entre hombres y mujeres**.
-
-Otro caso que se discute más es la **diferencia de 40 años en la esperanza de vida entre España y Zimbabwe**.
-
-Entre los mecanismos que llevan a este paradigma se encuentran **razones históricas** de colonización, acuerdos internacionales, **ilegitimidad** gubernamental y desigualdades sociales.
-
-Finalmente, se concluye sobre la violencia estructural:
-
-1. Es el daño **potencialmente evitable** que ocurre a partir de **estructuras sociales**, produciendo desigualdad de poder y recursos.
-2. Afecta a las **necesidades humanas básicas**, incluyendo vida, libertad, etc.
-3. Sus mecanismos se presentan dentro de las **estructuras sociales**, por lo que comprender esta violencia implica **abstracción**.
-4. **Se relaciona** con otras formas de violencia.
-
-```
+> [!SUMMARY] Resumen
+> La **violencia estructural** habla de una violencia no física ni directa, sino **aplicada desde las estructuras** del sistema social.
+> 
+> Se prefiere el término "violencia estructural" principalmente porque:
+> 
+> 1. Existe un **problema en común** con la violencia directa: privación de las necesidades humanas básicas.
+> 2. **Relaciona** la violencia directa con la estructural.
+> 3. Implica al **ejercicio del poder** como el principal causante.
+> 4. No permite **intentos de legitimizar** los actos violentos.
+> 
+> Un caso de violencia estructural mencionado es la **desigualdad entre hombres y mujeres**.
+> 
+> Otro caso que se discute más es la **diferencia de 40 años en la esperanza de vida entre España y Zimbabwe**.
+> 
+> Entre los mecanismos que llevan a este paradigma se encuentran **razones históricas** de colonización, acuerdos internacionales, **ilegitimidad** gubernamental y desigualdades sociales.
+> 
+> Finalmente, se concluye sobre la violencia estructural:
+> 
+> 1. Es el daño **potencialmente evitable** que ocurre a partir de **estructuras sociales**, produciendo desigualdad de poder y recursos.
+> 2. Afecta a las **necesidades humanas básicas**, incluyendo vida, libertad, etc.
+> 3. Sus mecanismos se presentan dentro de las **estructuras sociales**, por lo que comprender esta violencia implica **abstracción**.
+> 4. **Se relaciona** con otras formas de violencia.
 
 **Violencia estructural**: Violencia no física ni directa, sino causada por medio de la privación de medios bienes, materiales, etc y otros mecanismos pasivos que priven de las necesidades básicas humanas.
 
 Su principal causa es la **estructuración social** en todas las escalas.
 
-```ad-example
-title: Ejemplo de violencia estructural
-
-A lo largo del texto se comenta sobre este hecho:
-
-**La esperanza de vida promedio en España es de 40 años más que en Zimbabwe.** Esto es un caso de los efectos negativos que crea la violencia estructural.
-
-```
+> [!EXAMPLE] Ejemplo de violencia estructural
+> A lo largo del texto se comenta sobre este hecho:
+> 
+> **La esperanza de vida promedio en España es de 40 años más que en Zimbabwe.** Esto es un caso de los efectos negativos que crea la violencia estructural.
 
 ## Sobre el término "violencia estructural"
 
@@ -74,12 +66,8 @@ Otras "posibles" alternativas al término son:
 
 ## Casos de violencia estructural
 
-```ad-important
-title: Importante
-
-Los mecanismos que producen la violencia estructural son altamente **ricos y complejos**. Pueden relacionar ámbitos aparentemente no relacionados y varían mucho en varios temas.
-
-```
+> [!IMPORTANT] Importante
+> Los mecanismos que producen la violencia estructural son altamente **ricos y complejos**. Pueden relacionar ámbitos aparentemente no relacionados y varían mucho en varios temas.
 
 ### Desigualdad entre hombres y mujeres
 

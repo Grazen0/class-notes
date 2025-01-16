@@ -9,23 +9,19 @@ createdAt: 2024-05-28 12:36
 
 # Estructuras de control
 
-````ad-note
-title: Nota: Precisión de la salida
-
-Se puede establecer la precisión con la que se imprimen `float`s a la terminal.
-
-Por ejemplo, para imprimir números hasta los 3 dígitos decimales:
-
-```cpp
-/////////////////////////
-#include <iomanip>
-/////////////////////////
-
-std::cout << std::fixed << std::setprecision(3);
-std::cout << 3.14159 << std::endl; // 3.142
-```
-
-````
+> [!NOTE] Nota: Precisión de la salida
+> Se puede establecer la precisión con la que se imprimen `float`s a la terminal.
+> 
+> Por ejemplo, para imprimir números hasta los 3 dígitos decimales:
+> 
+> ```cpp
+> /////////////////////////
+> #include <iomanip>
+> /////////////////////////
+> 
+> std::cout << std::fixed << std::setprecision(3);
+> std::cout << 3.14159 << std::endl; // 3.142
+> ```
 
 ## Condicionales
 

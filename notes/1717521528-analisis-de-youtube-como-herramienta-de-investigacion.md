@@ -17,18 +17,14 @@ createdAt: 2024-06-04 12:18
 - YouTube es una herramienta de aprendizaje **motivadora y didáctica**.
 - En particular, facilita la **fase exploratoria** de la investigación.
 
-```ad-info
-title: Teoría del conectivismo
-
-La lectura se basa en esta propuesta.
-
-- La conectividad favorece a la fase exploratoria.
-- La integración del conocimiento se basa en los principios exploratorios del **caos** y las posibles conexiones.
-- Desarrollo de las **competencias de búsqueda**.
-- El conocimiento reside en la base de datos conectada a **personas** (nodos) en diversos contextos académicos.
-- Formación de **redes** $\to$ transmitir **conocimientos**
-
-```
+> [!INFO] Teoría del conectivismo
+> La lectura se basa en esta propuesta.
+> 
+> - La conectividad favorece a la fase exploratoria.
+> - La integración del conocimiento se basa en los principios exploratorios del **caos** y las posibles conexiones.
+> - Desarrollo de las **competencias de búsqueda**.
+> - El conocimiento reside en la base de datos conectada a **personas** (nodos) en diversos contextos académicos.
+> - Formación de **redes** $\to$ transmitir **conocimientos**
 
 ## Estado del arte
 

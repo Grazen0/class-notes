@@ -12,12 +12,8 @@ createdAt: 2024-04-07 20:00
 
 [[CCCTI. Acciones para el potenciamiento de la CTI en Perú.pdf]]
 
-```ad-summary
-title: Resumen
-
-Este texto habla de lineamientos que se pusieron en marcha en 2021 para dirigir el desarrollo de la CTI en Perú.
-
-```
+> [!SUMMARY] Resumen
+> Este texto habla de lineamientos que se pusieron en marcha en 2021 para dirigir el desarrollo de la CTI en Perú.
 
 ## Preámbulo
 
@@ -31,12 +27,8 @@ La **Comisión Consultiva de Ciencia, Tecnología e Innovación** ("Comisión Co
 - Corea (3.6% PBI)
 - Israel(4.2% PBI)
 
-```ad-note
-title: Datazo
-
-El perú invierte menos del 0.2% de su PBI en CTI 💀.
-
-```
+> [!NOTE] Datazo
+> El perú invierte menos del 0.2% de su PBI en CTI 💀.
 
 **Medidas preliminares recomendadas por la CCCTI**:
 
@@ -99,9 +91,5 @@ La formación de comunidades de científicos también es importante por otras 3 
 
 ## III. Formación de las capacidades para la investigación
 
-```ad-important
-title: Punto clave
-
-**Objetivo central:** Atraer jóvenes peruanos del exterior y consolidar programas de postgrado de alto nivel en el país.
-
-```
+> [!IMPORTANT] Punto clave
+> **Objetivo central:** Atraer jóvenes peruanos del exterior y consolidar programas de postgrado de alto nivel en el país.

@@ -19,23 +19,15 @@ Dentro de las bases de datos existen los **índices**: una estructura de datos q
 | José                    | Grayson                     | 17   |
 | Mauricio                | Galindo                     | 17   |
 
-```ad-example
-title: Ejemplo
-
-Por ejemplo, una base de datos puede **ordenar** los elementos de una tabla por su **llave primaria**, y así poder usar búsqueda binaria para leer datos de forma eficiente.
-
-```
+> [!EXAMPLE] Ejemplo
+> Por ejemplo, una base de datos puede **ordenar** los elementos de una tabla por su **llave primaria**, y así poder usar búsqueda binaria para leer datos de forma eficiente.
 
 ## ¿Por qué necesitamos las bases de datos?
 
 Las BD surgen de la necesidad de **buscar**, **organizar** y **procesar** la información.
 
-```ad-note
-title: Nota
-
-Históricamente, se solía tener problemas con la información masiva antes de las computadoras.
-
-```
+> [!NOTE] Nota
+> Históricamente, se solía tener problemas con la información masiva antes de las computadoras.
 
 ### Datos históricos
 

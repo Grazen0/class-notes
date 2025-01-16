@@ -9,14 +9,10 @@ createdAt: 2024-08-28 14:15
 
 # Stanislaw Lem
 
-```ad-quote
-title: Cita
-
-"Prefiero responder cuestiones interdisciplinarias sobre los límites entre la filosofía de la ciencia y la literatura en lugar de enfrascarme en cuestiones concernientes a mis propios trabajos ficcionales."
-
-\- Stanislaw Lem, entrevistado por Swirski, *A Stanislaw Lem Reader* (1997)
-
-```
+> [!QUOTE] Cita
+> "Prefiero responder cuestiones interdisciplinarias sobre los límites entre la filosofía de la ciencia y la literatura en lugar de enfrascarme en cuestiones concernientes a mis propios trabajos ficcionales."
+> 
+> \- Stanislaw Lem, entrevistado por Swirski, *A Stanislaw Lem Reader* (1997)
 
 Stanislaw Lem fundamentalmente relaciona la **filosofía de la ciencia** con la **literatura**.
 
@@ -30,12 +26,8 @@ Lem **introduce los problemas de la filosofía de la ciencia** en sus historias.
 
 Lem **cuestiona** los usos de la estadística. ¿Son suficientes los números y registros para generalizar conocimientos o patrones? Lem opinaba que no.
 
-```ad-quote
-title: Cita
-
-"Ni Kelvin ni Tichy ni Pirxs son mis héroes, sino el *conocimiento*".
-
-```
+> [!QUOTE] Cita
+> "Ni Kelvin ni Tichy ni Pirxs son mis héroes, sino el *conocimiento*".
 
 ## Interpretando a Stanislaw Lem
 

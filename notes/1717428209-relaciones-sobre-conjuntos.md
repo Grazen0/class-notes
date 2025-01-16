@@ -9,15 +9,12 @@ createdAt: 2024-06-03 10:23
 
 # Relaciones sobre conjuntos
 
-```ad-definition
-
-Sean $A$ y $B$ dos conjuntos. Entonces definimos $R$ como una **relación** entre $A$ y $B$ si y sólo si $R \subseteq A \times B$.
-
-$$
-R \text{ es relación entre $A$ y $B$} \iff R \subseteq A \times B
-$$
-
-```
+> [!DEFINITION]
+> Sean $A$ y $B$ dos conjuntos. Entonces definimos $R$ como una **relación** entre $A$ y $B$ si y sólo si $R \subseteq A \times B$.
+> 
+> $$
+> R \text{ es relación entre $A$ y $B$} \iff R \subseteq A \times B
+> $$
 
 Es decir, una relación es formalmente un subconjunto del producto cartesiano.
 

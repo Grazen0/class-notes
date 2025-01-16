@@ -22,12 +22,8 @@ La comunicación es una relación que ocurre entre un **emisor** y un **receptor
 - Está condicionado por **circunstancias ambientales**. *(Juan Luis Fuentes)*
 - El objetivo es **influir** en los demás. *(David Berlo)*
 
-```ad-note
-title: Nota
-
-No hay una sola forma de definir la comunicación. El concepto cambia a través del tiempo y en torno a las necesidades de la sociedad.
-
-```
+> [!NOTE] Nota
+> No hay una sola forma de definir la comunicación. El concepto cambia a través del tiempo y en torno a las necesidades de la sociedad.
 
 ### Comunicación vs. información
 
@@ -41,12 +37,8 @@ Por otro lado, la **comunicación** se basa en el intercambio que se produce por
 
 ### ¿La comunicación es una ciencia?
 
-```ad-important
-title: Respuesta corta
-
-Sí.
-
-```
+> [!IMPORTANT] Respuesta corta
+> Sí.
 
 ## Propósitos de la comunicación
 
@@ -78,12 +70,8 @@ La necesidad de comunicarse surge desde la **época de las cavernas**. El ser hu
 - La comunicación sigue siendo mayormente **no verbal**.
 - Gran nivel de **analfabetismo**, sólo los privilegiados sabían leer.
 
-```ad-note
-title: Nota
-
-Para este **punto**, el papel ya se había descubierto en China, 105 A.C.
-
-```
+> [!NOTE] Nota
+> Para este **punto**, el papel ya se había descubierto en China, 105 A.C.
 
 ### La era de la imprenta
 

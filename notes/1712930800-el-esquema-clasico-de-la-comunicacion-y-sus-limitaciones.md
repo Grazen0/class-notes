@@ -12,102 +12,92 @@ createdAt: 2024-04-12 09:06
 
 [[Escandell. El esquema clásico de la comunicación y sus limitaciones.pdf]]
 
-```ad-summary
-title: Resumen
-collapse: closed
+> [!SUMMARY]- Resumen
+> Este primer capítulo **cuestiona** el esquema clásico de la comunicación y **plantea** las necesidades de un sistema más amplio.
+> 
+> 1. El acto comunicativo se define mucho por los participantes y el contexto, pero **necesitamos encontrar regularidades** para estudiarlo.
+> 2. El esquema clásico contiene los elementos más conocidos: **emisor, receptor, mensaje, etc**.
+> 3. El esquema clásico es **rígido, mecánico** e insuficiente.
+> 4. Interpretar la lengua requiere más que conocimientos solo sobre el código, **requiere contexto**.
+> 5. El emisor y el receptor no sólo codifican/decodifican, sino que intervienen otros factores como su **relación social** y el **entorno**.
+> 6. Un requisito para la comunicación es la **intencionalidad**.
+> 7. Al comunicarnos, hacemos referencia a la **representación interna** de las cosas reales, no a *las* cosas como tal.
+> 8. El objetivo de comunicarnos **define la actitud** del emisor.
+> 9. El habla y la escritura difieren no solo por el medio físico, sino también por las **convenciones y particularidades** que conllevan.
+> 10. El **contexto** de un acto comunicativo cambia a través del tiempo, pero es **estático** en cada instante.
 
-Este primer capítulo **cuestiona** el esquema clásico de la comunicación y **plantea** las necesidades de un sistema más amplio.
-
-1. El acto comunicativo se define mucho por los participantes y el contexto, pero **necesitamos encontrar regularidades** para estudiarlo.
-2. El esquema clásico contiene los elementos más conocidos: **emisor, receptor, mensaje, etc**.
-3. El esquema clásico es **rígido, mecánico** e insuficiente.
-4. Interpretar la lengua requiere más que conocimientos solo sobre el código, **requiere contexto**.
-5. El emisor y el receptor no sólo codifican/decodifican, sino que intervienen otros factores como su **relación social** y el **entorno**.
-6. Un requisito para la comunicación es la **intencionalidad**.
-7. Al comunicarnos, hacemos referencia a la **representación interna** de las cosas reales, no a *las* cosas como tal.
-8. El objetivo de comunicarnos **define la actitud** del emisor.
-9. El habla y la escritura difieren no solo por el medio físico, sino también por las **convenciones y particularidades** que conllevan.
-10. El **contexto** de un acto comunicativo cambia a través del tiempo, pero es **estático** en cada instante.
-
-
-```
-
-```ad-exercise
-title: Preguntas guía
-
-1. ¿Por qué es útil atender a las regularidades y no lo anecdótico en este tipo de estudios?
-
-Es necesario porque esto nos permitiría analizar la comunicación desde una perspectiva sistemática. Si atendemos a las regularidades, podemos descubrir las propiedades **generales** del proceso comunicativo.
-
-2. ¿Cuáles son los elementos del sistema de Shannon y Weavear?
-3. ¿Cuáles son los elementos del sistema de Jakobson?
-
-- Emisor
-- Receptor
-- Mensaje
-- Código
-- Canal
-- Contexto
-
-4. ¿En qué consiste la crítica al sistema clásico?
-
-La crítica que explica Escandell se basa en que el sistema clásico es demasiado **rígido** y **simplista**.
-
-- El rol del código es excesivo.
-- La relación entre los hablantes no se toma en cuenta.
-- El contexto pasa a un plano secundario
-- La situación comunicativa carece de peso
-
-5. ¿Qué es un código simple y complejo?
-
-- **Simple:** Se trata de un conjunto **reducido** señales **fijas** e **invariables** cuyo significado está completamente fijado. (Señales de buzos, por ejemplo)
-
-- **Complejo:** Es un código con componentes que se pueden unir recursivamente, y cuyas palabras tienen varios significados dependiendo del contexto (?)
-
-6. ¿Cuáles son las ventajas de abordar la comunicación desde el punto de vista del código?
-
-Permite caracterizar la lengua como un **sistema combinatorio discreto**.
-
-7. ¿Por qué es necesario apelar a elementos extralinguísticos para explicar el proceso comunicativo?
-
-Es necesario porque el código no es un componente suficiente por sí solo para el proceso comunicativo. Hay muchos aspectos de la comunicación (su emisión e interpretación) que dependen de factores externos al código linguístico: señas, actitudes, contexto, etc.
-
-8. ¿Por qué la gramática no es suficiente para explicar los procesos comunicativos?
-
-La gramática no es suficiente porque existen **ambiguedades** en las palabras que sólo se pueden resolver incluyendo un contexto que determine los significados de las palabras ambiguas.
-
-9. ¿Por qué la interpretación de los mensajes no solo consiste en decodificar su contenido?
-
-Como el código no es suficiente para expresar un proceso comunicativo, el contenido del mensaje debe ser complementado por el receptor utilizando el contexto que engloba al proceso.
-
-10. ¿Es un requisito necesario la utilización de un código para que se lleve a cabo el proceso de comunicación?
-
-La comunicación bien puede darse sin un código, como es el caso del ejemplo de "agitar las llaves" que Escandell menciona.
-
-11. ¿A qué se refiere el autor cuando habla sobre deducciones e inferencias?
-
-Se refiere a los datos o "suposiciones" que podemos hacer a partir de observaciones específicas en otras personas sin necesidad del uso de la lengua. Sin embargo, en estos casos no hay comunicación, ya que no es voluntario.
-
-12. ¿Cuáles son las razones que el autor sostiene sobre la función de la **intencionalidad** en el proceso comunicativo?
-
-- Da **credibilidad** a la información recibida.
-- Establece diferencias entre los actos **voluntarios** e **involuntarios** (reflejos).
-
-13. ¿En qué se diferencia la comunicación humana de la comunicación animal?
-
-La comunicación humana es **a consciencia**, se realiza voluntariamente y no por instinto.
-
-14. En qué consiste el concepto de "representación interna"?
-
-La representación interna es el concepto **(imagen mental)** que cada persona tiene del contexto que engloba a la comunicación: el espacio, el contexto social, etc. Escandell explica que cuando se habla de un "referente" en la comunicación, en realidad se habla de la representación interna, ya que la comunicación no habla de la realidad en sí, sino de **nuestra** propia percepción (frecuentemente compartida) de la realidad.
-
-15. ¿Cuál es el propósito de la comunicación?
-
-El emisor quiere **lograr un objetivo**, tiene que ver con la **relación emisor-receptor**.
-
-El objetivo del emisor es **lograr un conjunto de representaciones** en el emisor.
-
-```
+> [!EXERCISE] Preguntas guía
+> 1. ¿Por qué es útil atender a las regularidades y no lo anecdótico en este tipo de estudios?
+> 
+> Es necesario porque esto nos permitiría analizar la comunicación desde una perspectiva sistemática. Si atendemos a las regularidades, podemos descubrir las propiedades **generales** del proceso comunicativo.
+> 
+> 2. ¿Cuáles son los elementos del sistema de Shannon y Weavear?
+> 3. ¿Cuáles son los elementos del sistema de Jakobson?
+> 
+> - Emisor
+> - Receptor
+> - Mensaje
+> - Código
+> - Canal
+> - Contexto
+> 
+> 4. ¿En qué consiste la crítica al sistema clásico?
+> 
+> La crítica que explica Escandell se basa en que el sistema clásico es demasiado **rígido** y **simplista**.
+> 
+> - El rol del código es excesivo.
+> - La relación entre los hablantes no se toma en cuenta.
+> - El contexto pasa a un plano secundario
+> - La situación comunicativa carece de peso
+> 
+> 5. ¿Qué es un código simple y complejo?
+> 
+> - **Simple:** Se trata de un conjunto **reducido** señales **fijas** e **invariables** cuyo significado está completamente fijado. (Señales de buzos, por ejemplo)
+> 
+> - **Complejo:** Es un código con componentes que se pueden unir recursivamente, y cuyas palabras tienen varios significados dependiendo del contexto (?)
+> 
+> 6. ¿Cuáles son las ventajas de abordar la comunicación desde el punto de vista del código?
+> 
+> Permite caracterizar la lengua como un **sistema combinatorio discreto**.
+> 
+> 7. ¿Por qué es necesario apelar a elementos extralinguísticos para explicar el proceso comunicativo?
+> 
+> Es necesario porque el código no es un componente suficiente por sí solo para el proceso comunicativo. Hay muchos aspectos de la comunicación (su emisión e interpretación) que dependen de factores externos al código linguístico: señas, actitudes, contexto, etc.
+> 
+> 8. ¿Por qué la gramática no es suficiente para explicar los procesos comunicativos?
+> 
+> La gramática no es suficiente porque existen **ambiguedades** en las palabras que sólo se pueden resolver incluyendo un contexto que determine los significados de las palabras ambiguas.
+> 
+> 9. ¿Por qué la interpretación de los mensajes no solo consiste en decodificar su contenido?
+> 
+> Como el código no es suficiente para expresar un proceso comunicativo, el contenido del mensaje debe ser complementado por el receptor utilizando el contexto que engloba al proceso.
+> 
+> 10. ¿Es un requisito necesario la utilización de un código para que se lleve a cabo el proceso de comunicación?
+> 
+> La comunicación bien puede darse sin un código, como es el caso del ejemplo de "agitar las llaves" que Escandell menciona.
+> 
+> 11. ¿A qué se refiere el autor cuando habla sobre deducciones e inferencias?
+> 
+> Se refiere a los datos o "suposiciones" que podemos hacer a partir de observaciones específicas en otras personas sin necesidad del uso de la lengua. Sin embargo, en estos casos no hay comunicación, ya que no es voluntario.
+> 
+> 12. ¿Cuáles son las razones que el autor sostiene sobre la función de la **intencionalidad** en el proceso comunicativo?
+> 
+> - Da **credibilidad** a la información recibida.
+> - Establece diferencias entre los actos **voluntarios** e **involuntarios** (reflejos).
+> 
+> 13. ¿En qué se diferencia la comunicación humana de la comunicación animal?
+> 
+> La comunicación humana es **a consciencia**, se realiza voluntariamente y no por instinto.
+> 
+> 14. En qué consiste el concepto de "representación interna"?
+> 
+> La representación interna es el concepto **(imagen mental)** que cada persona tiene del contexto que engloba a la comunicación: el espacio, el contexto social, etc. Escandell explica que cuando se habla de un "referente" en la comunicación, en realidad se habla de la representación interna, ya que la comunicación no habla de la realidad en sí, sino de **nuestra** propia percepción (frecuentemente compartida) de la realidad.
+> 
+> 15. ¿Cuál es el propósito de la comunicación?
+> 
+> El emisor quiere **lograr un objetivo**, tiene que ver con la **relación emisor-receptor**.
+> 
+> El objetivo del emisor es **lograr un conjunto de representaciones** en el emisor.
 
 La definición, estudio y análisis de lo que conocemos como "comunicación" son asuntos **complejos**, cuyas respuestas no son evidentes a primera vista.
 
@@ -143,12 +133,8 @@ El esquema clásico es aquel de **Shannon y Weaver** (1949), complementado por *
 
 Es un modelo **erróneo**: rígido, mecánico y simplista.
 
-```ad-note
-title: Dato interesante
-
-¡El esquema clásico se pensó originalmente para la comunicación entre **dispositivos mecánicos**! Con razón no sirve, duh.
-
-```
+> [!NOTE] Dato interesante
+> ¡El esquema clásico se pensó originalmente para la comunicación entre **dispositivos mecánicos**! Con razón no sirve, duh.
 
 ## 4. ¿Cómo nos comunicamos?
 
@@ -185,25 +171,17 @@ En estas oraciones encontramos que hacen falta varias cosas:
 - **Puntos de comparación** aludidos
 - **Intención** del mensaje (objetivo)
 
-```ad-important
-title: Takeaway
-
-El punto es que entender oraciones requieren más que solo dominio léxico y gramática. Requiere de poder adecuar el mensaje a **nuestro propio conocimiento** y contexto específico.
-
-```
+> [!IMPORTANT] Takeaway
+> El punto es que entender oraciones requieren más que solo dominio léxico y gramática. Requiere de poder adecuar el mensaje a **nuestro propio conocimiento** y contexto específico.
 
 ### 4.2. ¿Es necesario el código?
 
 **Nop.**
 
-```ad-example
-title: Ejemplo
-
-Sales de tu casa, y al otro lado de la casa está un familiar. Mientras que el semáforo se está poniendo en verde para cruzar, el individuo **agita sus llaves** ante tu mirada.
-
-Esto puede comunicar varias cosas. ¿Se compró un carro nuevo? ¿Acaba de encontrar tus llaves perdidas?
-
-```
+> [!EXAMPLE] Ejemplo
+> Sales de tu casa, y al otro lado de la casa está un familiar. Mientras que el semáforo se está poniendo en verde para cruzar, el individuo **agita sus llaves** ante tu mirada.
+> 
+> Esto puede comunicar varias cosas. ¿Se compró un carro nuevo? ¿Acaba de encontrar tus llaves perdidas?
 
 En casos como este ejemplo, la comunicación se da **sin un código establecido**. Es decir, no existen convenciones sociales sobre lo que "agitar llaves" signifique.
 
@@ -224,12 +202,8 @@ En el sentido de **recepción**, decimos que la comunicación se ha producido co
 
 Sin embargo, desde el sentido de **emisión**, la respuesta es un poco más amplia.
 
-```ad-important
-title: Importante
-
-La emisión de la comunicación requiere obligatoriamente de **intencionalidad** a la hora de transmitir el mensaje.
-
-```
+> [!IMPORTANT] Importante
+> La emisión de la comunicación requiere obligatoriamente de **intencionalidad** a la hora de transmitir el mensaje.
 
 No se puede hablar de "comunicación" si la emisión del "mensaje" no fue voluntaria. Así es como nos diferenciamos de la comunicación con los **animales**: actuamos no por reflejo, sino por voluntad.
 
@@ -241,12 +215,8 @@ La transmisión de información **no es el único fin de la comunicación**. Exi
 
 ### 7.2 Realidad y "representación interna"
 
-```ad-note
-title: Nota
-
-El referente **no** es necesario para la comunicación.
-
-```
+> [!NOTE] Nota
+> El referente **no** es necesario para la comunicación.
 
 Debemos introducir un nuevo concepto que llamamos **representación interna**.
 

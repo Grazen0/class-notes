@@ -72,23 +72,18 @@ $$
 
 Solo está definido para vectores de **3 dimensiones**.
 
-```ad-tip
-title: Tip: Regla de la mano derecha
-collapse: closed
-
-Un truco para averiguar la dirección de un producto cruz entre $\vec{v}$ y $\vec{w}$ es la regla de la mano derecha.
-
-Colocamos la mano de la siguiente forma:
-
-![[right hand rule.png]]
-
-1. Dedo índice: $\vec{v}$
-2. Dedo medio: $\vec{w}$
-3. Dedo pulgar: $\vec{v} \times \vec{w}$
-
-(En la imagen se ve diferente, pero creo que en este curso lo hacemos así)
-
-```
+> [!TIP]- Tip: Regla de la mano derecha
+> Un truco para averiguar la dirección de un producto cruz entre $\vec{v}$ y $\vec{w}$ es la regla de la mano derecha.
+> 
+> Colocamos la mano de la siguiente forma:
+> 
+> ![[right hand rule.png]]
+> 
+> 1. Dedo índice: $\vec{v}$
+> 2. Dedo medio: $\vec{w}$
+> 3. Dedo pulgar: $\vec{v} \times \vec{w}$
+> 
+> (En la imagen se ve diferente, pero creo que en este curso lo hacemos así)
 
 ### Propiedades
 

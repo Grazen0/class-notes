@@ -66,30 +66,22 @@ Entonces, **a partir de los ODM se desarrollaron los ODS**.
 
 El principal cambio hacia los ODS fue incluir a las poblaciones minoritarias, a quienes se quedaron fuera del desarrollo de los ODM.
 
-```ad-important
-title: Frase clave
-
-La idea principal de los ODS es **"No dejar a nadie atrás"**.
-
-```
+> [!IMPORTANT] Frase clave
+> La idea principal de los ODS es **"No dejar a nadie atrás"**.
 
 \[AGREGAR GRAFICO\]
 
 ![[ODS vs ODM.excalidraw]]
 
-```ad-note
-title: Video: 5 cambios significativos
-
-Los ODS tienen **5 cambios significativos** con respecto a los ODM:
-
-1. **Sostenibilidad**
-2. **Equidad**
-3. **Universalidad**
-4. **Compromiso**
-5. **Alcance**
-
-¡Todos los problemas están interconectados!
-
-Por ejemplo, pobreza $\leftrightarrow$ salud $\leftrightarrow$ educación.
-
-```
+> [!NOTE] Video: 5 cambios significativos
+> Los ODS tienen **5 cambios significativos** con respecto a los ODM:
+> 
+> 1. **Sostenibilidad**
+> 2. **Equidad**
+> 3. **Universalidad**
+> 4. **Compromiso**
+> 5. **Alcance**
+> 
+> ¡Todos los problemas están interconectados!
+> 
+> Por ejemplo, pobreza $\leftrightarrow$ salud $\leftrightarrow$ educación.

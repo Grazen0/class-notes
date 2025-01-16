@@ -32,17 +32,12 @@ La innovación se está transformando de 3 maneras:
 - **Definir claramente los objetivos** que la sociedad debe lograr (ODS, p. ej.).
 - **Dar propósito claro a la investigación**, como mejorar la calidad de vida.
 
-```ad-example
-title: Caso: *Low-tech*
-
-El movimiento *low-tech* trata de llevar la innovación a lo más accesible y tecnológicamente simple posible.
-
-- Innovaciones **sencillas y accesibles** para todos.
-- Alternativa a los hábitos de consumo actuales.
-- **Perspectiva diferente**, sencilla, inclusiva y eco-amigable.
-
-
-```
+> [!EXAMPLE] Caso: *Low-tech*
+> El movimiento *low-tech* trata de llevar la innovación a lo más accesible y tecnológicamente simple posible.
+> 
+> - Innovaciones **sencillas y accesibles** para todos.
+> - Alternativa a los hábitos de consumo actuales.
+> - **Perspectiva diferente**, sencilla, inclusiva y eco-amigable.
 
 **El énfasis está cambiando:**
 
@@ -53,22 +48,13 @@ El movimiento *low-tech* trata de llevar la innovación a lo más accesible y te
 
 ### CTI al servicio de la sociedad
 
-```ad-important
-title: Idea clave
-
-Los desafíos sociales son **complejos y multidimensionales**.
-
-```
+> [!IMPORTANT] Idea clave
+> Los desafíos sociales son **complejos y multidimensionales**.
 
 ## Participación social y la desigualdad
 
-```ad-important
-title: Idea principal
-
-**¡Es importante tener comunicación con la sociedad!** Si no hay interés, no puede haber adopción de la tecnología, ni educación, ni nada.
-
-
-```
+> [!IMPORTANT] Idea principal
+> **¡Es importante tener comunicación con la sociedad!** Si no hay interés, no puede haber adopción de la tecnología, ni educación, ni nada.
 
 La palabra clave es **retroalimentación**.
 

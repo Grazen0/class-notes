@@ -24,12 +24,8 @@ La **norma** es el "**debe ser**".
 
 La arquitectura de la lengua forma la **lengua histórica**.
 
-```ad-cite
-title: Una pequeña historia
-
-Yo fui de visita a un *recito penitenciario*, y encontré que existía un gran choque entre las **variedades de la lengua entre nosotros y los internos**.
-
-```
+> [!CITE] Una pequeña historia
+> Yo fui de visita a un *recito penitenciario*, y encontré que existía un gran choque entre las **variedades de la lengua entre nosotros y los internos**.
 
 Necesitamos estar adaptados a distintas formas de lengua (formal, informal, etc) para **llegar a todas las personas** en distintos contextos.
 

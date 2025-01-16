@@ -38,8 +38,5 @@ std::cout << "copy of a: " << copy_of_a << std::endl;
 - **Referencia:** es un constructo del *compilador*. Actúa como *alias* de una variable.
 - **Puntero:** "existe" de verdad en la memoria: es un número.
 
-```ad-tip
-
-En general, es mejor usar **referencias antes que punteros** a menos que no sea posible.
-
-```
+> [!TIP]
+> En general, es mejor usar **referencias antes que punteros** a menos que no sea posible.

@@ -9,22 +9,18 @@ createdAt: 2024-05-28 12:36
 
 # Series y criterios de convergencia
 
-```ad-definition
-title: Definición (serie).
-
-Una **serie** es el límite de las sumas parciales de una sucesión. Es decir, tiene la forma
-
-$$
-\lim_{N \to \infty} \sum_{n=0}^{N} a_n
-,$$
-
-y, para abreviar, se denota como
-
-$$
-\sum_{n=0}^{\infty} a_n
-.$$
-
-```
+> [!DEFINITION] Definición (serie).
+> Una **serie** es el límite de las sumas parciales de una sucesión. Es decir, tiene la forma
+> 
+> $$
+> \lim_{N \to \infty} \sum_{n=0}^{N} a_n
+> ,$$
+> 
+> y, para abreviar, se denota como
+> 
+> $$
+> \sum_{n=0}^{\infty} a_n
+> .$$
 
 Informalmente, podemos decir que una serie es una "suma infinita".
 

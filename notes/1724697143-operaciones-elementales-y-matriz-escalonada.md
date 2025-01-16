@@ -41,11 +41,8 @@ $$
 
 ## Matrices elementales
 
-```ad-definition
-
-Una matriz es **elemental** si y sólo si es el resultado de aplicar una operación elemental a la matriz identidad.
-
-```
+> [!DEFINITION]
+> Una matriz es **elemental** si y sólo si es el resultado de aplicar una operación elemental a la matriz identidad.
 
 Las matrices elementales representan las operaciones elementales en forma de una matriz.
 
@@ -92,11 +89,8 @@ $$
 
 ## Equivalencia de matrices
 
-```ad-definition
-
-Dos matrices $A$ y $B$ son **equivalentes por filas** si y sólo si podemos obtener una a partir de la otra aplicando operaciones elementales. Esto se denota como $A \sim B$.
-
-```
+> [!DEFINITION]
+> Dos matrices $A$ y $B$ son **equivalentes por filas** si y sólo si podemos obtener una a partir de la otra aplicando operaciones elementales. Esto se denota como $A \sim B$.
 
 Por ejemplo, las matrices $A = \begin{bmatrix} 2 & 1 \\ 4 & 1 \end{bmatrix}$ y $B = \begin{bmatrix} 2 & 1 \\ 10 & 4 \end{bmatrix}$ son equivalentes, ya que podemos llegar de $A$ a $B$ de la siguiente forma:
 
@@ -114,30 +108,17 @@ $$
 
 ## Matriz escalonada por filas
 
-```ad-definition
-title: Definición (fila nula).
-collapse: closed
+> [!DEFINITION]- Definición (fila nula).
+> Una fila es **nula** si y sólo si todos sus elementos son iguales a $0$.
 
-Una fila es **nula** si y sólo si todos sus elementos son iguales a $0$.
+> [!DEFINITION]- Definición (pivote).
+> El pivote de una fila *no nula* es el primer elemento diferente de $0$ en la fila (empezando por la izquierda).
 
-```
-
-```ad-definition
-title: Definición (pivote).
-collapse: closed
-
-El pivote de una fila *no nula* es el primer elemento diferente de $0$ en la fila (empezando por la izquierda).
-
-```
-
-```ad-definition
-
-Una matriz es **escalonada por filas** si y sólo si se cumple que
-
-- todas sus filas nulas (si existen) se encuentran abajo de la matriz, y
-- el pivote de cada fila está a la izquierda del pivote de la fila siguiente.
-
-```
+> [!DEFINITION]
+> Una matriz es **escalonada por filas** si y sólo si se cumple que
+> 
+> - todas sus filas nulas (si existen) se encuentran abajo de la matriz, y
+> - el pivote de cada fila está a la izquierda del pivote de la fila siguiente.
 
 Una matriz escalonada por filas se ve algo así, por ejemplo:
 
@@ -151,13 +132,8 @@ $$
 \end{bmatrix}
 $$
 
-```ad-definition
-title: Definición (rango).
-collapse: closed
-
-El rango de una matriz $A$ es igual a la **cantidad de filas no nulas** de la matriz *escalonada* que se obtenga con operaciones elementales en $A$.
-
-```
+> [!DEFINITION]- Definición (rango).
+> El rango de una matriz $A$ es igual a la **cantidad de filas no nulas** de la matriz *escalonada* que se obtenga con operaciones elementales en $A$.
 
 ### Matriz escalonada reducida por filas
 
@@ -180,8 +156,5 @@ $$
 
 De  aquí obtenemos un resultado imporante:
 
-```ad-theorem
-
-Dos matrices son equivalentes por filas si (y solo si?) poseen la misma forma escalonada reducida.
-
-```
+> [!THEOREM]
+> Dos matrices son equivalentes por filas si (y solo si?) poseen la misma forma escalonada reducida.

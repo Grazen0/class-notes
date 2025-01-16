@@ -29,12 +29,8 @@ $$
 \Delta P = \Delta P_\text{máx}\sin(kx - \omega t)
 .$$
 
-```ad-note
-title: Nota
-
-Se escribe $\Delta P$ (y no simplemente $P$) porque $\Delta P = P - P_\text{atmosférica}$.
-
-```
+> [!NOTE] Nota
+> Se escribe $\Delta P$ (y no simplemente $P$) porque $\Delta P = P - P_\text{atmosférica}$.
 
 La **rapidez** de una onda sonora depende del medio.
 

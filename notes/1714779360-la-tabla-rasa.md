@@ -16,12 +16,8 @@ Notita: Pinker defiende que **la humanidad ha mejorado**, y mantiene una postura
 
 AKA **empirismo**, **culturalismo**, "la tabla rasa"
 
-```ad-tldr
-title: TLDR
-
-Venimos al mundo como **hojas en blanco**, la experiencia es la que nos construye.
-
-```
+> [!TLDR] TLDR
+> Venimos al mundo como **hojas en blanco**, la experiencia es la que nos construye.
 
 El conductismo es la teoría **más aceptada**, aunque solamente por ser **políticamente correcta**.
 
@@ -55,12 +51,8 @@ De esta forma, se encuentra lugar para la **creatividad** y **libertad** del ser
 
 ## El innatismo
 
-```ad-tldr
-title: TLDR
-
-Venimos al mundo con **información previa a la experiencia** ya con nosotros.
-
-```
+> [!TLDR] TLDR
+> Venimos al mundo con **información previa a la experiencia** ya con nosotros.
 
 - Viene desde Platón y se potencia con Descartes.
 - **Noam Chomsky** toma la rienda en el siglo XX.

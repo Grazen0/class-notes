@@ -52,12 +52,8 @@ $$
 \frac{1}{q} = \frac{1}{f} = (n - 1)\left( \frac{1}{R_1} - \frac{1}{R_2} \right)
 .$$
 
-```ad-warning
-title: Importante
-
-Nótese que, por convención de signos, $R_1$ y $R_2$ **siempre** van a tener signos opuestos.
-
-```
+> [!WARNING] Importante
+> Nótese que, por convención de signos, $R_1$ y $R_2$ **siempre** van a tener signos opuestos.
 
 Por otro lado, el **aumento** de la imagen es igual a
 

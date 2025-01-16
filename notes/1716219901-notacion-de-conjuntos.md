@@ -10,14 +10,10 @@ createdAt: 2024-05-20 10:45
 
 # Notación de conjuntos
 
-```ad-definition
-title: Definición (conjunto).
-
-Un conjunto es una colección **no ordenada** y bien definida de objetos **distintos**.
-
-Los objetos de un conjunto son llamados **elementos**.
-
-```
+> [!DEFINITION] Definición (conjunto).
+> Un conjunto es una colección **no ordenada** y bien definida de objetos **distintos**.
+> 
+> Los objetos de un conjunto son llamados **elementos**.
 
 Un conjunto *es* sus elementos. Es decir, un conjunto se define completamente en base de ellos.
 
@@ -37,16 +33,12 @@ $$
 
 para alguna función proposicional $P(x)$.
 
-```ad-example
-title: Ejemplos
-
-- $\N = \left\{ 1, 2, 3, \ldots \right\}$
-- $\N = \left\{ a \lmid \text{\(a\) es un entero positivo} \right\}$
-- $A_{1} = \left\{ \square, \triangle \right\}$
-- $A_{2} = \left\{ 2, 4, 5, 7, 8, 9 \right\}$
-- $A_{3} = \left\{ x \in A \lmid x > 3 \right\}$
-
-```
+> [!EXAMPLE] Ejemplos
+> - $\N = \left\{ 1, 2, 3, \ldots \right\}$
+> - $\N = \left\{ a \lmid \text{\(a\) es un entero positivo} \right\}$
+> - $A_{1} = \left\{ \square, \triangle \right\}$
+> - $A_{2} = \left\{ 2, 4, 5, 7, 8, 9 \right\}$
+> - $A_{3} = \left\{ x \in A \lmid x > 3 \right\}$
 
 ### Por intervalos
 
@@ -64,12 +56,8 @@ Dos conjuntos $A$ y $B$ son **iguales** si y sólo si poseen los mismos elemento
 
 Es posible demostrar igualdad por **inclusión mutua**:
 
-```ad-proposition
-title: Propiedad.
-
-Dos conjuntos $A$ y $B$ son iguales si y sólo si $A \subseteq B$ y $B \subseteq A$.
-
-```
+> [!PROPOSITION] Propiedad.
+> Dos conjuntos $A$ y $B$ son iguales si y sólo si $A \subseteq B$ y $B \subseteq A$.
 
 ### Existencia del conjunto vacío ($\varnothing$)
 
@@ -88,47 +76,27 @@ Dados dos conjuntos $A$ y $B$, decimos que **$A$ está incluido en $B$** si y s�
 
 Si $A$ no es subconjunto de $B$, lo denotamos como $A \nsubseteq B$.
 
-```ad-proposition
-title: Propiedad.
+> [!PROPOSITION] Propiedad.
+> Cualquier conjunto es subconjunto de si mismo. Es decir, para todo conjunto $A$:
+> 
+> $$
+> A \subseteq A
+> $$
 
-Cualquier conjunto es subconjunto de si mismo. Es decir, para todo conjunto $A$:
+> [!PROPOSITION] Propiedad.
+> $\varnothing \subseteq A$ para todo conjunto $A$.
+> 
+> > [!PROOF]-
+> > Por contradicción, supongamos que existe un conjunto $A$ tal que $\varnothing \nsubseteq A$. Entonces, existe un elemento $x$ tal que $x \in \varnothing$ y $x \notin A$.
+> > 
+> > Sin embargo, esto es una contradicción porque $\varnothing$ no tiene elementos.
+> > $$\qed$$
 
-$$
-A \subseteq A
-$$
-
-```
-
-````ad-proposition
-title: Propiedad.
-
-$\varnothing \subseteq A$ para todo conjunto $A$.
-
-```ad-proof
-collapse: closed
-
-Por contradicción, supongamos que existe un conjunto $A$ tal que $\varnothing \nsubseteq A$. Entonces, existe un elemento $x$ tal que $x \in \varnothing$ y $x \notin A$.
-
-Sin embargo, esto es una contradicción porque $\varnothing$ no tiene elementos.
-$$\qed$$
-
-```
-
-````
-
-````ad-proposition
-title: Propiedad (transitividad).
-
-Sean $A, B, C$ conjuntos tales que $A \subseteq B$ y $B \subseteq C$, entonces $A \subseteq C$.
-
-```ad-proof
-collapse: closed
-
-Sean $A, B, C$ conjuntos tales que $A \subseteq B$ y $B \subseteq C$.
-
-Entonces, sea $x$ un elemento cualquiera de $A$. Como $A \subseteq B$, entonces $x \in B$. Sin embargo, como $B \subseteq C$, entonces además $x \in C$.
-$$\qed$$
-
-```
-
-````
+> [!PROPOSITION] Propiedad (transitividad).
+> Sean $A, B, C$ conjuntos tales que $A \subseteq B$ y $B \subseteq C$, entonces $A \subseteq C$.
+> 
+> > [!PROOF]-
+> > Sean $A, B, C$ conjuntos tales que $A \subseteq B$ y $B \subseteq C$.
+> > 
+> > Entonces, sea $x$ un elemento cualquiera de $A$. Como $A \subseteq B$, entonces $x \in B$. Sin embargo, como $B \subseteq C$, entonces además $x \in C$.
+> > $$\qed$$

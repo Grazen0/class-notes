@@ -69,9 +69,5 @@ $$
 
 donde $t$ es es el **espesor** de la película y $\lambda'$ es la longitud de onda **dentro del material**.
 
-```ad-warning
-title: Cuidado
-
-No confundir estas fórmulas con las de diferencia de caminos de ondas. Las fórmulas están al revés.
-
-```
+> [!WARNING] Cuidado
+> No confundir estas fórmulas con las de diferencia de caminos de ondas. Las fórmulas están al revés.

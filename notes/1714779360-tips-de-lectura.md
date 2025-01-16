@@ -16,31 +16,18 @@ createdAt: 2024-05-03 18:36
 2. Leer el **resumen (abstract)**: Explica literalmente *todo* el texto. Tema, argumentos y conclusión.
 3. Leer la **anticipación**: Es la parte donde el autor explica cómo se va a desarrollar el artículo, su estructura.
 
-```ad-info
-title: Un dato no muy relevante
-collapse: closed
-
-La mayor parte de los jueces de tesis solo evalúan el abstract y las conclusiones.
-
-```
+> [!INFO]- Un dato no muy relevante
+> La mayor parte de los jueces de tesis solo evalúan el abstract y las conclusiones.
 
 ## Lectura
 
-```ad-tip
-title: Tip: Método pomodoro universitario
+> [!TIP] Tip: Método pomodoro universitario
+> Si usamos el método **pomodoro**, los lapsos de estudio deben ser **más largos**: 40 min. - 1 hora.
+> 
+> El objetivo debería ser llegar a **4 horas** seguidas de estudio. Nuestros niveles de estudio deben aumentar.
 
-Si usamos el método **pomodoro**, los lapsos de estudio deben ser **más largos**: 40 min. - 1 hora.
-
-El objetivo debería ser llegar a **4 horas** seguidas de estudio. Nuestros niveles de estudio deben aumentar.
-
-```
-
-```ad-tip
-title: Tip: Meditación
-
-Antes de estudiar, tomarse un tiempo para **respirar** y **meditar**.
-
-```
+> [!TIP] Tip: Meditación
+> Antes de estudiar, tomarse un tiempo para **respirar** y **meditar**.
 
 1. **Dos leídas**
    1. Lectura general (intentar leer en diagonal)

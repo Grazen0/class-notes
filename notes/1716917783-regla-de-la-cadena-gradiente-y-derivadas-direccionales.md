@@ -34,11 +34,8 @@ $$
 
 Al operador $\nabla$ se le conoce como **nabla**.
 
-```ad-theorem
-
-La gradiente $\nabla f(x_0,y_0)$ es **perpendicular** a la **curva (o superficie) de nivel** en $f(x,y) = k$ en $(x_0,y_0)$.
-
-```
+> [!THEOREM]
+> La gradiente $\nabla f(x_0,y_0)$ es **perpendicular** a la **curva (o superficie) de nivel** en $f(x,y) = k$ en $(x_0,y_0)$.
 
 ## Derivada direccional
 
@@ -52,11 +49,7 @@ donde $\vec{u}$ **tiene que ser un vector unitario**.
 
 La derivada direccional representa la **tasa de cambio** de $f$ en la dirección de $\vec{u}$.
 
-```ad-theorem
-
-El máximo valor de $D_\vec{u}f$ en $(x_0,y_0,z_0)$ es igual a $\lVert \nabla f(x_0,y_0,z_0) \rVert$, y va en la dirección de este último.
-
-```
+> [!THEOREM]
+> El máximo valor de $D_\vec{u}f$ en $(x_0,y_0,z_0)$ es igual a $\lVert \nabla f(x_0,y_0,z_0) \rVert$, y va en la dirección de este último.
 
 Este teorema significa que podemos hallar la **mayor tasa de cambio** de $f$ en un punto cualquiera $(x_0,y_0)$. Simplemente evaluamos $\nabla f$ en $(x_0,y_0)$ y calculamos su módulo.
-

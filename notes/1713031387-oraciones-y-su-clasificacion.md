@@ -10,18 +10,11 @@ createdAt: 2024-04-13 13:03
 
 # Oraciones y su clasificación
 
-```ad-tip
-title: Tip de estudio
+> [!TIP] Tip de estudio
+> "Hackear" el cerebro y "creer" que lo que estamos leyendo es importante y necesario.
 
-"Hackear" el cerebro y "creer" que lo que estamos leyendo es importante y necesario.
-
-```
-
-```ad-definition
-
-La **oración** es la unidad mínima del discurso.
-
-```
+> [!DEFINITION]
+> La **oración** es la unidad mínima del discurso.
 
 Las oraciones se clasifican por 3 criterios:
 
@@ -29,17 +22,13 @@ Las oraciones se clasifican por 3 criterios:
 2. **Semántica**:
 3. **Pragmática**: Por su función discursiva
 
-```ad-note
-title: Nota: Roles temáticos
-
-Consideremos cuántos complementos necesitan los siguientes verbos para ser utilizados en contexto:
-
-- **Llover:** **(0)**
-- **Reír:** ¿quién? **(1)**
-- **Golpear:** ¿quién? ¿a qué? **(2)**
-- **Dar:** ¿quién? ¿qué? ¿a quién? **(3)**
-
-```
+> [!NOTE] Nota: Roles temáticos
+> Consideremos cuántos complementos necesitan los siguientes verbos para ser utilizados en contexto:
+> 
+> - **Llover:** **(0)**
+> - **Reír:** ¿quién? **(1)**
+> - **Golpear:** ¿quién? ¿a qué? **(2)**
+> - **Dar:** ¿quién? ¿qué? ¿a quién? **(3)**
 
 ## Clasificación sintáctica
 
@@ -70,12 +59,8 @@ María *estudia*, Pedro *trabaja*.
 - **Adjetiva:** Tu primo **quien *llegó* hoy** *estudiará* sintaxis.
 - **Adverbial:** Nosotros *iremos* **apenas *llegues* tú**.
 
-```ad-warning
-title: Advertencia
-
-**En este curso está prohibido usar subordinaciones adjetivas**, ya que suelen meter mucho floro.
-
-```
+> [!WARNING] Advertencia
+> **En este curso está prohibido usar subordinaciones adjetivas**, ya que suelen meter mucho floro.
 
 ## Clasificación semántica
 

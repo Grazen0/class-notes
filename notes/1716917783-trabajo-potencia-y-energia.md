@@ -9,20 +9,13 @@ createdAt: 2024-05-28 12:36
 
 # Trabajo, potencia y energía
 
-```ad-important
-title: Nota importante
+> [!IMPORTANT] Nota importante
+> En este curso consideramos a la gravedad como $g = 9.8 \mathrm{\frac{m}{s^{2}}}$.
 
-En este curso consideramos a la gravedad como $g = 9.8 \mathrm{\frac{m}{s^{2}}}$.
-
-```
-
-```ad-definition
-
-El trabajo es una cantidad física *escalar* asociedad con la **cantidad de energía que se transfiere** hacia un cuerpo al aplicar una fuerza, acción que resulta en un **cambio en el estado del movimiento**.
-
-Se mide en **joules** ($\text{J}$).
-
-```
+> [!DEFINITION]
+> El trabajo es una cantidad física *escalar* asociedad con la **cantidad de energía que se transfiere** hacia un cuerpo al aplicar una fuerza, acción que resulta en un **cambio en el estado del movimiento**.
+> 
+> Se mide en **joules** ($\text{J}$).
 
 El trabajo ($W$) se calcula como el producto escalar de la fuerza $\vec{F}$ y el cambio en distancia $\Delta \vec{r}$:
 
@@ -60,11 +53,8 @@ W_{s} = \frac{1}{2}k(x_{i})^{2} - \frac{1}{2}k(x_{f})^{2}
 
 ## Potencia
 
-```ad-definition
-
-La potencia es la **cantidad de transferencia de energía** en un intervalo de tiempo. Se mide en **watts** ($\text{W}$).
-
-```
+> [!DEFINITION]
+> La potencia es la **cantidad de transferencia de energía** en un intervalo de tiempo. Se mide en **watts** ($\text{W}$).
 
 La **potencia promedio** se calcula como
 
@@ -98,22 +88,18 @@ $$
 
 donde $m$ es la masa del objeto, y $v$ su velocidad.
 
-```ad-theorem
-title: Teorema (teorema del trabajo neto).
-
-Cuando se realiza un trabajo en un sistema, y el único cambio es en la rapidez de sus partes, entonces **el trabajo neto realizado en el sistema es igual al cambio en la energía cinética del sistema**.
-
-Es decir,
-
-$$
-W_{\text{tot}} = \Delta K = K_{f} - K_{i}
-,$$
-
-donde $K_{f}$ y $K_{i}$ son la energía cinética final e inicial del objeto respectivamente.
-
-Nótese que $W_{\text{tot}}$ no es el trabajo de alguna fuerza en particular: es *el trabajo total realizado por todas las fuerzas* en el objeto.
-
-```
+> [!THEOREM] Teorema (teorema del trabajo neto).
+> Cuando se realiza un trabajo en un sistema, y el único cambio es en la rapidez de sus partes, entonces **el trabajo neto realizado en el sistema es igual al cambio en la energía cinética del sistema**.
+> 
+> Es decir,
+> 
+> $$
+> W_{\text{tot}} = \Delta K = K_{f} - K_{i}
+> ,$$
+> 
+> donde $K_{f}$ y $K_{i}$ son la energía cinética final e inicial del objeto respectivamente.
+> 
+> Nótese que $W_{\text{tot}}$ no es el trabajo de alguna fuerza en particular: es *el trabajo total realizado por todas las fuerzas* en el objeto.
 
 #### Energía potencial
 
@@ -121,16 +107,14 @@ Es la energía "almacenada" por un objeto asociada a su posición.
 
 ##### Energía potencial gravitatoria
 
-```ad-definition
-La energía potencial gravitatoria de un objeto de masa $m$ se calcula mediante la fórmula
-
-$$
-U_{g} = mgh
-,$$
-
-donde $h$ es la altura a la que se encuentra el objeto.
-
-```
+> [!DEFINITION]
+> La energía potencial gravitatoria de un objeto de masa $m$ se calcula mediante la fórmula
+> 
+> $$
+> U_{g} = mgh
+> ,$$
+> 
+> donde $h$ es la altura a la que se encuentra el objeto.
 
 La variación en energía potencial gravitatoria de un objeto es precisamente el opuesto del trabajo realizado por la gravedad. Es decir,
 
@@ -140,16 +124,14 @@ $$
 
 ##### Energía potencial elástica
 
-```ad-definition
-
-La energía potencial elástica de un resorte se calcula mediante la fórmula
-
-$$
-U_{\text{el}} = \frac{1}{2}kx^{2}
-,$$
-
-donde $x$ es la distancia del resorte de su punto de equilibrio.
-```
+> [!DEFINITION]
+> La energía potencial elástica de un resorte se calcula mediante la fórmula
+> 
+> $$
+> U_{\text{el}} = \frac{1}{2}kx^{2}
+> ,$$
+> 
+> donde $x$ es la distancia del resorte de su punto de equilibrio.
 
 Similar a la energía potencial gravitatoria, esta energía potencial es el **opuesto del trabajo elástico**. Es decir,
 
@@ -167,14 +149,10 @@ $$
 
 ## Fuerzas conservativas y no conservativas
 
-```ad-definition
-title: Definición (fuerza conservativa).
-
-Una fuerza es conservativa si y sólo si es **independiente de la trayectoria**.
-
-Alternativamente, una fuerza es conservativa si y sólo si el **trabajo** que realiza sobre un objeto a lo largo de una **trayectoria cerrada** es $0$.
-
-```
+> [!DEFINITION] Definición (fuerza conservativa).
+> Una fuerza es conservativa si y sólo si es **independiente de la trayectoria**.
+> 
+> Alternativamente, una fuerza es conservativa si y sólo si el **trabajo** que realiza sobre un objeto a lo largo de una **trayectoria cerrada** es $0$.
 
 Las fuerzas conservativas tienen la propiedad de que **mantienen la energía mecánica**. Es decir, $\Delta E_{\text{mec}} = 0$.
 

@@ -11,15 +11,12 @@ createdAt: 2025-01-06 14:56
 
 Al considerar el modelado de la mezcla de dos **soluciones salinas** de distintas concentraciones surge una EDO de primer orden que involucra las **cantidades de sal** en cada mezcla.
 
-```ad-definition
-
-Una [[Ecuaciones diferenciales y su clasificación|ecuación diferencial]] es **autónoma** si y sólo si se puede escribir de la forma
-
-$$
-\frac{dy}{dx} = F(y)
-.$$
-
-```
+> [!DEFINITION]
+> Una [[Ecuaciones diferenciales y su clasificación|ecuación diferencial]] es **autónoma** si y sólo si se puede escribir de la forma
+> 
+> $$
+> \frac{dy}{dx} = F(y)
+> .$$
 
 Estas EDs son particularmente fáciles de resolver mediante separación de variables.
 
@@ -45,12 +42,8 @@ Al igual que con las funciones de una variable, los **puntos críticos** de una 
 
 Resulta que los puntos críticos nos proporcionan algunas soluciones "triviales" de la ED.
 
-```ad-proposition
-title: Propiedad.
-
-Si $c$ es punto crítico de una ED autónoma, entonces $y = c$ es una solución.
-
-```
+> [!PROPOSITION] Propiedad.
+> Si $c$ es punto crítico de una ED autónoma, entonces $y = c$ es una solución.
 
 Estas soluciones particulares se llaman **soluciones de equilibrio**.
 
@@ -64,15 +57,12 @@ Por ejemplo, para la ED autónoma $\frac{dP}{dt} = P(a - bP)$:
 
 Se cumplen algunas propiedades intuitivas y útiles en estos casos.
 
-```ad-theorem
-
-Dada una solución $y(x)$ de una ED autónoma, se cumple lo siguiente:
-
-1. $y(x)$ permanecerá en la misma subregión.
-2. $y(x)$ es **monótona**.
-3. $y(x)$ se aproximará a los bordes de la subregión (de existir).
-
-```
+> [!THEOREM]
+> Dada una solución $y(x)$ de una ED autónoma, se cumple lo siguiente:
+> 
+> 1. $y(x)$ permanecerá en la misma subregión.
+> 2. $y(x)$ es **monótona**.
+> 3. $y(x)$ se aproximará a los bordes de la subregión (de existir).
 
 ### Atractores y repulsores
 
