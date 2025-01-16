@@ -11,7 +11,7 @@ createdAt: 2024-08-19 16:45
 
 La inducción matemática sirve para demostrar proposiciones que dependen de alguna variable $n$ que dependa de valores naturales.
 
-> [!PROPOSITION] Principio de inducción matemática.
+> [!PROPERTY] Principio de inducción matemática.
 > Sea $P(n)$ una proposición definida para cualquier entero positivo $n$. Entonces, si se cumple que
 > 
 > - $P(1)$ es verdadera, y

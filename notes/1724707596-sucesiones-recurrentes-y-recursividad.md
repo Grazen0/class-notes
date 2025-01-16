@@ -86,7 +86,7 @@ La solución de una sucesión recurrente puede ser demostrada por inducción.
 
 Planteamos aquí un esquema de inducción para sucesiones donde cada término depende no solo del anterior, sino también del otro anterior.
 
-> [!PROPOSITION]
+> [!PROPERTY]
 > Sea $P(n)$ una proposición definida para todo entero positivo $n$. Entonces, si se cumple que
 > 
 > - $P(1)$ y $P(2)$ son verdaderas, y

@@ -31,7 +31,7 @@ Los números primos son los "ladrillos" de los demás números, ya que **todo n�
 
 ![[Clasificacion Numeros Primos.excalidraw|width:80%]]
 
-> [!PROPOSITION] Propiedad
+> [!PROPERTY]
 > Todo número compuesto se puede expresar como el producto de dos números enteros mayores que $1$.
 
 **Ejemplos:**

@@ -39,7 +39,7 @@ p_A(\lambda) = \left| A - \lambda I_n \right| = 0
 
 Esta es llamada la **ecuación característica**.
 
-> [!PROPOSITION] Observación.
+> [!PROPERTY] Observación.
 > El polinomio característico de una matriz de orden $n$ tiene grado $n$, por lo que la ecuación característica tendrá $n$ raíces.
 
 ## Espacio propio

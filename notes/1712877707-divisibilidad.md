@@ -28,7 +28,7 @@ createdAt: 2024-04-11 18:21
 
 ## Propiedades
 
-> [!PROPOSITION] Propiedades básicas
+> [!PROPERTY] Propiedades básicas
 > Dado cualquier entero $n$,
 > 
 > 1. $1 \mid n$
@@ -54,7 +54,7 @@ createdAt: 2024-04-11 18:21
 
 Las propiedades 3 y 4 se pueden generalizar de la siguiente manera:
 
-> [!PROPOSITION] Propiedad
+> [!PROPERTY]
 > Si un número divide a otros dos, el primero también dividirá a cualquier combinación escalada o sumada de ellos.
 > 
 > En otras palabras, sean $a,b,c,m,n$ números enteros. Entonces,
@@ -137,7 +137,7 @@ Además, la divisibilidad también es **transitiva**.
 - $17$ es impar.
 - $-25$ es impar.
 
-> [!PROPOSITION] Propiedades
+> [!PROPERTY] Propiedades
 > 1. La suma de dos números pares es par.
 > 2. La suma de dos números impares es par.
 > 3. El producto de un número par con otro entero es par.

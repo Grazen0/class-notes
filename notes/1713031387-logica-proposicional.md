@@ -339,7 +339,7 @@ $p \lxor q$ se es equivalente a:
 - O $p$ o $q$.
 - O bien $p$ o bien $q$.
 
-> [!PROPOSITION] Observación.
+> [!PROPERTY] Observación.
 > La bicondicional tiene el valor de verdad opuesto de la disyunción fuerte.
 > 
 > $$

@@ -15,7 +15,7 @@ Una forma usual de denotar que el conjunto $|A|$ es finito es con $|A| < \infty$
 
 Si $A$ es infinito, entonces se escribe $|A| = \infty$.
 
-> [!PROPOSITION] Propiedades
+> [!PROPERTY] Propiedades
 > Sean $A$ y $B$ conjuntos finitos.
 > 
 > 1. $|A| \in \Z^{+}_{0}$.

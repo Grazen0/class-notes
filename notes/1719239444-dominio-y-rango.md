@@ -30,7 +30,7 @@ Un ejemplo gráfico con $A = \left\{  a, b, c\right\}$ y $B = \left\{ x, y, z \r
 
 Aquí, $\ran(f) = \left\{ x, z \right\}$.
 
-> [!PROPOSITION] Observación
+> [!PROPERTY] Observación
 > En general, se cumple que 
 > 
 > $$

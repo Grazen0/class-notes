@@ -11,7 +11,7 @@ createdAt: 2024-10-21 17:05
 
 Las combinaciones son la respuesta a la pregunta: "¿De cuántas formas puedo escoger $k$ elementos de un conjunto de $n$ elementos?"
 
-> [!PROPOSITION] Principio de las combinaciones.
+> [!PROPERTY] Principio de las combinaciones.
 > Dado un conjunto de $n$ elementos, la cantidad de subconjuntos de tamaño $k$ que posee es igual a
 > 
 > $$

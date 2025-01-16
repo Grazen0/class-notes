@@ -46,7 +46,7 @@ Al espacio columna, fila y nulo se les conoce como **subespacios fundamentales**
 
 A partir de este punto, podemos comenzar a pensar en las matrices como *colecciones de vectores* (ya sea en vertical u horizontal) y analizar sus propiedades con esto en mente.
 
-> [!PROPOSITION] Propiedad.
+> [!PROPERTY]
 > Las operaciones elementales **por filas** no cambian el espacio fila de una matriz.
 > 
 > Análogamente, las operaciones elementales **por columnas** no cambian el espacio columna de una matriz.

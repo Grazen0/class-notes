@@ -13,7 +13,7 @@
   --callout-icon: lightbulb;
 }
 
-.callout[data-callout="proposition"] {
+.callout[data-callout="property"] {
   --callout-color: 92, 245, 95;
   --callout-icon: file-text;
 }

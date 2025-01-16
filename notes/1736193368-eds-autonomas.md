@@ -42,7 +42,7 @@ Al igual que con las funciones de una variable, los **puntos críticos** de una 
 
 Resulta que los puntos críticos nos proporcionan algunas soluciones "triviales" de la ED.
 
-> [!PROPOSITION] Propiedad.
+> [!PROPERTY]
 > Si $c$ es punto crítico de una ED autónoma, entonces $y = c$ es una solución.
 
 Estas soluciones particulares se llaman **soluciones de equilibrio**.

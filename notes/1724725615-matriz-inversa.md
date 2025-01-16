@@ -18,7 +18,7 @@ En otras palabras, la inversa de una matriz es aquella que multiplicada con ella
 
 Existe una fórmula simple para la inversa de matrices de orden $2$, al menos.
 
-> [!PROPOSITION] Matriz inversa de orden $2$
+> [!PROPERTY] Matriz inversa de orden $2$
 > Sea $A = \begin{bmatrix} a & b \\ c & d\end{bmatrix}$. Entonces la inversa de $A$ es igual a
 > 
 > $$

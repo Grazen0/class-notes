@@ -9,7 +9,7 @@ createdAt: 2024-05-28 12:36
 
 # Principios básicos de conteo
 
-> [!PROPOSITION] Principio del producto.
+> [!PROPERTY] Principio del producto.
 > Si una tarea tiene $t$ etapas donde la $i$-ésima etapa se puede realizar de $n_i$ maneras (y cada etapa es independiente del resto), entonces existen
 > 
 > $$
@@ -25,7 +25,7 @@ En general, este tema suele entenderse mejor con varios ejemplos de distintos ti
 > 
 > Entonces, existen $n^m$ funciones $f: A \to B$.
 
-> [!PROPOSITION] Principio de la suma.
+> [!PROPERTY] Principio de la suma.
 > Si una tarea tiene $t$ opciones (**disjuntas**) de realizarse, y la $i$-ésima opción tiene $n_i$ formas de realizarla, entonces existen
 > 
 > $$

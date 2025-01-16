@@ -56,7 +56,7 @@ Dos conjuntos $A$ y $B$ son **iguales** si y sólo si poseen los mismos elemento
 
 Es posible demostrar igualdad por **inclusión mutua**:
 
-> [!PROPOSITION] Propiedad.
+> [!PROPERTY]
 > Dos conjuntos $A$ y $B$ son iguales si y sólo si $A \subseteq B$ y $B \subseteq A$.
 
 ### Existencia del conjunto vacío ($\varnothing$)
@@ -76,14 +76,14 @@ Dados dos conjuntos $A$ y $B$, decimos que **$A$ está incluido en $B$** si y s�
 
 Si $A$ no es subconjunto de $B$, lo denotamos como $A \nsubseteq B$.
 
-> [!PROPOSITION] Propiedad.
+> [!PROPERTY]
 > Cualquier conjunto es subconjunto de si mismo. Es decir, para todo conjunto $A$:
 > 
 > $$
 > A \subseteq A
 > $$
 
-> [!PROPOSITION] Propiedad.
+> [!PROPERTY]
 > $\varnothing \subseteq A$ para todo conjunto $A$.
 > 
 > > [!PROOF]-
@@ -92,7 +92,7 @@ Si $A$ no es subconjunto de $B$, lo denotamos como $A \nsubseteq B$.
 > > Sin embargo, esto es una contradicción porque $\varnothing$ no tiene elementos.
 > > $$\qed$$
 
-> [!PROPOSITION] Propiedad (transitividad).
+> [!PROPERTY] Propiedad (transitividad).
 > Sean $A, B, C$ conjuntos tales que $A \subseteq B$ y $B \subseteq C$, entonces $A \subseteq C$.
 > 
 > > [!PROOF]-

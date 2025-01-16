@@ -27,7 +27,7 @@ C \times P = \{ & (C_{1}, P_{1}), (C_{1}, P_{2}), (C_{1}, P_{3}), \\
 \end{align}
 $$
 
-> [!PROPOSITION] Propiedades.
+> [!PROPERTY] Propiedades.
 > 1. Si $A$ y $B$ son conjuntos finitos, entonces $|A \times B| =|A|\cdot|B|$
 > 2. Si alguno de $A$ o $B$ es **vacío**, entonces $A \times B = \varnothing$
 

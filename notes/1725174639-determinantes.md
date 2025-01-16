@@ -29,7 +29,7 @@ La definición presentada arriba se conoce como el **método de expansión de co
 
 Además, la determinante de una matriz de $2 \times 2$ es sencilla:
 
-> [!PROPOSITION] Determinante de $2 \times 2$.
+> [!PROPERTY] Determinante de $2 \times 2$.
 > Sea $A = \begin{bmatrix} a & b \\ c & d\end{bmatrix}$. Entonces, la determinante de $A$ es igual a
 > 
 > $$

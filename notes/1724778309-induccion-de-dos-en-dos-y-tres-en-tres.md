@@ -13,7 +13,7 @@ Son otros esquemas más de la inducción, donde los "saltos" de caso en caso son
 
 Claro, esto implica que se necesita de dos casos base.
 
-> [!PROPOSITION] Inducción de dos en dos
+> [!PROPERTY] Inducción de dos en dos
 > Sea $P(n)$ una proposición definida para todo entero positivo $n$. Entonces, si se cumple que
 > 
 > - $P(1)$ y $P(2)$ son verdaderas, y
@@ -23,7 +23,7 @@ Claro, esto implica que se necesita de dos casos base.
 
 La inducción de tres en tres se realiza de la misma forma.
 
-> [!PROPOSITION] Inducción de tres en tres
+> [!PROPERTY] Inducción de tres en tres
 > Sea $P(n)$ una proposición definida para todo entero positivo $n$. Entonces, si se cumple que
 > 
 > - $P(1)$, $P(2)$ y $P(3)$ son verdaderas, y

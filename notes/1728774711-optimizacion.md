@@ -51,7 +51,7 @@ Nótese que si $D(a,b) = 0$, entonces no podemos concluir nada en particular.
 
 El método de multiplicadores de Lagrange se usa para optimizar una función **bajo alguna restricción** particular.
 
-> [!PROPOSITION] Método de multiplicadores de Lagrange.
+> [!PROPERTY] Método de multiplicadores de Lagrange.
 > Sea $f$ la función objetivo, y $g(x,y,z) = k$ la función restricción. Entonces, para optimizar $f$, realizamos lo siguiente:
 > 
 > 1. Resolver los sistemas de ecuaciones para $x$, $y$, $z$ y $\lambda$:
