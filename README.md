@@ -1,6 +1,6 @@
-# Notas de clase
+# Mis notas de clase
 
-Apuntes para mis clases de la universidad, hechas código abierto para tu disfrute (y estudio, probablemente). Deberías usar [Obsidian](https://obsidian.md/) para verlas correctamente.
+Apuntes para mis clases en la UTEC hechos código abierto para tu disfrute (y estudio, probablemente). Deberías usar [Obsidian](https://obsidian.md/) para verlas correctamente.
 
 Para abrir las notas en Obsidian, simplemente clona el repositorio con
 

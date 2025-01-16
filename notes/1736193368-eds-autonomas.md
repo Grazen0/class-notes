@@ -13,7 +13,7 @@ Al considerar el modelado de la mezcla de dos **soluciones salinas** de distinta
 
 ```ad-definition
 
-Una [[1736190391-eds-y-campos-direccionales|ecuación diferencial]] es **autónoma** si y sólo si se puede escribir de la forma
+Una [[Ecuaciones diferenciales y su clasificación|ecuación diferencial]] es **autónoma** si y sólo si se puede escribir de la forma
 
 $$
 \frac{dy}{dx} = F(y)

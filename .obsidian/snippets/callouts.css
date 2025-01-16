@@ -1,0 +1,4 @@
+.callout[data-callout="theore"] {
+  --callout-color: 138, 92, 245;
+  --callout-icon: book-text;
+}

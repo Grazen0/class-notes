@@ -1,19 +1,18 @@
 ---
 id: 1736615462-eds-de-primer-orden
 aliases:
+  - Ecuaciones diferenciales de primer orden
   - EDs de primer orden
 tags:
   - mates/edo
 createdAt: 2025-01-11 12:11
 ---
 
-# EDs de primer orden
-
-Al considerar el modelado de la mezcla de dos **soluciones salinas** de distintas concentraciones surge una EDO de primer orden que involucra las **cantidades de sal** en cada mezcla.
+# Ecuaciones diferenciales de primer orden
 
 ## Variables separables
 
-Cuando una ED de la forma
+Cuando una [[1736190391-ecuaciones-diferenciales-clasificacion|ecuación diferencial]] se puede escribir de la forma
 
 $$
 \frac{dy}{dx} = f(x)g(y)
@@ -40,9 +39,8 @@ Como parte de la separación de variables involucra dividir por $g(y)$, ocurre q
 
 Esta es denominada **solución singular**.
 
-```ad-warning
-**Jamás** olvidar buscar las soluciones singulares antes de hacer separación de variables.
-```
+> [!WARNING]
+> **Jamás** olvidar buscar las soluciones singulares antes de hacer separación de variables.
 
 ## EDs lineales
 
@@ -127,6 +125,5 @@ h(y) = \int L(y) \, dy
 
 Finalmente, obtenemos $f(x, y) = M_I(x, y) + h(y)$, con lo que la solución implícita de la ED es $f(x, y) = C$.
 
-```ad-note
-Podemos realizar el proceso de forma análoga integrando primero $N(x, y)$ en lugar de $M(x, y)$ si así conviene.
-```
+> [!NOTE]
+> Podemos realizar el proceso de forma análoga integrando primero $N(x, y)$ en lugar de $M(x, y)$ si así conviene.
