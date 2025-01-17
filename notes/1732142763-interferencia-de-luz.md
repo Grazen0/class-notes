@@ -31,7 +31,7 @@ Las franjas brillantes son el resultado de **interferencia constructiva**, mient
 
 ![[experimento de young 3.png]]
 
-Vemos esto más a detalle en [[S14 - Difracción de la luz]].
+Vemos esto más a detalle en [[1716917783-difraccion-de-la-luz|Difracción de la luz]].
 
 ## Películas delgadas
 

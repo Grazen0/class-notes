@@ -11,8 +11,8 @@ createdAt: 2025-01-06 14:06
 
 # Ecuaciones diferenciales
 
-> [!DEFINITION] Definición (ecuación diferencial)
-> Una ecuación diferencial es una ecuación que involucra a la **derivada** (sea ordinaria o parcial) de alguna función. 
+> [!DEFINITION]
+> Una **ecuación diferencial** es una ecuación que involucra a la **derivada** (sea ordinaria o parcial) de alguna función. 
 
 Por ejemplo, la ecuación diferencial
 

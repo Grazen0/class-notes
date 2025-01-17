@@ -25,7 +25,7 @@ Es decir, para hallar los puntos críticos de una función, necesitamos:
 
 ### Matriz Hessiana
 
-Definimos la **[[S1 - Matrices|matriz]] Hessiana** de $f$ como
+Definimos la **[[1724091679-matrices|matriz]] Hessiana** de $f$ como
 
 $$
 H_f(x,y) = \begin{bmatrix}

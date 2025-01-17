@@ -9,7 +9,7 @@ createdAt: 2024-05-28 12:36
 
 # Cosenos directores
 
-Cuando trabajamos con [[S1A - Vectores|vectores]] en el espacio tridimensional, un vector $\vec{v}$ ya no tiene una única dirección, sino que tiene 3 ángulos que parten a partir de cada eje respectivo del espacio.
+Cuando trabajamos con [[1724469686-vectores|vectores]] en el espacio tridimensional, un vector $\vec{v}$ ya no tiene una única dirección, sino que tiene 3 ángulos que parten a partir de cada eje respectivo del espacio.
 
 **[Ver visualización](https://www.geogebra.org/m/dUHQSEeu)**
 

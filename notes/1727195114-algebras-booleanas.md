@@ -12,7 +12,7 @@ createdAt: 2024-09-24 11:25
 ## Definición como retícula
 
 > [!DEFINITION] Definición (álgebra booleana)
-> Una [[S5 - Retículas|retícula]] acotada $S$ es un **álgebra booleana** si y sólo si:
+> Una [[1726580784-reticulas|retícula]] acotada $S$ es un **álgebra booleana** si y sólo si:
 > 
 > 1. es **complementada**, y
 > 2. es **distributiva**.

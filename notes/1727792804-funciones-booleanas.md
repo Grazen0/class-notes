@@ -64,7 +64,7 @@ Cualquier función booleana se puede representar como
 1. una **suma** de **min-términos**, y
 2. un **producto** de **max-términos**.
 
-Esencialmente, se trata de usar la [[S5 - Forma normal conjuntiva y disyuntiva|forma normal conjuntiva/disyuntiva]] que vimos en lógica proposicional, sólo que con símbolos diferentes.
+Esencialmente, se trata de usar la [[1714431897-forma-normal-conjuntiva-y-disyuntiva|forma normal conjuntiva y disyuntiva]] que vimos en lógica proposicional, sólo que con símbolos diferentes.
 
 Los procesos para hallar estas formas de una función booleana son los siguientes:
 

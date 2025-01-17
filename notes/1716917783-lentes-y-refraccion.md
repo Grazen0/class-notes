@@ -61,7 +61,7 @@ $$
 M = \frac{h'}{h} = -\frac{q}{p}
 ,$$
 
-al igual que el [[S12 - Espejos y reflexión#Aumento de la imagen|aumento en espejos]].
+al igual que el [[1730929763-espejos-y-reflexion#Aumento de la imagen|aumento en espejos]].
 
 De todas maneras, se sigue cumpliendo la ecuación del espejo:
 

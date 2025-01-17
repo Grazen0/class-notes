@@ -72,4 +72,4 @@ Es esencialmente una asociación donde **A es dueño de B**. Es decir, B no pued
 
 ## Herencia
 
-Ver también: [[S12 - Polimorfismo]]
+Ver también: [[1730849160-polimorfismo|Polimorfismo]]

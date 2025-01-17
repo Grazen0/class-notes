@@ -51,7 +51,7 @@ Sólo para aclarar terminología, un sistema se denomina de la siguiente manera 
 
 ## Resolución de un sistema
 
-Un sistema de ecuaciones se soluciona con **eliminación Gaussiana**. Esto significa que la matriz aumentada se lleva mediante [[S2A - Operaciones elementales y matriz escalonada|operaciones elementales]] a una matriz **triangular superior**. En ese punto, el sistema equivalente se puede resolver fácilmente de abajo hacia arriba.
+Un sistema de ecuaciones se soluciona con **eliminación Gaussiana**. Esto significa que la matriz aumentada se lleva mediante [[1724697143-operaciones-elementales-y-matriz-escalonada|operaciones elementales]] a una matriz **triangular superior**. En ese punto, el sistema equivalente se puede resolver fácilmente de abajo hacia arriba.
 
 > [!TIP] Estrategia de pivoteo
 > Computacionalmente, resulta más eficiente **escoger el pivote de mayor magnitud posible** en cada columna.

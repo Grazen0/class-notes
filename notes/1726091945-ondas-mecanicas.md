@@ -9,7 +9,7 @@ createdAt: 2024-09-11 16:59
 
 # Ondas mecánicas
 
-Ver también: [[S5 - Ondas mecánicas 2]].
+Ver también: [[1726694792-ondas-mecanicas-2|Ondas mecánicas 2]].
 
 - Una onda es una **perturbación** que se propaga a través de un medio.
 - Una onda **transfiere energía** de un punto a otro **sin transferencia de materia**.

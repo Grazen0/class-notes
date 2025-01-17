@@ -16,7 +16,7 @@ createdAt: 2024-05-28 12:36
 
 ![[proyeccion de vectores.excalidraw]]
 
-A partir del [[S2A - Producto punto y cruz#Producto punto/escalar|producto punto]], encontramos que
+A partir del [[1724468769-producto-punto-y-cruz#Producto punto/escalar|producto punto]], encontramos que
 
 $$ \begin{align}
 \operatorname{comp}_{\vec{w}}(\vec{v}) &= \lVert \vec{v} \rVert \cos(\theta) \\

@@ -9,7 +9,7 @@ createdAt: 2024-10-30 17:09
 
 # Dispersión y polarización de la luz
 
-Ver también: [[S8 - Ondas electromagnéticas 2#Reflexión y refracción]]
+Ver también: [[1728510528-ondas-electromagneticas-2#Reflexión y refracción]].
 
 ## Dispersión de la luz
 

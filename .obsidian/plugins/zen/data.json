@@ -16,7 +16,7 @@
   "integrations": [
     {
       "enabled": false,
-      "available": true,
+      "available": false,
       "name": "cm-typewriter-scroll-obsidian",
       "description": "Automatically enable typewriter scroll when entering Zen mode.",
       "options": {
@@ -28,7 +28,7 @@
     },
     {
       "enabled": false,
-      "available": true,
+      "available": false,
       "name": "obsidian-stille",
       "description": "Automatically enable Stille when entering Zen mode.",
       "options": {}

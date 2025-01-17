@@ -1,7 +1,7 @@
 ---
 id: 1726694792-ondas-mecanicas-2
 aliases:
-  - Ondas electromagnéticas
+  - Ondas mecánicas 2
 tags:
   - optica
 createdAt: 2024-09-18 16:26

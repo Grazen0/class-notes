@@ -10,7 +10,7 @@ createdAt: 2024-09-23 17:09
 # Subretículas
 
 > [!DEFINITION]
-> Sea $L$ una [[S5 - Retículas|retícula]] con los operadores $\lor$ y $\land$, y $A$ un conjunto tal que $A \subseteq L$.
+> Sea $L$ una [[1726580784-reticulas|retícula]] con los operadores $\lor$ y $\land$, y $A$ un conjunto tal que $A \subseteq L$.
 > 
 > Entonces, $A$ es una **subretícula de $L$** si y sólo si $\lor$ y $\land$ están **cerrados** bajo $A$. Esto es, cuando
 > 

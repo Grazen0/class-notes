@@ -10,7 +10,7 @@ createdAt: 2025-01-06 14:06
 
 # Campos direccionales
 
-Consideremos una [[1736190391-eds-y-campos-direccionales|ecuación diferencial]] de la forma
+Consideremos una [[1736190391-ecuaciones-diferenciales-clasificacion|ecuación diferencial]] de la forma
 
 $$
 \frac{dy}{dx} = F(x, y)

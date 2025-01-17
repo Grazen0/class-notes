@@ -68,7 +68,7 @@ I = \frac{1}{2}\rho \omega^2 (s_\text{máx})^2 v = \frac{(\Delta P_\text{máx})^
 
 ## Interferencia de ondas sonoras
 
-Ver [[S5 - Ondas mecánicas 2#Interferencia de ondas mecánicas]].
+Ver [[1726694792-ondas-mecanicas-2#Interferencia de ondas mecánicas|Interferencia de ondas mecánicas]].
 
 ### Ondas estacionarias en tubos
 

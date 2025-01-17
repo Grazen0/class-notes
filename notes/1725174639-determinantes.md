@@ -21,7 +21,7 @@ createdAt: 2024-09-01 02:10
 > 
 > donde $A_{ij}$ representa la matriz que resulta de *eliminar* la fila $i$ y la columna $j$, y además $i$ puede ser cualquier entero entre $1$ y $n$.
 
-La determinante de una [[S1 - Matrices|matriz]] representa la **escala** de una unidad de espacio transformada usando dicha matriz como una transformación lineal. De cierta forma, es una representación de por qué factor la matriz "estira" (o posiblemente "encoge") el espacio.
+La determinante de una [[1724091679-matrices|matriz]] representa la **escala** de una unidad de espacio transformada usando dicha matriz como una transformación lineal. De cierta forma, es una representación de por qué factor la matriz "estira" (o posiblemente "encoge") el espacio.
 
 La determinante de una matriz $A$ se denota como $\det\!\left( A \right)$ o $\lvert A \rvert$.
 
@@ -81,7 +81,7 @@ Además, la determinante de una matriz de $2 \times 2$ es sencilla:
 ### Relación con la inversa
 
 > [!THEOREM]
-> Una matriz $A$ es **[[S2B - Matriz inversa|invertible]]** si y sólo si $\lvert A \rvert \neq 0$.
+> Una matriz $A$ es [[1724725615-matriz-inversa|invertible]] si y sólo si $\lvert A \rvert \neq 0$.
 
 Además, la intuición del significado de un determinante nos lleva a deducir que
 

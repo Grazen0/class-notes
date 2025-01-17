@@ -9,7 +9,7 @@ createdAt: 2024-09-03 11:21
 
 # Relaciones de orden
 
-Ver también: [[S12A - Relaciones de equivalencia y orden#Relaciones de orden|Relaciones de orden en Matemáticas Discretas I]].
+Ver también: [[1718635351-relaciones-de-equivalencia-y-orden|Relaciones de equivalencia y orden]].
 
 > [!DEFINITION] Definición (orden parcial)
 > Sea $R$ una relación sobre un conjunto no vacío $A$. Entonces, $R$ es una **relación de orden parcial** si cumple las siguientes propiedades:

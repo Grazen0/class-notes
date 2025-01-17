@@ -101,7 +101,7 @@ Este es un resultado intuitivo debido a que los vectores $\mathbf{v}_i$ son unit
 > \mathbf{w}_2 = \mathbf{u} - \mathbf{w}_1
 > .$$
 
-Ver también: **[[S2C - Proyección de vectores]]**.
+Ver también: [[1716917783-proyeccion-de-vectores|Proyección de vectores]].
 
 > [!THEOREM]
 > Dado un subespacio $W$ de dimensión finita, cada vector $\mathbf{u} \in V$ se puede expresar de manera **única** como

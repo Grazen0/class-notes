@@ -9,7 +9,7 @@ createdAt: 2024-10-09 16:48
 
 # Ondas electromagnéticas 2
 
-Ver también: [[S7 - Ondas electromagnéticas]]
+Ver también: [[1716917783-ondas-electromagneticas|Ondas electromagnéticas]]
 
 ## Densidad de energía
 

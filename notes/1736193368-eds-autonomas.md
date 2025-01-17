@@ -12,7 +12,7 @@ createdAt: 2025-01-06 14:56
 Al considerar el modelado de la mezcla de dos **soluciones salinas** de distintas concentraciones surge una EDO de primer orden que involucra las **cantidades de sal** en cada mezcla.
 
 > [!DEFINITION]
-> Una [[Ecuaciones diferenciales y su clasificación|ecuación diferencial]] es **autónoma** si y sólo si se puede escribir de la forma
+> Una [[1736190391-ecuaciones-diferenciales-clasificacion|ecuación diferencial]] es **autónoma** si y sólo si se puede escribir de la forma
 > 
 > $$
 > \frac{dy}{dx} = F(y)

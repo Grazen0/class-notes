@@ -9,7 +9,7 @@ createdAt: 2024-08-26 21:26
 
 # Matriz inversa
 
-Una [[S1 - Matrices|matriz]] cuadrada $A \in M_{n \times n}$  es **invertible** si y sólo si tiene inversa.
+Una [[1724091679-matrices|matriz]] cuadrada $A \in M_{n \times n}$  es **invertible** si y sólo si tiene inversa.
 
 > [!DEFINITION]
 > Sea $A \in M_{n \times n}$ una matriz invertible, entonces la única matriz $A^{-1}$ tal que $A^{-1}A = A \, A^{-1} = I_{n}$.
@@ -40,7 +40,7 @@ A & I_{n}
 \end{array} \right] 
 $$
 
-Luego, se deben aplicar [[S2A - Operaciones elementales y matriz escalonada|operaciones elementales]] a esta matriz hasta llegar a tener la matriz identidad a la izquierda.
+Luego, se deben aplicar [[1724697143-operaciones-elementales-y-matriz-escalonada|operaciones elementales]] a esta matriz hasta llegar a tener la matriz identidad a la izquierda.
 
 $$
 \left[ \begin{array}{c|c}

@@ -39,7 +39,7 @@ donde a $v_{x}$, $v_{y}$ y $v_{z}$ se les conoce como **números directores.**
 
 Sea $P_{0} = (x_{0}, y_{0}, z_{0})$ un punto en el plano que queremos representar, y sea $\vec{n} = (a,b,c)$ un vector normal al plano. Definamos $\vec{r_{0}}$ como el vector posición de $P_{0}$.
 
-Este plano representa todos vectores $\vec{r}$ que inician en $P_{0}$ y son **ortogonales** a la normal $\vec{n}$. Por lo tanto, podemos usar el [[S2A - Producto punto y cruz#Producto punto/escalar|producto punto]], para representar el plano en su **forma vectorial**:
+Este plano representa todos vectores $\vec{r}$ que inician en $P_{0}$ y son **ortogonales** a la normal $\vec{n}$. Por lo tanto, podemos usar el [[1724468769-producto-punto-y-cruz#Producto punto/escalar|producto punto]], para representar el plano en su **forma vectorial**:
 
 $$
 \vec{n} \cdot (\vec{r} - \vec{r_{0}}) = 0
