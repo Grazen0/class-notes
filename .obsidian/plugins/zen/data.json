@@ -1,5 +1,5 @@
 {
-  "enabled": false,
+  "enabled": true,
   "preferences": {
     "ribbon": true,
     "tabs": true,
@@ -16,7 +16,7 @@
   "integrations": [
     {
       "enabled": false,
-      "available": false,
+      "available": true,
       "name": "cm-typewriter-scroll-obsidian",
       "description": "Automatically enable typewriter scroll when entering Zen mode.",
       "options": {
@@ -28,7 +28,7 @@
     },
     {
       "enabled": false,
-      "available": false,
+      "available": true,
       "name": "obsidian-stille",
       "description": "Automatically enable Stille when entering Zen mode.",
       "options": {}
