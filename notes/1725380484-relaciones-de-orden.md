@@ -13,7 +13,7 @@ Ver también: [[S12A - Relaciones de equivalencia y orden#Relaciones de orden|Re
 
 > [!DEFINITION] Definición (orden parcial)
 > Sea $R$ una relación sobre un conjunto no vacío $A$. Entonces, $R$ es una **relación de orden parcial** si cumple las siguientes propiedades:
-> 
+>
 > 1. **Reflexiva**: Para todo $a \in A$, $(a, a) \in R$.
 > 2. **Antisimétrica**: Si $(a, b) \in R$ y $(b, a) \in R$, entonces $a = b$.
 > 3. **Transitiva**: Si $(a, b) \in R$ y $(b, c) \in R$, entonces $(a, c) \in R$.
@@ -45,7 +45,7 @@ Por ejemplo, sea $A = \left\{ 2,3,4,6,8 \right\}$ y $R = (A, \mid)$.
 
 ![[hasse.excalidraw|width:30%]]
 
-> [!TIP] Observación
+> [!OBSERVATION]
 > El diagrama de Hasse de un CTO es una **línea recta** (y de ahí la denominación de "orden lineal").
 
 ## Elementos extremos
@@ -54,7 +54,7 @@ Por ejemplo, sea $A = \left\{ 2,3,4,6,8 \right\}$ y $R = (A, \mid)$.
 
 > [!DEFINITION]
 > Sea $(A, \preceq)$ un CPO. Entonces:
-> 
+>
 > 1. Se dice que un elemento $a \in A$ es **maximal** si y sólo si no existe un $x \in A$ tal que $x \preceq a$ (con $x \neq a$).
 > 2. Se dice que un elemento $a \in A$ es **minimal** si y sólo si no existe un $x \in A$ tal que $a \preceq x$ (con $x \neq a$).
 
@@ -62,11 +62,11 @@ Un CPO puede tener varios elementos maximales o minimales al mismo tiempo. Esta 
 
 > [!EXAMPLE]+ Ejemplo
 > Sea la relación definida por el siguiente diagrama de Hasse:
-> 
+>
 > ![[Maximales y minimales.excalidraw|width:40%]]
-> 
+>
 > Aquí se cumple
-> 
+>
 > - **Maximales:** $\left\{ d \right\}$
 > - **Minimales:** $\left\{ a, f \right\}$
 
@@ -74,7 +74,7 @@ Un CPO puede tener varios elementos maximales o minimales al mismo tiempo. Esta 
 
 > [!DEFINITION]
 > Sea $(A, \preceq)$ un CPO. Entonces:
-> 
+>
 > 1. Se dice que un elemento $a \in A$ es **máximo** si y sólo si para todo $x \in A$ se cumple que $x \preceq a$.
 > 2. Se dice que un elemento $a \in A$ es **mínimo** si y sólo si para todo $x \in A$ se cumple que $a \preceq x$.
 

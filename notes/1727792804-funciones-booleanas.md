@@ -25,7 +25,7 @@ La igualdad de funciones booleanas se define intuitivamente.
 
 Resulta que para cada $n$ específico, en realidad no existen muchas funciones booleanas.
 
-> [!PROPERTY] Observación
+> [!OBSERVATION]
 > Existen $2^{2^n}$ funciones booleanas para una cantidad $n$ de variables.
 
 Esto implica que es posible caracterizar por completo a una función booleana en base a sus valores de salida.
@@ -40,7 +40,7 @@ Esto implica que es posible caracterizar por completo a una función booleana en
 
 Por ejemplo, algunos min-términos de $x$, $y$ y $z$ son $x \cdot \overline{y} \cdot z$, $x \cdot y \cdot z$ y $\overline{x} \cdot \overline{y} \cdot z$.
 
-> [!PROPERTY] Observación
+> [!OBSERVATION]
 > Un conjunto de $n$ variables booleanas posee $2^n$ min-términos y max-términos.
 
 > [!EXERCISE]-
@@ -91,7 +91,7 @@ Los procesos para hallar estas formas de una función booleana son los siguiente
 > .\end{align}
 > $$
 
-> [!PROPERTY] Observación
+> [!OBSERVATION]
 > La FND de una función es única (salvo el orden).
 
 ## Representación en código

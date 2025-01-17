@@ -24,5 +24,5 @@ Es decir, un encaje $f$ "mapea" un CPO a otro CPO (quizá parcialmente) **preser
 
 Es decir, un isomorfismo es un encaje que **cubre todo el segundo CPO**.
 
-> [!PROPERTY] Observación
+> [!OBSERVATION]
 > Dos CPOs son isomorfos cuando se pueden representar con **el mismo diagrama de Hasse**.

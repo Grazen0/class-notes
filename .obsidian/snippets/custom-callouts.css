@@ -28,6 +28,11 @@
   --callout-icon: file-text;
 }
 
+.callout[data-callout="observation"] {
+  --callout-color: var(--ctp-ext-green);
+  --callout-icon: file-text;
+}
+
 .callout[data-callout="exercise"] {
   --callout-color: var(--ctp-ext-peach);
   --callout-icon: pen;

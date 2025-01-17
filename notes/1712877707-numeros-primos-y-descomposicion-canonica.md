@@ -26,7 +26,7 @@ Los números primos son los "ladrillos" de los demás números, ya que **todo n�
 
 **Ejemplo:** $6$ es compuesto. (Sus 3 divisores son $1$, $2$, $3$ y $6$)
 
-> [!NOTE] Observación
+> [!OBSERVATION]
 > El $1$ no es ni primo ni compuesto.
 
 ![[Clasificacion Numeros Primos.excalidraw|width:80%]]

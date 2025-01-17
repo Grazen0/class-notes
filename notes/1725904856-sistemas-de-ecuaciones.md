@@ -76,5 +76,5 @@ Es decir, el espacio nulo de una matriz es **el conjunto de los vectores que la 
 
 También se le llama **núcleo** o **kernel** de la matriz.
 
-> [!PROPERTY] Observación
+> [!OBSERVATION]
 > Toda matriz tiene un elemento trivial en su espacio nulo: el $\mathbf{0}$.

@@ -38,7 +38,7 @@ $$
 
 Este concepto se aplica sobre todo a las **ondas sonoras** y la **luz** en un entorno **tridimensional**.
 
-> [!NOTE] Observación
+> [!OBSERVATION]
 > La intensidad es **inversamente proporcional** al **cuadrado de la distancia** desde la fuente. Esto es:
 > 
 > $$
