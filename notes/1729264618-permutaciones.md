@@ -22,7 +22,7 @@ Si queremos contar las permutaciones de elementos distintos, contamos con el sig
 
 El siguiente principio responde a la pregunta "¿De cuántas formas podemos permutar cualquier subconjunto de $r$ elementos de un conjunto?"
 
-> [!PROPERTY] Propiedad (permutaciones de tamaño $r$).
+> [!PROPERTY] Propiedad (permutaciones de tamaño $r$)
 > Dada una cantidad $n$ de elementos, el número de permutaciones de tamaño $r$ de dichos elementos es igual a
 > 
 > $$
@@ -37,7 +37,7 @@ El siguiente principio responde a la pregunta "¿De cuántas formas podemos perm
 
 La siguiente propiedad particular de las permutaciones también es interesante.
 
-> [!PROPERTY] Propiedad (permutaciones en una mesa redonda).
+> [!PROPERTY] Propiedad (permutaciones en una mesa redonda)
 > Dada una cantidad $n$ de personas en una mesa circular de $n$ sillas, las personas se pueden ordenar de
 > 
 > $$
@@ -48,7 +48,7 @@ La siguiente propiedad particular de las permutaciones también es interesante.
 
 ## Permutaciones con repetición
 
-> [!PROPERTY] Propiedad (permutaciones con repetición).
+> [!PROPERTY] Propiedad (permutaciones con repetición)
 > Sean las secuencias de $n$ elementos que contengan $n_1$ elementos del tipo $1$, $n_2$ elementos del tipo $2$ y así sucesivamente. Entonces, la cantidad total de estas secuencias es igual a
 > 
 > $$

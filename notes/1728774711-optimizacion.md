@@ -40,7 +40,7 @@ $$
 D(x,y) = |H_f(x,y)| = f_{xx} f_{yy} - (f_{xy})^2
 .$$
 
-> [!THEOREM] Teorema (prueba de la segunda derivada).
+> [!THEOREM] Teorema (prueba de la segunda derivada)
 > - Si $D(a,b) > 0$ y $f_{xx}(a,b) > 0$, entonces $(a,b)$ es un **mínimo local**.
 > - Si $D(a,b) > 0$ y $f_{xx}(a,b) < 0$, entonces $(a,b)$ es un **máximo local**.
 > - Si $D(a,b) < 0$, entonces $(a,b)$ es un **punto silla**.
@@ -51,7 +51,7 @@ Nótese que si $D(a,b) = 0$, entonces no podemos concluir nada en particular.
 
 El método de multiplicadores de Lagrange se usa para optimizar una función **bajo alguna restricción** particular.
 
-> [!PROPERTY] Método de multiplicadores de Lagrange.
+> [!PROPERTY] Método de multiplicadores de Lagrange
 > Sea $f$ la función objetivo, y $g(x,y,z) = k$ la función restricción. Entonces, para optimizar $f$, realizamos lo siguiente:
 > 
 > 1. Resolver los sistemas de ecuaciones para $x$, $y$, $z$ y $\lambda$:
@@ -67,7 +67,7 @@ El método de multiplicadores de Lagrange se usa para optimizar una función **b
 
 El proceso se puede realizar para la cantidad de variables que sea.
 
-> [!EXAMPLE]- Ejemplo.
+> [!EXAMPLE]-
 > Optimizar la función $f(x,y) = 9 - x^2 - y^2$ bajo la condición $x + y = 3$.
 > 
 > **Resolución:**

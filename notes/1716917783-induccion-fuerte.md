@@ -11,7 +11,7 @@ createdAt: 2024-05-28 12:36
 
 La inducción fuerte es otro de los "esquemas" de la [[1724103951-induccion-simple|inducción simple]].
 
-> [!THEOREM] Teorema (inducción fuerte).
+> [!THEOREM] Teorema (inducción fuerte)
 > Sea $P(n)$ una proposición definida para cualquier entero positivo $n$. Entonces, si se cumple que
 > 
 > 1. $P(1)$ es verdadera, y
@@ -23,7 +23,7 @@ El uso de la inducción fuerte permite hacer uso no solamente del caso antecesor
 
 ## Ejemplos y ejercicios
 
-> [!EXERCISE] Ejercicio.
+> [!EXERCISE] Ejercicio
 > Un entero positivo $n$ se puede representar como $4p + 5q$ si y sólo si $n \in \left\{ 4,5,8,9 \right\}$ o $n \geq 12$.
 > 
 > > [!PROOF]
@@ -33,10 +33,10 @@ El uso de la inducción fuerte permite hacer uso no solamente del caso antecesor
 > > 
 > > Ahora supongamos que la proposición es cierta para algún $n = k$. Como $k \geq 12$, entonces $k$ 
 
-> [!EXERCISE] Ejercicio.
+> [!EXERCISE] Ejercicio
 > Cualquier entero positivo $n$ se puede representar como una suma de potencias de $2$ (siendo las potencias distintas entre sí).
 
-> [!EXERCISE] Ejercicio (teorema fundamental de la aritmética).
+> [!EXERCISE] Ejercicio (teorema fundamental de la aritmética)
 > Todo entero entero $n \geq 2$ se puede expresar como producto de uno o más números primos.
 > 
 > > [!PROOF]-

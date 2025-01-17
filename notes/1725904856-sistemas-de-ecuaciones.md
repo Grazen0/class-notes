@@ -34,7 +34,7 @@ donde:
 
 ## Consistencia de un sistema
 
-> [!THEOREM] Teorema (soluciones de un sistema de ecuaciones).
+> [!THEOREM] Teorema (soluciones de un sistema de ecuaciones)
 > Sea el sistema de ecuaciones $Ax = b$ con $n$ incógnitas. Entonces:
 > 
 > - Si $\operatorname{rank}(A) = \operatorname{rank}([A | b]) = n$, entonces el sistema tiene **una solución**.
@@ -58,7 +58,7 @@ Un sistema de ecuaciones se soluciona con **eliminación Gaussiana**. Esto signi
 
 ## Espacio nulo
 
-> [!DEFINITION]- Definición (sistema homogéneo).
+> [!DEFINITION]- Definición (sistema homogéneo)
 > Un sistema de ecuaciones es **homogéneo** si y sólo si su vector de constantes es cero. Es decir, es de la forma
 > 
 > $$
@@ -76,5 +76,5 @@ Es decir, el espacio nulo de una matriz es **el conjunto de los vectores que la 
 
 También se le llama **núcleo** o **kernel** de la matriz.
 
-> [!PROPERTY] Observación.
+> [!PROPERTY] Observación
 > Toda matriz tiene un elemento trivial en su espacio nulo: el $\mathbf{0}$.

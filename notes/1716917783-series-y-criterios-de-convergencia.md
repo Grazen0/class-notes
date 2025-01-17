@@ -9,7 +9,7 @@ createdAt: 2024-05-28 12:36
 
 # Series y criterios de convergencia
 
-> [!DEFINITION] Definición (serie).
+> [!DEFINITION] Definición (serie)
 > Una **serie** es el límite de las sumas parciales de una sucesión. Es decir, tiene la forma
 > 
 > $$

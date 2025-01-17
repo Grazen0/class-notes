@@ -50,7 +50,7 @@ R = \begin{bmatrix}
 > 
 > Además, los valores propios de $A^T A$ son todos **reales no negativos**.
 
-> [!DEFINITION] Definición (valores singulares).
+> [!DEFINITION] Definición (valores singulares)
 > Sea $A$ una matriz tal que $A^TA$ tiene valores propios $\lambda_1, \lambda_2, \ldots, \lambda_n$. Entonces, los números
 > 
 > 
@@ -62,7 +62,7 @@ R = \begin{bmatrix}
 
 La descomposición SVD se define de la siguiente forma.
 
-> [!THEOREM] Teorema (descomposición de valores singulares).
+> [!THEOREM] Teorema (descomposición de valores singulares)
 > Si $A$ es una matriz $m \times n$ de rango $k$, entonces $A$ puede expresarse de la forma
 > 
 > $$

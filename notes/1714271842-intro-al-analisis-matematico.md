@@ -10,7 +10,7 @@ createdAt: 2024-04-27 21:37
 
 # Introducción al análisis matemático
 
-> [!DEFINITION] Definición (límite).
+> [!DEFINITION] Definición (límite)
 > Se dice que
 > 
 > $$
@@ -23,7 +23,7 @@ createdAt: 2024-04-27 21:37
 > \forall \varepsilon > 0, \ \exists \delta > 0 : \left(0 < |x - x_{0}| < \delta \implies \left| f(x) - L \right| < \varepsilon\right)
 > $$
 
-> [!THEOREM] Teorema (unicidad del límite).
+> [!THEOREM] Teorema (unicidad del límite)
 > El límite está **bien definido**. Es decir, es **único**.
 > 
 > $$
@@ -31,7 +31,7 @@ createdAt: 2024-04-27 21:37
 > $$
 > 
 > > [!PROOF]-
-> > > [!PROPERTY] Lema 1.
+> > > [!PROPERTY] Lema 1
 > > > Sea $x$ un número real no negativo, entonces:
 > > >
 > > > $$
@@ -78,7 +78,7 @@ createdAt: 2024-04-27 21:37
 > > Entonces, como esto se cumple para todo $a > 0$, se cumple que $L - M = 0$ por el lema 1. Entonces, $L = M$.
 > > $$\qed$$
 
-> [!THEOREM] Teorema (teorema del sándwich).
+> [!THEOREM] Teorema (teorema del sándwich)
 > Si $g(x) \leq f(x) \leq h(x)$ en algún intervalo alrededor de $x_{0}$, y se cumple que
 > 
 > $$

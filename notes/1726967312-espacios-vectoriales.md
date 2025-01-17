@@ -9,7 +9,7 @@ createdAt: 2024-09-21 20:08
 
 # Espacios vectoriales
 
-> [!DEFINITION] Definición (espacio vectorial).
+> [!DEFINITION] Definición (espacio vectorial)
 > Un conjunto no vacío $V$, junto a operaciones de **suma** y **multiplicación por escalares** es un **espacio vectorial** si y sólo si sus operaciones cumplen las siguientes propiedades:
 > 
 > **Axiomas de la suma:**
@@ -30,7 +30,7 @@ En otras palabras, un espacio vectorial es un conjunto equipado con reglas de su
 
 Los elementos de $\mathbb{R}^m$ son llamados **vectores** de $m$ dimensiones.
 
-> [!DEFINITION] Definición (subespacio vectorial).
+> [!DEFINITION] Definición (subespacio vectorial)
 > Sea $V$ un espacio vectorial. Un subconjunto $W \subseteq V$ es un **subespacio vectorial** de $V$ si y sólo si está **cerrado** bajo la suma y producto por escalar.
 
 Por ejemplo, los subespacios vectoriales de $\mathbb{R}^2$ son
@@ -41,7 +41,7 @@ Por ejemplo, los subespacios vectoriales de $\mathbb{R}^2$ son
 
 ## Combinaciones lineales
 
-> [!DEFINITION] Definición (combinación lineal).
+> [!DEFINITION] Definición (combinación lineal)
 > Un vector $\mathbf{v} \in \mathbb{R}^m$ es una **combinación lineal** de los vectores $\mathbf{u}_1, \mathbf{u}_2,\ldots, \mathbf{u}_n \in \mathbb{R}^m$ si y sólo si existen $x_1,x_2,\ldots,x_n$ tales que
 > 
 > $$
@@ -84,7 +84,7 @@ Comprobar la independencia lineal de un conjunto de vectores es **analizar un si
 
 ## Base y dimensión
 
-> [!DEFINITION] Definición (espacio generado).
+> [!DEFINITION] Definición (espacio generado)
 > Sea $\left\{ \mathbf{v}_1, \mathbf{v}_2, \ldots, \mathbf{v}_n \right\} \subseteq \mathbb{R}^m$ un conjunto de vectores. Entonces, el **espacio generado** de estos vectores es el conjunto de **todas las combinaciones lineales** de ellos. Esto es,
 > 
 > $$
@@ -96,7 +96,7 @@ Es decir, el espacio generado de un conjunto de vectores es todo el espacio que 
 > [!THEOREM]
 > Sean $\mathbf{v}_1, \mathbf{v}_2, \ldots, \mathbf{v}_n$ vectores en un espacio vectorial $V$. Entonces $\operatorname{Gen}(\left\{ \mathbf{v}_1, \mathbf{v}_2, \ldots, \mathbf{v}_n \right\})$ es un subespacio vectorial.
 
-> [!DEFINITION] Definición (base).
+> [!DEFINITION] Definición (base)
 > Sea $V \subseteq \mathbb{R}^m$ un subespacio vectorial y $\left\{ \mathbf{v}_1, \mathbf{v}_2, \ldots, \mathbf{v}_n \right\} \subseteq V$ un conjunto de vectores. Entonces, estos vectores forman una **base** de $V$ si y sólo si
 > 
 > 1. $\left\{ \mathbf{v}_1, \mathbf{v}_2, \ldots, \mathbf{v}_n \right\}$ son linealmente independientes, y
@@ -104,7 +104,7 @@ Es decir, el espacio generado de un conjunto de vectores es todo el espacio que 
 
 Es decir, la base de un subespacio vectorial es un conjunto de vectores que lo generan.
 
-> [!DEFINITION] Definición (dimensión).
+> [!DEFINITION] Definición (dimensión)
 > La **dimensión** de un espacio vectorial $V$, denotado como $\operatorname{dim}(V)$ es la cantidad de vectores que tiene su base.
 
 La noción de "dimensión" encaja con la noción intuitiva de "dimensiones" de un espacio. Un subespacio vectorial que consiste de una recta, por ejemplo, tiene dimensión 1.

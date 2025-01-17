@@ -13,12 +13,12 @@ createdAt: 2024-04-29 18:04
 
 Es la representación de expresiones lógicas empleando **solamente** la conjunción, disyunción y negación.
 
-> [!DEFINITION] Definición (literal).
+> [!DEFINITION] Definición (literal)
 > Dada una proposición $p$, un **literal** es una expresión de la forma $p$ o $\neg p$.
 
 ## Forma normal conjuntiva
 
-> [!DEFINITION] Definición (FNC).
+> [!DEFINITION] Definición (FNC)
 > Una expresión lógica está en **forma normal conjuntiva** (FNC) cuando está expresada como la conjunción de expresiones en la forma $L_{1} \lor L_{2} \lor \dots \lor L_{k}$, donde $L_{1},L_{2},\dots,L_{k}$ son literales.
 
 Básicamente, es una expresión en la forma:
@@ -69,7 +69,7 @@ $$
 
 ## Forma normal disyuntiva
 
-> [!DEFINITION] Definición (FND).
+> [!DEFINITION] Definición (FND)
 > Una expresión lógica está en **forma normal disyuntiva** (FND) cuando está expresada como una disyunción de expresiones de la forma $L_{1} \land L_{2} \land \dots \land L_{k}$, donde $L_{1},L_{2},\dots,L_{k}$ son literales.
 
 Y parecido a lo anterior, es una expresión en la forma:

@@ -35,7 +35,7 @@ $$
 - $201_{(4)} = 2 \cdot 4^{2} + 0 \cdot 4^{1} + 1 \cdot 4^{0} = 33$
 - $111_{(2)} = 1 \cdot 2^{2} + 1 \cdot 2^{1} + 1 \cdot 2^{0} = 7$
 
-> [!THEOREM] Teorema (Representación única en base $k$).
+> [!THEOREM] Teorema (Representación única en base $k$)
 > Para cualquier $k \geq 2$, todo entero positivo se puede representar **de forma única** en la base $k$.
 
 ## Cambio de base

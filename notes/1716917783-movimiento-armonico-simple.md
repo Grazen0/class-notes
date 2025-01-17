@@ -37,7 +37,7 @@ $$
 f = \frac{1}{T} \qquad T = \frac{1}{f}
 .$$
 
-> [!EXERCISE]- Ejercicio (para practicar unidades).
+> [!EXERCISE]- Ejercicio (para practicar unidades)
 > Un transductor ultrasónico (una especie de altavoz) empleado para el diagnóstico médico oscila con una frecuencia de $6.7$ MHz. ¿Cuánto tarda cada oscilación y qué frecuencia angular tiene?
 > 
 > **Resolución:**

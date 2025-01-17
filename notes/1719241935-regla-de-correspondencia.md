@@ -9,7 +9,7 @@ createdAt: 2024-06-24 10:12
 
 # Regla de correspondencia
 
-> [!DEFINITION] Definiciones.
+> [!DEFINITION] Definiciones
 > Sea $f: A \to B$ una función. Entonces, $(x,y) \in f$ se puede escribir como
 > $$
 > y = f(x)

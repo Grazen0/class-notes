@@ -26,7 +26,7 @@ a_n = a^{(h)}_n + a^{(p)}_n
 
 donde $a^{(h)}_n$ es la solución de la parte homogénea de $a_n$.
 
-> [!EXAMPLE]- Ejemplo.
+> [!EXAMPLE]-
 > Sea la RLNH
 > 
 > $$

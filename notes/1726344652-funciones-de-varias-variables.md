@@ -15,7 +15,7 @@ Una función de varias variables se denota como $f(x_1,x_2,\ldots,x_n)$.
 
 El dominio de una función de varias variables ya no es solamente un intervalo, sino un **conjunto de pares ordenados**.
 
-> [!EXAMPLE] Ejemplo (hallar dominio de una función).
+> [!EXAMPLE] Ejemplo (hallar dominio de una función)
 > Halle el dominio de $f(x,y) = 4 + \sqrt{x^2 - y^2}$
 > 
 > **Resolución:** Encontramos la restricción $x^2 - y^2 \geq 0$ (debido a la raíz cuadrada), por lo que el dominio de $f$ será
@@ -36,7 +36,7 @@ f_x(x,y) = \frac{\partial f}{\partial x} = D_xf \qquad f_y(x,y) = \frac{\partial
 
 ### Derivadas sucesivas
 
-> [!THEOREM] Teorema (simetría de la segunda derivada).
+> [!THEOREM] Teorema (simetría de la segunda derivada)
 > La segunda derivada de una función $f$, bajo ciertas condiciones, es **conmutativa**. Es decir,
 > 
 > $$

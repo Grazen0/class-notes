@@ -17,7 +17,7 @@ Algunos ejemplos de sucesiones recurrentes son
 - $x_{n} = x_{n-1} + x_{n-2}$ (serie de Fibonacci)
 - $x_{n} = x_{1} + x_{2} + \ldots + x_{n-1}$
 
-> [!EXAMPLE]- Ejemplo 1.
+> [!EXAMPLE]-
 > Sea $x$ una sucesión tal que $x_{1} = 1$ y $x_{n} = 2x_{n-1}$ para todo $n \geq 2$. Es decir, donde cada término a partir del segundo es el doble del anterior.
 > 
 > Los primeros 5 términos de esta sucesión son
@@ -34,7 +34,7 @@ Algunos ejemplos de sucesiones recurrentes son
 > 
 > Aquí, podemos observar que se trata de una progresión geométrica.
 
-> [!EXAMPLE]- Ejemplo 2.
+> [!EXAMPLE]-
 > Sea la sucesión cuyo primer término es $y_{1} = 2$ y satisface la recurrencia $y_{n} = 2y_{n-1} + 1$ para todo $n \geq 2$.
 > 
 > Los primeros 5 términos de esta sucesión son
@@ -96,7 +96,7 @@ Planteamos aquí un esquema de inducción para sucesiones donde cada término de
 
 Este esquema se puede ajustar para demostrar casos a partir de algún otro par de casos base además del primero y el segundo.
 
-> [!EXAMPLE] Ejemplo 1.
+> [!EXAMPLE]
 > Considere la sucesión $(x_{n})_{n \geq 1}$ definida por $x_{1} = 5$, $x_{2} = 9$ y $x_{n+2} = 3x_{n+1} - 2x_{n}$, para todo $n \geq 1$. Demuestre que $x_{n} = 2^{n+1} + 1$ para todo entero positivo $n$.
 > 
 > > [!PROOF]-

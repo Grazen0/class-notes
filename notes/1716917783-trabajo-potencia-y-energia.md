@@ -88,7 +88,7 @@ $$
 
 donde $m$ es la masa del objeto, y $v$ su velocidad.
 
-> [!THEOREM] Teorema (teorema del trabajo neto).
+> [!THEOREM] Teorema (teorema del trabajo neto)
 > Cuando se realiza un trabajo en un sistema, y el único cambio es en la rapidez de sus partes, entonces **el trabajo neto realizado en el sistema es igual al cambio en la energía cinética del sistema**.
 > 
 > Es decir,
@@ -149,7 +149,7 @@ $$
 
 ## Fuerzas conservativas y no conservativas
 
-> [!DEFINITION] Definición (fuerza conservativa).
+> [!DEFINITION] Definición (fuerza conservativa)
 > Una fuerza es conservativa si y sólo si es **independiente de la trayectoria**.
 > 
 > Alternativamente, una fuerza es conservativa si y sólo si el **trabajo** que realiza sobre un objeto a lo largo de una **trayectoria cerrada** es $0$.

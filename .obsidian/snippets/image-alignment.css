@@ -19,8 +19,3 @@ img[alt*="right"] {
   margin-bottom: 2px !important;
   margin-top: 2px !important;
 }
-
-table {
-  margin-left: auto !important;
-  margin-right: auto !important;
-}

@@ -26,7 +26,7 @@ Las relaciones de equivalencia forman grupos dentro del dominio, donde los eleme
 
 ## Relaciones de orden
 
-> [!DEFINITION] Definición (orden parcial).
+> [!DEFINITION] Definición (orden parcial)
 > Sea $A$ un conjunto y $R$ una relación en $A$. Entonces, $R$ es una **relación de orden parcial** si y sólo si
 > 
 > 1. $R$ es **reflexiva**.
@@ -39,7 +39,7 @@ En un orden parcial, existen elementos que no son comparables.
 
 ### Conjuntos parcialmente ordenados (CPO)
 
-> [!DEFINITION] Definición.
+> [!DEFINITION]
 > Sea $A$ un conjunto y $R$ una relación de orden parcial en $A$. Entonces, $(A, R)$ se denomina un **conjunto parcialmente ordenado**, y se define de la siguiente manera:
 > 
 > $$

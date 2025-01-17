@@ -55,24 +55,3 @@ Al graficar, se utiliza un **grafo dirigido** para indicar el orden de cada par 
 Por ejemplo, para $A = \left\{ 1, 2, 3 \right\}$ y la relación en $A$ $R = \left\{ (1, 2), (2, 2), (2,3) \right\}$
 
 ![[Relación en AxA.excalidraw|width:25%]]
-
-$$
-R = \left\{ (10, 1), (11, 2), (12, 3), (20, 2), (21, 3) \right\}
-$$
-
-$$
-R = \left\{ (1, 3), (1, 4), (2, 3) \right\}
-$$
-
-$$
-R = \left\{ (00, 01), (01, 00), (10, 11), (11, 10) \right\}
-$$
-
-$$
-\begin{align}
-R = \{ & (\varnothing, \left\{ a, b \right\}), \\
-& (\left\{ a \right\}, \left\{ b \right\}), (\left\{ a \right\}, \left\{ a, b \right\}), \\
-& (\left\{ b \right\}, \left\{ a \right\}), (\left\{ b \right\}, \left\{ a, b \right\}), \\
-& (\left\{ a, b \right\}, \varnothing), (\left\{ a, b \right\}, \left\{ a \right\}), (\left\{ a, b \right\}, \left\{ b \right\}), (\left\{ a, b \right\}, \left\{ a, b \right\}) \}
-\end{align}
-$$

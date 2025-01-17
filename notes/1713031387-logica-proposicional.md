@@ -320,7 +320,7 @@ $p \leftrightarrow  q$ es equivalente a:
 
 ### Disyunción fuerte - $\lxor$
 
-> [!DEFINITION] Definición.
+> [!DEFINITION]
 > La **disyunción fuerte** ("exclusiva") es un conector, denotado por el símbolo $p \lxor q$, cuyo valor de verdad se define de la siguiente forma:
 > 
 > $p \lxor q$ es verdadero solamente cuando uno de ellos es verdadero y el otro es falso. Equivalentemente, es verdadero cuando $p$ y $q$ tienen distinto valor de verdad.
@@ -339,7 +339,7 @@ $p \lxor q$ se es equivalente a:
 - O $p$ o $q$.
 - O bien $p$ o bien $q$.
 
-> [!PROPERTY] Observación.
+> [!PROPERTY] Observación
 > La bicondicional tiene el valor de verdad opuesto de la disyunción fuerte.
 > 
 > $$

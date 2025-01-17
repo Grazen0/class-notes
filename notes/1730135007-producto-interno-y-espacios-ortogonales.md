@@ -11,7 +11,7 @@ createdAt: 2024-10-28 12:03
 
 ## Producto interno
 
-> [!DEFINITION] Definición (producto interno).
+> [!DEFINITION] Definición (producto interno)
 > Un producto interno en un espacio vectorial $V$ es una función $V \times V \to \mathbb{R}$ (comúnmente denotada por $\left< \mathbf{u}, \mathbf{v} \right>$) que cumple los siguientes axiomas:
 > 
 > 1. **Simetría:** $\left< \mathbf{u}, \mathbf{v} \right> = \left< \mathbf{v}, \mathbf{u} \right>$.
@@ -27,7 +27,7 @@ $$
 \mathbf{u} \cdot \mathbf{v} = u_1v_1 + u_2v_2 + \ldots + u_nv_n
 .$$
 
-> [!DEFINITION] Definición (norma y distancia).
+> [!DEFINITION] Definición (norma y distancia)
 > Si $V$ es un espacio de producto interno, entonces la **norma** (o longitud) de un vector $\mathbf{v} \in V$ se define como
 > 
 > $$
@@ -44,12 +44,12 @@ Un vector de norma $1$ se denomina **vector unitario**.
 
 ## Ortogonalidad
 
-> [!DEFINITION] Definición (ortogonalidad).
+> [!DEFINITION] Definición (ortogonalidad)
 > Dos vectores $\mathbf{u}, \mathbf{v} \in V$ son **ortogonales** si y sólo si $\left< \mathbf{u}, \mathbf{v} \right> = 0$.
 
 Nótese que, en el espacio euclidiano, el vector $\mathbf{0}$ es ortogonal a todos los vectores.
 
-> [!DEFINITION] Definición (complemento ortogonal).
+> [!DEFINITION] Definición (complemento ortogonal)
 > Sea $W$ un subespacio de $V$. Entonces, el **complemento ortogonal** de $W$, denotado por $W^{\perp}$, es el conjunto de todos los vectores de $V$ que son ortogonales a cada vector de $W$.
 
 Algunas propiedades de $W^{\perp}$ son:
@@ -58,7 +58,7 @@ Algunas propiedades de $W^{\perp}$ son:
 2. $W \cap W^{\perp} = \left\{ \mathbf{0} \right\}$.
 3. Si la dimensión de $W$ es finita, entonces $(W^{\perp})^{\perp} = W$.
 
-> [!EXAMPLE]- Ejemplos.
+> [!EXAMPLE]- Ejemplos
 > 1. El complemento ortogonal de una recta $W \subseteq \mathbb{R}^2$ que pasa por el origen es la recta que pasa por el origen y es perpendicular a $W$.
 > 2. El complemento ortogonal de un plano $W \subseteq \mathbb{R}^3$ que pasa por el origen es la recta normal a $W$.
 
@@ -69,7 +69,7 @@ Otras propiedades interesantes del complemento ortogonal son:
 
 ### Conjuntos ortogonales
 
-> [!DEFINITION] Definición (conjunto ortogonal y ortonormal).
+> [!DEFINITION] Definición (conjunto ortogonal y ortonormal)
 > Un conjunto de vectores es **ortogonal** si y sólo si todos los pares de vectores que contiene son ortogonales.
 > 
 > Además, si todos sus vectores son unitarios, entonces se llama conjunto **ortonormal**.
@@ -171,7 +171,7 @@ $$
 
 ## Aplicaciones
 
-> [!DEFINITION] Definición (matriz ortogonal).
+> [!DEFINITION] Definición (matriz ortogonal)
 > Una matriz cuadrada $A$ es **ortogonal** si y sólo si $A^TA = AA^T = I$.
 
 Es decir, una matriz es ortogonal cuando su traspuesta resulta ser su propia inversa.

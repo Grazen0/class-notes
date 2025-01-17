@@ -11,7 +11,7 @@ createdAt: 2024-05-20 18:39
 
 ## Previa
 
-> [!DEFINITION] Definición (diferencial).
+> [!DEFINITION] Definición (diferencial)
 > Dada una función $f(x)$, su diferencial $df$ se define como:
 > 
 > $$

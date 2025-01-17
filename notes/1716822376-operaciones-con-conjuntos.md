@@ -19,7 +19,7 @@ $$
 
 ![[Union de conjuntos.excalidraw|width:75%]]
 
-> [!PROPERTY] Propiedades.
+> [!PROPERTY] Propiedades
 > 1. $A \subseteq (A \cup B)$
 > 2. $(A \cap B) \subseteq A$
 > 3. Si $A \subseteq B$ entonces $A \cap B = A$.
@@ -53,7 +53,7 @@ $$
 \overline{A} := \left\{ x \in U \lmid x \notin A \right\}
 $$
 
-> [!PROPERTY] Propiedades.
+> [!PROPERTY] Propiedades
 > - $\overline{A} = U - A$
 > - $\overline{\overline{A}} = A$ (doble negativo)
 > - $\overline{A \cup B} = \overline{A} \cap \overline{B}$ (Morgan #1)

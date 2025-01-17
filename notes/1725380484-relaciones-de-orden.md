@@ -11,7 +11,7 @@ createdAt: 2024-09-03 11:21
 
 Ver también: [[S12A - Relaciones de equivalencia y orden#Relaciones de orden|Relaciones de orden en Matemáticas Discretas I]].
 
-> [!DEFINITION] Definición (orden parcial).
+> [!DEFINITION] Definición (orden parcial)
 > Sea $R$ una relación sobre un conjunto no vacío $A$. Entonces, $R$ es una **relación de orden parcial** si cumple las siguientes propiedades:
 > 
 > 1. **Reflexiva**: Para todo $a \in A$, $(a, a) \in R$.
@@ -26,7 +26,7 @@ Algunos ejemplos de CPOs son $(\mathbb{R}, \leq)$ y $(\mathbb{N}, \mid)$.
 
 Una definición más estricta del orden parcial es el **orden total**.
 
-> [!DEFINITION] Definición (orden total).
+> [!DEFINITION] Definición (orden total)
 > Sea $\preceq$ una relación de orden parcial sobre un conjunto no vacío $A$. Entonces, $\preceq$ es una **relación de orden total (o lineal)** si cumple que para todo $a,b \in A$, se cumple que $a \preceq b$ o $b \preceq a$.
 
 En otras palabras, un orden total es un orden parcial donde **cualquier par de elementos es comparable**.
@@ -45,7 +45,7 @@ Por ejemplo, sea $A = \left\{ 2,3,4,6,8 \right\}$ y $R = (A, \mid)$.
 
 ![[hasse.excalidraw|width:30%]]
 
-> [!TIP] Observación.
+> [!TIP] Observación
 > El diagrama de Hasse de un CTO es una **línea recta** (y de ahí la denominación de "orden lineal").
 
 ## Elementos extremos
@@ -60,7 +60,7 @@ Por ejemplo, sea $A = \left\{ 2,3,4,6,8 \right\}$ y $R = (A, \mid)$.
 
 Un CPO puede tener varios elementos maximales o minimales al mismo tiempo. Esta definición lleva una noción de **relatividad**.
 
-> [!EXAMPLE]+ Ejemplo.
+> [!EXAMPLE]+ Ejemplo
 > Sea la relación definida por el siguiente diagrama de Hasse:
 > 
 > ![[Maximales y minimales.excalidraw|width:40%]]

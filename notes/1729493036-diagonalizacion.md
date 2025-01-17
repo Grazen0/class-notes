@@ -9,7 +9,7 @@ createdAt: 2024-10-21 01:43
 
 # Diagonalización
 
-> [!DEFINITION] Definición (semejanza).
+> [!DEFINITION] Definición (semejanza)
 > Sean $A$ y $B$ matrices cuadradas. Decimos que $B$ es **semejante** a $A$ si y sólo si existe una matriz invertible $P$ tal que
 > 
 > $$
@@ -21,7 +21,7 @@ Si $B$ es semejante a $A$, se cumplen las siguientes propiedades:
 - $|B| = |A|$.
 - $A$ es semejante a $B$.
 
-> [!DEFINITION] Definición (diagonalización).
+> [!DEFINITION] Definición (diagonalización)
 > Se dice que una matriz $A$ es **diagonalizable** si y sólo si es **semejante a alguna matriz diagonal**. Es decir, cuando existe una matriz invertible $P$ tal que
 > 
 > $$
@@ -44,7 +44,7 @@ Los siguientes teoremas nos da una base para saber si una matriz es diagonalizab
 
 Otro criterio proviene de la propiedad que dice que si dos valores propios son distintos, entonces sus espacios propios respectivos son ortogonales.
 
-> [!THEOREM] Corolario.
+> [!COROLLARY]
 > Una matriz de $n \times n$ con $n$ valores propios distintos es diagonalizable.
 
 ### Con multiplicidades
@@ -98,7 +98,7 @@ Por este teorema, podemos establecer el siguiente proceso para diagonalizar una 
 
 Una definición reformulada de la diagonalización es la siguiente.
 
-> [!DEFINITION] Definición (diagonalización).
+> [!DEFINITION] Definición (diagonalización)
 > Una matriz es **diagonalizable** si y sólo si existe una matriz invertible $P$ tal que
 > 
 > $$

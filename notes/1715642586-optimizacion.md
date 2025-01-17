@@ -9,12 +9,12 @@ createdAt: 2024-05-13 18:23
 
 # Optimización
 
-> [!THEOREM] Teorema (teorema del valor intermedio).
+> [!THEOREM] Teorema (teorema del valor intermedio)
 > Una función $f(x)$ continua en $[a, b]$ toma **todos los valores** entre $f(a)$ y $f(b)$.
 > 
 > En otras palabras, para todo $c \in (f(a), f(b))$ existe un $x_{0} \in (a, b)$ tal que $f(x_{0}) = c$.
 
-> [!DEFINITION] Definición (punto crítico).
+> [!DEFINITION] Definición (punto crítico)
 > $a$ es un **punto crítico** de $f(x)$ cuando $f'(a) = 0$ o $f'(a)$ no está definido.
 
 ## Condiciones necesarias para máximos y mínimos

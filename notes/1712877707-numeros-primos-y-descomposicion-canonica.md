@@ -43,7 +43,7 @@ Los números primos son los "ladrillos" de los demás números, ya que **todo n�
 
 ## Descomposición canónica
 
-> [!THEOREM]  Teorema (Teorema Fundamental de la Aritmética).
+> [!THEOREM]  Teorema (Teorema Fundamental de la Aritmética)
 > Todo número entero $n \geq 2$ puede ser expresado **de forma única** como
 > $$
 >  n = p_{1}^{a_{1}} \cdot p_{2}^{a_{2}} \cdot \ldots \cdot p_{k}^{a_{k}}

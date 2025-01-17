@@ -54,7 +54,7 @@ I_{n} & A^{-1}
 
 Entonces, lo que tendremos a la derecha será la matriz inversa de $A$.
 
-> [!EXAMPLE]+ Ejemplo.
+> [!EXAMPLE]+
 > Calcule la matriz inversa de $A = \begin{bmatrix} 1 & -1 & 3 \\ 0 & 2 & 4 \\ 0 & 0 & -5\end{bmatrix}$.
 > 
 > **Resolución:**

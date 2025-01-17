@@ -105,7 +105,7 @@ $$
 
 ## Relación antisimétrica
 
-> [!DEFINITION] Definición.
+> [!DEFINITION]
 > Sea $A$ un conjunto y $R$ una relación en $A$. Entonces, $R$ es una **relación antisimétrica** si y sólo si:
 > 
 > $$

@@ -108,10 +108,10 @@ $$
 
 ## Matriz escalonada por filas
 
-> [!DEFINITION]- Definición (fila nula).
+> [!DEFINITION]- Definición (fila nula)
 > Una fila es **nula** si y sólo si todos sus elementos son iguales a $0$.
 
-> [!DEFINITION]- Definición (pivote).
+> [!DEFINITION]- Definición (pivote)
 > El pivote de una fila *no nula* es el primer elemento diferente de $0$ en la fila (empezando por la izquierda).
 
 > [!DEFINITION]
@@ -132,7 +132,7 @@ $$
 \end{bmatrix}
 $$
 
-> [!DEFINITION]- Definición (rango).
+> [!DEFINITION]- Definición (rango)
 > El rango de una matriz $A$ es igual a la **cantidad de filas no nulas** de la matriz *escalonada* que se obtenga con operaciones elementales en $A$.
 
 ### Matriz escalonada reducida por filas

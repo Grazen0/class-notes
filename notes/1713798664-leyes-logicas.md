@@ -33,17 +33,17 @@ createdAt: 2024-04-22 10:11
 
 ## Definiciones previas
 
-> [!DEFINITION] Definición (tautología).
+> [!DEFINITION] Definición (tautología)
 > Una **tautología** es una proposición lógica que siempre toma el valor de verdadero (V). Se denota usualmente como $\top$.
 > 
 > Por ejemplo, $p \lor \neg p \equiv \top$.
 
-> [!DEFINITION] Definición (contradicción).
+> [!DEFINITION] Definición (contradicción)
 > Una **contradicción** es una proposición lógica que siempre toma el valor de falso (F).
 > 
 > Por ejemplo, $p \land \neg p \equiv \F$.
 
-> [!DEFINITION] Definición (equivalencia).
+> [!DEFINITION] Definición (equivalencia)
 > Decimos que dos proposiciones lógicas $p$ y $q$ son equivalentes si $p \leftrightarrow q$ es una tautología. Es decir, si y sólo si tienen el mismo valor de verdad.
 > 
 > Por ejemplo: $p \land p \equiv p$.

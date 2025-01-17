@@ -24,7 +24,7 @@ Si $A$ es infinito, entonces se escribe $|A| = \infty$.
 > 4. Si $A$ y $B$ son disjuntos entonces $|A \cup B| = |A| + |B|$.
 > 5. En general, $|A \cup B| = |A| + |B| - |A \cap B|$ (principio de inclusión-exclusión).
 > 
-> > [!PROOF]- Demostración (propiedad 5).
+> > [!PROOF]- Demostración (propiedad 5)
 > > Sean $A$ y $B$ conjuntos finitos. Entonces, como $A - B$ y $B$ son disjuntos, entonces:
 > > 
 > > $$

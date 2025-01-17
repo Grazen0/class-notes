@@ -32,7 +32,7 @@ $$
 
 ## Teoremas
 
-> [!THEOREM] Teorema (TVM para integrales).
+> [!THEOREM] Teorema (TVM para integrales)
 > Sea $f$ una función continua en $(a, b)$. Entonces, existe un $c \in (a, b)$ tal que
 > 
 > $$
@@ -41,12 +41,12 @@ $$
 
 ### Teoremas fundamentales del cálculo
 
-> [!THEOREM] Teorema (TFC #1).
+> [!THEOREM] Teorema (TFC #1)
 > $$
 > \frac{d}{dx} \int_{a}^{x} f(t) \, dt = f(x)
 > $$
 
-> [!THEOREM] Teorema (TFC #2).
+> [!THEOREM] Teorema (TFC #2)
 > Sea $f$ una función continua en $[a, b]$. Entonces
 > 
 > $$

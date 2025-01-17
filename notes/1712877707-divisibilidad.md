@@ -39,7 +39,7 @@ createdAt: 2024-04-11 18:21
 > 3. $(a \mid b \quad\text{y}\quad a \mid c) \implies a \mid (b + c)$
 > 4. $(a \mid b \quad\text{y}\quad a \mid c) \implies a \mid (b - c)$
 > 
-> > [!PROOF]- Demostración (Propiedad 3).
+> > [!PROOF]- Demostración (Propiedad 3)
 > > $$
 > > \begin{align}
 > > ak &= b \quad (k \in \mathbb{Z}) \\
@@ -91,7 +91,7 @@ Las propiedades 3 y 4 se pueden generalizar de la siguiente manera:
 
 Además, la divisibilidad también es **transitiva**.
 
-> [!THEOREM] Teorema (Transitividad de la divisibilidad).
+> [!THEOREM] Teorema (Transitividad de la divisibilidad)
 > Sean $a,b,c$ números enteros cualesquiera. Entonces,
 > 
 > $$

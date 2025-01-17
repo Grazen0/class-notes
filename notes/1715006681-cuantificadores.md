@@ -9,7 +9,7 @@ createdAt: 2024-05-06 09:44
 
 # Cuantificadores
 
-> [!DEFINITION] Definición (función proposicional).
+> [!DEFINITION] Definición (función proposicional)
 > Una **función proposicional** (proposición abierta) es una proposición que depende de uno o más parámetros para estar definida.
 
 **Ejemplos:**

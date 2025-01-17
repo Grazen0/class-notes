@@ -9,7 +9,7 @@ createdAt: 2024-09-14 15:34
 
 # Transformaciones lineales
 
-> [!DEFINITION] Definición (transformación).
+> [!DEFINITION] Definición (transformación)
 > Una función de la forma $T: \mathbb{R}^n \to \mathbb{R}^m$ es una **transformación** de $\mathbb{R}^n$ a $\mathbb{R}^m$.
 > 
 > Adicionalmente, cuando se tiene $T: \mathbb{R}^n \to \mathbb{R}^n$,  se suele decir que $T$ es un **operador en $\mathbb{R}^n$**.

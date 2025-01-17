@@ -90,7 +90,7 @@ Sin embargo, debemos tomar en cuenta dos posibles casos para estas raíces.
 
 Para hallar $A$ y $B$, formamos un sistema de ecuaciones con los términos iniciales.
 
-> [!EXAMPLE]- Ejemplo.
+> [!EXAMPLE]- Ejemplo
 > Sea la sucesión definida por
 > 
 > $$

@@ -10,7 +10,7 @@ createdAt: 2024-05-20 10:45
 
 # Notación de conjuntos
 
-> [!DEFINITION] Definición (conjunto).
+> [!DEFINITION] Definición (conjunto)
 > Un conjunto es una colección **no ordenada** y bien definida de objetos **distintos**.
 > 
 > Los objetos de un conjunto son llamados **elementos**.
@@ -92,7 +92,7 @@ Si $A$ no es subconjunto de $B$, lo denotamos como $A \nsubseteq B$.
 > > Sin embargo, esto es una contradicción porque $\varnothing$ no tiene elementos.
 > > $$\qed$$
 
-> [!PROPERTY] Propiedad (transitividad).
+> [!PROPERTY] Propiedad (transitividad)
 > Sean $A, B, C$ conjuntos tales que $A \subseteq B$ y $B \subseteq C$, entonces $A \subseteq C$.
 > 
 > > [!PROOF]-

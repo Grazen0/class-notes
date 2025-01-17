@@ -13,7 +13,7 @@ Esta wea está más fácil q
 
 ![[Clasificación de funciones.excalidraw|width:90%]]
 
-> [!DEFINITION] Definición (Pendiente).
+> [!DEFINITION] Definición (Pendiente)
 > La pendiente representa la **razón de cambio** de la variable dependiente por cada unidad de la variable independiente. Usualmente se denota con $m$.
 > 
 > $$

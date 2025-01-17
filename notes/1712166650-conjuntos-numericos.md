@@ -35,7 +35,8 @@ Ahora ubicamos un número $x$ en la recta. El valor de este número $x$ es la di
 > \mathbb{Z}^+ := \left\{1,2,3,4,5,\dots\right\}
 > $$
 
-> [!INFO] En la UTEC se considera que $0 \notin \mathbb{N}$. Es decir, $\mathbb{N} = \mathbb{Z}^+$. (😢)
+> [!INFO]
+> En la UTEC se considera que $0 \notin \mathbb{N}$. Es decir, $\mathbb{N} = \mathbb{Z}^+$. (😢)
 
 ## Números racionales
 
@@ -125,7 +126,7 @@ Los números reales están **ordenados**. Los números a la derecha del $0$ se d
 > > 
 > > Como $\frac{1}{6}$ es positivo, entonces, por definición de las desigualdades, $\frac{1}{3} \lt \frac{1}{2}$.
 
-> [!THEOREM] Teorema (Ley de Tricotomía).
+> [!THEOREM] Teorema (Ley de Tricotomía)
 > Para todo par de números $a,b \in \mathbb{R}$, se cumple exactamente una de las siguientes posibilidades:
 > 
 > - $a < b$

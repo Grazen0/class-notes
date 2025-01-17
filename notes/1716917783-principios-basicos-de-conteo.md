@@ -9,7 +9,7 @@ createdAt: 2024-05-28 12:36
 
 # Principios básicos de conteo
 
-> [!PROPERTY] Principio del producto.
+> [!PROPERTY] Principio del producto
 > Si una tarea tiene $t$ etapas donde la $i$-ésima etapa se puede realizar de $n_i$ maneras (y cada etapa es independiente del resto), entonces existen
 > 
 > $$
@@ -20,12 +20,12 @@ createdAt: 2024-05-28 12:36
 
 En general, este tema suele entenderse mejor con varios ejemplos de distintos tipos.
 
-> [!EXAMPLE]- Ejemplo 1.
+> [!EXAMPLE]- Ejemplo 1
 > Sean $A$ Y $B$ conjuntos finitos tales que $|A| = m$ y $|B| = n$.
 > 
 > Entonces, existen $n^m$ funciones $f: A \to B$.
 
-> [!PROPERTY] Principio de la suma.
+> [!PROPERTY] Principio de la suma
 > Si una tarea tiene $t$ opciones (**disjuntas**) de realizarse, y la $i$-ésima opción tiene $n_i$ formas de realizarla, entonces existen
 > 
 > $$
@@ -38,14 +38,14 @@ Nótese que por "opciones disjuntas" nos referimos a opciones **que no se pueden
 
 ## Principio de inclusión-exclusión
 
-> [!THEOREM] Teorema (PIE para 2 conjuntos).
+> [!THEOREM] Teorema (PIE para 2 conjuntos)
 > Sean $A$ y $B$ conjuntos. Entonces,
 > 
 > $$
 > |A \cup B| = |A| + |B| - |A \cap B|
 > .$$
 
-> [!THEOREM] Teorema (PIE para 3 conjuntos).
+> [!THEOREM] Teorema (PIE para 3 conjuntos)
 > Sean $A$, $B$ y $C$ conjuntos. Entonces,
 > 
 > $$
@@ -76,7 +76,7 @@ En general, podríamos decir que el principio de inclusión-exclusión es una ve
 
 ## Conteo por complemento
 
-> [!THEOREM] Teorema (conteo por complemento).
+> [!THEOREM] Teorema (conteo por complemento)
 > Sea $U$ el conjunto universal y $A \subseteq U$ un conjunto. Entonces,
 > 
 > $$
@@ -85,12 +85,12 @@ En general, podríamos decir que el principio de inclusión-exclusión es una ve
 
 El conteo por complemento es útil para situaciones donde es más fácil contar lo que está fuera del conjunto que lo que está dentro.
 
-> [!EXERCISE]- Ejercicio 1.
+> [!EXERCISE]- Ejercicio 1
 > ¿Cuántos subconjuntos de $A = \left\{ 1,2,3,4,5,6,7 \right\}$ tienen por lo menos un elemento impar?
 > 
 > **Resolución:** Por el contrario, $A$ tiene $2^3$ subconjuntos que no tienen ningún número impar. Como $A$ tiene $2^7$ subconjuntos en total, entonces tiene $2^7 - 2^3$ subconjuntos con al menos un elemento impar.
 
-> [!EXERCISE]- Ejercicio 2.
+> [!EXERCISE]- Ejercicio 2
 > ¿Cuántos números naturales de $4$ dígitos cumplen que al multiplicar sus dígitos se obtiene un número par?
 > 
 > 

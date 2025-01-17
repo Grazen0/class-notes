@@ -9,7 +9,7 @@ createdAt: 2024-11-25 16:34
 
 # Grafos simples
 
-> [!DEFINITION] Definición (grafo simple).
+> [!DEFINITION] Definición (grafo simple)
 > Un grafo $G$ es **simple** si y sólo si se cumple los siguiente:
 > 
 > 1. Solo existe a lo mucho una arista entre cada par de vértices.

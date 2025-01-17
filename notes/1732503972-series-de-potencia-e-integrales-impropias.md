@@ -61,7 +61,7 @@ $$
 
 ## Integrales impropias
 
-> [!DEFINITION] Definición (integrales impropias).
+> [!DEFINITION] Definición (integrales impropias)
 > Sea $f$ una función definida en $(a, +\infty)$ (o en $(-\infty, a)$ para el segundo caso). Entonces, definimos las siguientes integrales como:
 > 
 > $$

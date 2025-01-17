@@ -9,7 +9,7 @@ createdAt: 2024-09-29 14:43
 
 # Subespacios fundamentales
 
-> [!DEFINITION] Definición (espacio columna).
+> [!DEFINITION] Definición (espacio columna)
 > El **espacio columna** de una matriz es el **subespacio generado** por sus columnas. Es decir, sea
 > 
 > $$
@@ -24,7 +24,7 @@ createdAt: 2024-09-29 14:43
 > \operatorname{col}(A) = \operatorname{Gen}(\left\{ \mathbf{c}_1, \mathbf{c}_2, \ldots, \mathbf{c}_n \right\})
 > .$$
 
-> [!DEFINITION] Definición (espacio fila).
+> [!DEFINITION] Definición (espacio fila)
 > El **espacio fila** de una matriz es el **subespacio generado por sus filas**. Es decir, sea
 > 
 > $$
@@ -69,21 +69,21 @@ Usando los conceptos que hemos aprendido hasta el momento, finalmente podemos de
 
 Por alguna razón, el rango tiene dos significados diferentes.
 
-> [!DEFINITION] Definición (rango de una matriz).
+> [!DEFINITION] Definición (rango de una matriz)
 > El **rango** de una matriz $A$ es la dimensión común de su espacio fila y espacio columna. Es decir,
 > 
 > $$
 > \operatorname{rank}(A) = \operatorname{dim}(\operatorname{col}(A)) = \operatorname{dim}(\operatorname{row}(A))
 > .$$
 
-> [!DEFINITION] Definición (rango de una transformación).
+> [!DEFINITION] Definición (rango de una transformación)
 > Sea $T$ una transformación. El **rango** o **imagen** de $T$ son todos los vectores en $W$ que son imágenes bajo $T$ de al menos un vector en $V$. Es decir,
 > 
 > $$
 > \operatorname{Im}(T) = \left\{ \mathbf{b} \in W \lmid \mathbf{b} = T(\mathbf{x}), \mathbf{x} \in V \right\}
 > .$$
 
-> [!DEFINITION] Definición (nulidad).
+> [!DEFINITION] Definición (nulidad)
 > La **nulidad** de una matriz $A$, denotada como $\operatorname{v}(A)$, es la dimensión de su espacio nulo.
 
 *(No tengo ni idea de por qué se escribe con $\operatorname{v}$, pero yo que sé)*

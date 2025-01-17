@@ -1,0 +1,34 @@
+.callout[data-callout="definition"] {
+  --callout-color: var(--ctp-ext-yellow);
+  --callout-icon: pencil;
+}
+
+.callout[data-callout="theorem"] {
+  --callout-color: var(--ctp-ext-mauve);
+  --callout-icon: book-text;
+}
+
+.callout[data-callout="lemma"] {
+  --callout-color: var(--ctp-ext-lavender);
+  --callout-icon: book-text;
+}
+
+.callout[data-callout="corollary"] {
+  --callout-color: var(--ctp-ext-lavender);
+  --callout-icon: book-text;
+}
+
+.callout[data-callout="proof"] {
+  --callout-color: var(--ctp-ext-sky);
+  --callout-icon: lightbulb;
+}
+
+.callout[data-callout="property"] {
+  --callout-color: var(--ctp-ext-green);
+  --callout-icon: file-text;
+}
+
+.callout[data-callout="exercise"] {
+  --callout-color: var(--ctp-ext-peach);
+  --callout-icon: pen;
+}

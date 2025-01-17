@@ -33,7 +33,7 @@ La inducción de tres en tres se realiza de la misma forma.
 
 Como siempre, podemos cambiar la posición de los casos iniciales dependiendo de la situación.
 
-> [!EXERCISE] Ejercicio 1.
+> [!EXERCISE] Ejercicio 1
 > En un país solo hay billetes de $3$ y $7$ pesos. Demuestre que para todo entero $n \geq 12$ es posible pagar exactamente $n$ pesos.
 > 
 > > [!PROOF]-
@@ -52,7 +52,7 @@ Como siempre, podemos cambiar la posición de los casos iniciales dependiendo de
 > > Con esto, la inducción está completa.
 > > $$\qed$$
 
-> [!EXERCISE] Ejercicio 2.
+> [!EXERCISE] Ejercicio 2
 > Demuestre que para todo $n \geq 6$ es posible dividir un cuadrado en $n$ cuadrados (no necesariamente del mismo tamaño).
 > 
 > > [!PROOF]-

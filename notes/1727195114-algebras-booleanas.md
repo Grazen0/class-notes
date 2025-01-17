@@ -11,7 +11,7 @@ createdAt: 2024-09-24 11:25
 
 ## Definición como retícula
 
-> [!DEFINITION] Definición (álgebra booleana).
+> [!DEFINITION] Definición (álgebra booleana)
 > Una [[S5 - Retículas|retícula]] acotada $S$ es un **álgebra booleana** si y sólo si:
 > 
 > 1. es **complementada**, y
@@ -32,7 +32,7 @@ Este teorema nos da **otro criterio para refutar distributividad**. Si hemos dem
 
 ## Definición como estructura algebraica
 
-> [!DEFINITION] Definición (álgebra booleana).
+> [!DEFINITION] Definición (álgebra booleana)
 > Un álgebra booleana es un conjunto $B$ con dos operaciones $+$ y $\cdot$ que cumplen los siguientes axiomas:
 > 
 > 1. **Conmutatividad:** $a + b = b + a$ y $a \cdot b = b \cdot a$.

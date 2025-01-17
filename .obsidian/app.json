@@ -21,5 +21,6 @@
   "showRibbon": true,
   "showInlineTitle": false,
   "tabSize": 2,
-  "newFileLocation": "current"
+  "newFileLocation": "folder",
+  "newFileFolderPath": "notes"
 }

@@ -9,7 +9,7 @@ createdAt: 2024-10-13 22:31
 
 # Multiplicidades de valores propios
 
-> [!DEFINITION] Definición (multiplicidad algebraica de un valor propio).
+> [!DEFINITION] Definición (multiplicidad algebraica de un valor propio)
 > Sea $A$ una matriz de $m \times n$, y sea su polinomio característico descompuesto en factores primos
 > 
 > $$
@@ -22,7 +22,7 @@ createdAt: 2024-10-13 22:31
 > \operatorname{ma}(\lambda_i) = m_i
 > .$$
 
-> [!DEFINITION] Definición (multiplicidad geométrica de un valor propio).
+> [!DEFINITION] Definición (multiplicidad geométrica de un valor propio)
 > Sea $A$ una matriz y $\lambda$ un valor propio de $A$. Entonces, la **multiplicidad geométrica** de $\lambda$ es la **dimensión** de $E_\lambda$. Es decir:
 > 
 > $$

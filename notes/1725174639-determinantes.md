@@ -29,14 +29,14 @@ La definición presentada arriba se conoce como el **método de expansión de co
 
 Además, la determinante de una matriz de $2 \times 2$ es sencilla:
 
-> [!PROPERTY] Determinante de $2 \times 2$.
+> [!PROPERTY] Determinante de $2 \times 2$
 > Sea $A = \begin{bmatrix} a & b \\ c & d\end{bmatrix}$. Entonces, la determinante de $A$ es igual a
 > 
 > $$
 > \lvert A \rvert = ad - bc
 > .$$
 
-> [!EXAMPLE]- Ejemplo.
+> [!EXAMPLE]- Ejemplo
 > Calcule la determinante de $A = \begin{bmatrix}4 & -1 & 1 \\ 4 & 5 & 3 \\ 2 & 0 & 0\end{bmatrix}$.
 > 
 > **Resolución:** (Usando la primera fila)
@@ -109,7 +109,7 @@ $$
 c_{ij} = (-1)^{i+j} \cdot \lvert A_{ij} \rvert 
 .$$
 
-> [!EXAMPLE]+ Ejemplo.
+> [!EXAMPLE]+ Ejemplo
 > Calcular la inversa de $A = \begin{bmatrix} 4 & -1 & 1 \\ 4 & 5 & 3 \\ 2 & 0 & 0\end{bmatrix}$.
 > 
 > **Resolución:**
