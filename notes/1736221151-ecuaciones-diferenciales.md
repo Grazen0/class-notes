@@ -10,6 +10,8 @@ createdAt: 2025-01-06 22:39
 
 # Ecuaciones diferenciales
 
+**[[material/edo/Sílabo.pdf|Sílabo]]**
+
 ## Sistema de evaluación
 
 | Tipo                | Cód. | Nota | Semana | Fecha |
