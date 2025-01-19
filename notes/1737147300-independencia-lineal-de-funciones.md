@@ -2,7 +2,9 @@
 id: 1737147300-dependencia-lineal-de-funciones
 aliases:
   - Independencia lineal de funciones
-tags: []
+  - Wronskiano
+tags:
+  - mates/edo
 createdAt: 2025-01-17 15:55
 ---
 
@@ -30,7 +32,7 @@ Puede parecer un problema difícil comprobar la independencia lineal de un conju
 ## Wronskiano
 
 > [!DEFINITION]
-> Definimos el **Wronskiano** de una tupla de funciones $(f_1, f_2, \ldots, f_n)$ como
+> Definimos el **Wronskiano** de una tupla de funciones $(f_1, f_2, \ldots, f_n)$ como el siguiente [[1725174639-determinantes|determinante]]:
 >
 > $$
 > W(f_1, f_2, \ldots, f_n) := \begin{vmatrix}
