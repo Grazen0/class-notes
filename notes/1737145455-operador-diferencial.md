@@ -25,7 +25,7 @@ $$
 D(\alpha f + \beta g) = \alpha Df + \beta Dg
 .$$
 
-Al analizar [[1736190391-ecuaciones-diferenciales-clasificacion#ecuaciones-diferenciales#linealidad#edos-lineales-homogneas| EDs lineales homogéneas]], se utiliza (bueno, "abusa" un poco de) esta notación para escribirlas de una forma más concisa. Por ejemplo, la ED
+Al analizar [[1737268601-ecuaciones-diferenciales-lineales|EDs lineales]], se utiliza (bueno, "abusa" un poco de) esta notación para escribirlas de una forma más concisa. Por ejemplo, la ED
 
 $$
 4y''' - 3y'' + 2y' - 7y = 3\cos(x) + x^2 - x \\

@@ -63,6 +63,8 @@ $$
 
 ### Linealidad
 
+Ver también: [[1737268601-ecuaciones-diferenciales-lineales|Ecuaciones diferenciales lineales]].
+
 > [!DEFINITION]
 > Se dice que una ecuación diferencial de $n$-ésimo orden es **lineal** si y sólo si se puede escribir en la forma
 > 
@@ -89,16 +91,3 @@ $$
 $$
 \cos(x)y' + 5xy = -1
 .$$
-
-#### EDOs lineales homogéneas
-
-> [!DEFINITION]
-> Una ecuación diferencial lineal es **homogénea** cuando es de la forma
->
-> $$
-> a_n(x) \frac{d^ny}{dx^n} + a_{n-1}(x) \frac{d^{n-1}y}{dx^{n-1}} + \ldots + a_1(x) \frac{dy}{dx} + a_0(x)y = 0
-> .$$
-
-Si la ED tiene una función $g(x)$ distinta de $0$ a la derecha, entonces es **no homogénea**.
-
-Al mismo tiempo, las EDs lineales homogéneas se dividen en dos: ecuaciones con **coeficientes constantes** y ecuaciones con **coeficientes variables**.
