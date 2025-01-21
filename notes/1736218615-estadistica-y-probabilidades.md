@@ -10,7 +10,7 @@ createdAt: 2025-01-06 21:56
 
 # Estadística y probabilidades
 
-**[[material/stats/Sílabo.pdf|Sílabo]]** | **[[material/stats/Anexo.pdf|Anexo]]**
+**[[material/stats/Sílabo.pdf|Sílabo]]** | **[[material/stats/Anexo.pdf|Anexo]]** | **[[ggplot_cheatsheet.pdf|Cheatsheet de ggplot2]]**
 
 ## Sistema de evaluación
 
