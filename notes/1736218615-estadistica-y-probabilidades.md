@@ -10,7 +10,7 @@ createdAt: 2025-01-06 21:56
 
 # Estadística y probabilidades
 
-**[[material/stats/Sílabo.pdf|Sílabo]]**
+**[[material/stats/Sílabo.pdf|Sílabo]]** | **[[material/stats/Anexo.pdf|Anexo]]**
 
 ## Sistema de evaluación
 

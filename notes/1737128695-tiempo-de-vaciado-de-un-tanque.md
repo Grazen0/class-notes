@@ -13,7 +13,7 @@ Consideremos un tanque de agua al que se le hace un orificio pequeño en la base
 
 ![vaciado-de-un-tanque.png](attachments/vaciado-de-un-tanque.png)
 
-Por principio de Bernoulli y otros teoremas de física (de los cuales desconozco porque soy de CS), la [[1736190391-ecuaciones-diferenciales-clasificacion|ecuación]] que modela este fenómeno es
+Por principio de Bernoulli y otros teoremas de física (de los cuales desconozco porque soy de CS), la [[1736190391-ecuaciones-diferenciales-clasificacion|ecuación diferencial]] que modela este fenómeno es
 
 $$
 \frac{dh}{dt} = -c \frac{A_0}{A_h} \sqrt{2gh}

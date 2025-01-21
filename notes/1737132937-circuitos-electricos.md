@@ -25,3 +25,10 @@ donde:
 - $V(t)$: voltaje de la fuente.
 - $R$: resistencia del resistor.
 - $C$: capacitancia del capacitor.
+
+> [!NOTE]
+> Si en lugar de la carga nos dan la **corriente** ($i(t)$), en realidad son lo mismo:
+>
+> $$
+> i(t) = \frac{dq}{dt}
+> .$$

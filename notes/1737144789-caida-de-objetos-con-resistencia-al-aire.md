@@ -20,3 +20,5 @@ donde:
 - $v(t)$: velocidad vertical del objeto.
 - $g$: aceleración de la gravedad ($\approx 9.8 \mathrm{\frac{m}{s^2}}$).
 - $k$: constante de proporcionalidad de la resistencia del aire.
+
+Esta ecuación se pude resolver mediante [[1736615462-eds-de-primer-orden#Variables separables|variables separables]].

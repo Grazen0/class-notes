@@ -1,5 +1,5 @@
 ---
-id: 1737147300-dependencia-lineal-de-funciones
+id: 1737147300-independencia-lineal-de-funciones
 aliases:
   - Independencia lineal de funciones
   - Wronskiano
