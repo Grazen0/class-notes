@@ -17,7 +17,7 @@ createdAt: 2025-01-19 01:36
 > a_n(x) \frac{d^ny}{dx^n} + a_{n-1}(x) \frac{d^{n-1}y}{dx^{n-1}} + \ldots + a_1(x) \frac{dy}{dx} + a_0(x)y = g(x)
 > .$$
 
-Las EDs lineales se dividen en dos: [[1737414399-ecuaciones-diferenciales-lineales-homogeneas|homogéneas]] y no homogéneas.
+Las EDs lineales se dividen en dos: [[1737414399-ecuaciones-diferenciales-lineales-homogeneas|homogéneas]] y [[1737417193-ecuaciones-diferenciales-lineales-no-homogeneas|no homogéneas]].
 
 ## Conjuntos fundamentales de soluciones
 
@@ -37,7 +37,7 @@ Ya que las soluciones de EDs lineales se pueden sumar para formar nuevas solucio
 > [!DEFINITION] Definición (conjunto fundamental de soluciones)
 > Un conjunto de soluciones $y_1, y_2, \ldots, y_n$ de una ED lineal de orden $n$ es un **conjunto fundamental de soluciones** de dicha ED cuando $y_1, y_2, \ldots, y_n$ son [[1737147300-independencia-lineal-de-funciones|linealmente independientes]].
 
-Este teorema, en conjunto con el criterio de la [[1737147300-independencia-lineal-de-funciones|independencia lineal de funciones]], nos da las herramientas necesarias para conseguir la solución general de una ED lineal.
+Este teorema, en conjunto con el criterio de la independencia lineal de funciones, nos da las herramientas necesarias para conseguir la solución general de una ED lineal.
 
 Naturalmente, la importancia de un conjunto fundamental de soluciones es que, dado dicho conjunto, podemos obtener la **solución general** de la ED como la combinación lineal
 
