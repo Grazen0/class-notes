@@ -2,7 +2,8 @@
 id: 1737145455-operador-diferencial
 aliases:
   - Operador diferencial
-tags: []
+tags:
+  - mates/edo
 createdAt: 2025-01-17 15:24
 ---
 
