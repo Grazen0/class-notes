@@ -10,7 +10,7 @@ createdAt: 2025-01-06 22:39
 
 # Ecuaciones diferenciales
 
-**[[material/edo/Sílabo.pdf|Sílabo]]**
+**[[material/edo/Sílabo.pdf|Sílabo]]** | **[[material/edo/Anexo.pdf|Anexo]]**
 
 ## Sistema de evaluación
 
