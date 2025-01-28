@@ -17,6 +17,9 @@ a_n x^n y^{(n)} + a_{n-1} x^{n-1} y^{(n-1)} + \ldots + a_1xy' + a_0y = 0
 
 Mostraremos el procedimiento para EDOs de segundo orden, pero se hace forma análoga para cualquier otro orden.
 
+> [!IMPORTANT]
+> Este método se puede combinar con la [[1737738426-metodo-de-variacion-de-parametros|variación de parámetros]] para resolver [[1737417193-ecuaciones-diferenciales-lineales-no-homogeneas|EDOs lineales no homogéneas]].
+
 ## Procedimiento general para segundo orden
 
 Consideremos la EDO de segundo orden
@@ -31,9 +34,9 @@ $$
 \begin{align*}
 y   &= x^m &&\implies cy = cx^m \\
 y'  &= mx^{m-1} &&\implies bxy' = bmx^m \\
-y'' &= m(m-1)x^{m-2} &&\implies ax^2y'' = am(m-1)x^m \\
-\end{align*}
-,$$
+y'' &= m(m-1)x^{m-2} &&\implies ax^2y'' = am(m-1)x^m
+,\end{align*}
+$$
 
 por lo que, reemplazando en la ED y simplificando, obtenemos
 
@@ -54,5 +57,5 @@ $$
 m_1 \neq m_2 &\implies y_h(x) = c_1 x^{m_1} + c_2 x^{m_2} \\
 m_1 = m_2 &\implies y_h(x) = c_{1}x^{m_1} + c_2\ln(x)x^{m_2} \\
 m_{1,2} = \alpha \pm \beta i &\implies y_h(x) = x^{\alpha}(c_1 \cos(\beta\ln(x)) + c_2 \sin(\beta\ln(x)))
-\end{align*}
-.$$
+.\end{align*}
+$$

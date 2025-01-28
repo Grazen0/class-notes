@@ -25,24 +25,24 @@ Al mismo tiempo, las EDs lineales homogéneas se dividen en dos: ecuaciones con 
 
 ### Para coeficientes constantes
 
-> [!DEFINITION] Definición (ecuación característica)
+> [!DEFINITION] Definición (ecuación auxiliar)
 > Sea la ED lineal homogénea
 > 
 > $$
 > a_n \frac{d^ny}{dx^n} + a_{n-1} \frac{d^{n-1}y}{dx^{n-1}} + \ldots + a_1 \frac{dy}{dx} + a_0y = 0
 > .$$
 >
-> Entonces, la **ecuación característica** de la ED es
+> Entonces, la **ecuación auxiliar** de la ED es
 >
 > $$
 > a_n r^n + a_{n-1} x^{n-1} + \ldots + a_1 x + a_0 = 0
 > .$$
 
-La ecuación característica de una ED es crítica para resolverla.
+La ecuación auxiliar de una ED es crítica para resolverla.
 
 Ahora mostraremos el proceso para resolver una ED lineal homogénea de **orden 2**, aunque el proceso se puede generalizar a órdenes mayores.
 
-Entonces, el primer paso para resolver una ED lineal homogénea es hallar las raíces $r_1,r_2$ de la ecuación característica. Lo que hagamos a continuación depende de las raíces.
+Entonces, el primer paso para resolver una ED lineal homogénea es hallar las raíces $r_1,r_2$ de la ecuación auxiliar. Lo que hagamos a continuación depende de las raíces.
 
 #### Raíces distintas ($r_1 \neq r_2$)
 
@@ -75,3 +75,7 @@ En este caso, la solución de la ED será
 $$
 y(x) = (c_1 x + c_2)e^{rx}
 .$$
+
+### Para coeficientes no constantes
+
+De ser posible, se puede usar [[1737731893-ecuaciones-de-cauchy-euler|Cauchy-Euler]].

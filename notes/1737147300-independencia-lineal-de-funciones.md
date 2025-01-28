@@ -49,7 +49,7 @@ El Wronskiano nos permitirá determinar la independencia lineal de cualquier con
 > Sean $f_1, f_2, \ldots, f_n$ funciones reales. Bajo ciertas restricciones (las cuales parecen no ser muy relevantes para este curso), se cumple que $f_1, f_2, \ldots, f_n$ son linealmente independientes si y sólo si
 > 
 > $$
-> W(f_1, f_2, \ldots, f_n) = 0
+> W(f_1, f_2, \ldots, f_n) \neq 0
 > .$$
 
 Por lo tanto, el Wronskiano será nuestro criterio fundamental para determinar si un conjunto de soluciones de una ED lineal forman un conjunto fundamental.

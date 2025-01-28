@@ -22,8 +22,10 @@ Su proceso de resolución incluye resolver una [[1737414399-ecuaciones-diferenci
 
 ## Método de coeficientes indeterminados
 
+Funciona para EDs lineales no homogéneas con **coeficientes constantes**. El proceso es el siguiente:
+
 1. [[1737414399-ecuaciones-diferenciales-lineales-homogeneas#Métodos de resolución|Resolver la ED lineal homogénea]] asociada a nuestra ED (cuya solución llamaremos $y_h(x)$).
-2. Proponer una **solución particular** $y_p(x)$, la cual tendrá ciertos coeficientes que nos hace falta encantar.
+2. Proponer una **solución particular** $y_p(x)$, la cual tendrá ciertos coeficientes que nos hace falta encontrar.
 3. Reemplazar $y_p(x)$ en la ED lineal no homogénea, igualar términos y resolver un [[1725904856-sistemas-de-ecuaciones|sistema de ecuaciones]] para hallar los coeficientes de $y_p(x)$.
 
 Finalmente, la solución general de la ED lineal no homogénea será
@@ -49,3 +51,7 @@ Si $g(x)$ es **suma** o **producto** de algunas de estas funciones, entonces $y_
 |    $(ax + b)e^{\beta x}$     |                     $(Ax + B)e^{\beta x}$                      |
 | $e^{\beta x}\cos(\gamma x)$  |        $e^{\beta x}(A\cos(\gamma x) + B\sin(\gamma x))$        |
 | $xe^{\beta x}\cos(\gamma x)$ | $e^{\beta x}((Ax + B)\cos(\gamma x) + (Cx + D)\sin(\gamma x))$ |
+
+## Método de variación de parámetros
+
+Cuando $g(x)$ tiene una forma que no encaja con la tabla anterior, podemos usar el [[1737738426-metodo-de-variacion-de-parametros|método de variación de parámetros]].

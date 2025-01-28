@@ -18,7 +18,7 @@
     "downscalePercent": 100
   },
   "defaultViewMode": "source",
-  "showRibbon": true,
+  "showRibbon": false,
   "showInlineTitle": false,
   "tabSize": 2,
   "newFileLocation": "folder",

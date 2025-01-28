@@ -20,7 +20,7 @@ A primera vista, puede parecer simplemente una notación diferente para la deriv
 
 Sin embargo, es conveniente como notación para pensar en la derivada como un **operador** que toma una función y produce una nueva función.
 Cabe destacar que las derivadas de orden superior se denotan como $D^n$ (por ejemplo, $y'' = D^2 y$).
-Una propiedad importante y fácil de verificar es que el operador diferencial es un **lineal**. Es decir,
+Una propiedad importante y fácil de verificar es que el operador diferencial es un operador **lineal**. Es decir, cumple
 
 $$
 D(\alpha f + \beta g) = \alpha Df + \beta Dg
@@ -46,3 +46,5 @@ Ly = g(x)
 
 > [!NOTE]
 > No tengo ni idea cuál será el uso para esto tbh.
+> > [!NOTE]-
+> > Lo usamos para el [[1737732032-metodo-del-anulador|método del anulador]].
