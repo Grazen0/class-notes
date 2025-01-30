@@ -3,7 +3,7 @@ id: 1737060287-simetria-de-un-conjunto-de-datos
 aliases:
   - Simetría de un conjunto de datos
 tags:
-  - mates/stats
+  - mates/estadistica
 createdAt: 2025-01-16 15:44
 ---
 

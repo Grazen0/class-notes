@@ -3,7 +3,7 @@ id: 1736572845-definiciones-y-consideraciones-basicas
 aliases:
   - Definiciones y consideraciones básicas
 tags:
-  - mates/stats
+  - mates/estadistica
 createdAt: 2025-01-11 00:20
 ---
 

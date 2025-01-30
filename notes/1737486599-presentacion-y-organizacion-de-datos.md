@@ -3,7 +3,7 @@ id: 1737486599-presentacion-y-organizacion-de-datos
 aliases:
   - Presentación y organización de datos
 tags:
-  - mates/stats
+  - mates/estadistica
 createdAt: 2025-01-21 14:09
 ---
 

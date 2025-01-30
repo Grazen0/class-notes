@@ -3,7 +3,7 @@ id: 1737491622-regresion-lineal
 aliases:
   - Regresión lineal
 tags:
-  - mates/stats
+  - mates/estadistica
 createdAt: 2025-01-21 15:33
 ---
 
@@ -41,3 +41,18 @@ Existe también un coeficiente denominado con $R^2$, el cual describe numéricam
 En general, se tiene como acuerdo que un $R^2 \geq 0.7$ significa que el modelo es **confiable**.
 
 Siempre se cumple que $0 \leq R^2 \leq 1$.
+
+## Código en R
+
+```r
+x <- c(1, 2, 3)
+y <- c(10, 22, 25)
+
+# Hacer la regresión lineal
+model = lm(y ~ x)
+model
+
+# Coeficiente de correlación
+cor(x, y, use = "complete.obs") 
+summary(model) # Aquí se puede ver R^2 (coef de determinación)
+```
