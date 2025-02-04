@@ -20,5 +20,6 @@
   "theme": "obsidian",
   "interfaceFontFamily": "",
   "monospaceFontFamily": "",
-  "showViewHeader": true
+  "showViewHeader": true,
+  "showRibbon": false
 }
