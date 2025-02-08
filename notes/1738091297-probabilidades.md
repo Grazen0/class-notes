@@ -21,6 +21,31 @@ Por ejemplo, lanzar una moneda y observar el resultado (cara o sello) es un expe
 
 Por ejemplo, podríamos tomar al conjunto $A = \{ 1,2,3,4,5,6 \}$ como el espacio muestral de los posibles resultados de lanzar un dado.
 
+> [!DEFINITION] Definición (variable aleatoria)
+> Una **variable aleatoria** es la representación numérica de un experimento aleatorio.
+
+> [!EXAMPLE]+
+> Se lanzan 2 monedas, y se define la variable aleatoria $x$ como el número de caras obtenidas.
+>
+> En esta situación, consideramos el espacio muestral
+>
+> $$
+> \Omega = \{ CC, SC, SS, CC \}
+> ,$$
+>
+> donde se cumple que $x \in \{ 0, 1, 2 \}$. Además:
+>
+> $$
+> P(x \geq 1) = P(x > 0), \quad P(x = 1) = \frac{1}{2}
+> .$$
+>
+> Además, se cumple que
+>
+> $$
+> P(x = 0) + P(x = 1) + P(x = 2) = 1
+> ,$$
+> ya que esta es la suma de todos los casos posibles que puede tomar $x$.
+
 ## Distribuciones de probabilidad
 
 ### Para variables discretas
