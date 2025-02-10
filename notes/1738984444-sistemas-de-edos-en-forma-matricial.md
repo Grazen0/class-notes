@@ -88,7 +88,7 @@ Si $\lambda$ no tiene tantos valores propios como su multiplicidad, debemos *gen
 Supongamos que $\lambda$ tiene multiplicidad $m = 2$, pero un solo vector propio, $\mathbf{v}_1$. Entonces, el aporte de $\lambda$ a la solución general será
 
 $$
-c_1 \mathbf{v}_1 e^{\lambda t} + c_2(\mathbf{v}_2 t e^{\lambda t} + \mathbf{v}_2 e^{\lambda t})
+c_1 \mathbf{v}_1 e^{\lambda t} + c_2(\mathbf{v}_1 t e^{\lambda t} + \mathbf{v}_2 e^{\lambda t})
 ,$$
 
 donde $\mathbf{v}_2$ es la solución de

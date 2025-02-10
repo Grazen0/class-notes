@@ -15,20 +15,14 @@ Una distribución binomial cumple con las siguientes condiciones:
 2. El resultado de cada ensayo es independiente del resto.
 3. Existe una probabilidad de "éxito" y una probabilidad de "fracaso".
 
-En una distribución binomial, se define a la **media poblacional** como
-
-$$
-\mu = n \cdot p
-,$$
-
-donde la probabilidad de éxito es $p$ y la cantidad de ensayos es $n$.
-
 > [!THEOREM]
-> Sea $p$ la probabilidad de éxito de un ensayo. Entonces, la probabilidad de que, de un total $n$ de ensayos, exactamente $k$ sean exitosos es igual a
+> Sea $p$ la probabilidad de éxito de un ensayo en una distribución binomial. Entonces, la probabilidad de que, de un total $n$ de ensayos, exactamente $k$ sean exitosos es igual a
 >
 > $$
-> P(x = k) = \binom{n}{k} p^k (p - 1)^{n-k}
-> .$$
+> P(X = k) = \binom{n}{k} p^k q^{n-k}
+> ,$$
+>
+> (donde $q = 1 - p$, la probabilidad de fracaso).
 
 En R, esta probabilidad se puede calcular con `dbinom(k, n, p)`.
 
@@ -43,7 +37,14 @@ En R, esta probabilidad se puede calcular con `dbinom(k, n, p)`.
 > Entonces, la probabilidad de que 8 de 10 pacientes queden hospitalizados es igual a
 >
 > $$
-> P(x = 8) = \binom{10}{8} (0.78)^8 (0.22)^2 \approx 29.84\%
+> P(X = 8) = \binom{10}{8} (0.78)^8 (0.22)^2 \approx 29.84\%
 > .$$
 >
 > En R, el código para calcular esta probabilidad sería `dbinom(8, 10, 0.78)`.
+
+## Medidas
+
+- **Media (poblacional):** $\mu = n \cdot p$.
+- **Varianza:** $\sigma^2 = n \cdot p \cdot q$.
+- **Desviación estándar:** $\sigma = \sqrt{n \cdot p \cdot q}$.
+- **Coeficiente de variación:** $\text{CV} = \sqrt{\frac{q}{n \cdot p}}$.

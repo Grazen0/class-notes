@@ -43,13 +43,7 @@ En otras palabras, la matriz fundamental se obtiene juntando todas las solucione
 De forma análoga a la variación de parámetros vista antes, este método propone una solución particular
 
 $$
-\mathbf{x}_p(t) = \Phi(t) \mathbf{u}(t)
-,$$
-
-donde $\mathbf{u}(t)$ es un vector columna definido por
-
-$$
-\mathbf{u}(t) = \int \Phi^{-1}\mathbf{f}(t) \, dt
+\mathbf{x}_p(t) = \Phi(t) \int \Phi^{-1} \mathbf{f}(t) \, dt
 .$$
 
 Como es de costumbre, la solución del sistema estará dada por $\mathbf{x}(t) = \mathbf{x}_h(t) + \mathbf{x}_p(t)$.
