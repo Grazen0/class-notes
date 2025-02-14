@@ -14,7 +14,7 @@ La **distribución de Poisson** se utiliza para situaciones que describen el *n�
 En una distribución de Poisson, la probabilidad de ocurrencia cuando $X$ toma un valor finito $x$ es igual a
 
 $$
-P(X = x) = \frac{e^{-\lambda} \lambda^x}{x!}
+P(X = k) = \frac{e^{-\lambda} \lambda^k}{k!}
 ,$$
 
 donde $\lambda$ es la ocurrencia por la unidad empleada (tiempo, área, etc).

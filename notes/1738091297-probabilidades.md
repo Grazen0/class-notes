@@ -36,13 +36,13 @@ Por ejemplo, podríamos tomar al conjunto $A = \{ 1,2,3,4,5,6 \}$ como el espaci
 > donde se cumple que $x \in \{ 0, 1, 2 \}$. Además:
 >
 > $$
-> P(x \geq 1) = P(x > 0), \quad P(x = 1) = \frac{1}{2}
+> P(X \geq 1) = P(X > 0), \quad P(X = 1) = \frac{1}{2}
 > .$$
 >
 > Además, se cumple que
 >
 > $$
-> P(x = 0) + P(x = 1) + P(x = 2) = 1
+> P(X = 0) + P(X = 1) + P(X = 2) = 1
 > ,$$
 > ya que esta es la suma de todos los casos posibles que puede tomar $x$.
 
