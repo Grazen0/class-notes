@@ -95,9 +95,23 @@ $$
 \mathcal{L}^{-1}\left\{ \frac{s - 3}{(s - 3)^2 + 4} \right\} = e^{3t}\cos(2t)
 .$$
 
+### Traslación en el eje $t$
+
+Ver [[1740149710-funcion-escalon-unitario#aplicacin-a-las-ecuaciones-diferenciales|Función escalón unitario]].
+
+
+### Derivada de una transformada
+
+> [!PROPERTY]
+> La transformada de Laplace cumple con
+>
+> $$
+> \frac{d^n}{ds^n} F(s) = (-1)^{n+1} t^n f(t)
+> .$$
+
 ## Uso en las ecuaciones diferenciales
 
-Aplicar la transformada de Laplace a ambos lados de una [[1736190391-ecuaciones-diferenciales-clasificacion|ecuación diferencial]] la convierte en una ecuación **algebraica** en el dominio de $s$, donde podemos despejar fácilmente $F(s)$.
+Aplicar la transformada de Laplace a ambos lados de una [[1737268601-ecuaciones-diferenciales-lineales|ecuacion diferencial lineal]] la convierte en una ecuación **algebraica** en el dominio de $s$, donde podemos despejar fácilmente $F(s)$.
 
 Supongamos que tenemos una EDO lineal de $n$-ésimo orden con condiciones iniciales $y(0) = y_0, y'(0) = y_1, \ldots, y^{(n-1)}(0) = y_n$. Entonces, podemos seguir el procedimiento para resolver la EDO:
 
