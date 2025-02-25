@@ -86,7 +86,7 @@ $$
 ,$$
 
 $$
-\mathcal{L}\{e^{-2t}\cos(4t)\}
+\mathcal{L}\{e^{-2t}\cos(4t)\} = \frac{s}{(s + 2)^2 + 16}
 .$$
 
 Evidentemente, esta propiedad se puede usar para aplicar transformada inversa. Por ejemplo,
@@ -99,14 +99,13 @@ $$
 
 Ver [[1740149710-funcion-escalon-unitario#aplicacin-a-las-ecuaciones-diferenciales|Función escalón unitario]].
 
-
 ### Derivada de una transformada
 
 > [!PROPERTY]
 > La transformada de Laplace cumple con
 >
 > $$
-> \frac{d^n}{ds^n} F(s) = (-1)^{n+1} t^n f(t)
+> \mathcal{L}\{t^n f(t)\} = (-1)^n \frac{d^n}{ds^n} F(s)
 > .$$
 
 ## Uso en las ecuaciones diferenciales

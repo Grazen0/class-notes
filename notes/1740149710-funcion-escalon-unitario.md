@@ -64,13 +64,13 @@ La función escalón unitario tiene utilidad para resolver [[1737268601-ecuacion
 > Sea $f$ una función analítica. Entonces, se cumple que
 >
 > $$
-> \mathcal{L}\{f(t + \alpha)\mathscr{U}(t + \alpha)\} = e^{\alpha s} F(s)
+> \mathcal{L}\{f(t - \alpha)\mathscr{U}(t - \alpha)\} = e^{-\alpha s} F(s)
 > .$$
 
-De forma inversa, podemos usar esta ecuación para calcular una inversa de la tarnsformada de la forma
+De forma inversa, podemos usar esta ecuación para calcular una inversa de la transformada de la forma
 
 $$
-\mathcal{L}^{-1}\{e^{\alpha s}F(s)\} = f(t + \alpha) \mathscr{U}(t + \alpha)
+\mathcal{L}^{-1}\{e^{-\alpha s}F(s)\} = f(t - \alpha) \mathscr{U}(t - \alpha)
 .$$
 
 Sin embargo, suele ser tedioso trabajar con esta forma de la propiedad. Una versión alternativa es la siguiente
@@ -79,5 +79,5 @@ Sin embargo, suele ser tedioso trabajar con esta forma de la propiedad. Una vers
 > Sea $f$ una función analítica. Entonces, se cumple que
 >
 > $$
-> \mathcal{L}\{f(t)\mathscr{U}(t + \alpha)\} = e^{\alpha s} \mathcal{L}\{f(t - a)\}
+> \mathcal{L}\{f(t)\mathscr{U}(t - \alpha)\} = e^{-\alpha s} \mathcal{L}\{f(t + \alpha)\}
 > .$$
