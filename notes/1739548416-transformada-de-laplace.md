@@ -11,7 +11,6 @@ createdAt: 2025-02-14 10:53
 
 > [!DEFINITION]
 > Sea $f$ una función analítica. Entonces, se define la **transformada de Laplace** de $f$ como
->
 > $$
 > \mathcal{L}\{f\} := \int_{0}^{\infty} e^{-st} f(t) \, dt
 > .$$
@@ -38,7 +37,6 @@ La siguiente tabla muestra algunas transformadas de Laplace comunes.
 
 > [!PROPERTY]
 > La transformada de Laplace es **lineal**. Es decir, cumple
-> 
 > $$
 > \mathcal{L}\{af + bg\} = a \mathcal{L}\{f\} + b \mathcal{L}\{g\}
 > .$$
@@ -55,7 +53,6 @@ La transformada de Laplace tiene la propiedad especial de convertir la *diferenc
 
 > [!PROPERTY]
 > Dada una función analítica $f$, se cumple que
->
 > $$
 > \mathcal{L}\{f^{(n)}\} = s^n F(s) - \sum_{k=1}^{n} s^{n-k} f^{(k-1)}(0)
 > .$$
@@ -74,12 +71,11 @@ $$
 
 > [!PROPERTY]
 > La transformada de Laplace cumple con
->
 > $$
 > \mathcal{L}\{e^{\alpha t}f(t)\} = F(s - \alpha)
 > .$$
 
-Por ejemplo: 
+Por ejemplo:
 
 $$
 \mathcal{L}\{e^{5t} t^3\} = \frac{3!}{(s - 5)^4}
@@ -103,7 +99,6 @@ Ver [[1740149710-funcion-escalon-unitario#aplicacin-a-las-ecuaciones-diferencial
 
 > [!PROPERTY]
 > La transformada de Laplace cumple con
->
 > $$
 > \mathcal{L}\{t^n f(t)\} = (-1)^n \frac{d^n}{ds^n} F(s)
 > .$$
