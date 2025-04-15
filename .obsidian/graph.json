@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
   "search": "-tag:excalidraw -path:vault -file:README",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,

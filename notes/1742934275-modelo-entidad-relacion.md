@@ -3,7 +3,7 @@ id: 1742934275-modelo-entidad-relacion
 aliases:
   - Modelo entidad-relación
   - Modelo ER
-  - Diagrama ML
+  - Diagrama ER
 tags:
   - cs/bd-1
 createdAt: 2025-03-25 15:24
@@ -15,13 +15,13 @@ Una base de datos se modela mediante dos conceptos fundamentales: **entidades** 
 
 ## Entidades
 
-Una **entidad** representa algún tipo de *objeto* relevante al modelo.
+Una **entidad** representa algún tipo de _objeto_ relevante al modelo.
 
 Una entidad posee **atributos**: propiedades que describen a una entidad particular.
 
 ![[entidades.png]]
 
-Entre estos atributos debe existir *al menos* **un atributo llave**: un atributo que debe ser **único** entre las instancias de la entidad. (e.g.: DNI, código de alumno, etc).
+Entre estos atributos debe existir _al menos_ **un atributo llave**: un atributo que debe ser **único** entre las instancias de la entidad. (e.g.: DNI, código de alumno, etc).
 
 ## Relaciones
 
@@ -63,7 +63,7 @@ Resulta que una relación ternaria se puede traducir a relaciones binarias. Por 
 
 ![[relacion-ternaria-expandida.png]]
 
-Podemos ver que, aunque la relación ternaria original era completamente *simétrica* sobre las entidades, esta versión descompuesta en relaciones binarias no tiene esa misma simetría. Es decir, esta "traducción" a relaciones binarias se presta a interpretaciones.
+Podemos ver que, aunque la relación ternaria original era completamente _simétrica_ sobre las entidades, esta versión descompuesta en relaciones binarias no tiene esa misma simetría. Es decir, esta "traducción" a relaciones binarias se presta a interpretaciones.
 
 > [!TIP]
 > Usualmente, prioriza modelar relaciones binarias; es más preciso. De todas maneras, las relaciones ternarias son útiles cuando no es necesario especificar tanta información.
