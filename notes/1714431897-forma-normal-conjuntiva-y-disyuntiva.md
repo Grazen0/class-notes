@@ -89,7 +89,7 @@ $$
 > Tener la FND de una expresión lógica es útil para hallar los casos donde dicha expresión **es verdadera**.
 > 
 > > [!EXAMPLE]- Ejemplo de uso
-> > ¿En qué casos $(p \land \neg q) \lor (r \land s \land \neg t)$ es falsa?
+> > ¿En qué casos $(p \land \neg q) \lor (r \land s \land \neg t)$ es verdadera?
 > > 
 > > **Caso 1:** $p \land \neg q \equiv \T$.
 > > 

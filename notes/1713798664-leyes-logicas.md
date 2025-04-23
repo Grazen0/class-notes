@@ -102,7 +102,7 @@ $$
 ### Leyes de condicional
 
 > [!IMPORTANT] Contraposición
-> La ley de **contraposición** o "contra-recíproca" es particularmente importante para las demostraciones:
+> La ley de **contraposición** o "contrapositiva" es particularmente importante para las demostraciones:
 > 
 > $$
 > p \to q \equiv \neg q \to \neg p
