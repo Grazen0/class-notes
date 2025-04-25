@@ -43,7 +43,7 @@ El proceso es el siguiente:
 > f(x,y) = \overline{x} + \overline{y}
 > .$$
 
-> [!EXAMPLE]- Ejemplo 2 (4 variables)
+> [!EXAMPLE]- Ejemplo 2 (3 variables)
 > El mapa de Karnaugh de la función
 > 
 > $$
@@ -60,7 +60,7 @@ El proceso es el siguiente:
 > g(x,y,z) = \overline{y} + (\overline{x} \cdot z)
 > .$$
 
-> [!EXAMPLE]- Ejemplo 3 (8 variables)
+> [!EXAMPLE]- Ejemplo 3 (4 variables)
 > El mapa de Karnaugh de la expresión
 > 
 > $$
